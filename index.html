@@ -259,7 +259,7 @@ dialog[open]{display:flex;flex-direction:column;animation:sube .22s ease-out}
 @keyframes sube{from{transform:translateY(24px);opacity:0}}
 @media (max-width:760px){dialog{width:100vw;height:100dvh;border-radius:0;margin:0}}
 @media (prefers-reduced-motion:reduce){dialog[open]{animation:none}.card,.puerta{transition:none}}
-.dh{display:flex;align-items:center;gap:10px;padding:12px 14px 12px 18px;background:var(--card);border-bottom:1px solid var(--line)}
+.dh{flex-shrink:0;display:flex;align-items:center;gap:10px;padding:12px 14px 12px 18px;background:var(--card);border-bottom:1px solid var(--line)}
 .dh .sup{display:flex;align-items:center;gap:8px;font-size:.78rem;font-weight:750;color:var(--ink3);flex-wrap:wrap}
 .x{margin-left:auto;width:38px;height:38px;border-radius:50%;background:var(--soft);font-size:1.25rem;line-height:1;flex:none;text-align:center}
 .db{overflow-y:auto;overscroll-behavior:contain;flex:1}
@@ -702,14 +702,29 @@ const dlg = $('#ficha'), TABS = ['inicio', 'comparar', 'contraste', 'balance', '
 function abrirFicha(clave, empuja = true) {
   const [t, id] = [clave[0], clave.slice(2)], f = t === 'c' ? fichaContraste(id) : t === 'f' ? fichaFondo(id) : fichaBalance(id);
   if (!f) return;
-  dlg.innerHTML = `<div class="dh"><div class="sup">${f.cab}</div><button class="x" aria-label="Cerrar">×</button></div>
+  const estabaAbierta = dlg.open;
+  const retorno = estabaAbierta ? history.state?.retornoFicha : location.hash;
+  dlg.innerHTML = `<div class="dh"><div class="sup">${f.cab}</div><button type="button" class="x" aria-label="Cerrar">×</button></div>
     <div class="db"><div class="dtop">${f.top}</div>${f.panes.map((h, i) => `<section class="pan" data-sp="${i}"${i ? ' hidden' : ''}>${h}</section>`).join('')}</div>`;
   if (!dlg.open) dlg.showModal();
   $('.db', dlg).scrollTop = 0;
-  if (empuja) { try { history.pushState({ficha: clave}, '', `#/${t === 'c' ? 'contraste' : t === 'f' ? 'balance/datos' : 'balance'}/${encodeURIComponent(id)}`); } catch (e) {} }
+  if (empuja) { try { history[estabaAbierta ? 'replaceState' : 'pushState']({ficha: clave, retornoFicha: retorno}, '', `#/${t === 'c' ? 'contraste' : t === 'f' ? 'balance/datos' : 'balance'}/${encodeURIComponent(id)}`); } catch (e) {} }
 }
 function cerrarFicha() { if (dlg.open) dlg.close(); }
-const salir = () => history.state?.ficha ? history.back() : (cerrarFicha(), location.hash = '#/' + ruta().tab + (ruta().sub ? '/datos' : ''));
+function salir() {
+  if (!dlg.open) return;
+  // Cerrar no debe depender de una navegación asíncrona del historial.
+  cerrarFicha();
+  const r = ruta();
+  const retorno = history.state?.retornoFicha;
+  const destino = typeof retorno === 'string' && /^#\/(?:inicio|comparar|contraste|balance(?:\/datos)?|metodo)?$/.test(retorno)
+    ? retorno : '#/' + r.tab + (r.tab === 'balance' && r.id === 'datos' ? '/datos' : '');
+  try { history.replaceState(null, '', destino); }
+  catch (e) { location.hash = destino; }
+  const siguiente = ruta();
+  if (tabActual !== siguiente.tab || vistaDatos !== (siguiente.tab === 'balance' && siguiente.id === 'datos')) pinta(true);
+  if (origen && document.contains(origen)) origen.focus({preventScroll: true});
+}
 dlg.addEventListener('click', e => {
   if (e.target === dlg || e.target.closest('.x')) return salir();
   const b = e.target.closest('button'); if (!b) return;
