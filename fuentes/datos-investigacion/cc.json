@@ -1,0 +1,474 @@
+{
+ "partido": "cc",
+ "programa": {
+  "titulo": "Defiende Canarias. Programa electoral 29 de noviembre de 2026 (Coalición Canaria y Municipalistas Primero Canarias)",
+  "url": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf",
+  "paginas": 23,
+  "fecha": "2026-11"
+ },
+ "propuestas": [
+  {
+   "id": "cc-vivienda-1",
+   "tema": "vivienda",
+   "titulo": "Fondo estatal de ocho años para vivienda asequible",
+   "resumen": "Proponen un fondo estatal de ocho años para cofinanciar vivienda pública y asequible, con una parte para Canarias.",
+   "cita": "Impulsaremos un fondo estatal de ocho años para coﬁnanciar vivienda pública y asequible, con una asignación para Canarias ajustada a sus necesidades.",
+   "pagina": 10,
+   "concrecion": {
+    "cifra": false,
+    "plazo": true,
+    "financiacion": true,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-vivienda-2",
+   "tema": "vivienda",
+   "titulo": "Limitar la compra de vivienda por extranjeros",
+   "resumen": "Quieren reformas en las Cortes para limitar la compra de vivienda en Canarias por extranjeros, compatibles con el derecho europeo.",
+   "cita": "Impulsaremos en las Cortes Generales las reformas necesarias para limitar la compra de vivienda en Canarias por extranjeros",
+   "pagina": 11,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-vivienda-3",
+   "tema": "vivienda",
+   "titulo": "Regular la vivienda vacacional donde haya presión",
+   "resumen": "Piden cobertura jurídica estatal y europea para limitar los usos turísticos donde la presión sobre la vivienda esté acreditada.",
+   "cita": "Defenderemos la cobertura jurídica estatal y europea necesaria para que Canarias y sus municipios puedan modular y limitar los usos turísticos donde exista presión acreditada sobre la vivienda residencial.",
+   "pagina": 11,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-impuestos-1",
+   "tema": "impuestos",
+   "titulo": "Mantener y ampliar la deducción del 60 % en el IRPF en islas verdes",
+   "resumen": "Defienden mantener la deducción en La Palma y extenderla a La Gomera y El Hierro, según la propuesta de Decreto Canarias.",
+   "cita": "Defenderemos las medidas de la propuesta de Decreto Canarias para mantener la deducción del 60 % en el IRPF apli- cable en La Palma y extenderla a La Gomera y El Hierro.",
+   "pagina": 13,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-impuestos-2",
+   "tema": "impuestos",
+   "titulo": "Corregir cobros indebidos de IVA en compras online",
+   "resumen": "Piden que se corrijan los cobros de IVA cuando corresponda aplicar el IGIC en el comercio electrónico.",
+   "cita": "Exigiremos que las operaciones respeten nuestra ﬁscalidad y que se corrijan los cobros indebidos de IVA cuando corres- ponda aplicar el IGIC.",
+   "pagina": 12,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-impuestos-3",
+   "tema": "impuestos",
+   "titulo": "Usar los remanentes de tesorería",
+   "resumen": "Quieren que el Gobierno canario, cabildos y ayuntamientos puedan usar sus remanentes de tesorería en vivienda, sanidad o educación.",
+   "cita": "Defenderemos las reformas y los acuerdos estatales que permitan al Gobierno de Canarias, a los cabildos y a los ayuntamientos emplear sus remanentes de tesorería",
+   "pagina": 20,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-empleo-1",
+   "tema": "empleo",
+   "titulo": "Incentivos fiscales y bonificaciones ligados a mejoras salariales",
+   "resumen": "Piden al Estado incentivos y bonificaciones en cotizaciones vinculados a subidas salariales pactadas y productividad.",
+   "cita": "Reclamaremos al Estado incentivos ﬁscales y boniﬁcaciones en las cotizaciones ligados a mejoras salariales",
+   "pagina": 12,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-empleo-2",
+   "tema": "empleo",
+   "titulo": "Plan de empleo para menores de 35 años",
+   "resumen": "Reclaman la aportación estatal al plan cuatrienal de empleo juvenil de la propuesta de Decreto Canarias.",
+   "cita": "Reclamaremos la aportación estatal al plan cuatrienal de empleo para menores de 35 años previsto en la propuesta de Decreto Canarias.",
+   "pagina": 14,
+   "concrecion": {
+    "cifra": false,
+    "plazo": true,
+    "financiacion": true,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-empleo-3",
+   "tema": "empleo",
+   "titulo": "Ayudas a autónomos con menores rendimientos",
+   "resumen": "Proponen reforzar las ayudas estatales a quienes empiezan una actividad y a autónomos con menos ingresos.",
+   "cita": "Reforzaremos las ayudas estatales a quienes empiezan una actividad por cuenta propia y a los autónomos con menores rendimientos.",
+   "pagina": 12,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-pensiones-1",
+   "tema": "pensiones",
+   "titulo": "Compatibilidad de complementos canarios con pensiones no contributivas",
+   "resumen": "Piden que los complementos de renta canarios sean compatibles con las pensiones no contributivas y no cuenten para reducirlas.",
+   "cita": "que establezca Canarias sean compatibles con las pensiones no contributivas, estén exentos de tributación y no computen para reducir o retirar la prestación.",
+   "pagina": 10,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-sanidad-1",
+   "tema": "sanidad",
+   "titulo": "Compensación por sobrecostes sanitarios de la insularidad",
+   "resumen": "Exigen una compensación específica y actualizada por los sobrecostes sanitarios de la insularidad.",
+   "cita": "Exigiremos al Estado una compensación especíﬁca y actualizada por los sobrecostes sanitarios de la insularidad y la lejanía.",
+   "pagina": 9,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-sanidad-2",
+   "tema": "sanidad",
+   "titulo": "Más presupuesto estatal para salud mental",
+   "resumen": "Piden reforzar en los Presupuestos Generales las partidas de salud mental en Canarias.",
+   "cita": "Reclamaremos que los Presupuestos Generales del Estado refuercen las partidas destinadas a la atención en salud mental en Canarias.",
+   "pagina": 9,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-sanidad-3",
+   "tema": "sanidad",
+   "titulo": "Aportación estatal estable a la dependencia",
+   "resumen": "Exigen una aportación estatal suficiente y estable para el sistema de dependencia.",
+   "cita": "Exigiremos una aportación estatal suﬁciente, estable y acorde con las obligaciones del sistema de dependencia.",
+   "pagina": 9,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-educacion-1",
+   "tema": "educacion",
+   "titulo": "Plazas públicas gratuitas de 0 a 3 años",
+   "resumen": "Proponen reforzar la financiación estatal para una oferta suficiente de plazas públicas gratuitas de educación infantil de 0 a 3 años.",
+   "cita": "Reforzaremos la ﬁnanciación estatal para una oferta suﬁciente de plazas públicas gratuitas y de calidad.",
+   "pagina": 9,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-educacion-2",
+   "tema": "educacion",
+   "titulo": "Becas para estudiar fuera de la isla",
+   "resumen": "Exigen cumplir y reforzar las previsiones del REF sobre becas para quien deba desplazarse a estudiar.",
+   "cita": "Exigiremos el cumplimiento y el refuerzo de las previsiones del REF para las becas de quienes deben desplazarse porque sus estudios no se ofrecen en su isla.",
+   "pagina": 14,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-educacion-3",
+   "tema": "educacion",
+   "titulo": "Recuperar programas estatales para infraestructuras educativas",
+   "resumen": "Quieren recuperar programas estatales de inversión para corregir déficits en los centros educativos.",
+   "cita": "Recuperaremos programas estatales de inversión para corregir los déﬁcits de las infraestructuras educativas",
+   "pagina": 10,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-inmigracion-1",
+   "tema": "inmigracion",
+   "titulo": "El Estado y la UE asumen los costes de salvamento y acogida",
+   "resumen": "Exigen que el Estado y la UE asuman los costes extraordinarios del salvamento, la acogida y la atención humanitaria en la frontera atlántica.",
+   "cita": "Exigiremos que el Estado y la Unión Europea asuman los costes extraordinarios del salvamento, la acogida",
+   "pagina": 18,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-inmigracion-2",
+   "tema": "inmigracion",
+   "titulo": "Traslados automáticos cuando se superen umbrales de acogida",
+   "resumen": "Piden que los traslados a otras comunidades se activen al superar umbrales, sin negociar caso a caso.",
+   "cita": "Cuando un territorio de primera acogida supere los umbrales previstos, deberán activarse los traslados y la participación de otras comunidades autónomas sin depender de negociaciones caso a caso.",
+   "pagina": 19,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-inmigracion-3",
+   "tema": "inmigracion",
+   "titulo": "Financiación estable para menores no acompañados",
+   "resumen": "Exigen financiación suficiente y previsible para atender a los menores extranjeros no acompañados acogidos en Canarias.",
+   "cita": "Exigiremos al Estado ﬁnanciación suﬁciente y previsible para atender a los menores extranjeros no acompañados acogidos en Canarias",
+   "pagina": 19,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-seguridad-1",
+   "tema": "seguridad",
+   "titulo": "Financiar 1.400 plazas de Policía Canaria",
+   "resumen": "Reclaman al Estado financiar las 1.400 plazas del Cuerpo General de la Policía Canaria previstas en la propuesta de Decreto Canarias.",
+   "cita": "Reclamaremos al Estado la ﬁnanciación de las 1.400 plazas del Cuerpo General de la Policía Canaria previstas en la propuesta de Decreto Canarias.",
+   "pagina": 10,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-igualdad-1",
+   "tema": "igualdad",
+   "titulo": "Financiación estatal para el Pacto de Estado contra la violencia de género",
+   "resumen": "Piden financiación estatal suficiente para aplicar el Pacto en todas las islas, con atención a la dispersión territorial.",
+   "cita": "Reclamaremos ﬁnanciación estatal suﬁciente para aplicar el Pacto de Estado contra la violencia de género en todas las islas",
+   "pagina": 10,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-energia-1",
+   "tema": "energia",
+   "titulo": "Sustituir centrales térmicas obsoletas",
+   "resumen": "Exigen una planificación estatal que sustituya progresivamente las centrales térmicas por soluciones más eficientes y renovables.",
+   "cita": "Exigiremos una planiﬁcación estatal que sustituya progresivamente las instalaciones térmicas obsoletas por soluciones más eﬁcientes, renovables y ﬂexibles.",
+   "pagina": 15,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-energia-2",
+   "tema": "energia",
+   "titulo": "Eólica marina en Gran Canaria con consenso",
+   "resumen": "Proponen impulsar la eólica marina en Gran Canaria con planificación y subastas adaptadas a sistemas insulares.",
+   "cita": "Cualquier proyecto en las islas requerirá suﬁciente consenso social, político e institucional, además de compatibilidad ambiental y territorial.",
+   "pagina": 15,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-energia-3",
+   "tema": "energia",
+   "titulo": "Programa extraordinario de redes eléctricas",
+   "resumen": "Reclaman un programa estatal para redes de transporte y distribución, subestaciones y nueva capacidad de conexión.",
+   "cita": "Reclamaremos un programa estatal extraordinario para redes de transporte y distribución, subestaciones, digitalización y nueva capacidad de conexión.",
+   "pagina": 15,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-energia-4",
+   "tema": "energia",
+   "titulo": "Defender íntegramente el POSEI agrario",
+   "resumen": "Piden que España defienda el POSEI y su dotación diferenciada en el próximo presupuesto europeo.",
+   "cita": "Exigiremos que España deﬁenda íntegramente el programa europeo de apoyo al sector primario de las regiones ultraperiféricas, el POSEI, y su dotación diferenciada en el nuevo presupuesto europeo.",
+   "pagina": 13,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-instituciones-1",
+   "tema": "instituciones",
+   "titulo": "Cada compromiso con financiación, plazos y responsables",
+   "resumen": "Se comprometen a que cada compromiso con el Estado cuente con financiación, plazos y responsables, y a exigir su cumplimiento aunque cambie el Gobierno.",
+   "cita": "Cada compromiso deberá contar con ﬁnanciación, plazos y responsables.",
+   "pagina": 21,
+   "concrecion": {
+    "cifra": false,
+    "plazo": true,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-instituciones-2",
+   "tema": "instituciones",
+   "titulo": "Acceso del Instituto Canario de Estadística a datos tributarios",
+   "resumen": "Piden cambios para que el ISTAC pueda acceder a información tributaria y evaluar el REF.",
+   "cita": "Impulsaremos los cambios estatales necesarios para que el Instituto Canario de Estadística pueda acceder a la información tributaria que permita evaluar el REF",
+   "pagina": 21,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-territorio-1",
+   "tema": "territorio",
+   "titulo": "Calendario verificable de traspasos del Estatuto",
+   "resumen": "Exigen completar los traspasos pendientes con medios, personal y recursos, incluidos el transporte aéreo interinsular.",
+   "cita": "Exigiremos un calendario veriﬁcable para completar los traspasos y desarrollos pendientes del Estatuto de Autonomía",
+   "pagina": 8,
+   "concrecion": {
+    "cifra": false,
+    "plazo": true,
+    "financiacion": true,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-territorio-2",
+   "tema": "territorio",
+   "titulo": "Financiación autonómica que reconozca el coste insular",
+   "resumen": "Reclaman un sistema suficiente y estable que valore población efectiva, fragmentación territorial, pobreza y envejecimiento.",
+   "cita": "Exigiremos un sistema de ﬁnanciación autonómica suﬁciente y estable que reconozca el coste real de prestar servicios en un archipiélago alejado.",
+   "pagina": 8,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-territorio-3",
+   "tema": "territorio",
+   "titulo": "El REF no cuenta como financiación ordinaria",
+   "resumen": "Piden impedir que los recursos del REF se computen como financiación ordinaria de sanidad, educación o dependencia.",
+   "cita": "Impediremos que los recursos del REF se computen como ﬁnanciación ordinaria de la sanidad, la educación, la dependencia o los servicios sociales.",
+   "pagina": 8,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "cc-exterior-1",
+   "tema": "exterior",
+   "titulo": "Defender el derecho del pueblo saharaui a decidir",
+   "resumen": "Defienden el derecho del pueblo saharaui a decidir su futuro y una solución conforme a las resoluciones de la ONU.",
+   "cita": "defenderemos el derecho del pueblo saharaui a decidir su futuro y la protección de sus derechos humanos y de sus recursos naturales.",
+   "pagina": 20,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-exterior-2",
+   "tema": "exterior",
+   "titulo": "Mantener fondos específicos para regiones ultraperiféricas",
+   "resumen": "Exigen que España defienda en el próximo marco financiero de la UE las dotaciones específicas para las regiones ultraperiféricas.",
+   "cita": "Exigiremos que España deﬁenda en el próximo marco ﬁnanciero plurianual de la Unión Europea",
+   "pagina": 19,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "cc-exterior-3",
+   "tema": "exterior",
+   "titulo": "Recuperar espacios militares para uso civil",
+   "resumen": "Proponen negociar el cese de actividad militar y la cesión civil de terrenos como el campo de tiro de Pájara.",
+   "cita": "Impulsaremos la recuperación para uso civil de terrenos e instalaciones militares en Canarias, entre ellos el campo de tiro de Pájara, en Fuerteventura.",
+   "pagina": 9,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  }
+ ],
+ "nota": "Programa de la candidatura conjunta Coalición Canaria-Municipalistas Primero Canarias. Gran parte son reclamaciones de financiación o competencias al Estado y a la UE. No incluye apartado propio de pensiones contributivas ni posición sobre sistema fiscal estatal general."
+}

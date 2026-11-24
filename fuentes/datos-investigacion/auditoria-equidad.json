@@ -1,0 +1,317 @@
+{
+ "medias": {
+  "pp": {
+   "n": 7,
+   "historial": 1.43,
+   "n_historial_null": 0,
+   "coherencia": 2.29,
+   "viabilidad": 2.29,
+   "datos": 2,
+   "concrecion": 1.43,
+   "indice": 47.9
+  },
+  "psoe": {
+   "n": 7,
+   "historial": 1.57,
+   "n_historial_null": 0,
+   "coherencia": 2.29,
+   "viabilidad": 2.29,
+   "datos": 1.86,
+   "concrecion": 1,
+   "indice": 47
+  },
+  "vox": {
+   "n": 7,
+   "historial": 1.8,
+   "n_historial_null": 2,
+   "coherencia": 2.71,
+   "viabilidad": 1.57,
+   "datos": 1.43,
+   "concrecion": 0.29,
+   "indice": 42.9
+  },
+  "frenteamplio": {
+   "n": 7,
+   "historial": 1.86,
+   "n_historial_null": 0,
+   "coherencia": 2.86,
+   "viabilidad": 2.29,
+   "datos": 1.71,
+   "concrecion": 1.71,
+   "indice": 53.3
+  },
+  "podemos": {
+   "n": 7,
+   "historial": 1.71,
+   "n_historial_null": 0,
+   "coherencia": 2.86,
+   "viabilidad": 1.86,
+   "datos": 1.71,
+   "concrecion": 1.43,
+   "indice": 47.7
+  },
+  "salf": {
+   "n": 7,
+   "historial": 1,
+   "n_historial_null": 6,
+   "coherencia": 2.43,
+   "viabilidad": 1.71,
+   "datos": 1.71,
+   "concrecion": 2.14,
+   "indice": 48.7
+  },
+  "balance_psoe_12": {
+   "n": 12,
+   "historial": 2.33,
+   "coherencia": 2.75,
+   "viabilidad": 2.42,
+   "datos": 2.08,
+   "concrecion": 1.25,
+   "indice": 55.6
+  },
+  "_notas": {
+   "metodo": "Niveles tras aplicar calibrar.json (el JSON de origen trae el nivel del investigador; build.py aplica los 8 ajustes). Índice = fórmula de build.py con concreción de la propuesta, historial null = 50 y topes; redondeo por promesa. 'historial' se promedia solo sobre las promesas con historial no null (SALF: 1 sola; Vox: 5 de 7).",
+   "sin_concrecion": {
+    "pp": 42.1,
+    "psoe": 43.8,
+    "vox": 41.4,
+    "frenteamplio": 47.9,
+    "podemos": 41.8,
+    "salf": 43.9
+   },
+   "efecto_calibrar_en_indice": {
+    "pp": "+1.8",
+    "psoe": "+0.8",
+    "vox": "+0.8",
+    "frenteamplio": "+1.1",
+    "podemos": "+3.4",
+    "salf": "-0.7"
+   },
+   "salf_si_null_valiera_historial_1_5": 46.1,
+   "balance_psoe_12": "12 compromisos del balance con puntos y promesa_2026 (b02,b04,b06,b07,b09,b10,b12,b14,b15,b18,b19,b21); no se mezclan con la media del PSOE de los 7 contrastes."
+  }
+ },
+ "incoherencias": [
+  {
+   "promesas": [
+    "psoe-vivienda-1",
+    "b12"
+   ],
+   "componente": "coherencia",
+   "niveles_actuales": "psoe-vivienda-1 = 3; b12 = 2",
+   "problema": "Misma promesa (parque público estatal de 100.000 viviendas) y mismos hechos: tres cifras sucesivas (20.000, 100.000, 183.000) y falta de rendición de cuentas. El balance lo trata como mensajes cruzados (2); el contraste lo deja como excepción menor (3) y además lista en la propia justificación tres ejercicios sin Presupuestos y un gasto del 0,5% del PIB frente al 1% prometido. Otros casos donde un cambio de cifra baja a 2: b12, salf-impuestos-1 (ajuste del editor), vox-impuestos-1 (tipos cambian entre documentos), salf-instituciones-4.",
+   "propuesta": "psoe-vivienda-1 → coherencia 2",
+   "gravedad": "alta"
+  },
+  {
+   "promesas": [
+    "salf-impuestos-1",
+    "vox-inmigracion-2",
+    "frenteamplio-vivienda-1",
+    "salf-exterior-1"
+   ],
+   "componente": "coherencia",
+   "niveles_actuales": "salf-impuestos-1 = 2 (ajuste); vox-inmigracion-2 = 3; frenteamplio-vivienda-1 = 3; salf-exterior-1 = 3",
+   "problema": "El ajuste del editor baja a SALF por «cambio de cifra y diseño» y por «no hay votos con los que medir la constancia». Pero vox-inmigracion-2 (versiones distintas de alcance y cifra), frenteamplio-vivienda-1 (la meta anual baja de 200.000 a 125.000 y el acuerdo de gobierno no tenía cifras) y salf-exterior-1 (pasa de advertencia a compromiso) mantienen 3 con excepciones del mismo tipo. El segundo motivo (falta de votos) penaliza la ausencia de historial, que en salf-seguridad-1, salf-vivienda-1 o salf-inmigracion-1 no baja el nivel. Es el único ajuste del archivo que rebaja, y recae en el partido sin historial.",
+   "propuesta": "Criterio único. Opción mínima: salf-impuestos-1 → coherencia 3 (revertir el ajuste). Opción alternativa: mantener 2 y aplicar el mismo criterio a frenteamplio-vivienda-1 → 2 y vox-inmigracion-2 → 2.",
+   "gravedad": "media"
+  },
+  {
+   "promesas": [
+    "psoe-instituciones-1",
+    "b02",
+    "pp-instituciones-2",
+    "salf-instituciones-2"
+   ],
+   "componente": "coherencia",
+   "niveles_actuales": "psoe-instituciones-1 = 1; b02 = 2; pp-instituciones-2 = 2; salf-instituciones-2 = 1",
+   "problema": "Misma materia (anticorrupción). El PSOE recibe 1 en el contraste y 2 en el balance (b02) con los mismos hechos. El 1 se apoya en parte en que el sucesor del ex secretario de Organización está investigado sin juicio (e6); BRIEF.md dice que una investigación no se presenta como culpabilidad, y SALF sí aclara que no la computa. Sin ese elemento quedan una condena firme individual y un proyecto de ley presentado, equivalente a pp-instituciones-2 (tres sentencias firmes de responsabilidad civil por la financiación del partido, nivel 2).",
+   "propuesta": "psoe-instituciones-1 → coherencia 2 (salf-instituciones-2 se queda en 1: sanción, cuentas no presentadas y discurso constante, todo propio del partido)",
+   "gravedad": "alta"
+  },
+  {
+   "promesas": [
+    "psoe-seguridad-1",
+    "b04",
+    "podemos-energia-1",
+    "podemos-instituciones-1",
+    "b21"
+   ],
+   "componente": "historial",
+   "niveles_actuales": "psoe-seguridad-1 = 1; b04 = 0; podemos-energia-1 = 1; podemos-instituciones-1 = 1; b21 = 1",
+   "problema": "Misma clase: prometido con poder, no cumplido, sin hacer lo contrario y con socios que lo frenaron. Todos reciben 1 salvo b04 (0), cuyo propio matiz dice que el PSOE nunca tuvo mayoría propia y el bloqueo vino de socios y de la oposición. El 0 se reserva en el resto del archivo para quien hizo lo contrario (pp-instituciones-1). b04 y psoe-seguridad-1 son la misma ley.",
+   "propuesta": "b04 → historial 1",
+   "gravedad": "media"
+  },
+  {
+   "promesas": [
+    "frenteamplio-exterior-1",
+    "podemos-exterior-1"
+   ],
+   "componente": "viabilidad",
+   "niveles_actuales": "frenteamplio-exterior-1 = 2; podemos-exterior-1 = 3 (por ajuste)",
+   "problema": "Inversión. Podemos propone salir de la OTAN, cerrar Rota y Morón y congelar el gasto militar, y el editor lo deja en 3 porque basta autorización de las Cortes y preaviso, sin contar la aritmética parlamentaria. Frente Amplio solo propone rechazar el 5% y reducir gasto, no necesita tratado alguno (la justificación lo admite) y recibe 2, apoyándose en que los socios defienden el 2% (aritmética) y en programas ya comprometidos hasta 2042 (que también afectan a la 'reducción' de Podemos).",
+   "propuesta": "frenteamplio-exterior-1 → viabilidad 3 (alternativa: podemos-exterior-1 → 2 si el editor quiere contar los programas plurianuales ya comprometidos)",
+   "gravedad": "media"
+  },
+  {
+   "promesas": [
+    "frenteamplio-impuestos-1",
+    "psoe-impuestos-1",
+    "podemos-impuestos-2"
+   ],
+   "componente": "viabilidad",
+   "niveles_actuales": "frenteamplio-impuestos-1 = 2; psoe-impuestos-1 = 3; podemos-impuestos-2 = 2 (ajuste)",
+   "problema": "Misma clase (nuevo tributo sobre grandes patrimonios o rentas, ley ordinaria estatal con precedente). La justificación de FA da el 2 por las votaciones de 2024-2025 y los votos en contra del PSOE, es decir, aritmética parlamentaria, que el ajuste de podemos-impuestos-2 declara que no cuenta; el PSOE queda en 3 con el mismo tipo de dificultad ('los pactos fallaron'). El único elemento jurídico, el encaje con el límite renta-patrimonio, 'no ha sido evaluado', es una incógnita, no un obstáculo. Podemos tiene un motivo propio (devolución del rescate sin instrumento).",
+   "propuesta": "frenteamplio-impuestos-1 → viabilidad 3",
+   "gravedad": "media"
+  },
+  {
+   "promesas": [
+    "vox-igualdad-1",
+    "vox-impuestos-1",
+    "vox-inmigracion-2",
+    "vox-territorio-1"
+   ],
+   "componente": "historial",
+   "niveles_actuales": "vox-igualdad-1 = 1; vox-impuestos-1 = 2; vox-inmigracion-2 = null; vox-territorio-1 = null",
+   "problema": "Criterio de poder desigual en Vox. En inmigracion-2 y territorio-1 el historial es null porque la competencia es estatal y Vox no ha gobernado el Estado. Pero igualdad-1 (derogar leyes estatales de violencia de género) y impuestos-1 (IVA e Impuesto de Sociedades, estatales) puntúan con pactos autonómicos, y igualdad-1 recibe 1 por una ley alternativa autonómica que no salió. O cuenta el poder autonómico en todos o en ninguno que dependa del Estado.",
+   "propuesta": "vox-igualdad-1 → historial null (el IRPF de impuestos-1 sí tiene palanca autonómica; revisar solo la parte de IVA/IS)",
+   "gravedad": "media"
+  },
+  {
+   "promesas": [
+    "vox-impuestos-1",
+    "pp-impuestos-1",
+    "salf-impuestos-1"
+   ],
+   "componente": "datos",
+   "niveles_actuales": "vox-impuestos-1 = 1; pp-impuestos-1 = 2; salf-impuestos-1 = 2",
+   "problema": "Misma clase: rebaja amplia de impuestos con financiación no cuantificada (Vox: 46.000 M€ solo en IRPF; SALF: 43.000 M€ y 57.000 M€ de 'sobrecoste autonómico'; PP sin cifra). Solo Vox baja a 1, y la justificación es una inferencia del evaluador (deuda del 101,4% y coste frente a recortes) sin organismo independiente que lo diga; Vox cita además un margen de 30.000 M€ en subvenciones que atribuye a la AIReF (e2). La rúbrica reserva el 1 para datos que apuntan en contra y el 2 para evidencia inexistente o mixta.",
+   "propuesta": "vox-impuestos-1 → datos 2",
+   "gravedad": "media"
+  },
+  {
+   "promesas": [
+    "salf-vivienda-1",
+    "vox-vivienda-1",
+    "podemos-vivienda-1"
+   ],
+   "componente": "datos",
+   "niveles_actuales": "salf-vivienda-1 = 2; vox-vivienda-1 = 1; podemos-vivienda-1 = 1",
+   "problema": "Misma clase: rebaja por ley del precio de la vivienda. SALF aporta un dato en contra (e5: quitar los impuestos que paga el comprador rebaja el precio una décima parte y el resto del 35% depende de suelo y licencias) y aun así queda en 2 por 'no hay evaluación independiente'; Vox baja a 1 con una advertencia del Banco de España y Podemos con datos de efecto <5%.",
+   "propuesta": "salf-vivienda-1 → datos 1",
+   "gravedad": "media"
+  },
+  {
+   "promesas": [
+    "b12",
+    "psoe-vivienda-1"
+   ],
+   "componente": "datos",
+   "niveles_actuales": "b12 = 1; psoe-vivienda-1 = 2",
+   "problema": "Misma promesa y evidencia. La justificación de b12 solo dice que no hay dato publicado de viviendas terminadas; la rúbrica asigna a 'inexistente' el 2, y el contraste (con más evidencia: Sareb, suelo, vivienda protegida creciente, déficit estimado) lo deja en 2.",
+   "propuesta": "b12 → datos 2",
+   "gravedad": "media"
+  },
+  {
+   "promesas": [
+    "b15",
+    "podemos-empleo-1"
+   ],
+   "componente": "historial",
+   "niveles_actuales": "b15 = 4; podemos-empleo-1 = 3",
+   "problema": "Mismo hecho: el SMI subió desde 735,90 € a 1.221 € con el PSOE en el Gobierno. Podemos recibe 3 porque no se llegó a 1.200 € con ellos. b15 recibe 4 (cumplido) aunque su propio matiz y datos dicen que el 60% del salario medio solo se alcanza con una medida (neto o mediano) y que con el salario bruto medio es el 51,9% (Eurostat 2025). La rúbrica da 4 a 'prometieron lo mismo y lo cumplieron'.",
+   "propuesta": "b15 → historial 3",
+   "gravedad": "media"
+  },
+  {
+   "promesas": [
+    "psoe-empleo-1",
+    "frenteamplio-empleo-1"
+   ],
+   "componente": "historial",
+   "niveles_actuales": "ambos = 2 (FA por ajuste del editor)",
+   "problema": "El ajuste alinea FA con el PSOE 'sobre la misma ley'. Pero el 2 del PSOE se justifica con el SMI, que es otra promesa, y la ley de 37,5 horas no se aprobó, mientras que en FA el 2 se sostiene en las 35 horas de la Administración del Estado, que sí forman parte de su promesa. Casos comparables con ley fallida y sin crédito de otra promesa (psoe-seguridad-1, podemos-energia-1) reciben 1. Además la justificación de FA conserva la frase interna 'El editor puede valorar un 2…'.",
+   "propuesta": "Sin cambio de nivel: reescribir el 'por' del PSOE para citar la misma base que FA, o bajar ambos a 1; quitar la frase dirigida al editor del 'por' de FA",
+   "gravedad": "media"
+  },
+  {
+   "promesas": [
+    "pp-pensiones-1",
+    "pp-instituciones-1"
+   ],
+   "componente": "historial",
+   "niveles_actuales": "pp-pensiones-1 = 1; pp-instituciones-1 = 0",
+   "problema": "Ambas son 'con mayoría absoluta hicieron lo contrario' (desligar las pensiones del IPC, que los vocales los eligieran las Cortes). Pensiones recibe 1 por una rectificación parcial en 2018; CGPJ recibe 0 sin atenuante comparable (retrasó la renovación cinco años). Defendible, pero no se explica la diferencia.",
+   "propuesta": "Sin cambio; dejar escrito en el 'por' de pp-pensiones-1 por qué la rectificación de 2018 compensa",
+   "gravedad": "baja"
+  },
+  {
+   "promesas": [
+    "psoe-instituciones-1",
+    "pp-instituciones-1",
+    "b02"
+   ],
+   "componente": "datos",
+   "niveles_actuales": "psoe-instituciones-1 = 2; pp-instituciones-1 = 3; b02 = 2",
+   "problema": "La Comisión Europea y el GRECO piden exactamente la ley de integridad y la agencia que promete el PSOE (respaldo parcial a su objetivo), lo mismo que la Comisión respalda como opción lo de PP; el PSOE baja a 2 por el índice de percepción, que mide el problema y no si el objetivo es alcanzable. Además b02 dice 'no hay evaluación independiente' cuando el contraste de la misma promesa cita a esos organismos.",
+   "propuesta": "Sin cambio obligatorio; corregir el 'por' de b02 y valorar psoe-instituciones-1 → datos 3",
+   "gravedad": "baja"
+  },
+  {
+   "promesas": [
+    "podemos-exterior-1",
+    "frenteamplio-exterior-1"
+   ],
+   "componente": "historial",
+   "niveles_actuales": "ambos = 1",
+   "problema": "Podemos votó los Presupuestos que subían el gasto (+55%) y Rota ganó dos destructores; FA dejó constancia escrita de rechazo en el Consejo de Ministros. Ambos 1, con matiz distinto que solo aparece en coherencia (2 y 2). Podemos podría rozar el 0 de 'hicieron lo contrario'; no es claro por qué no hubo dirección de Defensa ni Hacienda.",
+   "propuesta": "Sin cambio",
+   "gravedad": "baja"
+  },
+  {
+   "promesas": [
+    "psoe-vivienda-1",
+    "frenteamplio-vivienda-1"
+   ],
+   "componente": "viabilidad",
+   "niveles_actuales": "ambos = 2",
+   "problema": "Afirmaciones contrarias sobre el mismo punto jurídico. El 'por' del PSOE dice que el parque estatal es competencia del Estado; el de FA dice que el Constitucional anuló en 2024 parte de la regulación estatal de vivienda protegida y parques públicos. Ambos 2, pero el texto no puede ser cierto en las dos formas. Si es cierto lo de FA, el PSOE tiene el mismo obstáculo; si no, el de FA sobra. Podemos (vivienda-1) sí baja a 1 por el TC.",
+   "propuesta": "Sin cambio de nivel hasta comprobar la sentencia citada en FA",
+   "gravedad": "baja"
+  },
+  {
+   "promesas": [
+    "salf-impuestos-1"
+   ],
+   "componente": "viabilidad",
+   "niveles_actuales": "2",
+   "problema": "La justificación mezcla la propuesta del IRPF con una evidencia (e4) sobre otra propuesta de SALF (exigir tres quintos para subir impuestos, que exigiría reforma constitucional); el propio hecho dice que la rebaja del IRPF es ley ordinaria. El nivel 2 se sostiene en el reparto del IRPF con las comunidades y la financiación, no en esa regla.",
+   "propuesta": "Sin cambio de nivel; quitar la referencia a los tres quintos del 'por'",
+   "gravedad": "baja"
+  },
+  {
+   "promesas": [
+    "salf-instituciones-4",
+    "salf-seguridad-1"
+   ],
+   "componente": "viabilidad",
+   "niveles_actuales": "salf-instituciones-4 = 2; salf-seguridad-1 = 2",
+   "problema": "salf-instituciones-4 dice que 'tal como está escrita no cabe en la ley', la fórmula literal del 0 en BRIEF.md, y recibe 2 porque existe una alternativa; salf-seguridad-1 dice que 'debe encajar en el artículo 25.2' (sin permisos ni tercer grado) y recibe 2 sin citar sentencia. Frente a vox-territorio-1 (1 por doctrina del TC) la línea entre 'choca' y 'debe encajar' no está explicada.",
+   "propuesta": "Sin cambio",
+   "gravedad": "baja"
+  },
+  {
+   "promesas": [
+    "salf-instituciones-4"
+   ],
+   "componente": "historial",
+   "niveles_actuales": "1 (con historial) mientras los otros seis contrastes de SALF son null",
+   "problema": "Es la única promesa de SALF con historial, y el 'por' reconoce que es 'provisional por falta de datos posteriores a octubre de 2025'. El nivel 1 descansa en ausencia de datos; el mismo uso aparece en psoe-vivienda-1 ('sin dato oficial de entregadas'), así que no es desigual, pero es la puntuación menos sustentada.",
+   "propuesta": "Sin cambio",
+   "gravedad": "baja"
+  }
+ ],
+ "valoracion_general": "Resumen. Lo más sólido: los techos legales se aplican igual a todos (ley orgánica = 2 en PP, PSOE, Vox, Podemos y FA; reforma constitucional agravada = 0 solo en podemos-instituciones-1; reforma por tres quintos o mayoría muy difícil = 1 en salf-instituciones-2, b06 y vox-territorio-1; choque con directiva europea de retorno = 1 en vox-inmigracion-2/3 y salf-inmigracion-1; dependencia de comunidades sin financiar = 2 en PP, PSOE, FA y Vox). No hay un patrón de un partido sistemáticamente tratado con otro listón. Los fallos se concentran en: (a) el PSOE contra sí mismo (contraste frente a balance: vivienda, seguridad ciudadana, anticorrupción, SMI) y (b) el trato a las 'cifras que cambian' y a la 'aritmética parlamentaria'.\n\n1. Obstáculos e historial comparables: ver incoherencias. Las claras son 6 (psoe-vivienda-1/b12 coherencia; psoe-instituciones-1 coherencia; b04 historial; b12 datos; frenteamplio-exterior-1 viabilidad; frenteamplio-impuestos-1 viabilidad), 7 más de gravedad media.\n\n2. Historial null. Criterio coherente en lo esencial: null solo cuando no hubo poder sobre el asunto (SALF 6 de 7; Vox 2 de 7, ambas de competencia estatal exclusiva; PP, PSOE, FA y Podemos ninguno). Excepciones: Vox usa pactos autonómicos para puntuar promesas de competencia estatal (igualdad-1 e impuestos-1) y no para inmigracion-2/territorio-1; y SALF puntúa salf-instituciones-4 con historial por ser un compromiso personal sobre su sueldo (aceptable). Efecto estructural: null vale 50, por encima de la media real de quien gobernó (PP 1,43, PSOE 1,57, Podemos 1,71, FA 1,86 = 36 a 46 puntos): si SALF puntuara 1,5, bajaría de 48,6 a 46,1 (unos 2,5 a 3 puntos). Es consecuencia de diseño, no de criterio del evaluador, pero conviene advertirlo en la metodología.\n\n3. 'Por' frente a rúbrica. Mayoría coherente. Desajustes: psoe-instituciones-1 (coherencia 1 apoyado en una persona investigada), vox-impuestos-1 (datos 1 por inferencia sin fuente independiente), salf-vivienda-1 (datos 2 pese a un dato en contra), b12 (datos 1 pero el texto describe 'inexistente' = 2), b15 (historial 4 con un matiz que admite que depende de la medida), b04 (historial 0 con matiz que describe bloqueo de socios). Además, tras los ajustes algunas justificaciones conservan el texto del nivel anterior más un motivo añadido (pp-inmigracion-1, vox-instituciones-2, frenteamplio-empleo-1 con la frase 'El editor puede valorar un 2'); lo leerá el ciudadano.\n\n4. Medias (con calibrar). Índice: Frente Amplio 53,3; SALF 48,7; PP 47,9; Podemos 47,7; PSOE 47,0; Vox 42,9. Concreción explica buena parte: sin concreción FA 47,9, SALF 43,9, PSOE 43,8, PP 42,1, Podemos 41,8, Vox 41,4 (el hueco FA-Vox pasa de 10,4 a 6,5). Vox concreción 0,29 refleja programa sin cifras ni plazos: viene de los hechos. Coherencia: FA y Podemos 2,86 frente a PP y PSOE 2,29; lo explica parcialmente que PP y PSOE tienen más historial en el que buscar excepciones, pero seis de siete de FA reciben 3 con la plantilla 'misma dirección; la excepción es X', y FA/Podemos reciben 2 en historial (mixto) donde PSOE/PP reciben 1 (vivienda, sanidad): posible sesgo de evaluador al acreditar a los socios minoritarios hechos parciales ('ampliaron colectivos') mientras al PSOE se le mide contra el objetivo. Viabilidad: Vox 1,57 y SALF 1,71 salen de choques con directivas y con el TC, factuales. Datos: Vox 1,43 salen de brechas con la línea de base (expulsiones 10,6%, 250.000 frente a 92.000), salvo vox-impuestos-1. La selección de promesas influye: FA presenta siete promesas casi todas de ley ordinaria u orgánica sin tope; Podemos incluye dos con tope (viabilidad 1 y 0) y Vox tres (viabilidad 1).\n\n5. Ajustes de calibrar.json. Seis suben un nivel (podemos-impuestos-2, pp-inmigracion-1, vox-instituciones-2, pp-vivienda-1, frenteamplio-empleo-1, psoe-igualdad-1), uno no cambia nada (podemos-exterior-1, el JSON ya traía 3) y uno baja (salf-impuestos-1). Efecto en el índice medio: Podemos +3,4, PP +1,8, FA +1,1, PSOE +0,8, Vox +0,8, SALF -0,7. Cada ajuste razona bien en su caso, pero: (i) el principio 'la aritmética parlamentaria no cuenta' se aplicó a Podemos y no a frenteamplio-impuestos-1 ni a frenteamplio-exterior-1; (ii) el único que rebaja usa dos motivos, uno de los cuales (falta de votos) no se usa para otras promesas de SALF y el otro (cifra que cambia) no se usa en psoe-vivienda-1, frenteamplio-vivienda-1 ni vox-inmigracion-2; (iii) frenteamplio-empleo-1 se alinea con el PSOE sin comprobar que el PSOE se sostiene en una promesa distinta; (iv) pp-vivienda-1 pasa a 3 por una corrección del medio, pero su 'por' conserva el rechazo a la Ley del Suelo y los decretos, que en podemos-vivienda-1 se trata también como excepción (3), así que ahí queda alineado. Los ajustes no introducen un trato desigual por partido en sentido político (afectan a cinco partidos), pero sí un criterio asimétrico en cifras cambiantes y en aritmética. Revisión sin efecto: balance b12 dice en su matiz 'se clasifica como parcial' y su estado es incumplido, ajeno a los niveles pero visible.\n\nCambios propuestos solo donde la incoherencia es clara: psoe-vivienda-1 C2; psoe-instituciones-1 C2; b04 H1; b12 D2; frenteamplio-exterior-1 V3; frenteamplio-impuestos-1 V3. En el resto, más dudoso, la propuesta es opcional. No se han igualado medias."
+}

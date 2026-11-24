@@ -1,0 +1,587 @@
+{
+ "partido": "bng",
+ "programa": {
+  "titulo": "29N Xerais 2026. Programa electoral (BNG)",
+  "url": "https://www.bng.gal/media/bnggaliza/files/2026/11/12/26_bng_xerais_documentos_programa_electoral.pdf",
+  "paginas": 91,
+  "fecha": "2026-11-12"
+ },
+ "propuestas": [
+  {
+   "id": "bng-vivienda-1",
+   "tema": "vivienda",
+   "titulo": "Topar por ley los alquileres y prohibir desahucios vulnerables",
+   "resumen": "Proponen fijar por ley un tope a los precios del alquiler y prohibir los desahucios de personas vulnerables sin alternativa habitacional.",
+   "cita": "Topar por lei os prezos dos alugueiros e prohibir os desafiuzamentos de persoas en situación de vulnerabilidade",
+   "pagina": 12,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-vivienda-2",
+   "tema": "vivienda",
+   "titulo": "3 % de los Presupuestos para un parque público de alquiler",
+   "resumen": "Destinar el 3 % de los Presupuestos Generales del Estado, vía Plan estatal de vivienda, a un parque público de alquiler permanente.",
+   "cita": "Destinar o 3% dos Orzamentos Xerais do Estado para financiar mediante o Plan estatal de vivenda a creación dun parque público de alugueiro permanente.",
+   "pagina": 12,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-vivienda-3",
+   "tema": "vivienda",
+   "titulo": "Canon a las viviendas vacías de grandes propietarios",
+   "resumen": "Facilitar a las comunidades un canon de al menos 10 euros por metro cuadrado, creciente un 10 % anual, a viviendas vacías cinco o más años en manos de grandes propietarios.",
+   "cita": "estabelecemento de canon á vivenda desocupada (importe de como mínimo 10 euros por metro cadrado, incrementándose un 10% anual até o triplo do importe inicial)",
+   "pagina": 14,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-impuestos-1",
+   "tema": "impuestos",
+   "titulo": "IVA del 5 % a electricidad, gas y suministros básicos",
+   "resumen": "Rebajar de nuevo el IVA de electricidad, gas, biomasa y otros suministros básicos al 5 % y hacerlo permanente.",
+   "cita": "Rebaixar de novo o IVE aplicado á electricidade, gas, biomasa para quecemento e madeira para leña, e do resto de subministracións básicas ao 5%",
+   "pagina": 44,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-impuestos-2",
+   "tema": "impuestos",
+   "titulo": "Mantener y subir los impuestos a banca, energéticas y grandes fortunas",
+   "resumen": "Blindar la permanencia de estos impuestos específicos, aumentar su progresividad y traspasar su gestión a Galicia.",
+   "cita": "Blindar a permanencia dos impostos específicos aos beneficios da banca, das grandes enerxéticas e ás grandes fortunas, reducir os límites de exención, aumentar a súa progresividade e traspasar a súa xestión á Galiza.",
+   "pagina": 44,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-impuestos-3",
+   "tema": "impuestos",
+   "titulo": "Gravar más el capital y menos el trabajo en el IRPF",
+   "resumen": "Proponen distintos tipos según la naturaleza de los rendimientos, rebajando el trabajo y subiendo el capital.",
+   "cita": "Estabelecer distintos tipos de gravame en función da natureza dos rendementos, minorando a tributación polos ingresos do traballo e aumentando a correspondente aos derivados do capital.",
+   "pagina": 43,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-empleo-1",
+   "tema": "empleo",
+   "titulo": "Jornada de 35 horas sin bajar el salario y horizonte de 32",
+   "resumen": "Promover la jornada de 35 horas semanales sin reducción salarial y avanzar hacia 32 horas en cuatro jornadas.",
+   "cita": "Promover a implantación da xornada laboral de 35 horas semanais sen redución salarial, e avanzar no horizonte da xornada de 32 horas semanais en 4 xornadas.",
+   "pagina": 15,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-empleo-2",
+   "tema": "empleo",
+   "titulo": "Salario mínimo al 60 % del salario medio",
+   "resumen": "Subir el SMI hasta el 60 % del salario medio, según la Carta Social Europea con datos de Eurostat.",
+   "cita": "Incrementar o Salario Mínimo Interprofesional até o situar no 60 % do salario medio",
+   "pagina": 15,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-empleo-3",
+   "tema": "empleo",
+   "titulo": "Recuperar los 45 días de indemnización por despido",
+   "resumen": "Restituir 45 días por año y un máximo de 42 mensualidades en el despido improcedente, con derogación de las contrarreformas laborales.",
+   "cita": "Os 45 días de indemnización e un máximo de 42 mensualidades por despedimento improcedente.",
+   "pagina": 15,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-pensiones-1",
+   "tema": "pensiones",
+   "titulo": "Pensión mínima igual al salario mínimo",
+   "resumen": "Subir las pensiones mínimas hasta, como mínimo, la cuantía del SMI.",
+   "cita": "Incremento das pensións mínimas até situalas como mínimo na mesma contía que o Salario Mínimo Interprofesional",
+   "pagina": 18,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-pensiones-2",
+   "tema": "pensiones",
+   "titulo": "Derogar las reformas de pensiones de 2011, 2013, 2021 y 2023",
+   "resumen": "Piden derogar esas cuatro reformas del sistema público de pensiones.",
+   "cita": "Derrogación das reformas das pensións aprobadas en 2011, 2013, 2021 e 2023.",
+   "pagina": 18,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-pensiones-3",
+   "tema": "pensiones",
+   "titulo": "Jubilación a los 65 años",
+   "resumen": "Recuperar la jubilación ordinaria a los 65 años y la parcial a los 61.",
+   "cita": "Recuperación da xubilación ordinaria aos 65 anos e a parcial aos 61 anos.",
+   "pagina": 19,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-sanidad-1",
+   "tema": "sanidad",
+   "titulo": "Financiación sanitaria al menos en la media de la UE",
+   "resumen": "Elevar el gasto sanitario público al menos a la media de inversión por habitante de la UE.",
+   "cita": "Aumentar o financiamento da sanidade pública, até como mínimo a media de investimento por habitante da UE",
+   "pagina": 37,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-sanidad-2",
+   "tema": "sanidad",
+   "titulo": "Reformar la Ley 15/1997 para gestión solo pública",
+   "resumen": "Modificar la ley que permite nuevas formas de gestión para que titularidad, financiación, gestión y provisión sean exclusivamente públicas.",
+   "cita": "mediante unha modificación da Lei 15/97, sobre habilitación de novas formas de xestión do Sistema de Saúde",
+   "pagina": 37,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-sanidad-3",
+   "tema": "sanidad",
+   "titulo": "Acabar con el copago farmacéutico",
+   "resumen": "Cambiar el marco legal para poner fin a los copagos y repagos de la prestación farmacéutica.",
+   "cita": "Modificar o marco legal actual que regula a participación económica das usuarias/os da sanidade pública no financiamento da prestación farmacéutica para pór fin ao modelo actual de copagamentos",
+   "pagina": 38,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-educacion-1",
+   "tema": "educacion",
+   "titulo": "Gasto educativo de al menos el 7 % del PIB",
+   "resumen": "Aumentar el presupuesto de educación hasta, como mínimo, el 7 % del PIB.",
+   "cita": "apostando polo crecemento dos orzamentos destinados á educación até lle dedicar, como mínimo, 7% do PIB",
+   "pagina": 35,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-educacion-2",
+   "tema": "educacion",
+   "titulo": "Red única pública, gratuita y laica",
+   "resumen": "Proponen una única red de enseñanza pública, gratuita y laica, universal de 0 a 18 años.",
+   "cita": "Un ensino público, galego, laico, coeducativo, gratuíto e democrático.",
+   "pagina": 34,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-educacion-3",
+   "tema": "educacion",
+   "titulo": "Universidades públicas al 1,5 % del PIB",
+   "resumen": "Tomar como referencia el 1,5 % del PIB para financiar las universidades públicas.",
+   "cita": "Incrementar o financiamento das universidade públicas, tomando como referencia o 1,5% do PIB",
+   "pagina": 36,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-inmigracion-1",
+   "tema": "inmigracion",
+   "titulo": "Regularización administrativa de personas migrantes",
+   "resumen": "Promover la regularización para eliminar la irregularidad como instrumento de explotación laboral.",
+   "cita": "Promover a regularización administrativa como vía para eliminar a irregularidade como ferramenta de explotación.",
+   "pagina": 22,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-inmigracion-2",
+   "tema": "inmigracion",
+   "titulo": "Cerrar los CIE y acabar con las devoluciones en caliente",
+   "resumen": "Reclaman el cierre de los Centros de Internamiento de Extranjeros y el fin de las devoluciones en caliente.",
+   "cita": "Demandar o peche dos Centros de Internamento para Estranxeiros (CIEs) no Estado español e o fin das deportacións en quente",
+   "pagina": 23,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-inmigracion-3",
+   "tema": "inmigracion",
+   "titulo": "Lengua gallega como criterio para la nacionalidad",
+   "resumen": "Piden que el conocimiento acreditado de la lengua y cultura gallegas valga como criterio para obtener la nacionalidad española.",
+   "cita": "Demandamos tamén que un acreditado coñecemento da lingua e cultura galegas sexa admitido como criterio para acceder á nacionalidade española",
+   "pagina": 23,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-seguridad-1",
+   "tema": "seguridad",
+   "titulo": "Traspaso de la seguridad pública y despliegue de la Policía Gallega",
+   "resumen": "Traspasar seguridad pública, policía judicial y fiscal y tráfico, y desplegar el cuerpo de la Policía Gallega.",
+   "cita": "Traspaso das competencias en materia de seguranza pública, policía xudicial e fiscal, así como garda de tránsito, para o que será despregado o corpo da Policía Galega.",
+   "pagina": 9,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-seguridad-2",
+   "tema": "seguridad",
+   "titulo": "Derogar la prisión permanente revisable",
+   "resumen": "Piden derogar la prisión permanente revisable y las medidas de libertad vigilada posteriores a la pena.",
+   "cita": "Derrogación da prisión permanente revisábel, por ser unha forma encuberta de manter a cadea perpetua",
+   "pagina": 30,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-seguridad-3",
+   "tema": "seguridad",
+   "titulo": "Derogar la Ley Mordaza",
+   "resumen": "Proponen derogarla íntegramente, y prohibir las pelotas de goma y las devoluciones en caliente.",
+   "cita": "Derrogación íntegra da Lei Mordaza por favorecer a discrecionalidade policial",
+   "pagina": 30,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-igualdad-1",
+   "tema": "igualdad",
+   "titulo": "Reforma integral contra todas las violencias machistas",
+   "resumen": "Piden una reforma legislativa integral que cubra todos los tipos de violencia contra las mujeres y dé rango de ley a la violencia vicaria.",
+   "cita": "realizar unha reforma lexislativa integral que garanta a cobertura de todos os tipos de violencias contra as mulleres na lei orgánica correspondente e que outorgue rango de lei efectivo á violencia vicaria.",
+   "pagina": 24,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-igualdad-2",
+   "tema": "igualdad",
+   "titulo": "Introducir el término feminicidio en la ley",
+   "resumen": "Proponen introducirlo en la legislación y crear un Estatuto de Víctima de Feminicidio.",
+   "cita": "Introducir o termo feminicidio na lexislación española e impulsar un Estatuto de Vítima de Feminicidio",
+   "pagina": 25,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-igualdad-3",
+   "tema": "igualdad",
+   "titulo": "Reconocer legalmente a las familias monoparentales",
+   "resumen": "Piden reconocer por ley las familias monoparentales de origen, por decisión propia, con legislación específica.",
+   "cita": "Recoñecer legalmente as familias monoparentais en orixe, por decisión propia",
+   "pagina": 27,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-energia-1",
+   "tema": "energia",
+   "titulo": "Declarar el litoral gallego no apto para eólica marina",
+   "resumen": "Retirar los POEM y declarar el litoral gallego no apto para parques eólicos marinos.",
+   "cita": "Retirar os POEM e declarar o litoral galego como espazo non apto para a instalación de parques eólicos mariños offshore",
+   "pagina": 54,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-energia-2",
+   "tema": "energia",
+   "titulo": "Tarifa eléctrica gallega",
+   "resumen": "Impulsar una tarifa eléctrica gallega con rebaja en los peajes de transporte por ser Galicia excedentaria en producción.",
+   "cita": "Impulsar unha tarifa eléctrica galega que considere, a través de redución nas peaxes do transporte, o papel de Galiza de nación excedentaria na produción eléctrica",
+   "pagina": 54,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-energia-3",
+   "tema": "energia",
+   "titulo": "Recuperar garantías ambientales en proyectos eólicos",
+   "resumen": "Rectificar el RDL 20/2022 para recuperar la evaluación ambiental y la participación ciudadana en proyectos eólicos.",
+   "cita": "Recuperar as garantías ambientais e a participación cidadá na implantación de proxectos eólicos, rectificando as medidas incorporadas no RDL 20/2022",
+   "pagina": 54,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-instituciones-1",
+   "tema": "corrupcion",
+   "titulo": "Inhabilitar a cargos públicos por fraude fiscal",
+   "resumen": "Proponen inhabilitar directamente a cargos públicos que cometan fraude fiscal o usen paraísos fiscales.",
+   "cita": "Inhabilitación directa de cargos públicos e representativos que cometan fraude fiscal ou cando se detecten operacións económicas propias —ou en conivencia co seu contorno familiar e profesional— a través de paraísos fiscais",
+   "pagina": 41,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "tema_anterior": "instituciones"
+  },
+  {
+   "id": "bng-instituciones-2",
+   "tema": "instituciones",
+   "titulo": "Derogar las leyes de Secretos Oficiales y de Seguridad Nacional",
+   "resumen": "Piden derogarlas para garantizar la transparencia sobre la actuación y el gasto de las instituciones militares y policiales.",
+   "cita": "Derrogar a Lei de Segredos Oficiais e a Lei de Seguranza Nacional",
+   "pagina": 32,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-instituciones-3",
+   "tema": "instituciones",
+   "titulo": "Reforma electoral proporcional con Galicia como circunscripción",
+   "resumen": "Proponen el método proporcional directo (cuota Hare), Galicia como circunscripción y eliminar el mínimo del 5 %.",
+   "cita": "Reformar estruturalmente a normativa electoral: implantación do método proporcional directo (cota Hare); estabelecemento de Galiza como circunscrición electoral",
+   "pagina": 32,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-territorio-1",
+   "tema": "territorio",
+   "titulo": "Modelo de financiación basado en concierto económico",
+   "resumen": "Defienden un modelo basado en el concierto económico y la bilateralidad, en el que Galicia recaude todos los impuestos.",
+   "cita": "Un novo modelo de financiamento baseado no concerto económico e na bilateralidade co Estado.",
+   "pagina": 8,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-territorio-2",
+   "tema": "territorio",
+   "titulo": "Crear una Hacienda Gallega",
+   "resumen": "Proponen poner en marcha una Hacienda Gallega como instrumento del nuevo modelo de financiación.",
+   "cita": "Posta en marcha dunha Facenda Galega, como instrumento esencial do novo modelo de financiamento.",
+   "pagina": 9,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-territorio-3",
+   "tema": "territorio",
+   "titulo": "Referendos vinculantes, incluida la autodeterminación",
+   "resumen": "Apoyar cambios legales para convocar referendos vinculantes, incluido el derecho de autodeterminación.",
+   "cita": "promoveremos e apoiaremos as mudanzas legais precisas que posibilitaren a convocatoria de referendos vinculantes en asuntos de interese, incluído o dereito de autodeterminación",
+   "pagina": 32,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-exterior-1",
+   "tema": "exterior",
+   "titulo": "Salir de la OTAN",
+   "resumen": "Piden la salida de la OTAN y defienden su disolución, con neutralidad activa del Estado.",
+   "cita": "Saída da OTAN e defensa de disolución desa alianza militar imperialista.",
+   "pagina": 89,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-exterior-2",
+   "tema": "exterior",
+   "titulo": "Rechazar el aumento del gasto militar",
+   "resumen": "Rechazan subir el gasto militar según las directrices de la OTAN y de EE. UU. y proponen reducirlo progresivamente.",
+   "cita": "Rexeitamento ao incremento do gasto militar e ao acatamento das directrices OTAN e Estados Unidos neste ámbito.",
+   "pagina": 90,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-exterior-3",
+   "tema": "exterior",
+   "titulo": "Revertir la posición sobre el Sáhara",
+   "resumen": "Piden anular el cambio de posición del Gobierno sobre el Sáhara Occidental y un referéndum de autodeterminación.",
+   "cita": "Anular o cambio de posición do goberno español a respecto do dereito á autodeterminación do pobo saharauí",
+   "pagina": 90,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-corrupcion-1",
+   "tema": "corrupcion",
+   "titulo": "Regular las puertas giratorias e incompatibilidades",
+   "resumen": "Regularían de forma estricta las puertas giratorias y las incompatibilidades; en concreto, quitarían a las Cámaras la posibilidad de autorizar la compatibilidad profesional de diputados y senadores. No fijan plazo.",
+   "cita": "Regulación estrita das portas xiratorias e das incompatibilidades; concretamente a supresión da posibilidade de acordar a compatibilidade profesional polas propias Cámaras",
+   "pagina": 41,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "bng-corrupcion-2",
+   "tema": "corrupcion",
+   "titulo": "Publicar las licitaciones negociadas en contratación pública",
+   "resumen": "Modificarían la normativa de contratación pública para dar transparencia a la contratación negociada y directa, publicando las licitaciones negociadas en los perfiles de contratante. No fijan plazo.",
+   "cita": "Modificación da normativa de contratación pública, implantando a transparencia na contratación negociada e directa, publicando nos perfís de contratación as licitacións negociadas",
+   "pagina": 42,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  }
+ ],
+ "nota": "Programa oficial del BNG, en gallego: título y resumen en castellano, cita literal en gallego."
+}

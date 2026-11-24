@@ -1,0 +1,1215 @@
+{
+ "partido": "frenteamplio",
+ "propuestas_nuevas": [],
+ "contrastes_nuevos": [
+  {
+   "propuesta_id": "frenteamplio-pensiones-1",
+   "pista_codex": "ninguna",
+   "promesa": "Devolver la edad legal de jubilación a los 65 años y permitir la jubilación a los 60 en oficios de especial dureza (construcción, limpieza, ayuda a domicilio, camareras de piso y pesca).",
+   "ha_gobernado": "estatal",
+   "resumen": "Prometen deshacer el retraso de la jubilación a los 67 años que fijó la reforma de 2011. Izquierda Unida rechazó aquella reforma, pero en los seis años en que sus partidos estuvieron en el Gobierno se aprobaron tres reformas de pensiones (2021, 2023 y 2025) que mantuvieron el calendario: la edad es de 66 años y 10 meses en 2026 y será de 67 en 2027. El programa de Sumar de 2023 no pedía volver a los 65. A favor consta el decreto de 2025 que abre el procedimiento para adelantar la jubilación en trabajos penosos, que todavía no ha reconocido a ninguna de las profesiones citadas. La AIReF calcula que el gasto en pensiones ya crecerá con las normas actuales y el programa no dice cuánto cuesta la medida ni cómo se paga.",
+   "antecedentes": "La Ley 27/2011, del Gobierno de Zapatero, elevó la edad de 65 a 67 años de forma gradual entre 2013 y 2027 (e1); IU la rechazó (e2). La Ley 21/2021 y el Real Decreto-ley 2/2023, aprobados con Unidas Podemos en el Gobierno, cambiaron la revalorización y los ingresos del sistema pero no la edad legal (e3, e4). El programa de Sumar de 2023 no incluía la vuelta a los 65 años (e5) y en enero de 2025 Sumar votó a favor de un decreto que incentiva seguir trabajando hasta los 72 (e6). En 2026 Sumar apoyó en el Congreso dos iniciativas de Podemos para quitar la penalización a quien se jubila antes con 40 años cotizados (e8, e9); ninguna llegó a aprobarse.",
+   "matiz": "El Ministerio de Seguridad Social lo dirigió siempre el PSOE (Escrivá y Saiz), no los partidos del Frente Amplio, y las reformas de 2021 y 2025 salieron de acuerdos con sindicatos y patronal. Votar a favor de esas reformas no equivale a defender los 67 años: ninguna de ellas subió la edad, solo dejó intacto el calendario de 2011. En sentido contrario, tampoco consta que sus ministros o su grupo plantearan en esos años devolverla a los 65. Frente Amplio es una coalición electoral presentada el 17-10-2026 (IU, Movimiento Sumar, Catalunya en Comú, Más Madrid, Chunta Aragonesista, Verdes Equo y otras cinco organizaciones; Podemos no forma parte). Como tal no ha gobernado: se contrasta el historial de sus partidos en el Gobierno de España (IU y los comunes dentro de Unidas Podemos en 2020-2023, Sumar en 2023-2026).",
+   "refutacion": "Para tumbar la promesa busqué qué hicieron con la edad de jubilación cuando gobernaron: tres reformas que no la tocaron (e3, e4, e6) y un programa, el de Sumar de 2023, que no la mencionaba (búsqueda de «edad de jubilación», «edad legal» y «65 años» en el texto, sin resultados sobre este asunto). Busqué también alguna proposición de IU o Sumar en 2023-2026 para volver a los 65 y no la encontré. Para tumbar esa evidencia comprobé: (1) que IU sí se opuso en 2011 (e2), aunque la crónica abierta no da el desglose de la votación; (2) que el espacio sí ha impulsado medidas en la misma dirección: el procedimiento de coeficientes reductores (e7) y los votos de 2026 sobre las carreras de 40 años (e8); (3) que el Real Decreto-ley 2/2023 no trataba de la edad, de modo que apoyarlo no fue votar los 67 años. Sobre el coste no encontré ninguna estimación oficial ni independiente de volver a los 65; la única cifra localizada es de otra medida más limitada (3.358 millones al año por quitar la penalización con 40 años cotizados, según el Gobierno, e9). No pude confirmar en un documento oficial el voto de cada grupo en la convalidación de 2023 ni localizar la auditoría de las cuentas de la Seguridad Social que el propio programa da por no publicada.",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "En seis años en el Gobierno se aprobaron tres reformas de pensiones que mantuvieron el calendario hacia los 67 años (e1, e3, e4, e6); a favor solo consta el decreto de procedimiento para trabajos penosos, que aún no ha rebajado la edad de ninguna profesión (e7)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "IU rechazó la reforma de 2011 (e2) y Sumar votó en 2026 contra las penalizaciones a carreras largas (e8), pero el programa de Sumar de 2023 no pedía volver a los 65 (e5) y el espacio votó a favor de las reformas que mantuvieron los 67 y de incentivar trabajar hasta los 72 (e3, e6)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Basta una ley ordinaria que cambie la Ley General de la Seguridad Social y es competencia estatal (e1), pero el programa no cuantifica el coste ni dice cómo se paga; una medida más limitada se cifró en 3.358 millones al año (e9)."
+    },
+    "datos": {
+     "nivel": 1,
+     "por": "La AIReF prevé que el gasto en pensiones pase del 12,9 % del PIB en 2023 al 16,1 % en 2050 y que la deuda llegue al 123 % del PIB con las normas actuales (e10, e11); sus proyecciones cuentan con que la edad efectiva suba de 65,2 a 66,2 años, lo contrario de lo que haría la medida (e11). No hay estimación independiente de la promesa."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La Ley 27/2011 fijó la jubilación a los 67 años",
+     "hecho": "La Ley 27/2011, de 1 de agosto, estableció como edad de jubilación «67 años de edad, o 65 años cuando se acrediten 38 años y 6 meses de cotización», con aplicación gradual. Según su tabla, en 2026 la edad es de 66 años y 10 meses (65 con 38 años y 3 meses cotizados) y desde 2027 será de 67.",
+     "fecha": "2011-08-02",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-13242",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Izquierda Unida rechazó en 2011 el retraso a los 67 años",
+     "hecho": "El Congreso aprobó de forma definitiva la reforma el 21-7-2011. La crónica de agencia recoge que las fuerzas a la izquierda del PSOE la rechazaron y que el coordinador de IU, Cayo Lara, la calificó de «traición».",
+     "fecha": "2011-07-21",
+     "fuente": "Cooperativa (agencias)",
+     "url": "https://www.cooperativa.cl/noticias/site/artic/20110721/pags-amp/20110721120322.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La crónica no da el desglose de votos por grupo; no se abrió el Diario de Sesiones de 2011."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La reforma de 2021 mantuvo la edad legal",
+     "hecho": "La Ley 21/2021, de 28 de diciembre, aprobada con Unidas Podemos en el Gobierno, recuperó la subida de las pensiones con el IPC y no modificó la edad legal. Su preámbulo dice que las medidas sobre jubilación buscan «un progresivo alineamiento de la edad efectiva y de la edad ordinaria de jubilación», es decir, que la gente se jubile más cerca de la edad legal.",
+     "fecha": "2021-12-29",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-21652",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta la copia del texto consolidado. La misma ley ordena en su disposición adicional sexta la auditoría de las cuentas de la Seguridad Social que el programa de 2026 promete publicar."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "La reforma de 2023 tampoco tocó la edad de jubilación",
+     "hecho": "El Congreso convalidó el Real Decreto-ley 2/2023 el 30-3-2023 con 179 votos a favor. La norma subió pensiones mínimas, bases máximas y cotizaciones (Mecanismo de Equidad Intergeneracional) y amplió el periodo de cómputo; la nota oficial no recoge ningún cambio en la edad de jubilación.",
+     "fecha": "2023-03-30",
+     "fuente": "La Moncloa (Ministerio de Inclusión)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2023/300323-congreso-convalida-real-decreto-pensiones.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota del Gobierno: fiable para el resultado y el contenido, no para valoraciones. No da el voto por grupos; Unidas Podemos formaba parte del Gobierno que aprobó el decreto."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de Sumar de 2023 no pedía volver a los 65",
+     "hecho": "El programa de Sumar para las generales de 2023 prometía revalorizar las pensiones con el IPC y subir las mínimas y no contributivas hasta el umbral de pobreza. No contiene ninguna propuesta de rebajar la edad legal de jubilación.",
+     "fecha": "2023-07",
+     "fuente": "Sumar, «Un programa para ti»",
+     "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado por búsqueda de texto en el PDF completo («edad de jubilación», «edad legal», «65 años»). Es una ausencia, no una posición contraria expresa. Sumar no incluía a todas las organizaciones del Frente Amplio en las mismas condiciones."
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Sumar votó en 2025 incentivos para trabajar hasta los 72",
+     "hecho": "El 22-1-2025 el Congreso convalidó un real decreto-ley que amplía la jubilación activa y permite seguir trabajando de forma voluntaria hasta los 72 años cobrando parte de la pensión. Votaron a favor PSOE, PP, Sumar, PNV, ERC, CC y UPN; Podemos y EH Bildu, en contra. La edad ordinaria quedó en 67 años.",
+     "fecha": "2025-01-22",
+     "fuente": "El Salto",
+     "url": "https://www.elsaltodiario.com/pensiones/gobierno-pp-sacaran-adelante-una-reforma-incentivar-trabajo-72-anos",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La norma nació de un acuerdo con sindicatos y patronal e incluía mejoras de la jubilación parcial; Sumar destacó la parte de profesiones peligrosas."
+    },
+    {
+     "id": "e7",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Decreto de 2025: procedimiento para adelantar la jubilación en trabajos penosos",
+     "hecho": "El Real Decreto 402/2025, de 27 de mayo, propuesto por los ministerios de Seguridad Social y de Trabajo (este, de Sumar), regula cómo solicitar coeficientes reductores para ocupaciones penosas o peligrosas. Solo fija el procedimiento: cada rebaja exige un real decreto posterior y ninguna de las profesiones que cita el programa figura en él.",
+     "fecha": "2025-05-28",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/eli/es/rd/2025/05/27/402/con",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No localicé ningún real decreto posterior que haya reconocido coeficientes a construcción, limpieza, ayuda a domicilio, camareras de piso o pesca."
+    },
+    {
+     "id": "e8",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "Sumar votó en 2026 por quitar la penalización con 40 años cotizados",
+     "hecho": "El 11-6-2026 el Congreso rechazó una enmienda de Podemos para eliminar los coeficientes reductores a quien se jubila anticipadamente con más de 40 años cotizados. Sumar votó a favor; PSOE y PP, en contra; Vox se abstuvo.",
+     "fecha": "2026-06-12",
+     "fuente": "El Debate",
+     "url": "https://www.eldebate.com/economia/20260612/psoe-pp-frenan-reforma-reclama-casi-millon-jubilados-llevamos-doce-anos-esperando_427761.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Es una promesa vecina (frenteamplio-pensiones-3), no la vuelta a los 65 años."
+    },
+    {
+     "id": "e9",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "Una medida más limitada se cifró en 3.358 millones al año",
+     "hecho": "El 22-9-2026 el Congreso admitió a trámite una proposición de Podemos para suprimir la penalización con 40 años cotizados. Sumar la dejó pasar pero consideró «excesivamente rígido» el umbral único de 40 años. El Gobierno estimó su coste en unos 3.358 millones de euros. La iniciativa decayó con la disolución de las Cortes.",
+     "fecha": "2026-09-22",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/economia/jubilacion-sin-recortes-40-anos-cotizados-todas-claves-ley/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La cifra es del Gobierno, no de un organismo independiente, y corresponde a otra medida. Que decayera se deduce de la disolución del 5-10-2026; el artículo es anterior."
+    },
+    {
+     "id": "e10",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "AIReF: la regla de gasto se cumple pero no garantiza la sostenibilidad",
+     "hecho": "En su estudio de 29-5-2026 la AIReF calcula un gasto bruto en pensiones del 14,6 % del PIB de media entre 2022 y 2050 (13,0 % neto de las nuevas cotizaciones) y una deuda pública del 123 % del PIB en 2050 con las políticas actuales. Concluye que la regla vigente «no es un indicador adecuado de sostenibilidad».",
+     "fecha": "2026-05-29",
+     "fuente": "AIReF",
+     "url": "https://www.airef.es/es/noticias/la-airef-ratifica-el-resultado-de-2025-la-regla-de-gasto-de-pensiones-se-cumple-formalmente-pero-no-garantiza-la-sostenibilidad/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La AIReF no evalúa la propuesta de volver a los 65 años; describe el punto de partida."
+    },
+    {
+     "id": "e11",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "AIReF prevé que la edad real de jubilación suba a 66,2 años",
+     "hecho": "Según la AIReF (abril de 2025), la edad efectiva de jubilación es de 65,2 años y subirá a 66,2 en 2035; el gasto en pensiones pasaría del 12,9 % del PIB en 2023 al 16,1 % en 2050. Las jubilaciones demoradas eran el 11,3 % del total a febrero de 2025.",
+     "fecha": "2025-04-24",
+     "fuente": "Europa Press (Bolsamanía)",
+     "url": "https://www.bolsamania.com/noticias/economia/economia--airef-estima-que-en-2035-un-30-de-personas-demoraran-su-jubilacion-y-la-edad-efectiva-subira-a-662-anos--19432202.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La edad efectiva actual (65,2) ya está cerca de los 65 que promete el programa: muchas personas se jubilan a los 65 por tener carreras largas o por anticipación."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "frenteamplio-educacion-2",
+   "pista_codex": "piloto-frente-amplio-educacion-05",
+   "promesa": "Aprobar una Ley de Financiación Educativa que fije un suelo de inversión pública y la lleve al 7 % del PIB en 2030.",
+   "ha_gobernado": "estatal",
+   "resumen": "Prometen que el gasto público en educación llegue al 7 % del PIB en 2030 mediante una ley. El acuerdo de gobierno de 2019 entre el PSOE y Unidas Podemos fijó el 5 % para 2025 y la LOMLOE de 2020 ordenó un plan para alcanzarlo; el último dato oficial es del 4,48 % en 2024, por debajo del 4,89 % de 2020, aunque el gasto en euros subió de 55.176 a 71.349 millones. El máximo de la serie es el 5,02 % de 2009. El objetivo ya figuraba en el programa de Sumar de 2023, sin fecha. Llegar al 7 % supondría unos 47.000 millones más al año con el PIB de 2025; el programa no dice de dónde salen y casi todo el gasto lo ejecutan las comunidades autónomas.",
+   "antecedentes": "El acuerdo de coalición de 2019 comprometió «un 5 % del PIB en el año 2025» (e3) y la LOMLOE, aprobada en diciembre de 2020, mandó al Gobierno elaborar un plan para llegar a ese mínimo (e4). El programa de Sumar de 2023 pedía el 5 % «de manera inmediata» y avanzar «progresivamente hacia el 7 %» con una ley de financiación (e5). En 2024 el gasto fue del 4,48 % del PIB (e1, e2). El programa de 2026 mantiene la ley y pone fecha al 7 %: 2030.",
+   "matiz": "El Ministerio de Educación lo dirigió el PSOE en los dos gobiernos de coalición y la gran mayoría del gasto lo deciden las comunidades autónomas, así que la distancia con el 5 % no es atribuible solo a los partidos del Frente Amplio. La caída del porcentaje desde 2020 se debe en parte a que el PIB creció más deprisa: en euros el gasto subió todos los años. El programa habla de «inversión estatal», expresión que puede referirse al conjunto de las administraciones o solo al Estado; aquí se contrasta con el gasto público total, que es como se mide el 5 % de la LOMLOE. Frente Amplio es una coalición electoral presentada el 17-10-2026 (IU, Movimiento Sumar, Catalunya en Comú, Más Madrid, Chunta Aragonesista, Verdes Equo y otras cinco organizaciones; Podemos no forma parte). Como tal no ha gobernado: se contrasta el historial de sus partidos en el Gobierno de España (IU y los comunes dentro de Unidas Podemos en 2020-2023, Sumar en 2023-2026).",
+   "refutacion": "Para tumbar la promesa comparé los objetivos anteriores con el dato oficial: 5 % en 2025 según el acuerdo de 2019 y la LOMLOE, 4,48 % en 2024 (e1, e2, e3, e4). Para tumbar esa evidencia comprobé tres cosas: (1) que el porcentaje baja mientras los euros suben (un 29 % más entre 2020 y 2024), porque 2020 fue un año de PIB hundido por la pandemia; frente a 2019 (4,24 %) el peso ha subido; (2) que la comparación internacional depende de la definición: con la de la OCDE (de Primaria a educación superior, 2022) España está en el 4,0 %, igual que la media de la UE-25 y por debajo del 4,3 % de la OCDE (e2); (3) que Educación no fue un ministerio del espacio. El expediente de Codex no aportaba historial; sus fuentes (estadística de gasto, INE, LOMLOE) se abrieron y coinciden. No pude abrir la nota estadística original del Ministerio con el 4,48 % (la descarga falló dos veces): el porcentaje procede de un informe de las fundaciones Ramón Areces y Sociedad y Educación citado por El Español; el importe sí se comprobó en la nota oficial. No localicé el plan de incremento del gasto que la LOMLOE ordenaba formular en dos años, ni valoraciones de la AIReF sobre el objetivo, ni el texto del acuerdo PSOE-Sumar de 2023 en formato legible.",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Con sus partidos en el Gobierno se comprometió el 5 % del PIB para 2025 (e3, e4) y el gasto fue del 4,48 % en 2024, menos que en 2020 en porcentaje aunque más en euros (e1, e2). No dirigían Educación."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Mismo objetivo y mismo instrumento desde 2019 y 2023 (e3, e5); la excepción es que el 7 %, antes sin fecha, se fija ahora para 2030 sin haberse alcanzado el 5 % (e2)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Una ley estatal puede fijar un suelo, pero el gasto lo ejecutan sobre todo las comunidades autónomas (e1) y el salto equivale a unos 47.000 millones al año con el PIB de 2025 (e6), sin financiación explicada."
+    },
+    "datos": {
+     "nivel": 1,
+     "por": "Habría que subir 2,5 puntos de PIB en cinco años cuando la serie baja desde 2020 y nunca ha superado el 5,02 % (e2); con la medida de la OCDE España está en la media europea (e2). No hay evaluación independiente del objetivo."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Gasto público en educación en 2024: 71.348,8 millones",
+     "hecho": "El gasto público en educación fue de 71.348,8 millones de euros en 2024, un 4,8 % más que en 2023 (68.065 millones), según datos provisionales del Ministerio. El 88,8 % corresponde a las administraciones educativas (ministerios y consejerías autonómicas). El 7 % del PIB de 2025 serían unos 118.300 millones.",
+     "fecha": "2026-03-18",
+     "fuente": "La Moncloa (Ministerio de Educación, FP y Deportes)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/educacion-fp-deportes/Paginas/2026/180326-gasto-educacion-2024.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La nota no da el porcentaje sobre el PIB (véase e2). El último dato es de 2024: no hay cifra oficial de 2025 ni de 2026. La comparación con el 7 % es un cálculo propio con el PIB de e6."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "Gasto educativo: del 4,89 % del PIB (2020) al 4,48 % (2024)",
+     "hecho": "Serie del gasto público educativo: 4,89 % del PIB en 2020 (55.176 millones), 4,84 % en 2021, 4,62 % en 2022, 4,54 % en 2023 y 4,48 % en 2024 (71.349 millones). En 2019 fue el 4,24 % y el máximo es el 5,02 % de 2009. Con la medida de la OCDE (2022, de Primaria a superior): España 4,0 %, UE-25 4,0 %, OCDE 4,3 %.",
+     "fecha": "2026-09-25",
+     "fuente": "El Español (informe de las fundaciones Ramón Areces y Sociedad y Educación, con datos del Ministerio)",
+     "url": "https://www.elespanol.com/observatorio-educacion/20260925/gasto-publico-educacion-espana-cae-decimas-pib-detras-media-ocde/1003744396390_0.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se pudo abrir la nota estadística original del Ministerio (https://www.educacionfpydeportes.gob.es/dam/jcr:639436ff-68b1-4b43-9fbe-7046039ec1ad/notagasto2024-prov.pdf); los importes coinciden con e1."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de 2019 prometía el 5 % del PIB en 2025",
+     "hecho": "El acuerdo de coalición PSOE-Unidas Podemos de 30-12-2019 (punto 2.1.10) dice: «Incrementaremos los recursos públicos destinados a la educación y becas hasta situar la inversión educativa en España en un 5 % del PIB en el año 2025».",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El dato de 2025 aún no está publicado; el de 2024 es el 4,48 % (e2)."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La LOMLOE ordenó un plan para llegar al 5 % del PIB",
+     "hecho": "La disposición adicional octava de la Ley Orgánica 3/2020 (LOMLOE) manda formular, en dos años desde su entrada en vigor, un plan de incremento del gasto público educativo que contemple llegar «hasta un mínimo del 5 por ciento del producto interior bruto». La ley no fija fecha para alcanzarlo.",
+     "fecha": "2020-12-30",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No localicé el plan. Antecedente directo de la promesa: un suelo fijado en una ley que no se ha cumplido."
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "Sumar pedía en 2023 el 5 % y avanzar al 7 %",
+     "hecho": "El programa de Sumar de 2023 (p. 154) decía: «es necesario alcanzar de manera inmediata el 5 % del PIB en gasto educativo, y avanzar progresivamente hacia el 7 %. Esta inversión se debe garantizar mediante una Ley de Financiación del Sistema Público Educativo».",
+     "fecha": "2023-07",
+     "fuente": "Sumar, «Un programa para ti»",
+     "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "En 2023 el 7 % no tenía fecha; en 2026 se fija para 2030."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "dato_oficial",
+     "titulo": "PIB de 2025: 1.690.012 millones de euros",
+     "hecho": "El INE cifra el PIB a precios corrientes de 2025 en 1.690.012 millones de euros. El 7 % son unos 118.300 millones, unos 47.000 millones más que el gasto educativo de 2024 (71.349 millones).",
+     "fecha": "2026-09-18",
+     "fuente": "INE, Contabilidad Nacional Anual",
+     "url": "https://www.ine.es/dyngs/Prensa/CNA2025.htm",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La diferencia es un cálculo propio y orientativo: compara el gasto de 2024 con el PIB de 2025, y el PIB de 2030 será mayor."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "frenteamplio-seguridad-1",
+   "pista_codex": "ninguna",
+   "promesa": "Derogar por completo la Ley de Seguridad Ciudadana («ley mordaza») y eliminar del Código Penal las injurias a la Corona, las ofensas a los sentimientos religiosos, los ultrajes a España y el enaltecimiento del terrorismo.",
+   "ha_gobernado": "estatal",
+   "resumen": "Prometen derogar entera la ley de 2015. El acuerdo de gobierno de 2019 ya comprometía una nueva ley «a la mayor brevedad»; casi siete años después la norma sigue vigente y su texto no cambia desde 2021. La reforma decayó dos veces con sus partidos en el Gobierno: en marzo de 2023, cuando ERC y EH Bildu votaron en contra por considerarla insuficiente, y en octubre de 2026, con la disolución de las Cortes, tras más de un año parada. En ambos casos el espacio votó a favor o pidió acelerar, pero lo que apoyó eran reformas parciales, no una derogación completa. En junio de 2026 pactó con el PSOE despenalizar cinco delitos de expresión y renunció a derogar el enaltecimiento del terrorismo, que el programa vuelve a prometer.",
+   "antecedentes": "El punto 5.6 del acuerdo PSOE-Unidas Podemos de 2019 decía que aprobarían una nueva ley de seguridad ciudadana «que sustituya a la Ley mordaza» (e2). La reforma tramitada entre 2020 y 2023 cayó en la Comisión de Interior el 14-3-2023 por 19 votos a 18 (e3). El programa de Sumar de 2023 ya no hablaba de sustituir la ley sino de reformar y derogar «aquellos aspectos» que limitan derechos (e4). Una nueva proposición se admitió a trámite en octubre de 2024 con un acuerdo entre el Gobierno y EH Bildu; la ponencia no se reunió en 2026 (e5) y la iniciativa decayó el 5-10-2026 (e6).",
+   "matiz": "Las dos reformas no cayeron por votos del espacio: en 2023 Unidas Podemos votó a favor y el texto lo tumbaron ERC, EH Bildu y Junts junto a PP, Vox y Ciudadanos; en 2024-2026 el bloqueo fue entre socios (PNV, EH Bildu, Podemos) y con un PSOE que, según las fuentes de la negociación, no empujó. El Ministerio del Interior fue siempre del PSOE. En sentido contrario, los textos que el espacio apoyó mantenían la ley con cambios, y por eso otros grupos de izquierda los rechazaron; la derogación «por completo» de 2026 va más lejos que lo que defendió cuando gobernaba. Frente Amplio es una coalición electoral presentada el 17-10-2026 (IU, Movimiento Sumar, Catalunya en Comú, Más Madrid, Chunta Aragonesista, Verdes Equo y otras cinco organizaciones; Podemos no forma parte). Como tal no ha gobernado: se contrasta el historial de sus partidos en el Gobierno de España (IU y los comunes dentro de Unidas Podemos en 2020-2023, Sumar en 2023-2026).",
+   "refutacion": "Para tumbar la promesa comprobé si la ley ha cambiado: el texto consolidado del BOE tiene como última modificación la de 23-2-2021 (e1) y las dos reformas decayeron (e3, e6). Para tumbar esa evidencia comprobé quién las hizo caer: en 2023 el voto en contra fue de ERC, EH Bildu, Junts, PP, Vox, Cs y UPN, no de Unidas Podemos (e3); en 2026 la crónica atribuye el bloqueo al choque entre PNV y EH Bildu, a las exigencias de Podemos y a la falta de impulso del PSOE, y recoge que Sumar pidió agilizarla (e5). Busqué también si lo que el espacio defendió era una derogación completa: no; el texto de 2023 y el de 2024 eran reformas, y el programa de Sumar de 2023 hablaba de «aspectos» (e4). A favor encontré el acuerdo de junio de 2026 para despenalizar cinco delitos de expresión (e8), que tampoco llegó a aprobarse. No pude abrir las crónicas sobre la proposición de un solo artículo que Sumar registró en julio de 2024 ni la votación de las enmiendas a la totalidad de diciembre de 2024 (el medio bloquea la descarga), y no localicé pronunciamientos de organismos independientes sobre los efectos de derogar la ley; las cifras de sanciones son del Ministerio del Interior (e7).",
+   "puntos": {
+    "historial": {
+     "nivel": 0,
+     "por": "Comprometida en el acuerdo de gobierno de 2019 (e2), la ley sigue vigente y sin cambios desde 2021 (e1) tras decaer dos reformas con sus partidos en el Gobierno (e3, e5, e6). No dirigían Interior y votaron a favor de la reforma de 2023."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Votos e iniciativas siempre en la dirección de recortar la ley (e3, e5, e8); la excepción es que apoyaron reformas parciales y en 2023 prometían cambiar «aspectos» (e4), y que en 2026 renunciaron a derogar el enaltecimiento que ahora prometen eliminar (e8)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Parte de la ley y todo el Código Penal exigen ley orgánica, es decir, mayoría absoluta del Congreso (e1); con una mayoría que incluía al Gobierno la reforma fracasó dos veces por desacuerdos entre socios (e3, e5)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "La ley se aplica de forma masiva (284.512 sanciones en 2023, el 74 % del importe por drogas, e7), pero no se localizó ninguna evaluación independiente sobre qué ocurriría con una derogación total ni qué norma la sustituiría."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La ley mordaza sigue vigente; último cambio, en 2021",
+     "hecho": "El texto consolidado de la Ley Orgánica 4/2015, de protección de la seguridad ciudadana, indica como última actualización la publicada el 23-2-2021. Su disposición final tercera da carácter orgánico a parte de sus artículos, de modo que cambiarlos exige mayoría absoluta del Congreso.",
+     "fecha": "2021-02-23",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta la copia del texto consolidado el 24-11-2026."
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de 2019 prometía sustituir la ley «a la mayor brevedad»",
+     "hecho": "El punto 5.6 del acuerdo de coalición PSOE-Unidas Podemos de 30-12-2019 dice: «Aprobaremos una nueva Ley de seguridad ciudadana, que sustituya a la Ley mordaza […]. Esta nueva legislación, que verá la luz a la mayor brevedad».",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "votacion",
+     "titulo": "La reforma cayó en 2023 por 19 votos a 18",
+     "hecho": "El 14-3-2023 la Comisión de Interior del Congreso rechazó el dictamen de reforma. Votaron a favor PSOE, Unidas Podemos y PNV (18); en contra, PP, Vox, Cs, ERC, Junts, UPN y EH Bildu (19). ERC y EH Bildu alegaron que mantenía las multas por desobediencia y faltas de respeto, las pelotas de goma y las devoluciones en caliente.",
+     "fecha": "2023-03-14",
+     "fuente": "Orain (EITB)",
+     "url": "https://orain.eus/es/politica/2023/03/14/la-ley-mordaza-seguira-en-vigor-tras-ser-rechazada-su-reforma-con-votos-en-contra-de-eh-bildu-y-erc/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Unidas Podemos votó a favor: la reforma no cayó por sus votos. El texto era una reforma, no una derogación."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "En 2023 Sumar prometía reformar «aspectos», no derogar la ley entera",
+     "hecho": "El programa de Sumar de 2023 (p. 131) decía: «reformaremos, y derogaremos, aquellos aspectos de la normativa vigente que limita los derechos de reunión y libertad de expresión (la ley mordaza y el Código Penal)». El programa de 2026 dice: «Derogaremos por completo la Ley Mordaza».",
+     "fecha": "2023-07",
+     "fuente": "Sumar, «Un programa para ti»",
+     "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cambio hacia una posición más ambiciosa, no en sentido contrario."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Junio de 2026: la ponencia llevaba todo el año sin reunirse",
+     "hecho": "La nueva reforma se admitió a trámite en octubre de 2024 y el plazo de enmiendas se cerró en diciembre de 2024. El 30-6-2026 la ponencia no se había reunido en 2026 y un diputado que forma parte de ella la describía como «congelada». La crónica atribuye el bloqueo al choque entre PNV y EH Bildu, a las exigencias de Podemos y a la falta de impulso del PSOE; Sumar había pedido agilizarla.",
+     "fecha": "2026-06-30",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/1_caa1d7",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Las causas del bloqueo proceden de fuentes de la negociación citadas por un solo medio; el hecho de que no se aprobó lo confirma e6."
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "La reforma decayó de nuevo con la disolución de las Cortes",
+     "hecho": "Con la convocatoria electoral del 5-10-2026 decayeron las iniciativas legislativas en trámite, entre ellas la reforma de la ley mordaza, que ya había decaído con el adelanto electoral de 2023 y se había reactivado en 2024.",
+     "fecha": "2026-10-05",
+     "fuente": "Ara",
+     "url": "https://es.ara.cat/politica/descarrila-congreso-elecciones_1_5870195.amp.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "284.512 sanciones en 2023; el 74 % del importe, por drogas",
+     "hecho": "Según el Anuario Estadístico del Ministerio del Interior, en 2023 se impusieron 284.512 sanciones por la Ley de Seguridad Ciudadana por 174 millones de euros, un 17 % más que en 2022. Por tenencia o consumo de drogas, 130 millones; por desobediencia (art. 36.6), 18.893 sanciones; por faltas de respeto a agentes (art. 37.4), 22.260.",
+     "fecha": "2024-08-30",
+     "fuente": "Europa Press (El Derecho), con datos del Ministerio del Interior",
+     "url": "https://elderecho.com/las-multas-por-la-ley-mordaza-aumentan-un-17-en-2023",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se abrió el Anuario original ni datos oficiales de 2024-2025. Derogar la ley entera dejaría sin base también las sanciones por drogas y armas salvo que otra norma las recoja; el programa no lo aclara."
+    },
+    {
+     "id": "e8",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "PSOE y Sumar pactaron en 2026 despenalizar cinco delitos de expresión",
+     "hecho": "El 15-6-2026 PSOE y Sumar acordaron desbloquear la proposición, en trámite desde 2023, que elimina del Código Penal las injurias a la Corona, los ultrajes a los símbolos, la ofensa a los sentimientos religiosos y las injurias a instituciones. Ambos renunciaron a derogar el enaltecimiento del terrorismo. Faltaban dos votaciones en el Congreso y el paso por el Senado.",
+     "fecha": "2026-06-15",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/psoe-sumar-reactivan-despenalizacion-ofensas-sentimientos-religiosos-corona_1_13303774.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No consta su aprobación antes de la disolución del 5-10-2026. El programa de 2026 sí incluye el enaltecimiento entre los delitos a derogar."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "frenteamplio-energia-2",
+   "pista_codex": "ninguna",
+   "promesa": "Cumplir el calendario de cierre de las centrales nucleares, con Almaraz I y II cerrando en 2027-2028, sin rebajas fiscales a sus propietarias.",
+   "ha_gobernado": "estatal",
+   "resumen": "Prometen que Almaraz cierre en 2027 y 2028 como estaba previsto. El 12-8-2026, con Sumar en el Gobierno, el Ministerio para la Transición Ecológica (PSOE) renovó la autorización de las dos unidades hasta el 8 de junio de 2030, tras un informe favorable del Consejo de Seguridad Nuclear. Sumar expresó su «absoluta disconformidad» y su ministro Ernest Urtasun lo llamó «error estratégico», sin que conste otra medida. Antes había votado en el Congreso contra prolongar las nucleares y su programa de 2023 defendía el mismo calendario. El programa de 2026, publicado después de la prórroga, no explica cómo revertiría una autorización que está en vigor.",
+   "antecedentes": "El calendario de cierre (2027-2035) se pactó en 2019 entre las eléctricas y la empresa pública Enresa, y el acuerdo de coalición de 2019 hablaba de centrales «con calendario conocido» (e8). El programa de Sumar de 2023 se comprometía a mantenerlo (e5). Sumar votó contra la proposición no de ley del PP para prolongar las nucleares, aprobada el 12-2-2025 (e3), y en noviembre de 2025 pidió al Gobierno que rechazara la solicitud de prórroga de Almaraz, presentada por sus propietarias el 30-10-2025 (e4). La prórroga se concedió por orden ministerial el 12-8-2026 (e1).",
+   "matiz": "La autorización la concede el Ministerio para la Transición Ecológica, del PSOE, mediante una orden que no pasa por el Consejo de Ministros ni por el Congreso: Sumar no la votó y dejó constancia pública de su rechazo. A la vez, la decisión la tomó el Gobierno del que formaba parte, a mes y medio de la convocatoria electoral, y Sumar siguió en él. El Ministerio sostiene que la prórroga es «coyuntural» y que el cierre total en 2035 no cambia. Frente Amplio es una coalición electoral presentada el 17-10-2026 (IU, Movimiento Sumar, Catalunya en Comú, Más Madrid, Chunta Aragonesista, Verdes Equo y otras cinco organizaciones; Podemos no forma parte). Como tal no ha gobernado: se contrasta el historial de sus partidos en el Gobierno de España (IU y los comunes dentro de Unidas Podemos en 2020-2023, Sumar en 2023-2026).",
+   "refutacion": "Para tumbar la promesa comprobé en el BOE si el calendario de Almaraz sigue en pie: no, la Orden TED/864/2026 extiende la explotación de las dos unidades hasta el 8-6-2030 (e1), y el programa, fechado el 23-11-2026, sigue diciendo que cerrarán en 2027-2028. Para tumbar esa evidencia comprobé: (1) quién decidió: una orden del ministerio del PSOE, no un acuerdo del Consejo de Ministros; (2) qué hizo Sumar: votó en contra de prolongar las nucleares en febrero de 2025 (e3), pidió rechazar la prórroga en noviembre de 2025 (e4) y la criticó en agosto de 2026 (e2); (3) si se mantiene el resto del calendario: el Ministerio dice que sí (e2). Un detalle de la propia orden: la autorización de protección física de la central conserva las fechas antiguas (2027 y 2028) y habrá que renovarla aparte. La orden publicada no recoge la justificación de «volatilidad» geopolítica que citó la prensa; esa explicación procede del Ministerio según Ara. No pude verificar: el estudio de la Universidad Rey Juan Carlos que, según Greenpeace, cifra un sobrecoste de 3.831 millones; si hubo cambios en la tasa de Enresa o en impuestos autonómicos a favor de las propietarias; y si el Frente Amplio ha explicado cómo anularía una autorización vigente.",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "El Gobierno del que formaban parte prorrogó Almaraz hasta 2030, justo lo contrario de lo prometido (e1); el resto del calendario se mantiene formalmente y la decisión fue de un ministerio del PSOE, con el rechazo público de Sumar (e2)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Programa, votos y declaraciones en la misma dirección desde 2023 (e3, e4, e5, e2); la excepción es que siguieron en el Gobierno que aprobó la prórroga sin tomar otra medida (e2)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Basta una orden ministerial, pero habría que revocar o modificar una autorización concedida en agosto de 2026 con informe favorable del Consejo de Seguridad Nuclear y válida hasta 2030 (e1, e6); el programa no explica cómo ni con qué coste, y el Congreso de 2023-2026 pidió prolongar las nucleares (e3)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "La nuclear aportó el 19 % de la electricidad en 2025, segunda fuente tras la eólica (e7); el regulador no ve impedimento de seguridad para operar hasta 2030 (e6). No se localizó ninguna evaluación independiente sobre el efecto de cerrar en 2027-2028 en precios o suministro."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "El Gobierno prorrogó Almaraz hasta junio de 2030",
+     "hecho": "La Orden TED/864/2026, de 12 de agosto, renueva la autorización de explotación de las unidades I y II de Almaraz «hasta el 8 de junio de 2030, inclusive». La autorización anterior (Orden TED/773/2020) vencía el 1-11-2027 para la unidad I y el 31-10-2028 para la II. Las propietarias lo solicitaron el 30-10-2025.",
+     "fecha": "2026-08-14",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17756",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Orden del Ministerio para la Transición Ecológica (PSOE). El programa del Frente Amplio se publicó después, el 23-11-2026."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Sumar rechazó la prórroga: «un error estratégico»",
+     "hecho": "El 14-8-2026 fuentes de Sumar expresaron su «absoluta disconformidad» y el ministro Ernest Urtasun calificó la prórroga de «un error estratégico» y acusó al PSOE de incumplir el acuerdo de gobierno. La crónica no recoge que Sumar anunciara ninguna otra medida. El Ministerio la justificó por la incertidumbre geopolítica, la llamó «coyuntural» y mantuvo el cierre total en 2035.",
+     "fecha": "2026-08-14",
+     "fuente": "Ara",
+     "url": "https://es.ara.cat/economia/energia/da-visto-bueno-prorroga-almaraz-2030_1_5823868.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No pude abrir el texto del acuerdo PSOE-Sumar de 2023 para comprobar qué decía sobre el calendario nuclear."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "Sumar votó en 2025 contra prolongar las nucleares",
+     "hecho": "El 12-2-2025 el Congreso aprobó una proposición no de ley del PP que instaba a prorrogar la vida de las siete centrales: 171 votos a favor (PP, Vox, UPN), 164 en contra (PSOE, Sumar, PNV y Grupo Mixto) y 14 abstenciones (Junts y ERC).",
+     "fecha": "2025-02-12",
+     "fuente": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2025-02-12/congreso-prolongar-erc-junts/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Texto no vinculante. Muestra también que la mayoría del Congreso de 2023-2026 pedía lo contrario de la promesa."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "Noviembre de 2025: Sumar pide al Gobierno rechazar la prórroga",
+     "hecho": "El 13-11-2025 el diputado de Sumar Eloi Badia pidió desde la tribuna del Congreso que el Gobierno rechazara la solicitud de Almaraz: «Pido al Gobierno que no se esconda, ni se lave las manos» y «falta que el PSOE también lo tenga claro y diga no a la prórroga de Almaraz».",
+     "fecha": "2025-11-13",
+     "fuente": "Energías Renovables",
+     "url": "https://www.energias-renovables.com/panorama/sumar-pide-al-psoe-que-no-se-20251113",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de Sumar de 2023 ya defendía el calendario",
+     "hecho": "El programa de Sumar de 2023 (p. 48) decía: «Sumar se compromete a mantener el calendario de cierre del parque nuclear español, aplicando una moratoria a cualquier nueva iniciativa nuclear», y proponía subir la tasa de residuos radiactivos.",
+     "fecha": "2023-07",
+     "fuente": "Sumar, «Un programa para ti»",
+     "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "dato_oficial",
+     "titulo": "El Consejo de Seguridad Nuclear informó a favor de operar hasta 2030",
+     "hecho": "Según la propia orden, el Consejo de Seguridad Nuclear emitió el 16-7-2026 un informe «favorable a la renovación de la autorización de explotación por el periodo solicitado», condicionado a los límites del anexo. Su informe se limita a la seguridad; la decisión corresponde al Ministerio.",
+     "fecha": "2026-07-16",
+     "fuente": "BOE (Orden TED/864/2026)",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17756",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Misma fuente que e1. Revertir la prórroga exigiría una nueva orden sobre una autorización en vigor con aval técnico."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "La nuclear generó el 19 % de la electricidad en 2025",
+     "hecho": "Según Red Eléctrica, en 2025 la nuclear fue la segunda fuente de generación con el 19 % del total, tras la eólica (21,6 %) y por delante de la solar fotovoltaica (18,4 %) y el ciclo combinado de gas (16,8 %). Las renovables sumaron el 55,5 %.",
+     "fecha": "2026",
+     "fuente": "Red Eléctrica, Informe del Sistema Eléctrico 2025",
+     "url": "https://www.sistemaelectrico-ree.es/sites/default/files/informes/2026/ise-2025.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El dato es del conjunto de las siete centrales; no se localizó el peso de Almaraz por separado."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de 2019 daba por fijado el calendario de cierre",
+     "hecho": "El punto 3.3 del acuerdo de coalición PSOE-Unidas Podemos de 2019 preveía planes para las comarcas afectadas «por el cierre de centrales de carbón y centrales nucleares con calendario conocido».",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "propuesta_id": "frenteamplio-corrupcion-5",
+   "pista_codex": "ampliacion-c-frente-amplio-t0896",
+   "promesa": "Poner en marcha de inmediato la Autoridad de Protección del Informante, con personal y medios suficientes para proteger de verdad a quien denuncie corrupción.",
+   "ha_gobernado": "estatal",
+   "resumen": "Prometen poner en marcha la autoridad que protege a los denunciantes. La autoridad ya funciona desde el 1 de septiembre de 2025, puesta en marcha por el Gobierno del que formaba parte Sumar, aunque con retraso: la ley de 2023 daba un año para aprobar su estatuto y se aprobó a los veinte meses. Lo que sigue pendiente es la segunda parte de la promesa, los medios: su memoria de 2025 reconoce que no tiene presupuesto propio aprobado por las Cortes, que no ha alcanzado «su capacidad operativa plena» y que no ha podido dar apoyo económico ni psicológico a ningún informante. En 2025 analizó 26 peticiones de protección y emitió 17 certificados. El programa no da cifras de personal ni de presupuesto.",
+   "antecedentes": "La Ley 2/2023, aprobada con Unidas Podemos en el Gobierno para trasponer una directiva europea cuyo plazo venció en diciembre de 2021, creó la autoridad y dio un año para aprobar su estatuto (e2, e6). El estatuto llegó el 29-10-2024, el presidente se nombró en abril de 2025 y la autoridad empezó a funcionar el 1-9-2025 (e1, e2). En 2026 seguía dependiendo del Ministerio de la Presidencia y Justicia para sus sistemas informáticos (e4, e5).",
+   "matiz": "La autoridad depende del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, dirigido por el PSOE: ni el retraso ni la puesta en marcha son atribuibles en exclusiva a los partidos del Frente Amplio. La falta de presupuesto propio se debe a que no se aprueban Presupuestos Generales desde 2023. La promesa describe como pendiente algo que ya existe; leída con buena fe, lo que añade es dotarla de medios. Frente Amplio es una coalición electoral presentada el 17-10-2026 (IU, Movimiento Sumar, Catalunya en Comú, Más Madrid, Chunta Aragonesista, Verdes Equo y otras cinco organizaciones; Podemos no forma parte). Como tal no ha gobernado: se contrasta el historial de sus partidos en el Gobierno de España (IU y los comunes dentro de Unidas Podemos en 2020-2023, Sumar en 2023-2026).",
+   "refutacion": "Para tumbar la promesa comprobé si lo prometido ya está hecho: sí en la parte de «poner en marcha» (Orden PJC/908/2025, e1) y no en la de los medios (memoria de 2025, e3). Para tumbar esa evidencia comprobé si las carencias de 2025 seguían en 2026: el Consejo de Ministros creó en diciembre de 2025 una estructura presupuestaria propia dentro de la prórroga (e4), pero en junio de 2026 el Ministerio aún tuvo que prorrogarle el soporte informático hasta el 30-9-2026 (e5); no encontré datos posteriores, así que no se puede afirmar cuál es su dotación a 24-11-2026. Sobre el expediente de Codex: sus seis fuentes se abrieron y dicen lo que resume; su conclusión de que la promesa «no describe correctamente el punto de partida» es exacta en lo formal. Busqué votos, iniciativas o declaraciones de Sumar, IU o los comunes sobre esta autoridad y no encontré ninguna, ni a favor ni en contra; tampoco pude abrir el Diario de Sesiones de la comparecencia de su presidente en el Congreso (26-5-2026) ni confirmar el voto de Unidas Podemos a la Ley 2/2023. No localicé ninguna sentencia europea contra España por el retraso de la directiva: la búsqueda solo devolvió el procedimiento de infracción abierto.",
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "El Gobierno del que formaban parte creó la autoridad y la puso a funcionar (e1), pero con el estatuto siete meses fuera del plazo legal y dos años y medio después de la ley (e2, e6), y sin presupuesto propio ni apoyo económico a informantes en 2025 (e3)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "No se localizaron votos ni iniciativas propias del espacio sobre esta autoridad, en ningún sentido; el programa presenta como pendiente una puesta en marcha que hizo su propio Gobierno en 2025 (e1)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Dotarla de plantilla y crédito es decisión del Gobierno y competencia estatal (e2, e4), pero un presupuesto propio estable depende de aprobar unos Presupuestos Generales, prorrogados desde 2023 (e3)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "La memoria oficial documenta las carencias que la promesa quiere resolver (e3) y algún avance en 2026 (e4, e5); no hay evaluación independiente ni el programa fija una cifra con la que medir si se cumple."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La Autoridad funciona desde el 1 de septiembre de 2025",
+     "hecho": "La Orden PJC/908/2025, de 8 de agosto, fijó «el día 1 de septiembre de 2025 como fecha de puesta en funcionamiento de la Autoridad Independiente de Protección del Informante». Su presidente, Manuel Villoria, fue nombrado por Real Decreto 328/2025, de 15 de abril. El programa de 2026 promete «poner en marcha inmediatamente» esta autoridad.",
+     "fecha": "2025-08-08",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-16764",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Hecho por el Gobierno de coalición; el ministerio responsable es del PSOE."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "El estatuto se aprobó siete meses después del plazo legal",
+     "hecho": "La disposición final undécima de la Ley 2/2023 daba un año desde su entrada en vigor (13-3-2023) para aprobar el estatuto de la Autoridad. El Real Decreto 1101/2024 lo aprobó el 29-10-2024. Hasta que tenga presupuesto propio, se financia con créditos del Ministerio de la Presidencia y Justicia.",
+     "fecha": "2024-10-30",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/eli/es/rd/2024/10/29/1101",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La fecha de entrada en vigor de la ley (13-3-2023) procede de The Objective (e6); el plazo de un año se comprobó en el texto de la Ley 2/2023 (https://www.boe.es/buscar/act.php?id=BOE-A-2023-4513)."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Memoria 2025: sin presupuesto propio ni apoyo económico a informantes",
+     "hecho": "La memoria de 2025 de la Autoridad recoge 26 solicitudes de protección analizadas y 17 certificados emitidos. Reconoce que no ha podido prestar apoyo financiero ni psicológico «dada la ausencia de procedimiento y presupuesto», que carece de «un presupuesto verdaderamente propio» y que «no ha conseguido todavía su capacidad operativa plena». Su primera relación de puestos tenía 18 plazas.",
+     "fecha": "2026",
+     "fuente": "Autoridad Independiente de Protección del Informante",
+     "url": "https://www.proteccioninformante.gob.es/content/dam/aipi/documentos/MEMORIA%20ANUAL%202025%20AIPI.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Describe 2025; no se presume que la situación sea idéntica en noviembre de 2026. Un certificado acredita la condición de informante protegido, no que las represalias se hayan reparado."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "En diciembre de 2025 se creó su estructura presupuestaria",
+     "hecho": "Un acuerdo publicado en el BOE en mayo de 2026 indica que el Consejo de Ministros de 23-12-2025, al aprobar la prórroga presupuestaria para 2026, creó la estructura presupuestaria de la Autoridad, y encomienda al Ministerio de la Presidencia y Justicia la prestación de sus servicios informáticos.",
+     "fecha": "2026-05-06",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-10305",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Indica capacidad parcial y dependencia técnica del Ministerio; no acredita por sí solo medios suficientes."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "En junio de 2026 seguía necesitando soporte del Ministerio",
+     "hecho": "La Orden PJC/656/2026, de 29 de junio, prorrogó hasta el 30-9-2026 el soporte informático y de página web que el Ministerio presta a la Autoridad. La orden de puesta en marcha preveía ese apoyo solo hasta el 1-11-2025.",
+     "fecha": "2026-06-30",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/eli/es/o/2026/06/29/pjc656",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No localicé una prórroga posterior ni datos de dotación a noviembre de 2026."
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Febrero de 2024: un año de ley y la autoridad sin crear",
+     "hecho": "El 20-2-2024, un año después de publicarse la Ley 2/2023 (BOE de 21-2-2023, en vigor desde el 13-3-2023), el Gobierno no había creado la Autoridad. El plazo para trasponer la directiva europea de protección de denunciantes había vencido el 17-12-2021 y la Comisión Europea abrió un procedimiento de infracción.",
+     "fecha": "2024-02-20",
+     "fuente": "The Objective",
+     "url": "https://theobjective.com/espana/tribunales/2024-02-20/gobierno-incumple-ley-corrupcion/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El artículo afirma que la ley no fija plazo para crear el órgano; la disposición final undécima sí fija un año para su estatuto (e2)."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "frenteamplio-instituciones-2",
+   "pista_codex": "ampliacion-c-frente-amplio-t0951",
+   "promesa": "Reformar la Ley Orgánica del Poder Judicial para que, si en dos meses no hay acuerdo de tres quintos, los doce vocales judiciales del CGPJ puedan elegirse por mayoría absoluta, y para que el Consejo pueda constituirse aunque falten los ocho juristas.",
+   "ha_gobernado": "estatal",
+   "resumen": "Prometen un mecanismo antibloqueo: mayoría absoluta en segunda votación para los vocales de procedencia judicial. PSOE y Unidas Podemos registraron una reforma parecida en octubre de 2020 y la retiraron en abril de 2021 tras las «serias preocupaciones» de la Comisión Europea. El CGPJ estuvo más de cinco años y medio con el mandato caducado y se renovó en 2024 por un pacto PSOE-PP que mantuvo los tres quintos; Sumar se abstuvo y siguió pidiendo cambiar las mayorías. La Constitución solo fija los tres quintos para los ocho juristas, así que el cambio cabe en una ley orgánica, pero los órganos europeos piden lo contrario: que a los vocales judiciales los elijan los jueces y que la elección no sea política «ni siquiera con mayoría calificada».",
+   "antecedentes": "El acuerdo de coalición de 2019 hablaba de «acuerdos parlamentarios de consenso» para renovar el CGPJ (e8). En octubre de 2020 PSOE y Unidas Podemos registraron una proposición para rebajar la mayoría; el ministro de Justicia anunció su retirada el 20-4-2021 (e2). El programa de Sumar de 2023 pedía reformular el sistema de elección y «la obtención de mayorías» manteniendo la elección parlamentaria (e7). En abril de 2024 Yolanda Díaz propuso pasar a «mayorías absolutas» (e5); en junio de 2024 PSOE y PP pactaron la renovación sin tocar las mayorías y Sumar se abstuvo (e4, e6).",
+   "matiz": "La propuesta no rebaja la mayoría de los ocho juristas, que es la que fija la Constitución, y conserva los tres quintos como primera opción: solo actúa si hay bloqueo. La retirada de 2021 la anunció un ministro del PSOE, no Unidas Podemos. En sentido contrario, la segunda parte (constituir el Consejo sin los juristas) afecta a un órgano que la Constitución define con veinte vocales, y no se ha localizado ningún dictamen sobre su encaje. Frente Amplio es una coalición electoral presentada el 17-10-2026 (IU, Movimiento Sumar, Catalunya en Comú, Más Madrid, Chunta Aragonesista, Verdes Equo y otras cinco organizaciones; Podemos no forma parte). Como tal no ha gobernado: se contrasta el historial de sus partidos en el Gobierno de España (IU y los comunes dentro de Unidas Podemos en 2020-2023, Sumar en 2023-2026).",
+   "refutacion": "Para tumbar la promesa busqué qué pasó cuando lo intentaron: la reforma de 2020 se retiró sin votarse (e2) y la renovación de 2024 se hizo con el sistema que querían cambiar (e4, e6). Busqué también qué dicen los órganos europeos: GRECO y la Comisión de Venecia piden que los vocales judiciales los elijan sus pares (e3, e4). Para tumbar esa evidencia comprobé: (1) el texto de la Constitución: los tres quintos solo son obligados para los ocho juristas; para los doce judiciales remite a «la ley orgánica» (e1), de modo que la reforma no exige cambiar la Constitución, como también señala el expediente de Codex; (2) que el dictamen de Venecia de 2025 tampoco avala sin reservas el modelo alternativo de elección solo por jueces, en el que ve riesgo de politización interna, y que reprocha al sistema actual carecer de mecanismos contra el bloqueo, que es lo que la promesa dice resolver (e3); (3) que el bloqueo fue real: más de cinco años y medio (e4). No pude abrir el texto original del dictamen de Venecia (el servidor del Consejo de Europa rechaza la descarga): se cita por la crónica de Ara. Tampoco abrí la proposición de 2020 en el Boletín de las Cortes, la STC 108/1986 que cita Codex, ni los informes sobre el Estado de derecho de la Comisión Europea; no se usan para puntuar.",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Con sus partidos en el Gobierno la reforma se registró en 2020 y se retiró en 2021 (e2); el CGPJ se renovó en 2024 con los tres quintos y por un pacto ajeno al espacio (e4, e6)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Misma posición en 2020, 2023, 2024 y 2026 (e2, e5, e6, e7); la excepción es que el acuerdo de 2019 hablaba de consenso (e8) y que la iniciativa de 2020 se retiró sin que conste oposición suya (e2)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Basta una ley orgánica porque la Constitución no fija la mayoría de los vocales judiciales (e1), pero necesita mayoría absoluta y ya se retiró una vez por las objeciones de la Comisión Europea (e2); constituir el Consejo sin los juristas no ha sido examinado por ningún órgano localizado."
+    },
+    "datos": {
+     "nivel": 1,
+     "por": "Los órganos europeos que se han pronunciado van en sentido contrario: GRECO pide que los jueces elijan a los vocales judiciales (e4) y la Comisión de Venecia rechaza una elección política «ni siquiera con mayoría calificada» (e3); a favor, el bloqueo de más de cinco años que la medida quiere evitar (e4)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "apoya",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La Constitución solo exige tres quintos para los ocho juristas",
+     "hecho": "El artículo 122.3 de la Constitución dice que, de los veinte vocales, doce se nombran entre jueces y magistrados «en los términos que establezca la ley orgánica» y ocho a propuesta del Congreso y del Senado «por mayoría de tres quintos». La mayoría de tres quintos para los doce judiciales está en el artículo 567 de la Ley Orgánica del Poder Judicial, no en la Constitución.",
+     "fecha": "1978-12-29",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El artículo 567 de la LOPJ se comprobó en https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666. La Constitución fija veinte vocales: la idea de constituir el Consejo sin los ocho juristas no se ha contrastado con ningún dictamen."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "PSOE y Unidas Podemos retiraron en 2021 una reforma parecida",
+     "hecho": "El 20-4-2021 el ministro de Justicia, Juan Carlos Campo, anunció que propondría a los grupos del Gobierno retirar la proposición registrada en octubre de 2020 por PSOE y Unidas Podemos, que rebajaba la mayoría para elegir vocales del CGPJ. La vicepresidenta de la Comisión Europea Vera Jourová había expresado «serias preocupaciones».",
+     "fecha": "2021-04-20",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2021/04/20/el-gobierno-da-marcha-atras-y-retirara-la-reforma-dura-del-cgpj-que-preocupa-a-bruselas/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La retirada la anunció un ministro del PSOE; el artículo no recoge la posición de Unidas Podemos. No se abrió el texto de la proposición de 2020."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "Venecia: la elección no debe ser política ni con mayoría cualificada",
+     "hecho": "En su dictamen publicado el 13-10-2025 sobre la elección de los vocales judiciales del CGPJ, la Comisión de Venecia no avala que la decisión final sea de las Cortes: «La fase de elección posterior no puede ser una elección política, ni siquiera con mayoría calificada». También advierte de que el sistema carece de mecanismos contra el bloqueo y ve riesgo de politización interna en la elección solo por jueces.",
+     "fecha": "2025-10-13",
+     "fuente": "Ara (dictamen de la Comisión de Venecia, Consejo de Europa)",
+     "url": "https://es.ara.cat/politica/europa-vuelve-reganar-espana-politizacion-judicial_1_5527559.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se pudo abrir el dictamen original (https://www.coe.int/en/web/venice-commission/-/cdl-ad-2025-038-e devuelve error 403); la cita literal procede de la crónica. Los dictámenes de Venecia no son vinculantes."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "El CGPJ estuvo más de cinco años y medio caducado",
+     "hecho": "GRECO, órgano anticorrupción del Consejo de Europa, calificó la situación de «urgente» el 21-6-2024 y pidió que los vocales judiciales fueran elegidos por los propios jueces. PSOE y PP anunciaron el pacto de renovación el 25-6-2024, cuando el mandato llevaba más de cinco años y medio agotado. El pacto encargó al CGPJ una propuesta de reforma del sistema; el órgano presentó dos, sin acuerdo.",
+     "fecha": "2025-04-16",
+     "fuente": "Ara",
+     "url": "https://es.ara.cat/politica/pp-psoe-renovaron-cgpj-cuatro-dias-despues-duro-reves-europa_1_5350040.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "Abril de 2024: Díaz propone pasar a «mayorías absolutas»",
+     "hecho": "El 30-4-2024 Yolanda Díaz defendió una reforma «sin medias tintas» del sistema de renovación, con un «tránsito temporal» de los tres quintos a «un procedimiento de mayorías absolutas» para los doce vocales judiciales. El PSOE pidió tiempo y trabajaba en cambios que no tocaran la mayoría cualificada.",
+     "fecha": "2024-04-30",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/sumar-presiona-cambiar-mayorias-renovar-judicial-reticencias-psoe_1_11332904.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Sumar se abstuvo en la reforma PSOE-PP del CGPJ de 2024",
+     "hecho": "El 3-7-2024 Sumar anunció su abstención en la reforma de la Ley Orgánica del Poder Judicial pactada por PSOE y PP para renovar el CGPJ, cuyas medidas consideró «correctas pero insuficientes». Se quejó de no haber conocido el texto antes de su registro.",
+     "fecha": "2024-07-03",
+     "fuente": "Qué! (Europa Press)",
+     "url": "https://www.que.es/2024/07/03/sumare-reforma-congreso/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se abrió el Diario de Sesiones con el resultado de la votación."
+    },
+    {
+     "id": "e7",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de Sumar de 2023 pedía cambiar las mayorías",
+     "hecho": "El programa de Sumar de 2023 (p. 129) decía que era preciso «reformular su sistema de elección […] así como la obtención de mayorías, de modo que se evite el bloqueo», y añadía: «En cuanto a los vocales del CGPJ de procedencia judicial, mantenemos el modelo de elección parlamentaria».",
+     "fecha": "2023-07",
+     "fuente": "Sumar, «Un programa para ti»",
+     "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "En 2023 no concretaba la mayoría; el programa de 2026 fija mayoría absoluta tras dos meses."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de 2019 hablaba de renovar por consenso",
+     "hecho": "El punto 2.11.1 del acuerdo de coalición PSOE-Unidas Podemos de 2019 decía: «Promoveremos acuerdos parlamentarios de consenso que permitan la elección y renovación de los órganos constitucionales […] como en el caso del Consejo General del Poder Judicial».",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Diez meses después registraron la rebaja de la mayoría, con el CGPJ ya dos años caducado."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "frenteamplio-territorio-1",
+   "pista_codex": "ninguna",
+   "promesa": "Reformar el sistema de financiación autonómica y añadirle cada año al menos el 2,3 % del PIB, unos 38.000 millones de euros, para servicios públicos.",
+   "ha_gobernado": "estatal",
+   "resumen": "Prometen 38.000 millones más al año para las comunidades autónomas. El sistema vigente es de 2009 y debía revisarse en 2014. La reforma figuraba en el acuerdo de gobierno de 2019 y en el programa de Sumar de 2023, y Yolanda Díaz prometió en 2023 «la legislatura de la financiación». El Gobierno presentó su modelo en enero de 2026, con 20.975 millones adicionales (algo más de la mitad de lo que ahora promete el Frente Amplio), y el Consejo de Política Fiscal y Financiera lo aprobó el 4-9-2026, pero nunca llegó al Congreso y decayó con las elecciones. Fedea considera que ya esos 21.000 millones dejarían al Estado «con muy poco margen presupuestario». El programa no dice cómo se pagan los 38.000.",
+   "antecedentes": "El punto 9.5 del acuerdo PSOE-Unidas Podemos de 2019 fijaba como «objetivo final» aprobar un nuevo sistema (e4). El programa de Sumar de 2023 pedía «impulsar de forma inmediata la reforma» con un suelo fiscal (e5) y Díaz prometió en octubre de 2023 que sería «la legislatura de la financiación» (e6). Hacienda presentó el modelo el 14-1-2026 (e1), lo aparcó durante meses y lo llevó al Consejo de Política Fiscal y Financiera el 4-9-2026 (e2); el paso siguiente era el Consejo de Ministros y el Congreso, pero las Cortes se disolvieron el 5-10-2026 (e3).",
+   "matiz": "Hacienda fue siempre un ministerio del PSOE y la reforma se negoció sobre todo con ERC y la Generalitat; que no llegara al Congreso no es atribuible solo a los partidos del Frente Amplio, que la reclamaban. En sentido contrario, la cifra de 38.000 millones no es la que negoció el Gobierno del que formaban parte, sino casi el doble, y dentro del espacio hubo posiciones distintas sobre cómo repartir el dinero. Frente Amplio es una coalición electoral presentada el 17-10-2026 (IU, Movimiento Sumar, Catalunya en Comú, Más Madrid, Chunta Aragonesista, Verdes Equo y otras cinco organizaciones; Podemos no forma parte). Como tal no ha gobernado: se contrasta el historial de sus partidos en el Gobierno de España (IU y los comunes dentro de Unidas Podemos en 2020-2023, Sumar en 2023-2026).",
+   "refutacion": "Para tumbar la promesa busqué en qué quedó la reforma con sus partidos en el Gobierno: presentada en enero de 2026, aprobada en el Consejo de Política Fiscal y Financiera en septiembre y decaída en octubre sin llegar al Congreso (e1, e2, e3); doce años después de caducar, sigue el modelo de 2009. Para tumbar esa evidencia comprobé que el espacio no dirigía Hacienda y que la reclamó de forma constante (e5, e6), y que el modelo sí avanzó más que nunca: es el primero aprobado en ese consejo en 17 años, según Hacienda (e2). Comprobé también la cifra: el 2,3 % del PIB de 2025 (1.690.012 millones según el INE) son 38.870 millones, coherente con «unos 38.000». Busqué una valoración independiente: solo encontré la de Fedea, crítica ya con la cifra del Gobierno (e8); su director es además autor de propuestas alternativas, lo que conviene tener presente. No encontré de dónde sale el 2,3 % (el programa no lo explica), ni pronunciamiento de la AIReF sobre el modelo, ni el resultado de la votación por comunidades en el consejo de septiembre, ni el texto del acuerdo PSOE-Sumar de 2023 en formato legible. Las posiciones de los partidos del espacio sobre la ordinalidad proceden de un solo medio (e7).",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Reforma comprometida en 2019 y 2023 (e4, e5, e6); el Gobierno del que formaban parte presentó un modelo y lo aprobó en el Consejo de Política Fiscal y Financiera (e1, e2), pero no llegó al Congreso y sigue vigente el sistema de 2009 (e3). No dirigían Hacienda."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Reclamación constante de la reforma desde 2019 (e4, e5, e6); la excepción son las posiciones distintas dentro del espacio sobre el reparto y la ordinalidad (e7)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Exige ley orgánica (mayoría absoluta) y negociar con las comunidades (e9, e2), y supone 38.000 millones al año sin financiación explicada, casi el doble de lo que el Gobierno llegó a proponer (e1)."
+    },
+    "datos": {
+     "nivel": 1,
+     "por": "La única valoración independiente localizada, de Fedea, considera que 21.000 millones ya agravarían los problemas financieros del Estado, con un déficit de más de dos puntos (e8); la promesa pide 38.000. No hay respaldo de ningún organismo a esa cifra."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "El modelo del Gobierno sumaba 20.975 millones en 2027",
+     "hecho": "Hacienda presentó el 14-1-2026 ante el Consejo de Política Fiscal y Financiera un modelo que daría a las comunidades 20.975 millones más en 2027 que el vigente, con cesión del 55 % del IRPF (hoy 50 %) y del 56,5 % del IVA (hoy 50 %). La adhesión sería voluntaria y debía tramitarse como ley orgánica.",
+     "fecha": "2026-01-14",
+     "fuente": "La Moncloa (Ministerio de Hacienda)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/Paginas/2026/140126-montero-financiacion-autonomica.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La promesa del Frente Amplio (unos 38.000 millones) es 1,8 veces esa cifra."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "El Consejo de Política Fiscal aprobó el modelo en septiembre de 2026",
+     "hecho": "El 4-9-2026 el Consejo de Política Fiscal y Financiera aprobó el acuerdo sobre el nuevo modelo, con 20.975 millones adicionales. Hacienda lo presentó como el primero aprobado en 17 años y anunció que redactaría la ley, que pasaría por el Consejo de Ministros «antes de ser remitido al Congreso».",
+     "fecha": "2026-09-04",
+     "fuente": "Ministerio de Hacienda",
+     "url": "https://www.hacienda.gob.es/es-es/prensa/noticias/noticiaspdf/742.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota del Gobierno. No recoge qué comunidades votaron a favor o en contra. Hacienda es un ministerio del PSOE."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "El nuevo modelo nunca llegó al Congreso",
+     "hecho": "Con la convocatoria electoral del 5-10-2026, el nuevo modelo de financiación quedó entre las normas que «nunca llegaron al Congreso» y pasa al próximo Gobierno. Sigue vigente el sistema de 2009, pendiente de revisión desde 2014. También decayó la ley de condonación de parte de la deuda autonómica.",
+     "fecha": "2026-10-05",
+     "fuente": "Ara",
+     "url": "https://es.ara.cat/politica/descarrila-congreso-elecciones_1_5870195.amp.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de 2019 ya comprometía un nuevo sistema",
+     "hecho": "El punto 9.5 del acuerdo de coalición PSOE-Unidas Podemos de 2019 fijaba «el objetivo final de aprobar un nuevo sistema de financiación de las comunidades autónomas que resuelva las carencias, asimetrías y ambigüedades del sistema actual».",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "Sumar pedía en 2023 la reforma inmediata con un suelo fiscal",
+     "hecho": "El programa de Sumar de 2023 pedía garantizar «una financiación suficiente para las comunidades autónomas, acordando un nuevo modelo que incluya un suelo fiscal», recordaba que el actual «está caducado desde 2014» e instaba a «impulsar de forma inmediata la reforma del sistema de financiación».",
+     "fecha": "2023-07",
+     "fuente": "Sumar, «Un programa para ti»",
+     "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No daba cifra; el 2,3 % del PIB aparece en el programa de 2026."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "Díaz prometió en 2023 «la legislatura de la financiación»",
+     "hecho": "El 21-10-2023, en un acto en València, Yolanda Díaz dijo que la legislatura que empezaba sería «la legislatura de la financiación» y que la Comunitat Valenciana es la «peor financiada de España».",
+     "fecha": "2023-10-21",
+     "fuente": "Valencia Plaza",
+     "url": "https://valenciaplaza.com/valenciaplaza/diaz-promete-legislatura-financiacion-no-es-entelequia-es-algo-imprescindible",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La legislatura terminó sin nuevo modelo aprobado (e3)."
+    },
+    {
+     "id": "e7",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Posiciones distintas en el espacio sobre cómo repartir",
+     "hecho": "En enero de 2026 los comunes apoyaban el modelo y admitían «aproximaciones diferentes» sobre la ordinalidad; el coordinador de IU, Antonio Maíllo, la criticó («No podemos premiar a según qué territorio») sin oponerse al modelo; y Jorge Pueyo, de Chunta Aragonesista, dijo que «la solidaridad debe estar por encima de la ordinalidad».",
+     "fecha": "2026-01-18",
+     "fuente": "Ara",
+     "url": "https://es.ara.cat/politica/sumar-pp-contradicciones-partidos-ordinalidad_1_5621272.html",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "La discrepancia es sobre el criterio de reparto, no sobre dar más recursos. El programa de 2026 habla de convergencia «sin que suponga perjuicio alguno para ninguna comunidad»."
+    },
+    {
+     "id": "e8",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "Fedea: 20.000 millones más dejan al Estado «con muy poco margen»",
+     "hecho": "Un informe de Fedea sostiene que la cesión de recursos prevista en el modelo del Gobierno «agravará los problemas financieros» de la Administración central y la dejará «con muy poco margen presupuestario», por el gasto en defensa y el déficit de la Seguridad Social. Su director, Ángel de la Fuente, dijo que dar «20.000 millones de euros más» a las comunidades «no es una buena idea» con un Estado con más de dos puntos de déficit.",
+     "fecha": "2026-02-21",
+     "fuente": "Europa Press (Alicante Plaza)",
+     "url": "https://alicanteplaza.es/alicanteplaza/espana/fedea-sostiene-que-la-administracion-central-sale-mas-perjudicada-que-las-ccaa-con-el-nuevo-sistema-de-financiacion",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se abrió el informe original (https://documentos.fedea.net/pubs/fpp/2026/01/FPP2026-01.pdf). Valora la propuesta del Gobierno, no la del Frente Amplio, que casi la duplica. De la Fuente ha planteado modelos alternativos propios."
+    },
+    {
+     "id": "e9",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La financiación autonómica se regula por ley orgánica",
+     "hecho": "El artículo 157.3 de la Constitución establece que «mediante ley orgánica podrá regularse el ejercicio de las competencias financieras» de las comunidades autónomas. Reformar el sistema exige por tanto mayoría absoluta del Congreso.",
+     "fecha": "1978-12-29",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    }
+   ]
+  }
+ ],
+ "evidencias_para_existentes": [
+  {
+   "propuesta_id": "frenteamplio-sanidad-1",
+   "cambia_nivel": null,
+   "evidencia": {
+    "id": "e9",
+    "sentido": "apoya",
+    "componente": "historial",
+    "tipo": "dato_oficial",
+    "titulo": "Sanidad presentó en septiembre de 2026 el decreto de listas de espera",
+    "hecho": "El 21-9-2026 el Ministerio de Sanidad presentó el proyecto de real decreto de listas de espera: el paciente entra en lista desde la indicación médica (con hasta cinco días para inscribirlo), se prohíben las listas paralelas, los derivados a centros concertados siguen contando hasta ser atendidos y se incluye por primera vez la Atención Primaria.",
+    "fecha": "2026-09-21",
+    "fuente": "Ministerio de Sanidad",
+    "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6979",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Pista: expediente de Codex ampliacion-a-frente-amplio-t0129. Es un proyecto, no una norma vigente: coincide con lo que ya decía nuestro contraste (no se aprobó) y concreta su contenido y su fecha."
+   }
+  },
+  {
+   "propuesta_id": "frenteamplio-sanidad-1",
+   "cambia_nivel": null,
+   "evidencia": {
+    "id": "e10",
+    "sentido": "contradice",
+    "componente": "historial",
+    "tipo": "prensa",
+    "titulo": "El decreto de listas de espera no salió del Consejo Interterritorial",
+    "hecho": "El 23-10-2026, en el último Consejo Interterritorial ordinario de la legislatura, las comunidades gobernadas por el PP votaron en contra del real decreto de listas de espera. La ministra Mónica García respondió «Seguiremos con los trámites» y anunció que lo sacaría a audiencia pública.",
+    "fecha": "2026-10-23",
+    "fuente": "iSanidad",
+    "url": "https://isanidad.com/391417/el-decreto-sobre-listas-de-espera-no-sale-adelante-en-el-interterritorial-y-sanidad-avisa-seguiremos-con-los-tramites/",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Pista: mismo expediente de Codex. El rechazo vino de las comunidades del PP, no del Ministerio. A 24-11-2026 el decreto no está aprobado. Codex cita además un segundo medio (Medicina Responsable) que no se abrió."
+   }
+  },
+  {
+   "propuesta_id": "frenteamplio-inmigracion-1",
+   "cambia_nivel": null,
+   "evidencia": {
+    "id": "e10",
+    "sentido": "contradice",
+    "componente": "datos",
+    "tipo": "prensa",
+    "titulo": "Octubre de 2026: unas 11.000 resoluciones definitivas conocidas y sin datos nuevos",
+    "hecho": "El 10-10-2026 EFE informó de que el proceso, que el Gobierno preveía culminar en septiembre, seguía incompleto. Los últimos datos oficiales eran del 2 de julio: 1.174.978 peticiones, 609.737 admitidas a trámite y unas 11.000 resoluciones definitivas. La Secretaría de Estado de Migraciones declinó dar cifras nuevas. Nueve despachos de abogados tenían resuelto el 27,94 % de sus expedientes.",
+    "fecha": "2026-10-10",
+    "fuente": "EFE",
+    "url": "https://efe.com/espana/2026-10-10/preocupacion-enfado-ante-regularizacion-aun-incompleta-50-dias-urnas-2/",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Pista: expediente de Codex ampliacion-i-frente-amplio-t0796. La cifra de los despachos es una muestra de sus propios clientes, no un dato nacional. Confirma con una segunda fuente el orden de magnitud de resoluciones que nuestro e3 atribuía a un solo medio (12.000) y que no hay balance oficial posterior a julio."
+   }
+  },
+  {
+   "propuesta_id": "frenteamplio-igualdad-1",
+   "cambia_nivel": null,
+   "evidencia": {
+    "id": "e10",
+    "sentido": "contradice",
+    "componente": "historial",
+    "tipo": "dato_oficial",
+    "titulo": "El acuerdo de 2023 comprometía pagar 4 semanas del permiso parental",
+    "hecho": "Una respuesta escrita del Gobierno al Congreso (6-11-2024) confirma que el acuerdo PSOE-Sumar de 24-10-2023 fijó extender el permiso por nacimiento «hasta las 20 semanas» y «remunerar al menos 4 semanas por hijo/a del recientemente creado permiso parental de cuidados, a partir de agosto de 2024». Lo aprobado en julio de 2025 fueron 19 semanas de nacimiento y 2 semanas retribuidas de cuidado.",
+    "fecha": "2024-11-06",
+    "fuente": "Gobierno de España, respuesta a la pregunta escrita 184/15042 (Congreso)",
+    "url": "https://www.congreso.es/entradap/l15p/e4/e_0047949_n_000.pdf",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Pista: expediente de Codex ampliacion-a-frente-amplio-t0087. Cierra una laguna que nuestra «refutación» dejaba abierta («Tampoco pude confirmar en el texto del acuerdo de 2023 el compromiso de retribuir 4 semanas»): queda confirmado por documento oficial."
+   }
+  },
+  {
+   "propuesta_id": "frenteamplio-igualdad-1",
+   "cambia_nivel": null,
+   "evidencia": {
+    "id": "e11",
+    "sentido": "contexto",
+    "componente": "viabilidad",
+    "tipo": "dato_oficial",
+    "titulo": "El gasto en permisos subió un 24,8 % hasta septiembre de 2026",
+    "hecho": "La Seguridad Social tramitó 374.638 prestaciones por nacimiento y cuidado de menor entre enero y septiembre de 2026 (5,2 % más) y gastó 3.564,8 millones de euros, frente a 2.857,3 millones en el mismo periodo de 2025 (24,8 % más, 707,5 millones). La duración media disfrutada fue de 114 días, con 3 días de diferencia entre hombres y mujeres.",
+    "fecha": "2026-10-30",
+    "fuente": "Ministerio de Inclusión, Seguridad Social y Migraciones",
+    "url": "https://inclusion.gob.es/documents/20121/0/20261030%2BNP%2Bnacimiento%2By%2Bexcedencias%2Benero-septiembre%2B2026.pdf/ec81972a-1717-1642-b00a-a1d75dc7188b?t=1793346596894",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Pista: mismo expediente de Codex. Primer dato oficial de gasto real tras la ampliación a 19 semanas; nuestro e9 solo tenía la estimación previa del Gobierno (unos 1.500 millones al año). Son nueve meses y el periodo de comparación de 2025 ya incluía dos meses con la ampliación: no equivale al coste anual."
+   }
+  },
+  {
+   "propuesta_id": "frenteamplio-vivienda-1",
+   "cambia_nivel": null,
+   "evidencia": {
+    "id": "e10",
+    "sentido": "contexto",
+    "componente": "datos",
+    "tipo": "norma",
+    "titulo": "El parque público actual es de unas 318.000 viviendas",
+    "hecho": "El preámbulo del Real Decreto 326/2026 (Plan Estatal de Vivienda 2026-2030) dice que el parque de vivienda de titularidad pública autonómica y municipal «apenas alcanza las 318.000 viviendas», con cobertura para alrededor del 1,7 % de los hogares, y que todo el alquiler social suma el 3,5 %, frente al 9 % de media en la UE. El plan conjunto es de 7.000 millones (el Estado aporta el 60 %).",
+    "fecha": "2026-04-23",
+    "fuente": "BOE",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-8872",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Pista: expedientes de Codex piloto-frente-amplio-vivienda-01 y ampliacion-e-frente-amplio-t0002. Da el punto de partida oficial que nos faltaba: la promesa (1,5 millones en 12 años) multiplicaría casi por seis el parque público actual. Refuerza la observación de nuestra «refutación» de que el 9,3 % en una legislatura no sale del ritmo de 125.000 al año."
+   }
+  }
+ ],
+ "correcciones": [],
+ "descartado": [
+  {
+   "expediente": "jornada (00)",
+   "motivo": "Misma promesa que frenteamplio-empleo-1, pero solo aporta el registro oficial de la votación de 10-9-2025 (178-170), hecho que ya tenemos verificado con el Diario de Sesiones (e3). Nada nuevo."
+  },
+  {
+   "expediente": "nacional-frente-amplio-t0319 (herencias)",
+   "motivo": "Trata el impuesto a las herencias y su destino a vivienda social, no la tasa a patrimonios de más de 50 millones ya contrastada; solo dos evidencias y sin historial. No elegida como contraste nuevo por ser variante fiscal de un tema ya cubierto."
+  },
+  {
+   "expediente": "ampliacion-e-frente-amplio-t0002 (dato de 12.858 viviendas protegidas en 2025)",
+   "motivo": "Codex suma 12.858 calificaciones definitivas en 2025 a partir de una tabla del Observatorio de Vivienda y Suelo; nuestro dato verificado con la estadística del Ministerio es 11.104. No pude reproducir la suma de Codex en el boletín y no la incorporo; aviso al editor por si quiere revisarla. Del mismo expediente sí se usa el dato de 318.000 viviendas públicas."
+  },
+  {
+   "expediente": "ampliacion-h-frente-amplio-t0101 (sanidad al 8 % del PIB)",
+   "motivo": "Sus datos (101.739 millones, 6,4 % del PIB en 2024, 93,6 % ejecutado por las comunidades) ya figuran en nuestro contraste de sanidad (e7 y matiz). Su observación de que «8 % del PIB desde los Presupuestos» es ambiguo es un juicio de concreción, no un hecho nuevo."
+  },
+  {
+   "expediente": "ampliacion-i-frente-amplio-t0796 (resto)",
+   "motivo": "Además de la crónica de EFE (incorporada), cita el decreto y el balance de 2 de julio, que ya tenemos (e1, e2), una nota de partido y una presentación oficial con medios previstos (550 refuerzos), que describe intenciones y no resultados."
+  },
+  {
+   "expediente": "ampliacion-c-frente-amplio-t0951 (CGPJ)",
+   "motivo": "Usado como pista para el contraste nuevo. No incorporo la STC 108/1986 ni el Boletín de las Cortes de 2020 que cita porque no los abrí; el historial (retirada de 2021, abstención de 2024, dictamen de Venecia de 2025) lo investigué aparte."
+  },
+  {
+   "expediente": "piloto-frente-amplio-educacion-05",
+   "motivo": "Usado como pista. Sus conclusiones son de viabilidad genérica («una ley no aporta por sí sola los ingresos»); no las copio. Faltaba todo el historial (acuerdo de 2019, LOMLOE, serie 2020-2024)."
+  },
+  {
+   "expediente": "piloto-frente-amplio-territorio-09 (república federal), ampliacion-k t0954 y t0958, ampliacion-m t0207 y t0785, t0885 (pena de muerte)",
+   "motivo": "Promesas sin plazo ni instrumento comprobable o de alcance muy limitado; menor peso para el ciudadano que las siete elegidas."
+  },
+  {
+   "expediente": "expedientes de sanidad (t0792, t0102, t0104, t0118, t0119), vivienda (t0005, t0014), inmigración (t0216, t0799), empleo (fa-32horas, root-digital t0365) e igualdad (fa-crianza, piloto derechos-07)",
+   "motivo": "Son temas que ya tienen contraste en nuestro archivo (sanidad, vivienda, inmigración, empleo, igualdad); el encargo pide priorizar temas sin contraste."
+  },
+  {
+   "expediente": "energía y territorio de Codex (t0329 IVA de la luz, t0333 impuesto minero, t0334 queroseno, t0579 centros de datos, t0459 y root-rail t0458 ferrocarril) y educación (t0093 ratios 0-3, t0158 becas, t0165 universidades)",
+   "motivo": "Examinados como alternativa. Para energía y territorio preferí promesas con historial de gobierno directo y hechos de 2026 (cierre nuclear y financiación autonómica), que Codex no trata; en educación elegí el 7 % del PIB por ser la que tiene antecedente comprometido y dato oficial."
+  }
+ ]
+}

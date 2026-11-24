@@ -1,0 +1,421 @@
+{
+ "ambito": "balance b12-b21",
+ "fecha_auditoria": "2026-11-24",
+ "revisadas_con_enlace": 47,
+ "no_se_pudieron_abrir": [
+  "b12/e1 (Moncloa 18-4-2023, no abierto)",
+  "b13/e1b (BOE-A-1978-31229, no abierto; Maldita la cita igual)",
+  "b14/e2 (BOE-A-2021-21788, no abierto)",
+  "b15/e00 (nota de Hacienda 11-10-2018, no abierta)",
+  "b16/e1 (Moncloa 14-10-2019)",
+  "b16/e2 (Moncloa 4-11-2019)",
+  "b16/e5 (Maldita 27-6-2025)",
+  "b16/e6 (BOE-A-2024-11776; votacion 177-172 sin comprobar)",
+  "b16/e7 (STC 137/2025)",
+  "b19/e5 (LegalToday 5-2-2025)",
+  "b20/e2 (BOE-A-2022-22684)",
+  "b20/e5 (BOE-A-2024-26694)",
+  "b21/e2 (BOE-A-2009-20375)"
+ ],
+ "notas_metodo": "Abrí 47 enlaces de evidencias (más las cita_url, el texto del programa local, el acuerdo de coalición y los diarios de sesiones, leídos en PDF). Ninguno quedó bloqueado: los 13 no abiertos fueron decisión mía por prioridad (los que sostienen niveles o estados sí los abrí). Búsquedas web: devuelven resultados con fechas hasta nov-2026; donde una cifra posterior no la hallé, lo digo. Datos del Congreso: abrí actas de votación (opendata) y BOCG.",
+ "hallazgos": [
+  {
+   "donde": "b12/estado (y b12/matiz, nota_metodo)",
+   "tipo": "clasificacion",
+   "gravedad": "alta",
+   "confianza": "alta",
+   "problema": "El campo estado dice «incumplido», pero el matiz del propio b12 dice «Se clasifica como parcial» y nota_metodo afirma que «b12 pasó de incumplido a parcial». Contradicción interna visible al lector. Con los hechos, lo que se deduce de lo prometido («construir o poner a disposición») es «incumplido» si se mide por viviendas terminadas o entregadas, y «parcial» solo si se da por buenas las «movilizadas» (fondos transferidos), que no es lo prometido. «en_curso» no procede: la legislatura se cortó el 5-10-2026.",
+   "comprobado_en": "https://maldita.es/malditahemeroteca/20260430/vivienda-social-espana-sanchez/",
+   "que_dice_la_fuente": "120.479 viviendas «movilizadas» a 30-4-2026 «con fondos transferidos»; el Ministerio no ha dado a Maldita cuántas están «construidas o entregadas»; única cifra de disponibles: 14.000 el 13-8-2024.",
+   "correccion": "Mantener estado=«incumplido» (medido por viviendas entregadas) y reescribir el matiz y nota_metodo para que digan lo mismo; o, si el editor prefiere «parcial», cambiar el campo y explicar que se cuenta lo movilizado. No dejar las dos versiones."
+  },
+  {
+   "donde": "b12/cita_fecha, cita_fuente y título",
+   "tipo": "fuente_primaria",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "La cita es literal (comprobada), pero la página de La Moncloa lleva en cabecera la fecha 30/07/2024 (la URL dice 29-07). Además el compromiso original está en el debate de investidura del 15-11-2023, donde Sánchez habla de «183.000 viviendas públicas para alquiler asequible» y de «habilitación», no de «construir o poner a disposición» 180.000; esa formulación es de julio de 2024.",
+   "comprobado_en": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2023/prsp15112023.aspx",
+   "que_dice_la_fuente": "«vamos a acometer la habilitación de 183.000 viviendas públicas para alquiler asequible que prometimos también hace unos meses» (15-11-2023).",
+   "correccion": "Añadir esta frase de la investidura como evidencia (tipo declaracion, sentido contexto, componente historial, fecha 2023-11-15, fuente La Moncloa, url la indicada) y aclarar en cita_fecha que la página fecha el acto el 30-7-2024 (acto del 29-7 según URL)."
+  },
+  {
+   "donde": "b12/dato_actual y e2",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Se afirma «No hay cifra oficial de entregadas». Sí hay una serie oficial de viviendas protegidas con calificación definitiva (Observatorio de Vivienda y Suelo del Ministerio), aunque incluye a comunidades y ayuntamientos y llega al primer semestre de 2025. El Español (22-4-2026) la usa: unas 49.000 desde 2021, «sólo un 17% de todo lo prometido». Es el único dato de terminadas que he localizado y apoya el «incumplido». No abrí el Observatorio, solo el artículo (de suscriptores, lectura parcial).",
+   "comprobado_en": "https://www.elespanol.com/invertia/observatorios/vivienda/20260422/sanchez-prometido-millones-viviendas-protegidas-anos-solo-entregado/1003744214034_0.html",
+   "que_dice_la_fuente": "«desde 2021, apenas se ha realizado la certificación definitiva de 49.000 viviendas protegidas (VP), sólo un 17% de todo lo prometido [...] incluye [...] comunidades autónomas y ayuntamientos»; datos del Observatorio hasta el primer semestre de 2025.",
+   "correccion": "Añadir evidencia: sentido contradice, componente datos, tipo prensa, titulo «Unas 49.000 viviendas protegidas certificadas desde 2021 (todas las administraciones)», fecha 2026-04-22, fuente El Español, url la indicada, estado_judicial null, fuente_unica true; y localizar el boletín del Observatorio para citar la primaria."
+  },
+  {
+   "donde": "b12/dato_actual (59.879) y e6",
+   "tipo": "contexto",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "La cifra «59.879 firmadas o en desarrollo» que Maldita atribuye a 30-4-2026 es idéntica a la que Hacienda/Vivienda daba el 13-8-2024 («59.879 viviendas ... en distintas fases de desarrollo»); conviene confirmar que no es una cifra antigua. Esa misma nota habla de «unas 184.000» y de 14.000 «puestas a disposición» por la Sareb, no de 183.000. La declaración de la ministra (e6, 1-10-2025, Onda Cero) está bien fechada, pero es solo una afirmación sin desglose y va como «apoya».",
+   "comprobado_en": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/vivienda-agenda-urbana/Paginas/2024/130824-gobierno-viviendas-alquiler-asequible.aspx",
+   "que_dice_la_fuente": "«ya tiene más de 59.879 viviendas para alquiler social en distintas fases de desarrollo a las que se suman las 14.000 viviendas puestas a disposición de los ciudadanos por parte de la Sareb»; objetivo «unas 184.000».",
+   "correccion": "Añadir la nota de Vivienda de 13-8-2024 como fuente primaria de las cifras de 2024 y avisar en dato_actual de que 59.879 coincide con la cifra de agosto de 2024. Valorar e6 como sentido «contexto»."
+  },
+  {
+   "donde": "b13/cita (y compromiso)",
+   "tipo": "contexto",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "La cita (tuit del 21-2-2018) es literal y está bien fechada, pero es una crítica a Rajoy, no un compromiso. El compromiso «presentar los Presupuestos cada año» se reconstruye con dos frases distintas (2018 y 1-9-2025). Un lector puede entender que Sánchez prometió algo con esas palabras.",
+   "comprobado_en": "https://maldita.es/malditahemeroteca/20181113/cuando-sanchez-pedia-elecciones-si-no-se-sacaban-los-presupuestos-adelante/",
+   "que_dice_la_fuente": "Tuit del 21-2-2018: «Un Gobierno sin Presupuestos no puede hacer nada. ¿Es este el Gobierno que necesita nuestro país?»; el 1-9-2025 en TVE: «Voy a presentarlos» (Maldita, 5-9-2025).",
+   "correccion": "Titular b13 como «Presupuestos: lo que exigía en 2018 y lo que ha presentado» o usar «Voy a presentarlos» (TVE, 1-9-2025) como cita del compromiso y dejar el tuit como evidencia de contexto. Estado «incumplido» correcto: no presentó los de 2024, 2025 y 2026 pese al art. 134.3 CE."
+  },
+  {
+   "donde": "b13/matiz y e1",
+   "tipo": "contexto",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "El matiz y e1 dicen que en noviembre de 2018 Sánchez «dijo que seguiría gobernando aunque no los aprobara» (fecha «14-11-2018»). El artículo de Maldita no da el día y se publicó el 13-11-2018 (actualizado 2-9-2025). Y el 20-11-2018 AFP/EFE recogió lo contrario: que adelantaría elecciones si no se aprobaban los de 2019. Versión unilateral, y fecha no comprobable en la fuente.",
+   "comprobado_en": "https://www.emol.com/noticias/Internacional/2018/11/20/928020/Presidente-de-Espana-advierte-que-anticipara-elecciones-generales-si-no-se-aprueba-el-presupuesto-2019.html",
+   "que_dice_la_fuente": "20-11-2018 (AFP/EFE), acto de The Economist: «Si no llegamos a aprobar los presupuestos, mi vocación de llegar hasta el final de la legislatura [...] se ve acortada» y «yo decidiré cuándo convocar las elecciones».",
+   "correccion": "Quitar «14-11-2018» o sustituirlo por «noviembre de 2018 (acto de Expansión)» y añadir el 20-11-2018 en el matiz: dos declaraciones distintas en la misma semana. Añadir evidencia contexto/coherencia, tipo prensa, fecha 2018-11-20, fuente AFP/EFE vía Emol, url la indicada."
+  },
+  {
+   "donde": "b13/dato_actual y que_paso",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Falta el hecho más reciente sobre los Presupuestos de 2027: el 7-7-2026 el Consejo de Ministros aprobó el techo de gasto (226.032 M€) y el Congreso rechazó la senda de estabilidad, paso previo a los PGE. Hacienda reconoce el rechazo en primera lectura (21-7-2026) y El Independiente cuenta que se rechazó «por segunda y definitiva vez» el 23-7-2026. Es más reciente que el 23-12-2025 que usa dato_actual y aclara por qué el 3-6-2026 no desembocó en proyecto.",
+   "comprobado_en": "https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2026/20260721-NP-CM-OBJETIVO-ESTABILIDAD.aspx",
+   "que_dice_la_fuente": "«La senda de déficit vuelve a aprobarse tras ser rechazada en primera lectura por el Congreso de los Diputados»; techo de gasto 2027: 226.032 millones (7-7-2026).",
+   "correccion": "Añadir evidencia: sentido contradice, componente historial, tipo dato_oficial, titulo «El Congreso rechaza la senda de estabilidad que precede a los PGE 2027», fecha 2026-07-21, fuente Ministerio de Hacienda, url la indicada (segunda lectura 23-7-2026: https://www.elindependiente.com/espana/2026/07/23/el-gobierno-salva-el-primer-tramite-de-la-quita-de-la-deuda-pero-naufraga-de-nuevo-en-la-senda-de-deficit-por-culpa-de-junts/amp/ , fuente_unica true para el segundo rechazo). Actualizar dato_actual."
+  },
+  {
+   "donde": "b14/promesa_2026",
+   "tipo": "clasificacion",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "La promesa_2026 elegida (Ley de Negociación Colectiva, pág. 43) no es el mismo asunto que «derogar la reforma de 2012». El programa sí trata la parte pendiente: la medida 110 (pág. 41) «Reformar el despido improcedente...», que es justo lo que el matiz dice que no se tocó.",
+   "comprobado_en": "psoe.txt (local), medida 110, PÁGINA 41",
+   "que_dice_la_fuente": "«110. Reformar el despido improcedente para garantizar una reparación efectiva, proporcionada y disuasoria [...] y adecuar la normativa al artículo 24.b de la Carta Social Europea revisada».",
+   "correccion": "promesa_2026.texto: «Reformar el despido improcedente para que la indemnización sea disuasoria y adecuada a la Carta Social Europea»; cita: «Reformar el despido improcedente para garantizar una reparación efectiva, proporcionada y disuasoria, teniendo en cuenta las circunstancias y los daños causados»; pagina 41. Se puede mantener la de negociación colectiva como segunda."
+  },
+  {
+   "donde": "b15/que_paso",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "«Ha subido todos los años salvo 2020-2021, cuando se congeló hasta septiembre de 2021» es inexacto: el SMI de 2020 sí subió (RD 231/2020, de 4-2-2020: 950 euros/mes, desde 900), y lo que estuvo sin subir fue 2021 hasta septiembre (la subida a 965 de ese año no la he abierto).",
+   "comprobado_en": "https://www.boe.es/eli/es/rd/2020/02/04/231/con",
+   "que_dice_la_fuente": "«queda fijado en 31,66 euros/día o 950 euros/mes» (BOE 5-2-2020, en vigor 6-2-2020).",
+   "correccion": "«Ha subido cada año desde 2019 (900 en 2019, 950 en 2020); solo estuvo sin subir de enero a septiembre de 2021». Añadir RD 231/2020 como evidencia (apoya, datos, norma, 2020-02-04, BOE)."
+  },
+  {
+   "donde": "b15/dato_actual",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "dato_actual da el SMI de 2026 (1.221 €), pero el BOE del 19-11-2026 (cinco días antes de hoy) publicó el RD 1013/2026 que fija el de 2027 en 1.286 €/mes (42,87 €/día), +5,3 %. e1 lo menciona de pasada en la nota pero el dato_actual no lo recoge. El preámbulo habla de «se mantiene el objetivo» del 60 %, no de «alcanzado».",
+   "comprobado_en": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-24189",
+   "que_dice_la_fuente": "«queda fijado para 2027 en 42,87 euros/día o 1 286 euros/mes»; «Con esta subida del 5,3 por ciento [...] se mantiene el objetivo de que el salario mínimo interprofesional alcance el 60 por ciento del salario medio».",
+   "correccion": "dato_actual.texto: «El SMI de 2027 es de 1.286 euros al mes (Real Decreto 1013/2026, BOE 19-11-2026, +5,3 %); el de 2026 era de 1.221» con url la indicada."
+  },
+  {
+   "donde": "b15/estado",
+   "tipo": "nivel",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "«cumplido» depende de la vara de medir y el matiz lo admite, pero el estado se presenta sin esa condición. La única medida independiente del objetivo literal («60 % del salario medio») es Eurostat sobre salario bruto medio: 51,9 % en 2025. Los BOE (RD 126/2026 y 1013/2026) dicen que el Gobierno «mantiene el objetivo», no que lo haya alcanzado; y en la investidura de 2023 Sánchez prometió «garantizar por ley» que el SMI se mantuviera en el 60 % (no he hallado esa ley; el programa de 2026 sigue prometiendo «blindar por ley»). Lo medible sin discusión: 736 a 1.221 euros.",
+   "comprobado_en": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2023/prsp15112023.aspx",
+   "que_dice_la_fuente": "Investidura 15-11-2023: «garantizar por ley que el salario mínimo interprofesional siga aumentando cada año para mantenerse en el 60% del sueldo medio». Eurostat earn_mw_avgr2 (consultado hoy): España 2025, 51,9 % del salario bruto medio.",
+   "correccion": "Dejar «cumplido» solo si el estado dice «en cuantía; el 60 % sobre salario medio neto es cálculo del Gobierno, Eurostat da 51,9 % bruto»; si no, usar «parcial». Añadir la frase de la investidura como evidencia (contradice, coherencia, declaracion, 2023-11-15, La Moncloa)."
+  },
+  {
+   "donde": "b15/e1",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "e1 dice que el RD 126/2026 fija «un mínimo anual de 17.094 euros»; el artículo 1 dice «40,70 euros/día o 1 221 euros/mes» y no aparecen en el texto ni el 17.094 ni «14 pagas». Es un cálculo (1.221 x 14), no un dato del BOE. Además e3 compara el «salario mínimo por convenio» del pacto de rentas (14.000) con el SMI legal anual (17.094): no son magnitudes equivalentes.",
+   "comprobado_en": "https://www.boe.es/eli/es/rd/2026/02/18/126/con",
+   "que_dice_la_fuente": "«queda fijado en 40,70 euros/día o 1 221 euros/mes, según el salario esté fijado por días o por meses».",
+   "correccion": "e1.hecho: «Fija el SMI en 40,70 euros/día o 1.221 euros/mes (17.094 euros al año en 14 pagas, cálculo nuestro)». En e3 quitar la frase final comparativa o decir que son cosas distintas."
+  },
+  {
+   "donde": "b16/falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "Falta la reforma penal de diciembre de 2022 (LO 14/2022), que suprimió el delito de sedición (arts. 544-549 CP). e4 solo la menciona como contexto de una frase en laSexta. Es parte de lo hecho sobre «cumplimiento íntegro de la sentencia» (la sentencia condenaba por sedición) y debe constar entre las evidencias que contradicen.",
+   "comprobado_en": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-21800",
+   "que_dice_la_fuente": "«Veinte. Se suprime el capítulo I del título XXII del libro II, integrado por los artículos 544 a 549.» (LO 14/2022, de 22-12-2022; en vigor 12-1-2023).",
+   "correccion": "Evidencia: sentido contradice, componente historial, tipo norma, titulo «La reforma penal de 2022 suprime el delito de sedición», hecho «La LO 14/2022, de 22-12-2022, suprime los arts. 544 a 549 del Código Penal (sedición) y crea una figura agravada de desórdenes públicos. Los condenados en 2019 lo fueron por sedición.», fecha 2022-12-23, fuente BOE, url la indicada, estado_judicial null, fuente_unica false."
+  },
+  {
+   "donde": "b16/cita y título",
+   "tipo": "contexto",
+   "gravedad": "baja",
+   "confianza": "alta",
+   "problema": "La cita (laSexta, 10-11-2022) es literal, está en la URL y con esa fecha, pero solo sostiene la tercera parte del título («no a la amnistía»). Las otras dos (íntegro cumplimiento, traer a Puigdemont) están en e1 y e2, no en la cita. Aceptable, pero el título promete tres cosas con una sola cita.",
+   "comprobado_en": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2022/prsp10112022.aspx",
+   "que_dice_la_fuente": "«El independentismo lo que pide, y lo saben ustedes y lo saben los telespectadores, es la amnistía. Algo que, desde luego, este gobierno no va a aceptar...»",
+   "correccion": "Sin cambio obligado; si se quiere, añadir en cita_fuente «las otras dos partes del compromiso, en e1 (14-10-2019) y e2 (4-11-2019)»."
+  },
+  {
+   "donde": "b17/dato_actual",
+   "tipo": "contexto",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "dato_actual afirma que el Gobierno «mantiene desde marzo de 2022 el apoyo al plan marroquí», pero su fuente (el programa del PSOE) no menciona el Sáhara ni Marruecos (lo dice e4). La afirmación necesita fuente propia. Existe una primaria reciente: la declaración conjunta de la XIII Reunión de Alto Nivel (Madrid, 4-12-2025).",
+   "comprobado_en": "https://www.lamoncloa.gob.es/presidente/actividades/Documents/2025/04122025-declaracion-conjunta-espana-marruecos.pdf",
+   "que_dice_la_fuente": "Punto 8: «El presidente del Gobierno ha reiterado la posición de España sobre la cuestión del Sahara Occidental, expresada en la Declaración Conjunta del 7 de abril de 2022 [...] España acoge con satisfacción la adopción de la resolución 2797 del Consejo de Seguridad [...] «una verdadera autonomía bajo soberanía marroquí podría ser la solución más factible»».",
+   "correccion": "dato_actual.texto: «El 4-12-2025 el Gobierno reiteró en la declaración conjunta con Marruecos la posición de la Declaración de 7-4-2022 y acogió con satisfacción la resolución 2797 del Consejo de Seguridad (31-10-2025). El programa del PSOE de 2026 no menciona el Sáhara.»; fuente: La Moncloa, url la indicada."
+  },
+  {
+   "donde": "b17/estado y que_paso",
+   "tipo": "contexto",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Falta un hecho decisivo a favor del Gobierno que matiza el «contrario»: la resolución 2797 del Consejo de Seguridad (31-10-2025) toma «como base la propuesta de autonomía de Marruecos» y habla de «autonomía bajo soberanía marroquí» como «solución más factible», es decir, la posición de 2022 hoy coincide con la de la ONU. No cambia el hecho (en 2018 se pedía una solución que «prevea la libre determinación» y la carta de 2022 no la menciona), pero el lector debe tenerlo. Sobre el estado: «contrario» es defendible pero es el más discutible de los tres; si se lee que la carta no niega expresamente la libre determinación y se mantiene el marco ONU, «incumplido» sería la alternativa. Mi lectura: «contrario» se sostiene porque la base que España apoya (autonomía bajo soberanía marroquí) no incluye la opción de independencia que la frase de 2018 preveía.",
+   "comprobado_en": "https://www.lamoncloa.gob.es/presidente/actividades/Documents/2025/04122025-declaracion-conjunta-espana-marruecos.pdf",
+   "que_dice_la_fuente": "Cita de la resolución 2797 dentro de la declaración conjunta (ver punto anterior).",
+   "correccion": "Añadir evidencia contexto, componente coherencia, tipo documento oficial (declaracion), titulo «La ONU respalda en 2025 la autonomía como base de negociación», fecha 2025-12-04, fuente La Moncloa, url la indicada. Conservar estado «contrario» con el matiz anterior, o «incumplido» si el editor prefiere la lectura literal."
+  },
+  {
+   "donde": "b18/cita",
+   "tipo": "contexto",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "La cita (PNIEC, 3 GW nucleares en 2030) es literal y está en la URL con esa fecha, pero no dice nada de cerrar las centrales entre 2027 y 2035 ni es un compromiso de Sánchez; el calendario de cierre es de un protocolo de marzo de 2019 entre empresas y Enresa (el matiz lo dice). El título atribuye a Sánchez algo que la cita no contiene.",
+   "comprobado_en": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2019/refc20190222.aspx",
+   "que_dice_la_fuente": "«Para el año 2030, se prevé una potencia total instalada [...] 3 GW nuclear».",
+   "correccion": "Usar como cita el 7.º Plan General de Residuos Radiactivos (27-12-2023): «cese de la operación de las centrales nucleares entre 2027 y 2035» (https://www.miteco.gob.es/content/dam/miteco/es/prensa/23.12.27_NdP_El%20Gobierno%20aprueba%20el%207%C2%BA%20PGRR.pdf) y dejar el PNIEC como contexto, o renombrar el compromiso a «Reducir la potencia nuclear y mantener el calendario de cierre»."
+  },
+  {
+   "donde": "b18/estado",
+   "tipo": "clasificacion",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "«parcial» sugiere cumplimiento a medias, pero no hay ningún cierre vencido: el primero (Almaraz I) estaba previsto para el 1-11-2027 y el último para 2035. Lo medible es un aplazamiento solicitado y concedido (Orden TED/864/2026) de una fecha futura, con la fecha final intacta. Es el caso de «en_curso» más que de «parcial».",
+   "comprobado_en": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17756",
+   "que_dice_la_fuente": "Almaraz: autorización «con validez hasta el 1 de noviembre de 2027 para la Unidad I, y hasta el 31 de octubre de 2028 para la Unidad II»; petición del 30-10-2025 de prórroga «hasta el 8 de junio de 2030»; efecto sobre renovables «acotado y poco significativo».",
+   "correccion": "estado: «en_curso», con que_paso explicando que el primer cierre se ha aplazado de 2027-2028 a 2030 y que 2035 se mantiene. (Si el editor quiere reflejar el incumplimiento del primer plazo, «parcial» solo vale con esa explicación.)"
+  },
+  {
+   "donde": "b19/promesa_2026",
+   "tipo": "clasificacion",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "La promesa_2026 (autonomía de la Fiscalía, pág. 100) no es el mismo asunto que «renovar el CGPJ por consenso». El programa no promete nada sobre el sistema de elección del CGPJ: solo presume de haberlo renovado (pág. 88, ya en e6).",
+   "comprobado_en": "psoe.txt (local), PÁGINA 88 y PÁGINA 100",
+   "que_dice_la_fuente": "«Renovamos el Consejo General del Poder Judicial tras más de cinco años de bloqueo del PP» (pág. 88); la medida de la pág. 100 trata de la Fiscalía.",
+   "correccion": "promesa_2026: null (y dejar e6 como evidencia), o moverla a otro contraste sobre Fiscalía."
+  },
+  {
+   "donde": "b19/falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Falta un hecho en contra de la coherencia con el «consenso»: el 13-10-2020 PSOE y Unidas Podemos registraron una proposición de ley para designar a los vocales del CGPJ «en segunda votación por mayoría absoluta de las Cámaras» si no se alcanzaban los tres quintos; quedó congelada tras críticas (incl. dudas sobre su constitucionalidad). El matiz solo recoge la posición del PP.",
+   "comprobado_en": "https://maldita.es/malditateexplica/20201016/consejo-general-poder-judicial-psoe-podemos-cgpj",
+   "que_dice_la_fuente": "Su proposición de ley pretende que «en el caso de no alcanzarse en primera votación parlamentaria» los tres quintos, los miembros del CGPJ «puedan ser designados en segunda votación por mayoría absoluta de las Cámaras».",
+   "correccion": "Evidencia: sentido contradice, componente coherencia, tipo verificador, titulo «En 2020 PSOE y UP propusieron elegir el CGPJ por mayoría absoluta», fecha 2020-10-16, fuente Maldita.es, url la indicada, fuente_unica true (no abrí la proposición original; no confirmé la retirada formal)."
+  },
+  {
+   "donde": "b19/dato_actual",
+   "tipo": "falta_evidencia",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "dato_actual deja «sin comprobar» si se aprobó la reforma de la elección de los vocales judiciales. Lo que sí he podido comprobar: el 10-9-2026 el Congreso rechazó (170 sí, 175 no; el PSOE votó no) la proposición del PP para cambiar el modelo de elección de los vocales del CGPJ. No he encontrado proyecto del Gobierno ni ley aprobada. No consta la reforma, pero un partido de la oposición la propuso y el PSOE la rechazó.",
+   "comprobado_en": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion196/20260910/Votacion015/VOT_20260910180631.pdf",
+   "que_dice_la_fuente": "Sesión 196, 10-9-2026, votación 15, toma en consideración de la proposición del GP Popular «para el cambio del modelo de elección de los vocales del Consejo General del Poder Judicial»: SÍ 170, NO 175.",
+   "correccion": "Añadir evidencia contexto, componente historial, tipo votacion, titulo «El Congreso rechaza el cambio del modelo de elección de vocales propuesto por el PP», fecha 2026-09-10, fuente Congreso de los Diputados, url la indicada; y sustituir «sin comprobar» por «no consta aprobada; el 10-9-2026 se rechazó la del PP»."
+  },
+  {
+   "donde": "b20/e3 y matiz",
+   "tipo": "contexto",
+   "gravedad": "baja",
+   "confianza": "alta",
+   "problema": "El matiz dice que la recaudación de 2024 quedó «un 18 % por debajo de la estimación» (2.859 frente a 3.500). La nota de Hacienda dice lo contrario («en línea con las previsiones del Gobierno»), y aclara que son pagos del ejercicio 2024 con resultados de 2023 (anticipo en febrero y liquidación en septiembre) y que son «prestaciones patrimoniales de naturaleza no tributaria». La comparación con 3.500 (1.500 + 2.000) es correcta como aritmética pero omite la lectura de Hacienda.",
+   "comprobado_en": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/paginas/2024/270424-gravamenes-banca.aspx",
+   "que_dice_la_fuente": "«Los gravámenes [...] alcanzaron los 2.859 millones de euros en 2024. Se trata de una cifra que está en línea con las previsiones del Gobierno y [...] es muy similar al importe del año anterior» (Hacienda, 27-9-2024).",
+   "correccion": "Matiz: «Recaudaron 2.859 millones en 2024, un 18 % menos que la suma de las cifras anunciadas en 2022 (3.500); Hacienda dice que está en línea con sus previsiones.» Estado «cumplido» correcto."
+  },
+  {
+   "donde": "b21/dato_actual y que_paso",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Todo lo de 2026 se apoya en el programa del PSOE (dato de partido). Hay confirmación independiente y un hecho omitido: el CPFF del 4-9-2026 aprobó la propuesta solo con los votos de Cataluña y Canarias; el resto votó en contra, incluidas Castilla-La Mancha y Asturias, gobernadas por el PSOE; Madrid no acudió. Era el paso previo al proyecto de ley orgánica, que precisa mayoría absoluta. La frase «aprobó el Consejo de Política Fiscal y Financiera» sin el reparto del voto es engañosa. La nueva propuesta eleva recursos en 20.975 M€ desde 2027.",
+   "comprobado_en": "https://www.elindependiente.com/economia/2026/09/04/los-independentistas-catalanes-logran-que-el-gobierno-lleve-al-congreso-que-el-estado-pierda-21-000-millones/",
+   "que_dice_la_fuente": "«el ministro ha logrado el voto a favor de los consejeros de Hacienda de Cataluña y Canarias» y el resto, «incluidas las dos presididas por socialistas: Castilla-La Mancha y Asturias», votó en contra (El Independiente, 4-9-2026); cifra 20.975 M€ y «financiación total de unos 224.500 millones» (Que.es, 4-9-2026).",
+   "correccion": "Evidencia: sentido contexto, componente historial, tipo prensa, titulo «El CPFF aprueba la propuesta de financiación con los votos de Cataluña y Canarias», fecha 2026-09-04, fuente El Independiente, url la indicada, fuente_unica false (Que.es https://www.que.es/2026/09/04/financiacion-autonomica-bloqueo-madrid/ y Euronews coinciden en lo esencial). Reescribir dato_actual: «El 4-9-2026 el CPFF aprobó con los votos de Cataluña y Canarias; no hay ley»."
+  },
+  {
+   "donde": "b21/falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "baja",
+   "confianza": "alta",
+   "problema": "Otra pieza de la misma negociación con las comunidades no está: el proyecto de ley orgánica de medidas excepcionales de sostenibilidad financiera (condonación de deuda autonómica). El 23-7-2026 el Congreso rechazó las enmiendas de totalidad de PP y Vox (170 a favor, 178 en contra), con lo que el proyecto siguió su tramitación. No estaba aprobado al disolverse las Cortes (no comprobado). Sirve de contexto sin cambiar el estado.",
+   "comprobado_en": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion193/20260723/Votacion019/VOT_20260723211932.pdf",
+   "que_dice_la_fuente": "Sesión 193, 23-7-2026, votación 19: enmiendas a la totalidad de devolución de VOX y PP al Proyecto de Ley Orgánica de medidas excepcionales de sostenibilidad financiera para las comunidades autónomas de régimen común: SÍ 170, NO 178.",
+   "correccion": "Evidencia contexto, componente historial, tipo votacion, fecha 2026-07-23, fuente Congreso de los Diputados, url la indicada, fuente_unica false."
+  }
+ ],
+ "revision_por_compromiso": {
+  "b12": {
+   "cita_literal": "si, comprobada (Moncloa; las dos frases son consecutivas en el original)",
+   "cita_fecha_y_url": "si; URL fecha 29-7-2024, cabecera de la página 30/07/2024",
+   "estado_json": "incumplido",
+   "estado_correcto": "incumplido (si se mide por entregadas); el matiz dice parcial: incoherente",
+   "dato_actual": "el mas reciente que halle es 30-4-2026 (Maldita); sin balance posterior; ver hallazgos",
+   "promesa_2026": "mismo asunto (pag. 28 verificada literal)"
+  },
+  "b13": {
+   "cita_literal": "si (tuit del 21-2-2018 en Maldita)",
+   "cita_fecha_y_url": "si",
+   "estado_json": "incumplido",
+   "estado_correcto": "incumplido",
+   "dato_actual": "desfasado: hay hechos de julio 2026 (techo de gasto 7-7; senda rechazada 21/23-7)",
+   "promesa_2026": "null correcto: el programa no dice nada"
+  },
+  "b14": {
+   "cita_literal": "si (punto 1.3 del acuerdo de coalicion, comprobada en el PDF, pag. 4 del PDF)",
+   "cita_fecha_y_url": "si; copia en un diario regional, no oficial (la de psoe.es se bloquea)",
+   "estado_json": "parcial",
+   "estado_correcto": "parcial (confirmado: 3 medidas urgentes cumplidas, despido y resto no)",
+   "dato_actual": "correcto y el mas reciente (EPA 3T26 publicada el 27-10-2026; INE 10,18 %, 22.852.600; BBVA 14,9 % CVEC)",
+   "promesa_2026": "asunto distinto; ver hallazgo (medida 110, pag. 41)"
+  },
+  "b15": {
+   "cita_literal": "si (punto 1.4, pag. 5 del PDF)",
+   "cita_fecha_y_url": "si; la cita es del acuerdo de coalicion, no dicha por Sanchez",
+   "estado_json": "cumplido",
+   "estado_correcto": "cumplido en cuantia; el 60 % solo con el calculo del Gobierno; ver hallazgo",
+   "dato_actual": "no: hay RD 1013/2026 (19-11-2026) con el SMI de 2027",
+   "promesa_2026": "mismo asunto (pag. 37 verificada)"
+  },
+  "b16": {
+   "cita_literal": "si (laSexta 10-11-2022, comprobada)",
+   "cita_fecha_y_url": "si",
+   "estado_json": "contrario",
+   "estado_correcto": "contrario (confirmado: sentencia cumplida solo en parte via indultos parciales, Puigdemont no traido y no juzgado, amnistia aprobada y aplicada); la parte de 'traer a Puigdemont' es mas bien incumplida, pero el conjunto es lo contrario",
+   "dato_actual": "correcto: 23-11-2026, Ara (un solo medio; sin nota del CGPJ)",
+   "promesa_2026": "null correcto"
+  },
+  "b17": {
+   "cita_literal": "si (fragmento literal; la frase completa es mas larga)",
+   "cita_fecha_y_url": "si",
+   "estado_json": "contrario",
+   "estado_correcto": "contrario defendible, el mas discutible; alternativa: incumplido",
+   "dato_actual": "la fuente citada no sostiene el dato; hay primaria de 4-12-2025",
+   "promesa_2026": "null correcto (el programa no menciona el Sahara)"
+  },
+  "b18": {
+   "cita_literal": "si (referencia del Consejo de Ministros de 22-2-2019)",
+   "cita_fecha_y_url": "si; pero la cita no sostiene el compromiso",
+   "estado_json": "parcial",
+   "estado_correcto": "en_curso",
+   "dato_actual": "correcto (BOE 14-8-2026, Orden TED/864/2026); no hallo nada posterior",
+   "promesa_2026": "mismo asunto (pag. 66 verificada)"
+  },
+  "b19": {
+   "cita_literal": "si (punto 2.11.1, pag. 21 del PDF)",
+   "cita_fecha_y_url": "si; copia en diario regional",
+   "estado_json": "parcial",
+   "estado_correcto": "parcial (renovado en 2024, tras 5,5 años y con la ley de 2020 que intento bajar la mayoria)",
+   "dato_actual": "correcto en lo sustancial; ver hallazgo sobre 10-9-2026",
+   "promesa_2026": "NO es el mismo asunto (Fiscalia)"
+  },
+  "b20": {
+   "cita_literal": "si (Diario de Sesiones 12-7-2022; PDF pags. 11-12)",
+   "cita_fecha_y_url": "si",
+   "estado_json": "cumplido",
+   "estado_correcto": "cumplido (Ley 38/2022 en plazo; energeticas derogadas en 2025, no prorrogadas)",
+   "dato_actual": "correcto (Hacienda 27-9-2024); no hallo cifras posteriores",
+   "promesa_2026": "null correcto"
+  },
+  "b21": {
+   "cita_literal": "si (pag. 62 del PDF del Diario de Sesiones, comprobada)",
+   "cita_fecha_y_url": "si",
+   "estado_json": "incumplido",
+   "estado_correcto": "incumplido (ocho anos sin ley; la propuesta de 2026 no llego a ley)",
+   "dato_actual": "descansa en el programa del PSOE; hay confirmacion independiente del 4-9-2026",
+   "promesa_2026": "mismo asunto (pag. 60 verificada)"
+  }
+ },
+ "ausencias": [
+  {
+   "propuesta": "IMV",
+   "titulo": "Desarrollar el Ingreso Minimo Vital",
+   "tema": "empleo",
+   "compromiso": "Crear un ingreso minimo vital como prestacion de la Seguridad Social.",
+   "cita": "Desarrollaremos el Ingreso Mínimo Vital como prestación de Seguridad Social. Comenzaremos en un primer momento por el aumento decidido de la prestación por hijo/a a cargo para familias vulnerables, y posteriormente mediante un mecanismo general de garantía de renta para familias sin ingresos o con ingresos bajos.",
+   "cita_fecha": "2019-12-30",
+   "cita_fuente": "Acuerdo de coalicion PSOE-Unidas Podemos, punto 2.4.2 (pag. 16 del PDF)",
+   "cita_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+   "estado_propuesto": "cumplido",
+   "que_paso": "El Real Decreto-ley 20/2020, de 29 de mayo, estableció el ingreso mínimo vital (BOE 1-6-2020) y la Ley 19/2021, de 20 de diciembre, lo convirtió en ley. Se creó directamente, sin pasar por la fase previa de ampliar la prestación por hijo a cargo que decía el acuerdo. No he comprobado cuánta gente lo cobra frente a la prevista, discutido públicamente; conviene un matiz de cobertura antes de publicar.",
+   "fuentes_abiertas": [
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2020-5493",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2021-21007"
+   ],
+   "motivo": "Compromiso muy conocido, de 2019, cumplido; equilibra con la propuesta de vivienda las dos cumplidas."
+  },
+  {
+   "propuesta": "Ley de vivienda",
+   "titulo": "Frenar las subidas abusivas del alquiler en zonas tensionadas",
+   "tema": "vivienda",
+   "compromiso": "Aprobar medidas para poner techo a las subidas abusivas del alquiler en zonas tensionadas.",
+   "cita": "Frenaremos las subidas abusivas del alquiler. Para ello: Se impulsarán las medidas normativas necesarias para poner techo a las subidas abusivas de precios de alquiler en determinadas zonas de mercado tensionado.",
+   "cita_fecha": "2019-12-30",
+   "cita_fuente": "Acuerdo de coalicion PSOE-Unidas Podemos, punto 2.9.3 (pag. 18 del PDF)",
+   "cita_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+   "estado_propuesto": "cumplido (en la norma; aplicacion depende de las comunidades)",
+   "que_paso": "La Ley 12/2023, de 24 de mayo, por el derecho a la vivienda (BOE 25-5-2023) creó el procedimiento para declarar zonas de mercado residencial tensionado y limita ahí la renta de los nuevos contratos (a la del contrato anterior con su actualización, y al índice de referencia para grandes tenedores). Entró en vigor tres años y medio después del acuerdo. Que se aplique depende de que las comunidades declaren zonas; no he comprobado cuáles lo han hecho. b12 ya cita esta ley como evidencia, pero no figura como compromiso.",
+   "fuentes_abiertas": [
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2023-12203"
+   ],
+   "motivo": "Es la ley más conocida de vivienda; hoy la lista solo trata la promesa de viviendas públicas (b12)."
+  },
+  {
+   "propuesta": "37,5 horas",
+   "titulo": "Reducir la jornada laboral a 37,5 horas semanales",
+   "tema": "empleo",
+   "compromiso": "Impulsar en la legislatura una reducción de la jornada laboral máxima a 37,5 horas semanales.",
+   "cita": "La legislatura, en la que impulsaremos una reducción de la jornada laboral a las 37,5 horas semanales, incorporando incentivos para que las empresas ofrezcan horarios más flexibles y potencien el teletrabajo siempre que sea posible.",
+   "cita_fecha": "2023-11-15",
+   "cita_fuente": "Discurso de investidura de Pedro Sanchez, transcripcion oficial de La Moncloa",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2023/prsp15112023.aspx",
+   "estado_propuesto": "incumplido",
+   "que_paso": "El proyecto de ley (121/000058) llegó al Congreso, donde el 10-9-2025 el Pleno aprobó las enmiendas de totalidad de devolución de PP, Vox y Junts y lo devolvió al Gobierno (BOCG A-58-3, 16-9-2025). El recuento (178 a 170) lo dan varios medios; no abrí el acta de la votación. Junts alegó en su enmienda un impacto desigual por sectores y territorios. El Ministerio de Trabajo tramitó aparte, por decreto, el endurecimiento del registro de jornada. El programa de 2026 sigue prometiendo la jornada de 37,5 horas (pág. 41). El verbo de la promesa es «impulsaremos», no «aprobaremos»: eso matiza el estado, pero la medida no se aprobó.",
+   "fuentes_abiertas": [
+    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-58-3.PDF",
+    "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-58-2.PDF",
+    "https://www.elsaltodiario.com/reduccion-jornada/congreso-rechaza-reduccion-jornada-laboral-diaz-promete-volver-intentarlo (solo resultado de busqueda, no abierto)"
+   ],
+   "motivo": "Compromiso de la investidura de 2023, muy conocido, medido con un voto del Congreso."
+  },
+  {
+   "propuesta": "Ley integral contra la corrupcion",
+   "titulo": "Aprobar una ley integral contra la corrupción con estatuto del denunciante",
+   "tema": "instituciones",
+   "compromiso": "Aprobar una ley integral contra la corrupción que incluya un estatuto del denunciante.",
+   "cita": "Aprobaremos una Ley integral contra la corrupción, en la que se incluirá un Estatuto del denunciante.",
+   "cita_fecha": "2019-12-30",
+   "cita_fuente": "Acuerdo de coalicion PSOE-Unidas Podemos, punto 2.11.3 (pag. 22 del PDF)",
+   "cita_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+   "estado_propuesto": "incumplido (a la disolución de las Cortes; parte del estatuto del denunciante podría contar como cumplida)",
+   "que_paso": "El Consejo de Ministros aprobó el anteproyecto de Ley Orgánica de Integridad Pública el 17-2-2026 y el proyecto el 28-7-2026, y lo remitió al Congreso, siete años después del acuerdo. No he hallado que se aprobara antes de la disolución. No comprobé el estado de la protección del informante (la Ley 2/2023 existe, no la abrí): el editor debe decidir si eso convierte el estado en «parcial» y cómo se solapa con b02.",
+   "fuentes_abiertas": [
+    "https://www.hacienda.gob.es/en-gb/prensa/noticias/paginas/2026/20260728-np-cm-proyecto-ley-integridad-publica.aspx"
+   ],
+   "motivo": "Compromiso incumplido y documentado en el mismo acuerdo que b14, b15 y b19; es el eje de la regeneración y hoy solo hay un compromiso genérico (b02)."
+  }
+ ],
+ "ausencias_no_propuestas": [
+  "Cubiertos ya en la lista: SMI (b15), reforma laboral (b14), amnistía, indultos y traer a Puigdemont (b16), impuestos a banca y energéticas (b20), ley de vivienda solo como evidencia de b12.",
+  "Pactos con Bildu: no propuesto; la propia nota_metodo dice que no hay cita original en fuente abierta (la localizada es de 2015). No la busqué de nuevo.",
+  "Delito de sedición: no como compromiso aparte; no hay promesa previa de suprimirlo con cita original que haya abierto. Se propone como evidencia de b16 (LO 14/2022).",
+  "Solo propongo cuatro, dos cumplidas y dos incumplidas."
+ ],
+ "valoracion_general": "Lo más flojo del bloque: (1) b12 tiene el estado («incumplido») en contradicción con su matiz y con nota_metodo («parcial»); (2) los dato_actual de b13, b15, b17 y b21 se quedan atrás o se apoyan en el programa del PSOE como fuente (SMI de 2027 publicado el 19-11-2026; techo de gasto y senda rechazada en julio de 2026; CPFF del 4-9-2026 con solo dos votos a favor); (3) b14 y b19 enlazan con una promesa de 2026 que no es el mismo asunto; (4) b15 afirma que 2020 no subió y sí subió. Las diez citas son literales y están en su URL con su fecha; los estados son defendibles salvo b18 (mejor «en_curso») y b12 (incoherencia interna). Revisé a fondo los puntos solo de b12; no vi desajuste de un nivel entero en lo que leí, pero no audité los puntos de b14, b15, b18, b19 y b21 con la misma profundidad. Ningún porcentaje del bloque me parece mal fundado: los únicos son el 18 % de recaudación (b20, depende de la cifra anunciada) y el 60 % del SMI (b15, depende de la vara de medir)."
+}

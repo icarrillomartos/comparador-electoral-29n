@@ -1,0 +1,544 @@
+{
+ "partido": "erc",
+ "programa": {
+  "titulo": "Eleccions al Congrés 2026. Programa electoral (Esquerra Republicana)",
+  "url": "https://esquerrarepublicana.cat/documents/e2026-programa.pdf",
+  "paginas": 48,
+  "fecha": "2026"
+ },
+ "propuestas": [
+  {
+   "id": "erc-vivienda-1",
+   "tema": "vivienda",
+   "titulo": "Ley de alquileres propia para Cataluña",
+   "resumen": "Pide una ley estatal que delegue en la Generalitat la competencia para legislar sobre arrendamientos urbanos.",
+   "cita": "Impulsar l’aprovació d’una legislació estatal, per la via de l’article 150.1 de la Constitució espanyola",
+   "pagina": 19,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-vivienda-2",
+   "tema": "vivienda",
+   "titulo": "Gasto estatal en vivienda: al menos 1,5% del PIB",
+   "resumen": "Exige que los Presupuestos del Estado dediquen al menos el 1,5% del PIB a vivienda y que se transfiera a las comunidades para ampliar el parque público de alquiler.",
+   "cita": "que dediqui a aquestes polítiques almenys l’1,5 % del Producte Interior Brut (PIB)",
+   "pagina": 19,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-vivienda-3",
+   "tema": "vivienda",
+   "titulo": "Subir IVA e ITP si la vivienda no es habitual",
+   "resumen": "Propone subir IVA e ITP en la compra de vivienda para uso turístico, alquiler de temporada, segunda residencia o vivienda vacía, y bajarlos para primera residencia.",
+   "cita": "Incrementar els tipus de l’IVA i l’ITP sobre la compra d’habitatge quan aquest es destini a usos diferents a l’habitatge habitual.",
+   "pagina": 19,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-impuestos-1",
+   "tema": "impuestos",
+   "titulo": "Impuesto de solidaridad a grandes fortunas permanente",
+   "resumen": "Hacer permanente el impuesto temporal a las grandes fortunas, subir el tipo para patrimonios de más de 10 millones y crear un tramo nuevo desde 100 millones.",
+   "cita": "augmentant el tipus per a fortunes de més de 10 milions d’euros i creant un tram nou a partir de 100 milions d’euros.",
+   "pagina": 22,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-impuestos-2",
+   "tema": "impuestos",
+   "titulo": "Subir el IRPF a las ganancias de capital al 35%",
+   "resumen": "Eleva el tipo máximo del IRPF sobre ganancias de capital del 30% al 35% y baja los tipos del trabajo en los tramos inferiores a 35.000 euros.",
+   "cita": "Augmentar el tipus màxim de l’IRPF sobre els guanys de capital del 30 % al 35 %",
+   "pagina": 21,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-impuestos-3",
+   "tema": "impuestos",
+   "titulo": "Impuesto a la banca permanente",
+   "resumen": "Convertir el impuesto extraordinario a la banca en un tributo permanente.",
+   "cita": "Convertir l’impost extraordinari a la banca en un tribut permanent.",
+   "pagina": 22,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-empleo-1",
+   "tema": "empleo",
+   "titulo": "Jornada máxima de 37,5 horas sin bajar el sueldo",
+   "resumen": "Reducir por ley la jornada máxima semanal a 37,5 horas modificando el artículo 34 del Estatuto de los Trabajadores, con registro horario digital.",
+   "cita": "Reduir la durada màxima de la jornada laboral setmanal a 37 hores i mitja",
+   "pagina": 26,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-empleo-2",
+   "tema": "empleo",
+   "titulo": "Recuperar el despido de 45 días por año",
+   "resumen": "Derogar los restos de las reformas laborales de 2010 y 2012 y recuperar la indemnización de 45 días por año trabajado, con tope de 42 mensualidades.",
+   "cita": "de 45 dies per any treballat, amb un màxim de 42 mensualitats",
+   "pagina": 26,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-empleo-3",
+   "tema": "empleo",
+   "titulo": "Salario mínimo catalán de 1.460 euros",
+   "resumen": "Transferir a la Generalitat la competencia para fijar un salario mínimo territorial superior al estatal, fijado en 1.460 euros.",
+   "cita": "establir un salari mínim interprofessional territorialitzat, superior al fixat a escala estatal",
+   "pagina": 20,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-pensiones-1",
+   "tema": "pensiones",
+   "titulo": "Revalorizar las pensiones según la inflación",
+   "resumen": "Garantizar por ley que las pensiones públicas se actualicen de acuerdo con la inflación.",
+   "cita": "Cal garantir l’actualització de pensions públiques d’acord amb la inflació.",
+   "pagina": 26,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-pensiones-2",
+   "tema": "pensiones",
+   "titulo": "Pensiones ligadas al IPC de cada territorio",
+   "resumen": "Revisar el sistema para que la actualización de las pensiones tenga en cuenta el IPC de cada territorio.",
+   "cita": "Revalorar les pensions d’acord amb l’IPC de cada territori.",
+   "pagina": 26,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-pensiones-3",
+   "tema": "pensiones",
+   "titulo": "Jubilación anticipada por actividad penosa",
+   "resumen": "Reconocer jubilación anticipada sin penalización con coeficientes reductores en profesiones peligrosas, incluidos conductores profesionales, y aprobar la de los Agentes Rurales.",
+   "cita": "aprovar de forma immediata la jubilació anticipada del Cos d’Agents Rurals",
+   "pagina": 26,
+   "concrecion": {
+    "cifra": false,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-sanidad-1",
+   "tema": "sanidad",
+   "titulo": "Más financiación estatal para la sanidad pública",
+   "resumen": "Aumentar de forma estructural las transferencias del Estado a las comunidades para reducir listas de espera, ampliar plantillas y reforzar la atención primaria.",
+   "cita": "Incrementar el finançament estatal del sistema públic de salut",
+   "pagina": 41,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-sanidad-2",
+   "tema": "sanidad",
+   "titulo": "Atención bucodental pública y gratuita",
+   "resumen": "Incluir en la cartera común del Sistema Nacional de Salud la atención bucodental integral, con coste a cargo del Estado.",
+   "cita": "per garantir l’accés universal i gratuït a l’atenció bucodental",
+   "pagina": 42,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-sanidad-3",
+   "tema": "sanidad",
+   "titulo": "Atención psicológica pública y gratuita",
+   "resumen": "Garantizar acceso universal y gratuito a atención psicológica y salud mental, con recursos transferidos por el Estado.",
+   "cita": "Garantir l’accés universal i gratuït a l’atenció psicològica i a la salut mental",
+   "pagina": 42,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "erc-educacion-1",
+   "tema": "educacion",
+   "titulo": "Destinar el 6% del PIB a educación",
+   "resumen": "Dedicar el 6% del PIB estatal a educación y transferir los recursos a las administraciones educativas para reducir ratios y mejorar salarios docentes.",
+   "cita": "Garantir un finançament estatal digne per a l’educació.",
+   "pagina": 11,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-educacion-2",
+   "tema": "educacion",
+   "titulo": "Educación pública gratuita de 0 a 3 años",
+   "resumen": "Crear un sistema de financiación estatal que haga universal y gratuita una plaza pública de 0 a 3 años, con calendario de implantación progresiva.",
+   "cita": "accés universal i gratuït de tots els infants a una plaça educativa pública de 0 a 3 anys",
+   "pagina": 11,
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": true,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-educacion-3",
+   "tema": "educacion",
+   "titulo": "Blindar la inmersión lingüística frente al Estado",
+   "resumen": "Reformar la legislación educativa estatal para impedir porcentajes lingüísticos impuestos a los centros y proteger el modelo de inmersión en catalán.",
+   "cita": "qualsevol vulneració dels projectes lingüístics i del model d’immersió de Catalunya.",
+   "pagina": 11,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-inmigracion-1",
+   "tema": "inmigracion",
+   "titulo": "Traspasar a Cataluña migración y asilo",
+   "resumen": "Pide el traspaso integral de las competencias de migración y asilo a la Generalitat, con una política propia de acogida e integración.",
+   "cita": "Exigir el traspàs integral de les competències en migració i asil a Catalunya",
+   "pagina": 14,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-inmigracion-2",
+   "tema": "inmigracion",
+   "titulo": "Rechazar centros de retorno en países terceros",
+   "resumen": "Rechaza crear centros de retorno en países terceros y condiciona la aplicación del Reglamento europeo de Retorno a garantías de derechos fundamentales.",
+   "cita": "Rebutgem la creació de centres de retorn a països tercers",
+   "pagina": 14,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-seguridad-1",
+   "tema": "seguridad",
+   "titulo": "Derogar la Ley mordaza",
+   "resumen": "Derogar la Ley Orgánica 4/2015 de seguridad ciudadana y revisar el marco que restringe protesta, movilización y libertad de expresión.",
+   "cita": "cal derogar aquesta Llei i revisar tot el marc normatiu que restringeix drets fonamentals",
+   "pagina": 8,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-seguridad-2",
+   "tema": "seguridad",
+   "titulo": "180 plazas judiciales en Cataluña",
+   "resumen": "Continuar el despliegue de jueces en Cataluña, con 180 plazas entre 2026 y 2027, con un coste para el Govern de 20 millones anuales.",
+   "cita": "incorporar 180 places entre 2026 i 2027",
+   "pagina": 43,
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": true,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-seguridad-3",
+   "tema": "seguridad",
+   "titulo": "Endurecer penas por armas y robo de cable",
+   "resumen": "Revisar el tratamiento penal de armas de fuego, armas blancas prohibidas y robo de cable con el objetivo de aumentar las penas.",
+   "cita": "Promoure una revisió del tractament penal de la tinença i l’ús il·lícit d’armes de foc",
+   "pagina": 43,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-igualdad-1",
+   "tema": "igualdad",
+   "titulo": "Regular por ley la violencia vicaria",
+   "resumen": "Reformar la Ley Orgánica 1/2004 para incluir violencia económica, vicaria y digital, con una regulación específica de la violencia vicaria.",
+   "cita": "Aprovar una regulació específica de la violència vicària",
+   "pagina": 24,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-igualdad-2",
+   "tema": "igualdad",
+   "titulo": "Permiso retribuido por duelo gestacional",
+   "resumen": "Reconocer un permiso laboral retribuido por pérdidas gestacionales entre la semana seis y el día 179 de gestación.",
+   "cita": "Reconèixer el dret al dol gestacional",
+   "pagina": 24,
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-igualdad-3",
+   "tema": "igualdad",
+   "titulo": "Reconocer legalmente las identidades no binarias",
+   "resumen": "Adaptar el Registro Civil y la documentación para reconocer identidades no binarias sin requisitos patologizadores.",
+   "cita": "Reconèixer legalment les identitats no-binàries.",
+   "pagina": 24,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-energia-1",
+   "tema": "energia",
+   "titulo": "Automatizar y ampliar el bono social eléctrico",
+   "resumen": "Automatizar la concesión del bono social eléctrico, ampliar los umbrales de renta y revisar los límites de consumo bonificado.",
+   "cita": "Automatitzar i ampliar el bo social elèctric.",
+   "pagina": 21,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-energia-2",
+   "tema": "energia",
+   "titulo": "Quitar exenciones al combustible de aviación",
+   "resumen": "Eliminar las exenciones fiscales al combustible de aviación y navegación y revisar la fiscalidad energética del gas.",
+   "cita": "Consolidar una fiscalitat verda per a l’emergència climàtica.",
+   "pagina": 22,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-energia-3",
+   "tema": "energia",
+   "titulo": "Traspasar las centrales hidroeléctricas",
+   "resumen": "Recuperar y traspasar a la Generalitat la gestión y titularidad pública de las centrales hidroeléctricas según caduquen las concesiones.",
+   "cita": "Traspassar les centrals hidroelèctriques.",
+   "pagina": 30,
+   "concrecion": {
+    "cifra": false,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-instituciones-1",
+   "tema": "instituciones",
+   "titulo": "Suprimir delitos de injurias a la Corona",
+   "resumen": "Eliminar del Código Penal los delitos de ofensa a sentimientos religiosos y de injurias y calumnias a la Corona y a las asambleas legislativas.",
+   "cita": "Suprimir els delictes d’ofensa als sentiments religiosos i d’injúries i calúmnies contra la Corona",
+   "pagina": 8,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-instituciones-2",
+   "tema": "instituciones",
+   "titulo": "Fiscalizar la actividad de la Casa Real",
+   "resumen": "Impulsar iniciativas parlamentarias para fiscalizar la actividad del rey y la familia real, y apoyar medidas de transparencia y eliminación de privilegios.",
+   "cita": "posar fi a aquesta institució contrària al principi democràtic",
+   "pagina": 8,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-territorio-1",
+   "tema": "territorio",
+   "titulo": "Referéndum de autodeterminación pactado",
+   "resumen": "Negociar la convocatoria de un referéndum de autodeterminación en Cataluña con acompañamiento internacional.",
+   "cita": "Negociar la convocatòria d’un referèndum d’autodeterminació a Catalunya amb acompanyament internacional",
+   "pagina": 8,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-territorio-2",
+   "tema": "territorio",
+   "titulo": "Nuevo modelo de financiación singular",
+   "resumen": "Aprobar el modelo acordado en enero de 2026 con el Gobierno, con recaudación de impuestos por Cataluña e ingresos adicionales de 4.700 millones anuales.",
+   "cita": "uns ingressos addicionals de 4.700 MEUR anuals per a Catalunya",
+   "pagina": 12,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-territorio-3",
+   "tema": "territorio",
+   "titulo": "Condonar 17.100 millones del FLA",
+   "resumen": "Tramitar la ley para condonar más de 17.100 millones del Fondo de Liquidez Autonómico de la Generalitat, con ahorro estimado de 1.500 millones anuales en intereses.",
+   "cita": "Condonar de forma efectiva els més de 17.100 milions d’euros del FLA.",
+   "pagina": 12,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-exterior-1",
+   "tema": "exterior",
+   "titulo": "Embargo total de armas a Israel",
+   "resumen": "Promover un embargo completo de armas a Israel y pedir a la UE que suspenda el acuerdo de asociación mientras dure la ocupación.",
+   "cita": "Promoure un embargament complet d’armes a Israel per part de l’Estat.",
+   "pagina": 16,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-exterior-2",
+   "tema": "exterior",
+   "titulo": "Mantener el apoyo a Ucrania",
+   "resumen": "Mantener la ayuda de la UE a Ucrania y fomentar la vía diplomática y la negociación.",
+   "cita": "Mantenir el suport a Ucraïna davant l’agressió russa",
+   "pagina": 16,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-exterior-3",
+   "tema": "exterior",
+   "titulo": "Cumplir el 0,7% de ayuda al desarrollo",
+   "resumen": "Cumplir efectivamente el 0,7% en Ayuda Oficial al Desarrollo, con un porcentaje vinculante por cooperación descentralizada.",
+   "cita": "Complir amb el compromís del 0,7 % d’Ajut Oficial al Desenvolupament.",
+   "pagina": 16,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "erc-corrupcion-1",
+   "tema": "corrupcion",
+   "titulo": "Denunciar contratos de Defensa a empresas condenadas por corrupción",
+   "resumen": "Dentro de su propuesta de fiscalizar el modelo de Defensa y sus programas de armamento, denunciarían la adjudicación de contratos públicos a empresas implicadas y condenadas en casos de corrupción. No concretan cómo ni en qué plazo.",
+   "cita": "denunciar l’adjudicació de contractes públics a empreses implicades i condemnades en casos de corrupció",
+   "pagina": 16,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  }
+ ],
+ "nota": "Programa en catalán; títulos y resúmenes en castellano, citas en el idioma original. Fecha de publicación no consta en el texto (menciona la inflación de septiembre de 2026). Temas sin propuestas concretas propias: ninguno."
+}

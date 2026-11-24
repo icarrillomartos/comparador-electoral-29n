@@ -1,0 +1,302 @@
+{
+ "ambito": "psoe",
+ "revisadas_con_enlace": 3,
+ "no_se_pudieron_abrir": [
+  "psoe-vivienda-1/e1 (cuerpo ilegible)",
+  "psoe-sanidad-1/e1 (PDF sin texto extraíble)",
+  "psoe-sanidad-1/e2",
+  "psoe-instituciones-1/e4 (PDF de votación sin texto)",
+  "psoe-seguridad-1/e4",
+  "psoe-seguridad-1/e8 (no abierto)"
+ ],
+ "hallazgos": [
+  {
+   "donde": "psoe-instituciones-1/falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "El contraste recoge la caída del decreto-ley de grupos de interés (e4) pero no que el Gobierno lo aprobó el 25-8-2026 y creaba el primer registro estatal de lobbies; es un hecho documentado a favor y solo figura el lado negativo.",
+   "comprobado_en": "https://www.boe.es/boe/dias/2026/08/26/pdfs/BOE-A-2026-18148.pdf",
+   "que_dice_la_fuente": "BOE-A-2026-18148: 'DECRETO LEY 21/2026 de 25/08/2026', publicado en el BOE núm. 209 de 26-8-2026 (solo pude leer los metadatos del PDF). Cuatrecasas, Garrigues y Democrata (vistos en resultados de búsqueda, no abiertos) lo describen como marco estatal con registro obligatorio de grupos de interés, que el Congreso derogó el 16-9-2026 (BOE 18-9-2026).",
+   "correccion": {
+    "sentido": "apoya",
+    "componente": "coherencia",
+    "tipo": "norma",
+    "titulo": "El Gobierno aprobó un decreto-ley que creaba un registro estatal de lobbies",
+    "hecho": "El Consejo de Ministros aprobó el Real Decreto-ley 21/2026, de 25 de agosto, publicado en el BOE el 26-8-2026, que creaba un registro obligatorio de grupos de interés. El Congreso no lo convalidó el 16-9-2026 y quedó derogado (e4).",
+    "fecha": "2026-08-26",
+    "fuente": "BOE",
+    "url": "https://www.boe.es/boe/dias/2026/08/26/pdfs/BOE-A-2026-18148.pdf",
+    "estado_judicial": null,
+    "fuente_unica": false
+   }
+  },
+  {
+   "donde": "psoe-instituciones-1/e4",
+   "tipo": "fuente_primaria",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "Existe el registro oficial de la votación del 16-9-2026; e4 se apoya en Ara/Demócrata y dice que no da recuento de votos.",
+   "comprobado_en": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion198/20260916/Votacion016/VOT_20260916195339.pdf",
+   "que_dice_la_fuente": "La URL existe en el open data del Congreso (sesión 198, 16-9-2026); no pude extraer el texto del PDF, así que no confirmo el recuento. Otras fuentes coinciden en que PP, Vox y Junts votaron en contra y el BOE de 18-9-2026 publicó la derogación.",
+   "correccion": "Añadir la URL de la votación del Congreso (y el acuerdo de derogación en el BOE) como fuente primaria de e4 y completar el recuento."
+  },
+  {
+   "donde": "psoe-instituciones-1/puntos.coherencia",
+   "tipo": "nivel",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Coherencia 1 ('contradicciones serias y documentadas') se apoya en una condena a un exministro (e5) y en una investigación sin procesar (e6), no en votos o actos del Gobierno contra su propia promesa; el Gobierno sí presentó la ley, el plan y el decreto de lobbies (e2). Una investigación no es contradicción documentada y la condena no es un voto ni un acto contra la ley. Con la rúbrica, 2 (cambios de posición o mensajes cruzados) se deduce mejor de las evidencias.",
+   "comprobado_en": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Notas-de-prensa/El-Tribunal-Supremo-condena-al-exministro-Jose-Luis-Abalos-y-a-su-exasesor-Koldo-Garcia-a-24-anos-y-19-anos-de-prision--respectivamente--por-delitos-de-organizacion-criminal--cohecho--malversacion-y-trafico-de-influencias",
+   "que_dice_la_fuente": "Condena a Ábalos (24 años y 3 meses) confirmada por la nota del Supremo y por Euronews, Infobae y elDiario.es en búsqueda; los hechos son de 2020-2021.",
+   "correccion": "Proponer coherencia 2, o mantener 1 solo si el editor aplica el mismo criterio a los demás partidos con condenas de cargos en ejercicio."
+  },
+  {
+   "donde": "psoe-instituciones-1/e8",
+   "tipo": "fuente_primaria",
+   "gravedad": "baja",
+   "confianza": "baja",
+   "problema": "e8 se comprobó en un análisis de EY porque la ficha de España de Transparencia Internacional no cargó; existe nota oficial del CPI 2025.",
+   "comprobado_en": "https://www.transparency.org/es/press/corruption-perceptions-index-2025-decline-in-leadership-undermining-global-fight-against-corruption",
+   "que_dice_la_fuente": "Resultados de búsqueda dan 55 puntos y puesto 49 en 2025 (56 en 2024), media mundial 42; no abrí la nota de TI.",
+   "correccion": "Citar transparency.org/en/cpi/2025 en lugar de EY y añadir el puesto 49. La variación es de un punto, conviene decirlo en el hecho."
+  },
+  {
+   "donde": "psoe-vivienda-1/falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "La Ley 12/2023 por el derecho a la vivienda se cita en el resumen pero no hay ninguna evidencia con su BOE; es el hecho documentado más claro a favor y las apoyos son solo 2 frente a 6 en contra.",
+   "comprobado_en": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-12203",
+   "que_dice_la_fuente": "Ley 12/2023, de 24 de mayo, BOE 25-5-2023, en vigor el 26-5-2023: regula zonas tensionadas, un inventario y régimen básico del parque público de vivienda, y eleva el recargo del IBI a viviendas vacías hasta el 150%.",
+   "correccion": {
+    "sentido": "apoya",
+    "componente": "historial",
+    "tipo": "norma",
+    "titulo": "Ley 12/2023: primera ley estatal de vivienda",
+    "hecho": "La Ley 12/2023, de 24 de mayo, en vigor desde el 26-5-2023, crea el régimen básico del parque público de vivienda, permite declarar zonas tensionadas con límites a la renta y eleva el recargo del IBI a viviendas vacías. El Tribunal Constitucional la avaló casi por completo en la STC 79/2024.",
+    "fecha": "2023-05-25",
+    "fuente": "BOE",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-12203",
+    "estado_judicial": null,
+    "fuente_unica": false
+   }
+  },
+  {
+   "donde": "psoe-vivienda-1/falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "El Plan Estatal de Vivienda 2026-2030 (7.000 millones) solo se menciona dentro de 'refutacion'. Es un acto aprobado que respalda la financiación y no está como evidencia.",
+   "comprobado_en": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/210426-rueda-de-prensa-ministros.aspx",
+   "que_dice_la_fuente": "Según la búsqueda sobre la referencia del Consejo de Ministros del 21-4-2026: plan dotado con 7.000 millones, el Estado aporta el 60% y las comunidades el resto; el reparto debe aprobarse en Conferencia Sectorial (800 millones en 2026). No abrí la página.",
+   "correccion": {
+    "sentido": "apoya",
+    "componente": "viabilidad",
+    "tipo": "norma",
+    "titulo": "El Consejo de Ministros aprueba el Plan Estatal de Vivienda 2026-2030",
+    "hecho": "El 21-4-2026 el Consejo de Ministros aprobó el Plan Estatal de Vivienda 2026-2030, dotado con 7.000 millones, con el 60% a cargo del Estado y el resto de las comunidades. El reparto depende de la Conferencia Sectorial; no consta en Presupuestos aprobados (e8).",
+    "fecha": "2026-04-21",
+    "fuente": "Consejo de Ministros (La Moncloa)",
+    "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/210426-rueda-de-prensa-ministros.aspx",
+    "estado_judicial": null,
+    "fuente_unica": false
+   }
+  },
+  {
+   "donde": "psoe-vivienda-1/refutacion",
+   "tipo": "contexto",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "La refutación dice que la STC 79/2024 anuló preceptos 'sobre vivienda protegida y parques públicos'. Las fuentes consultadas la describen como estimación parcial que avala la ley casi por completo; INAP cita dos artículos (16 y 27) y una disposición transitoria. No consta que anulara preceptos sobre parques públicos. Además es un dato de viabilidad que debería estar como evidencia con su enlace oficial.",
+   "comprobado_en": "https://hj.tribunalconstitucional.es/docs/BOE/BOE-A-2024-12808.pdf",
+   "que_dice_la_fuente": "STC 79/2024, de 21-5-2024, recurso 5491-2023 de la Junta de Andalucía; Infobae: 'avala la ley de vivienda casi en su totalidad'; Cuatrecasas habla de preceptos sobre vivienda protegida. No leí el fallo.",
+   "correccion": "Reescribir con el fallo en la mano: 'el Constitucional avaló casi toda la ley y declaró inconstitucionales [artículos exactos] por invadir competencias autonómicas', y añadir la STC como evidencia (contradice o contexto, viabilidad) con la URL del BOE-A-2024-12808."
+  },
+  {
+   "donde": "psoe-vivienda-1/e9",
+   "tipo": "clasificacion",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "El déficit de 750.000 viviendas del Banco de España describe el problema, no la credibilidad de la promesa del PSOE ni algo que haya hecho el partido; el informe incluso cita trabas urbanísticas, suelo y mano de obra. Figura como 'contradice'.",
+   "comprobado_en": "https://es.euronews.com/2026/06/18/el-banco-de-espana-senala-un-deficit-de-750000",
+   "que_dice_la_fuente": "Informe Anual 2025 del Banco de España (18-6-2026): déficit de unas 750.000 viviendas entre 2021 y 2025, unos 240.000 hogares nuevos y 92.000 viviendas terminadas en 2025; prevé que siga creciendo.",
+   "correccion": "Cambiar sentido a 'contexto'. Los datos de 'datos' no bajan de 2 por esto."
+  },
+  {
+   "donde": "psoe-vivienda-1/puntos.historial",
+   "tipo": "nivel",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Historial 1 ('prometido y mayormente incumplido') se sostiene en la falta de datos publicados (e1) y en 600 viviendas ofertadas (e2, fuente única), no en un incumplimiento documentado; a la vez la vivienda protegida terminada se duplicó y se aprobó la Ley 12/2023 (e3, norma). Ausencia de dato no es incumplimiento; con la rúbrica encaja mejor 2 (resultados mixtos).",
+   "comprobado_en": "https://maldita.es/malditahemeroteca/20260430/vivienda-social-espana-sanchez/",
+   "que_dice_la_fuente": "El titular de Maldita dice que no hay datos públicos de casas construidas y entregadas; no pude leer el cuerpo (la página se carga casi toda en base64) y no verifiqué las cifras 120.479 y 59.879.",
+   "correccion": "Proponer historial 2, o dejar 1 con la justificación 'sin datos de entrega' en vez de 'incumplido'."
+  },
+  {
+   "donde": "psoe-sanidad-1/e5",
+   "tipo": "clasificacion",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "e5 figura como 'contradice' y el historial 1 afirma que el 7% 'solo se superó con claridad en 2020-2021', pero la propia nota de e4/e5 admite que el Sistema de Cuentas de Salud da 7,0% en 2023 (el año prometido) y 6,9% en 2024. Con esa medida oficial el objetivo se cumplió en 2023. La evidencia es, como mucho, contexto.",
+   "comprobado_en": "https://www.redaccionmedica.com/politica/20230530/el-pone-en-jaque-el-pacto-sanitario-psoe-podemos-que-queda-por-hacer/212592_0.html",
+   "que_dice_la_fuente": "Los datos 6,5% (EGSP) y 7,0% (Cuentas de Salud) para 2023 proceden de las notas del propio contraste (e4, e5), que no pude abrir; solo vi la URL de Redacción Médica en resultados.",
+   "correccion": "Cambiar e5 a 'contexto' y reformular el historial: 7% de 2023 cumplido o no según la estadística (6,5% o 7,0%), listas de espera con más pacientes que en 2018. Con eso el nivel de historial pasaría de 1 a 2."
+  },
+  {
+   "donde": "psoe-sanidad-1/falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "Los hechos a favor son solo e6 (plazas de formación). Existe el Real Decreto-ley 7/2018 de acceso universal al SNS, aprobado por este Gobierno, aunque su pertinencia respecto de listas de espera y gasto es indirecta. No encontré un hecho oficial a favor directamente sobre listas de espera.",
+   "comprobado_en": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-10752",
+   "que_dice_la_fuente": "Real Decreto-ley 7/2018, de 27 de julio (BOE 30-7-2018, en vigor el 31-7-2018): restablece la cobertura universal vinculada a la residencia, no a la cotización.",
+   "correccion": {
+    "sentido": "apoya",
+    "componente": "historial",
+    "tipo": "norma",
+    "titulo": "Real Decreto-ley 7/2018 restablece el acceso universal al SNS",
+    "hecho": "El Real Decreto-ley 7/2018, de 27 de julio, vinculó el derecho a la asistencia sanitaria a la residencia y no a la cotización. No trata las listas de espera ni la financiación.",
+    "fecha": "2018-07-30",
+    "fuente": "BOE",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-10752",
+    "estado_judicial": null,
+    "fuente_unica": false
+   }
+  },
+  {
+   "donde": "psoe-seguridad-1/e6",
+   "tipo": "clasificacion",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "El número de sanciones con la ley (284.512 en 2023) figura como 'contradice' / coherencia, pero la propia nota dice que aplicar una ley vigente es obligación de la Administración. No indica cambio de posición ni acto contra la promesa.",
+   "comprobado_en": "https://elderecho.com/las-multas-por-la-ley-mordaza-aumentan-un-17-en-2023",
+   "que_dice_la_fuente": "Evidencia autocalificada en su nota; no abrí el Anuario del Interior.",
+   "correccion": "Cambiar a 'contexto'. La coherencia 2 se mantiene con e1, e3 y e7."
+  },
+  {
+   "donde": "psoe-seguridad-1/e3",
+   "tipo": "redaccion",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "e3 sostiene que el programa de 2023 'no incluía derogar' la ley, pero el artículo de El Salto no cita el texto del programa: describe su lectura. Es fuente única y descansa en una ausencia. Se usa en la justificación de coherencia.",
+   "comprobado_en": "https://www.elsaltodiario.com/elecciones/psoe-no-incluye-derogacion-ley-mordaza-programa",
+   "que_dice_la_fuente": "El Salto (8-7-2023): el programa del 23J no incluye la derogación y su apartado de seguridad solo cita 14.381 plazas de agentes; el artículo no reproduce el texto del programa. La búsqueda sugiere que el pacto PSOE-Sumar de octubre de 2023 sí incluía 'reformar y derogar aspectos'.",
+   "correccion": "Redactar 'según El Salto, el programa de 2023 no mencionaba la derogación' y comprobarlo en el PDF del programa de 2023 antes de usarlo como coherencia."
+  },
+  {
+   "donde": "psoe-seguridad-1/resumen",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "El resumen y el matiz hablan de 'dos intentos de reforma'. The Objective describe la toma en consideración de 2024 como tercer intento, tras los fracasos de 2019 y 2023.",
+   "comprobado_en": "https://theobjective.com/espana/politica/2024-10-29/reforma-ley-mordaza-congreso/",
+   "que_dice_la_fuente": "Búsqueda: 'Es el tercer intento de reforma tras los fracasos de 2019 y 2023'; no abrí el artículo ni busqué la tramitación de 2019.",
+   "correccion": "Decir 'tres intentos (2019, 2023 y 2024)' tras comprobar el de 2019 en el Congreso, o aclarar que se cuentan solo los de esta etapa."
+  },
+  {
+   "donde": "psoe-seguridad-1/falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "Falta el dato de que el Pleno rechazó las enmiendas a la totalidad de PP y Vox a la reforma el 12-12-2024, que hizo avanzar la tramitación; es un voto documentado a favor.",
+   "comprobado_en": "https://www.noticiasdenavarra.com/politica/2024/12/12/congreso-debate-enmiendas-totalidad-pp-9040300.amp.html",
+   "que_dice_la_fuente": "La página dio error 406; el titular y Deia (12-12-2024) dicen que 'la reforma de la ley mordaza sigue adelante tras el fracaso de PP y Vox en frenarla'. Falta el recuento oficial.",
+   "correccion": {
+    "sentido": "apoya",
+    "componente": "coherencia",
+    "tipo": "votacion",
+    "titulo": "El Congreso rechaza las enmiendas de PP y Vox contra la reforma",
+    "hecho": "El 12-12-2024 el Congreso rechazó las enmiendas a la totalidad de PP y Vox a la proposición de reforma de la Ley de Seguridad Ciudadana, que siguió su tramitación. [Completar recuento con el Diario de Sesiones]",
+    "fecha": "2024-12-12",
+    "fuente": "Deia / Noticias de Navarra",
+    "url": "https://www.deia.eus/politica/2024/12/12/reforma-ley-mordaza-sigue-adelante-9041977.amp.html",
+    "estado_judicial": null,
+    "fuente_unica": false
+   }
+  },
+  {
+   "donde": "psoe-igualdad-1/falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "La promesa incluye una ley de violencia vicaria y el contraste dice que no se pudo comprobar su estado. Hay un hecho documentado: el Consejo de Ministros aprobó el anteproyecto el 30-9-2025 y el proyecto de ley orgánica el 14-7-2026 y lo remitió a las Cortes; decayó con la disolución de octubre de 2026.",
+   "comprobado_en": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/140726-rueda-prensa-ministros.aspx",
+   "que_dice_la_fuente": "Moncloa: 'Proyecto de Ley Orgánica de medidas en materia de violencia vicaria', retira automáticamente la patria potestad tras condena firme, suspende custodia y visitas con procedimiento en curso, formación de jueces y fiscales; aprobado para remitir a las Cortes. Artículo 14 (6-10-2026) y El Salto, vistos en resultados, dicen que decae con las elecciones.",
+   "correccion": {
+    "sentido": "apoya",
+    "componente": "historial",
+    "tipo": "norma",
+    "titulo": "El Gobierno aprueba el proyecto de ley orgánica contra la violencia vicaria",
+    "hecho": "El Consejo de Ministros aprobó el 14-7-2026 el proyecto de Ley Orgánica de medidas en materia de violencia vicaria y lo remitió a las Cortes. Incluye retirada automática de la patria potestad tras condena firme y formación de jueces y fiscales. Decayó al disolverse las Cortes en octubre de 2026 sin llegar a aprobarse.",
+    "fecha": "2026-07-14",
+    "fuente": "Consejo de Ministros (La Moncloa)",
+    "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/140726-rueda-prensa-ministros.aspx",
+    "estado_judicial": null,
+    "fuente_unica": false
+   }
+  },
+  {
+   "donde": "psoe-igualdad-1/e5",
+   "tipo": "clasificacion",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "Las rebajas de pena por la LO 10/2022 afectan a condenados por delitos sexuales, no son un fallo de protección de víctimas de violencia machista en la pareja que cubre la promesa; la evidencia pesa en historial (nivel 2). La pertinencia es indirecta aunque la revictimización sea un argumento.",
+   "comprobado_en": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/En-Portada/Los-tribunales-han-acordado-1-233-reducciones-de-pena-en-aplicacion-de-la-Ley-Organica-10-2022",
+   "que_dice_la_fuente": "No la abrí; la cifra de 1.233 reducciones la recoge la nota del CGPJ citada en el contraste.",
+   "correccion": "Mantener, pero cambiar a 'contexto' o indicar expresamente que es violencia sexual y no violencia de pareja, y que el Supremo confirmó que se aplicó la norma más favorable."
+  },
+  {
+   "donde": "psoe-empleo-1/falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "La refutación dice que no encontró un nuevo proyecto de ley en 2026 pero no lo registra. La búsqueda muestra que el Plan Anual Normativo 2026 solo contempla el real decreto de registro horario y no la reducción de jornada. Hecho relevante para viabilidad e historial y no figura como evidencia.",
+   "comprobado_en": "https://www.eldiario.es/1_c95f23",
+   "que_dice_la_fuente": "Resumen de búsqueda de elDiario.es (mayo de 2026): 'el Gobierno no planea que sea este año, según el Plan Normativo previsto para 2026'; la hoja de ruta solo contempla el real decreto para endurecer el registro horario. No abrí el artículo.",
+   "correccion": {
+    "sentido": "contradice",
+    "componente": "historial",
+    "tipo": "prensa",
+    "titulo": "El Plan Normativo 2026 no incluye la reducción de jornada",
+    "hecho": "Según elDiario.es (mayo de 2026), el Plan Anual Normativo de 2026 no recoge un nuevo proyecto de reducción de jornada a 37,5 horas; solo el real decreto de registro horario. [Verificar con el Plan Normativo oficial.]",
+    "fecha": "2026-05",
+    "fuente": "elDiario.es",
+    "url": "https://www.eldiario.es/1_c95f23",
+    "estado_judicial": null,
+    "fuente_unica": true
+   }
+  },
+  {
+   "donde": "psoe-empleo-1/e7",
+   "tipo": "clasificacion",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "El SMI de 2026 (e7) es un compromiso laboral distinto de la jornada; la nota lo admite. Cuenta como único apoyo de historial junto con e1, de modo que el historial 2 descansa en una medida no relacionada con la promesa.",
+   "comprobado_en": "https://www.boe.es/eli/es/rd/2026/02/18/126/con",
+   "que_dice_la_fuente": "No la abrí; la nota del contraste dice que la cifra de 2018 no figura en la norma.",
+   "correccion": "Pasar e7 a 'contexto' o dejarlo solo en el texto; el historial 2 se sostiene aún con e1 (aprobado y enviado) frente a e2 y e4 (no aprobado, calendario incumplido)."
+  },
+  {
+   "donde": "psoe-impuestos-1/e5-e6",
+   "tipo": "clasificacion",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "Las evidencias de Presupuestos prorrogados (e5, e6) pesan en viabilidad como 'contradice' pero la subida del 30% de 2025 se aprobó mediante la Ley 7/2024 sin Presupuestos nuevos (e1), así que la falta de Presupuestos no impide esta medida. Pertinencia débil y se contrapone a e1 en la misma justificación.",
+   "comprobado_en": "https://sede.agenciatributaria.gob.es/Sede/irpf/novedades-impuesto/novedades-normativa-2024/principales-novedades-ley-7-2024-diciembre.html",
+   "que_dice_la_fuente": "La Agencia Tributaria recoge la subida al 30% como novedad de la Ley 7/2024, de 20-12-2024, en vigor desde el 1-1-2025 (vista en búsqueda).",
+   "correccion": "Pasar e5 y e6 a 'contexto' y suprimirlas de la justificación de viabilidad. La falta de mayoría que sí pesa es e4 (votación en el Congreso)."
+  },
+  {
+   "donde": "psoe-impuestos-1/e4",
+   "tipo": "fuente_primaria",
+   "gravedad": "baja",
+   "confianza": "alta",
+   "problema": "Verificado: el Congreso votó el 22-1-2025 el RDL 10/2024 (gravamen temporal energético para 2025) con 165 a favor, 183 en contra y 1 abstención, y el RDL 9/2024 con 171-177-1. Solo precisión: el RDL 10/2024 'establecía' el gravamen para 2025, no 'mantenía' el vigente, y el gravamen es sobre energéticas, no sobre IRPF; la relación con la promesa es de mayoría parlamentaria.",
+   "comprobado_en": "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=22/01/2025",
+   "que_dice_la_fuente": "Sesión 89 (22-1-2025): 'RDL 10/2024... establecimiento de un gravamen temporal energético para 2025': 165 a favor, 183 en contra, 1 abstención.",
+   "correccion": "Reformular el hecho: 'rechazó convalidar el decreto que establecía un gravamen temporal energético para 2025'."
+  }
+ ],
+ "valoracion_general": "El bloque tiene 30 evidencias en contra, 13 a favor y 21 de contexto, y el desequilibrio viene en parte de textos que descuentan hechos favorables ya conocidos: la Ley 12/2023, el Plan Estatal 2026-2030, el decreto de lobbies de agosto de 2026 y el proyecto de violencia vicaria figuran solo en el texto o ni eso. Varias evidencias en contra no miden la promesa (déficit de vivienda, sanciones aplicadas, Presupuestos prorrogados en un impuesto que se aprobó sin ellos) y en instituciones el nivel de coherencia 1 depende de procesos judiciales de personas. Los niveles de historial de vivienda y sanidad (1) son los peor fundados. Solo abrí directamente 3 enlaces; casi todas las cifras de 2026 no pude contrastarlas con fuente primaria y no las corrijo."
+}

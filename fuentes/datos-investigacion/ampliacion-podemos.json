@@ -1,0 +1,1173 @@
+{
+ "partido": "podemos",
+ "propuestas_nuevas": [],
+ "contrastes_nuevos": [
+  {
+   "propuesta_id": "podemos-pensiones-1",
+   "pista_codex": "piloto-podemos-pensiones-extra2",
+   "promesa": "Adelantar la edad ordinaria de jubilación a los 63 años y pagar el coste con los Presupuestos Generales del Estado.",
+   "ha_gobernado": "estatal",
+   "resumen": "Podemos promete bajar la edad ordinaria de jubilación a los 63 años. En 2026 la edad legal es de 66 años y 10 meses, o 65 con 38 años y 3 meses cotizados, y la ley la lleva a 67 en 2027. Cuando estuvo en el Gobierno (2020-2023) votó una reforma que mantuvo ese calendario e incentivó retrasar el retiro; fuera del Gobierno, en 2025, votó contra otra norma por premiar el trabajo más allá de la edad legal. El programa no da ninguna cifra de coste. La AIReF prevé que el gasto en pensiones suba del 13% al 16,4% del PIB hasta 2050 con las reglas actuales, y el Gobierno cifra en 3.358 millones al año una medida mucho menor (quitar la penalización a quien se jubila antes con 40 años cotizados).",
+   "antecedentes": "El programa de Podemos de noviembre de 2019 no pedía jubilarse a los 63: pedía jubilación anticipada sin penalización con 35 años cotizados y antes de los 65 en trabajos duros. El acuerdo de coalición con el PSOE no recogió ninguna rebaja de la edad; pactó subir las pensiones con el IPC y eliminar el factor de sostenibilidad, y eso se aprobó en la Ley 21/2021. La jubilación a los 63 como edad ordinaria aparece en el programa de 2026.",
+   "matiz": "La reforma de 2021 que votó Unidas Podemos no subió la edad legal: mantuvo el calendario fijado en 2011 y añadió incentivos voluntarios para retrasar el retiro. En sentido contrario: la medida de 2026 no es la continuación de algo que defendiera con poder, sino una promesa nueva, y remitir el pago a los Presupuestos no reduce su coste.",
+   "refutacion": "Contra la promesa se buscó: qué votó con poder, si hay un cálculo de coste y qué dicen los organismos independientes. Salió que votó la reforma de 2021 que incentiva retrasar la jubilación (e2), que el acuerdo de 2019 no incluía rebajar la edad (e3), que ni el programa ni la candidata dan cifra (e9) y que la AIReF proyecta más gasto y más deuda sin cambios (e7). Contra esa evidencia se buscó: si la reforma de 2021 subió la edad (no: el calendario venía de 2011, e1); si Podemos ha sido constante en no alargar la vida laboral (sí desde 2025: votó contra la norma que premia la jubilación demorada, e5); si el sistema incumple hoy su regla de gasto (no: la AIReF concluye que la cumple, e7). No se encontró ninguna estimación independiente del coste de jubilarse a los 63 (ni AIReF, ni Banco de España, ni FEDEA): la cifra del Gobierno (e8) es de otra medida y solo sirve de orden de magnitud. No se pudo comprobar el programa de 2016.",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Con Podemos en el Gobierno no se rebajó la edad ni se quitó la penalización que pedía en 2019; se aprobó una reforma que incentiva retrasar el retiro (e2, e3, e4). Sí se cumplió lo pactado sobre revalorización (e3)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Votó a favor de incentivar la jubilación demorada en 2021 (e2) y en contra de lo mismo en 2025 (e5); la edad de 63 años no estaba en su programa de 2019 (e4)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Basta una ley ordinaria que cambie la Ley General de la Seguridad Social (e1), pero el programa no cuantifica el coste ni de dónde sale el dinero (e9) y el Gobierno ya rechazó por coste una medida menor (e8)."
+    },
+    "datos": {
+     "nivel": 1,
+     "por": "La AIReF prevé que el gasto en pensiones suba al 16,4% del PIB en 2050 sin tocar la edad (e7) y la política seguida desde 2021 ha ido en sentido contrario, con la edad real en 65,3 años (e6). Ningún organismo ha evaluado la medida."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La edad legal en 2026: 66 años y 10 meses",
+     "hecho": "La Ley General de la Seguridad Social fija la jubilación ordinaria a los 67 años, o a los 65 con 38 años y 6 meses cotizados (artículo 205.1.a). Su disposición transitoria séptima lo aplica por tramos: en 2026, 65 años con 38 años y 3 meses cotizados o 66 años y 10 meses con menos; desde 2027, 67 años. Bajar la edad ordinaria a 63 supone adelantarla hasta cuatro años y se hace cambiando esta ley.",
+     "fecha": "2015-10-30",
+     "fuente": "BOE (texto refundido de la Ley General de la Seguridad Social)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leídos el artículo 205.1.a) y el cuadro de la disposición transitoria séptima en el texto consolidado (última actualización, 11-11-2026). El calendario procede de la reforma de 2011, anterior a Podemos."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "votacion",
+     "titulo": "Unidas Podemos votó en 2021 incentivar el retraso de la jubilación",
+     "hecho": "El Congreso aprobó el 2-12-2021 la primera parte de la reforma de pensiones (luego Ley 21/2021) por 176 votos a favor, 148 en contra y 6 abstenciones. Unidas Podemos votó a favor. La norma no cambió la edad legal: revalorizó las pensiones con el IPC, pasó a calcular por meses los recortes por jubilación anticipada y creó incentivos por retrasar el retiro (un 4% más de pensión por año o un pago único de hasta 12.000 euros).",
+     "fecha": "2021-12-02",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/economia/2021/12/02/el-congreso-aprueba-la-primera-reforma-de-pensiones-que-las-vuelve-a-subir-con-el-ipc/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La diputada de Unidas Podemos Isabel Franco defendió el voto porque la ley derogaba la reforma de 2013. Otra crónica (Forbes) da 179 votos a favor; no se contrastó el recuento con el Diario de Sesiones. El ministro responsable era del PSOE."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de coalición de 2019 no incluía rebajar la edad",
+     "hecho": "El punto 2.4 del acuerdo PSOE-Unidas Podemos (30-12-2019) pactó actualizar las pensiones «conforme al IPC real mediante ley de forma permanente», subir las mínimas y eliminar el factor de sostenibilidad y el índice de revalorización de 2013, «siempre asegurando la sostenibilidad del sistema». No menciona la edad de jubilación ni la jubilación anticipada.",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos (copia difundida por El País)",
+     "url": "https://d500.epimg.net/descargables/2019/12/30/4ff5f0a5b64c2a18ad4a5f829e8e984d.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído el apartado 2.4 completo en la copia de texto del PDF. La revalorización con el IPC y el fin del factor de sostenibilidad se aprobaron en 2021 (e2)."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "En 2019 Podemos pedía anticipar sin recorte, no los 63",
+     "hecho": "El programa de Podemos para las generales de noviembre de 2019 proponía que quien hubiera cotizado al menos 35 años pudiera jubilarse anticipadamente «sin penalización», con efecto retroactivo (medida 199), y facilitar la jubilación «antes de los 65 años» en sectores especialmente duros (medida 201). No proponía bajar la edad ordinaria. En 2026 promete los 63 años para todos y, aparte, quitar la penalización con 40 años cotizados (medida 115), cinco más que en 2019.",
+     "fecha": "2019-10",
+     "fuente": "Programa de Podemos, elecciones generales de 10-11-2019 (copia de Betevé)",
+     "url": "https://img.beteve.cat/wp-content/uploads/2019/10/unides-podem_programa_generals.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leídas las páginas 84 y 85 del PDF en la copia archivada. No se pudo abrir el programa de 2016, al que el de 2019 se remite."
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "En 2025 Podemos votó contra premiar la jubilación demorada",
+     "hecho": "El 22-1-2025 el Congreso convalidó, con el voto del PP, el decreto-ley que cerraba la reforma de pensiones: más incentivos a la jubilación demorada, acceso antes a la jubilación parcial y más compatibilidad entre pensión y trabajo. Podemos votó en contra junto a EH Bildu y BNG. Según la crónica, rechazaba sobre todo «incentivar que se siga trabajando más allá de la edad legal de jubilación».",
+     "fecha": "2025-01-22",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/economia/ultima-reforma-pensiones-sale-adelante-congreso-apoyo-pp-no-grupos-izquierdas_1_11983776.amp.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La crónica no da el recuento de votos. Es el voto contrario al de 2021 (e2) sobre el mismo tipo de incentivo, ya fuera del Gobierno."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "La edad real de jubilación subió a 65,3 años",
+     "hecho": "Según la Seguridad Social, la edad media de acceso a la jubilación fue de 65,3 años en 2025 (datos hasta septiembre), frente a 64,4 en 2019. Las jubilaciones anticipadas bajaron del 40% al 26,9% de las nuevas altas y las demoradas subieron del 4,8% al 11,2%. En octubre de 2025 la nómina mensual de pensiones fue de 13.675,8 millones de euros, para 10.397.372 pensiones.",
+     "fecha": "2025-10-28",
+     "fuente": "Ministerio de Inclusión, Seguridad Social y Migraciones (La Moncloa)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2025/281025-pensiones-octubre.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota de prensa ministerial; se usa solo para las cifras. Una edad ordinaria de 63 años quedaría 2,3 años por debajo de la edad media real de 2025."
+    },
+    {
+     "id": "e7",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "AIReF: el gasto en pensiones llegará al 16,4% del PIB",
+     "hecho": "El estudio de la AIReF de 29-5-2026 concluye que el sistema cumple la regla de gasto de pensiones (gasto neto de medidas de ingresos del 13,0% del PIB de media en 2022-2050). A la vez prevé que, sin cambios, el gasto en pensiones suba del 13% del PIB en 2025 al 16,4% en 2050 y que la deuda pública alcance el 123% del PIB en 2050. El cálculo parte de las edades de jubilación vigentes.",
+     "fecha": "2026-05-29",
+     "fuente": "AIReF, Estudio 1/2026 de evaluación de la regla de gasto de pensiones",
+     "url": "https://www.airef.es/wp-content/uploads/2026/05/Pensiones/AIReF.-Estudio-de-evaluacion-de-la-regla-de-gasto-de-pensiones.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La URL es la presentación del estudio (29 páginas), abierta en copia archivada: confirma el 16,4% y el 123%. El 13,0% de la regla y la subida «del 13% al 16,4%» se leyeron en el estudio completo (https://www.airef.es/wp-content/uploads/2026/05/Pensiones/Estudio_Regla_Gasto_Pensiones-2026.pdf). La AIReF no ha evaluado la jubilación a los 63."
+    },
+    {
+     "id": "e8",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "El Gobierno cifra en 3.358 millones una medida menor",
+     "hecho": "En una respuesta parlamentaria conocida el 24-5-2026, el Gobierno calculó que eliminar los recortes por jubilación anticipada a quienes tienen 40 años o más cotizados costaría 3.358 millones de euros al año (1.345 por las voluntarias y 2.013 por las involuntarias) y dijo que no veía adecuado adoptarla. Esa medida, que Podemos también promete, afecta solo a una parte de los nuevos jubilados; la edad de 63 años afectaría a todos.",
+     "fecha": "2026-05-24",
+     "fuente": "Europa Press, vía Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias/economia/economia--gobierno-cifra-en-3358-millones-el-coste-de-eliminar-la-penalizacion-por-prejubilacion-con-40-anos-cotizados--22544476.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Es el coste de otra medida (la 115 del programa), no de la jubilación a los 63: se usa solo como orden de magnitud. No se localizó la respuesta parlamentaria original. El Gobierno remitía cualquier cambio al Pacto de Toledo y al diálogo social."
+    },
+    {
+     "id": "e9",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "declaracion",
+     "titulo": "Montero defendió los 63 años sin dar un coste",
+     "hecho": "El 6-11-2026, en un desayuno de Europa Press, la candidata Irene Montero propuso bajar la edad legal de jubilación a los 63 años y subir las pensiones mínimas y no contributivas, y dijo que el sistema público «está perfectamente preparado». La crónica no recoge ninguna cifra de coste. El programa (medida 116) dice que se pagará con los Presupuestos Generales del Estado, sin importe ni calendario.",
+     "fecha": "2026-11-06",
+     "fuente": "Demócrata (agencias)",
+     "url": "https://www.democrata.es/politica/irene-montero-propone-jubilarse-a-los-63-anos-y-elevar-las-pensiones-minimas-y-no-contributivas/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La medida 115 del mismo programa sí promete una memoria económica para quitar la penalización con 40 años cotizados; la 116 no."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "podemos-sanidad-2",
+   "pista_codex": "ninguna",
+   "promesa": "Derogar la Ley 15/1997 y las normas que permiten la gestión privada de la sanidad pública, prohibir nuevas externalizaciones y recuperar los servicios privatizados cuando venzan los contratos.",
+   "ha_gobernado": "estatal",
+   "resumen": "Podemos promete derogar la Ley 15/1997, que permite gestionar centros públicos con empresas, y hacer obligatoria la gestión pública directa. El acuerdo de coalición de 2019 se comprometía a revisar esa ley; la legislatura acabó en 2023 sin tocarla y sigue en vigor en 2026. Unidas Podemos denunció en 2022 que el proyecto del Ministerio de Sanidad no la derogaba de verdad y Podemos registró su propia ley en 2024. En la Comunidad Valenciana, con Podem en el Gobierno autonómico, el hospital de Torrevieja volvió a gestión directa en 2021; después subió el gasto de personal. Los conciertos con la privada suman 10.143 millones al año, el 10% del gasto sanitario público, y los gestionan las comunidades.",
+   "antecedentes": "El acuerdo de coalición de 2019 decía apostar por «la gestión pública directa» y revisar la Ley 15/1997. El Ministerio de Sanidad, del PSOE, presentó en 2022 un texto que Unidas Podemos consideró insuficiente, y la ley no se cambió. En abril de 2024 Podemos registró una proposición que la deroga y veta renovar los contratos de gestión indirecta. En mayo de 2026 el Gobierno PSOE-Sumar aprobó un proyecto que deroga la ley pero mantiene la gestión indirecta como excepción y respeta los contratos vigentes hasta su vencimiento.",
+   "matiz": "Sanidad no fue un ministerio de Podemos y la Conselleria valenciana de Sanidad era del PSPV: su capacidad de decidir era limitada en ambos casos. En sentido contrario: el compromiso estaba firmado en el acuerdo de gobierno y no se cumplió en cuatro años, y la sanidad la gestionan las comunidades, de modo que una ley estatal no devuelve por sí sola ningún hospital.",
+   "refutacion": "Contra la promesa se buscó: qué pasó con el compromiso de 2019, si Podemos apoyó textos más tibios y qué dicen los datos de las reversiones. Salió que la ley sigue vigente (e1, e2, e5), que la reversión de Torrevieja encareció el gasto de personal según datos de la propia Conselleria, ya con otro Gobierno (e8), y que la Constitución no obliga a la gestión directa (e9). Contra esa evidencia se buscó: si Podemos aceptó el texto de 2022 (no: lo criticó en público, e3); si ha sostenido la exigencia (sí: ley propia en 2024, e4); si la reversión es posible (sí: Torrevieja se revirtió al vencer el contrato, e7); si la sentencia del Constitucional impide prohibir la gestión privada (no: dice que la Constitución no impone un modelo, lo que deja la decisión al legislador, e9). No se encontró ningún informe independiente que compare el coste nacional de recuperar todos los servicios concertados, ni se localizó la votación del proyecto de 2022 ni la posición de Podemos sobre el proyecto de 2026. El dato de mayor gasto en Torrevieja procede de un solo medio.",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "El acuerdo de gobierno prometía revisar la Ley 15/1997 y acabó la legislatura sin hacerlo (e1, e2); la única recuperación con Podemos en un Gobierno es autonómica, la de Torrevieja (e7)."
+    },
+    "coherencia": {
+     "nivel": 4,
+     "por": "Criticó en 2022 el texto de su propio Gobierno por no derogar la ley (e3), registró una ley propia en 2024 (e4) y en la Comunidad Valenciana rechazó la empresa pública y pidió gestión directa (e7)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Basta una ley estatal y la Constitución no impone ningún modelo (e9), pero la gestión es autonómica, los contratos vigentes duran años (e5) y el programa no explica cómo se pagan 10.143 millones de servicios concertados (e6)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Los conciertos pesan el 10% del gasto y crecen (e6); el único caso medido tras una reversión muestra más gasto de personal (e8), con una sola fuente y sin datos de resultados en salud. No hay evaluación independiente."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La Ley 15/1997 permite la gestión indirecta y sigue vigente",
+     "hecho": "El artículo único de la Ley 15/1997, de 25 de abril, establece que la gestión de los centros sanitarios puede hacerse «directamente o indirectamente» a través de entidades de cualquier naturaleza admitidas en Derecho, y que la prestación puede realizarse, además de con medios propios, «mediante acuerdos, convenios o contratos con personas o entidades públicas o privadas». El texto sigue en vigor.",
+     "fecha": "1997-04-25",
+     "fuente": "BOE (Ley 15/1997)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-9021",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierto el texto consolidado. La ley se aprobó en 1997, antes de que existiera Podemos."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de 2019 prometía revisar la Ley 15/1997",
+     "hecho": "El punto 2.2.3 del acuerdo PSOE-Unidas Podemos (30-12-2019) dice: «Avanzaremos en el blindaje de nuestro sistema público de salud, apostando por una sanidad que se base en la gestión pública directa. Para ello: se revisará la Ley 15/1997 […] y el conjunto de los mecanismos normativos que abren la puerta a privatizaciones del sistema». La legislatura terminó en 2023 con la ley sin cambios; en mayo de 2026 otro Gobierno seguía proponiendo derogarla (e5).",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos (copia difundida por El País)",
+     "url": "https://d500.epimg.net/descargables/2019/12/30/4ff5f0a5b64c2a18ad4a5f829e8e984d.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído el punto 2.2.3 en la copia de texto del PDF. El acuerdo decía «revisar», no «derogar». El Ministerio de Sanidad era del PSOE."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "Unidas Podemos criticó en 2022 el texto de su Gobierno",
+     "hecho": "En una entrevista publicada el 27-6-2022, la portavoz de Sanidad de Unidas Podemos, Rosa Medel, dijo que el anteproyecto de equidad, universalidad y cohesión del Ministerio de Sanidad declaraba derogada la Ley 15/1997 pero mantenía su contenido «tal cual», y que el PSOE no tenía «voluntad política de desprivatizar». Explicó que Sanidad había rechazado sus propuestas para acotar la gestión privada y anunció enmiendas.",
+     "fecha": "2022-06-27",
+     "fuente": "El Salto",
+     "url": "https://www.elsaltodiario.com/sanidad-publica/rosa-medel-unidas-podemos-psoe-no-tiene-voluntad-politica-desprivatizar-sanidad",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Entrevista: recoge la versión de Unidas Podemos, no la del Ministerio. No se localizó qué fue de aquel proyecto ni si llegó a votarse."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "Podemos registró en 2024 una ley que deroga la 15/1997",
+     "hecho": "El Boletín del Congreso publicó el 5-4-2024 la proposición de ley del Grupo Mixto (Podemos) «de medidas para garantizar el carácter público del Sistema Nacional de Salud». Deroga la Ley 15/1997, el Real Decreto-ley 10/1996 y los artículos 67 y 90 a 94 de la Ley General de Sanidad, fija como modelo «la titularidad pública y la gestión pública directa» y prohíbe pasar a gestión indirecta lo que hoy se gestiona directamente.",
+     "fecha": "2024-04-05",
+     "fuente": "Boletín Oficial de las Cortes Generales (BOCG-15-B-96-1)",
+     "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-96-1.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído el PDF. Según Redacción Médica (1-4-2024), la disposición transitoria impide renovar los contratos de gestión indirecta al vencer. No consta que el Pleno llegara a debatirla. El programa de 2026 cita los artículos 66, 67 y 90, una lista algo distinta."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "dato_oficial",
+     "titulo": "El proyecto del Gobierno de 2026 deroga la ley con excepciones",
+     "hecho": "El Consejo de Ministros aprobó el 12-5-2026, en segunda vuelta, el proyecto de Ley de Gestión Pública e Integridad del Sistema Nacional de Salud. Incluye «la derogación expresa de la Ley 15/1997», deja la gestión indirecta con «carácter estrictamente excepcional» y prohíbe los contratos que unan construir el hospital y prestar la asistencia. Los contratos y concesiones ya en ejecución siguen con la norma anterior «hasta su vencimiento».",
+     "fecha": "2026-05-12",
+     "fuente": "Ministerio de Sanidad (nota de prensa)",
+     "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6906",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota ministerial; se usa para el contenido del proyecto. Es menos de lo que promete Podemos (prohibición general y recuperación obligatoria). El proyecto entró en el Congreso en mayo de 2026; las Cortes se disolvieron en octubre, lo que hace decaer los proyectos en trámite (no se comprobó en la ficha del Congreso). No se encontró la posición de Podemos sobre este texto."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Los conciertos suman 10.143 millones, el 10% del gasto",
+     "hecho": "Según la Estadística de Gasto Sanitario Público, en 2024 las compras al sector privado mediante conciertos fueron 10.143 millones de euros, el 10,0% de un gasto sanitario público de 101.739 millones. En 2020 eran 8.383 millones. Entre 2020 y 2024 crecieron una media del 4,9% al año, por detrás de las retribuciones de personal (5,7%).",
+     "fecha": "2026-05",
+     "fuente": "Ministerio de Sanidad, Estadística de Gasto Sanitario Público 2024 (principales resultados)",
+     "url": "https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/gastoSanitario2005/tablasEstEGSP/Principales_resultados.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído el PDF en copia archivada (tabla 2 y texto). La cifra incluye conciertos con entidades públicas y privadas y no equivale solo a hospitales de gestión privada. El reparto por comunidades no se comprobó."
+    },
+    {
+     "id": "e7",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Torrevieja volvió a gestión directa en 2021 con Podem",
+     "hecho": "El 24-6-2021 la Conselleria valenciana de Sanidad anunció que asumiría directamente el departamento de salud de Torrevieja al acabar, en octubre, la concesión privada a Ribera Salud. Antes había intentado hacerlo con una empresa pública, fórmula que rechazaron sus socios de Gobierno, Podem y Compromís, y el comité de empresa. La reversión se ejecutó el 16-10-2021.",
+     "fecha": "2021-06-24",
+     "fuente": "Valencia Plaza; El Español (fecha de ejecución)",
+     "url": "https://valenciaplaza.com/SanidadasumirdirectamentelagestindelhospitaldeTorreviejatraslareversin",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La Conselleria era del PSPV; Podem formaba parte del Gobierno autonómico desde 2019. La reversión se hizo al vencer el contrato, que es justo el mecanismo que propone el programa. La de Alzira (2018) es anterior a la entrada de Podem en el Consell."
+    },
+    {
+     "id": "e8",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "Tras la reversión, Torrevieja gastó un 20% más en personal",
+     "hecho": "Según El Español (12-10-2023), un informe de seguimiento del gasto de la Conselleria de Sanidad sobre enero-julio de 2023 atribuye a Torrevieja el mayor aumento de gasto de personal de la Comunidad Valenciana, un 20% más que con gestión privada, y la plantilla pasó de unos 1.200 a unos 2.000 trabajadores. El informe es de la Conselleria ya con Gobierno de PP y Vox, que estaba auditando la reversión.",
+     "fecha": "2023-10-12",
+     "fuente": "El Español (edición Alicante)",
+     "url": "https://www.elespanol.com/alacant/viure/salut/20231012/anos-despues-reversion-torrevieja-registra-mayor-aumento-gasto-publico-toda-comunitat/801170105_0.html",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Un solo medio y un documento interno no abierto. Más gasto de personal no mide por sí solo peor o mejor asistencia: el artículo no aporta datos de resultados en salud comparables. Una auditoría de la Sindicatura de Comptes de 2018 atribuía menor coste a la concesión, según prensa; no se abrió."
+    },
+    {
+     "id": "e9",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "resolucion_judicial",
+     "titulo": "El Constitucional: la Constitución no impone un modelo de gestión",
+     "hecho": "La STC 84/2015, de 30 de abril, sobre la gestión privada de seis hospitales de Madrid, declara que los artículos 41 y 43 de la Constitución «no imponen un determinado modelo de gestión» y que el artículo 41 «no exige» necesariamente «un sistema de gestión pública directa». La sentencia avala que una ley permita la gestión indirecta; no dice que una ley no pueda prohibirla.",
+     "fecha": "2015-04-30",
+     "fuente": "Tribunal Constitucional (STC 84/2015, BOE-A-2015-6386)",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-6386",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leídos los pasajes citados en el BOE. La elección del modelo queda en manos del legislador: cabe una ley estatal básica en cualquiera de los dos sentidos, pero aplicarla corresponde a las comunidades."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "podemos-educacion-3",
+   "pista_codex": "ampliacion-d-podemos-n294",
+   "promesa": "Hacer gratuitas en la legislatura las matrículas de grado, máster y doctorado en las universidades públicas y crear becas-salario de hasta 800 euros al mes según la renta.",
+   "ha_gobernado": "estatal",
+   "resumen": "Podemos promete matrícula gratuita en todos los niveles y becas de hasta 800 euros al mes. Ya pedía la universidad gratuita en 2019; el acuerdo de coalición pactó menos: bajar las tasas a niveles previos a la crisis. Eso se hizo: en 2020 se fijaron precios máximos y el crédito de grado pasó de 19,11 euros de media en 2019-20 a 15,62 en 2022-23 (15,37 en 2024-25, unos 922 euros por curso). La ley universitaria de 2023 habla de «reducción progresiva», no de gratuidad. Los precios los fija cada comunidad autónoma y el programa no dice cuánto cuesta la medida ni quién compensa a las universidades.",
+   "antecedentes": "El programa de Podemos de 2019 prometía «universidad pública gratuita», con másteres habilitantes gratis y el resto al precio del grado. El acuerdo de coalición recogió solo promover «la reducción de las tasas universitarias a los niveles previos a la crisis». El Ministerio de Universidades, de la cuota de Unidas Podemos, pactó con las comunidades en mayo de 2020 precios máximos referidos a 2011-12 y sacó adelante la ley universitaria de 2023.",
+   "matiz": "La rebaja de precios de 2020-2023 es un resultado real y medible del ministerio del espacio de Unidas Podemos. En sentido contrario: fue una bajada del 18%, no la gratuidad prometida en 2019, y el Estado solo puede fijar topes de acuerdo con las comunidades, que son las que ponen el precio y financian a las universidades.",
+   "refutacion": "Contra la promesa se buscó: si con poder se alcanzó la gratuidad, quién decide los precios y si hay cálculo de coste. Salió que el precio bajó pero no desapareció (e3), que la ley de 2023 fija solo «contención o reducción progresiva» (e5), que los precios son autonómicos (e5) y que la beca prometida supera con mucho las cuantías vigentes sin memoria económica (e6). Contra esa evidencia se buscó: si la bajada fue obra de aquel Gobierno (sí: acuerdo de mayo de 2020, e2, y el descenso se concentra en 2020-2023, e3); si lo pactado se cumplió (sí: el precio medio quedó por debajo de la referencia de 2011-12, e2, e3). No se encontró el importe total que las universidades ingresan por matrículas ni ninguna estimación independiente del coste de la gratuidad; la estadística del Ministerio abierta no lo desglosa (e7). Sin ese dato no se puede decir si el coste es asumible.",
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "Lo pactado en 2019 (volver a precios previos a la crisis) se cumplió y el crédito bajó un 18% (e1, e2, e3); la gratuidad que Podemos prometía en su programa no se alcanzó y la ley de 2023 no la estableció (e4, e5)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Pide la gratuidad desde 2019 (e4) y actuó en esa dirección desde el Gobierno (e2); la excepción es que aceptó y aprobó una ley que solo habla de reducción progresiva (e5)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Los precios los fija cada comunidad autónoma dentro de un marco estatal (e5): hace falta su acuerdo y dinero para compensar a las universidades, que el programa no cuantifica (e6, e7)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "La matrícula media ya ha bajado a 15,37 euros por crédito (e3), pero no hay cifra oficial ni independiente de lo que costaría eliminarla ni de las becas de 800 euros, muy por encima de las cuantías actuales (e6, e7)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de 2019 pactó bajar tasas, no la gratuidad",
+     "hecho": "El punto 2.1.14 del acuerdo PSOE-Unidas Podemos (30-12-2019) dice: «Promoveremos, en el marco de la Conferencia Sectorial, la reducción de las tasas universitarias a los niveles previos a la crisis». También prometía que las becas fueran «un derecho subjetivo» según la renta y más dinero para ellas. No menciona la gratuidad de la matrícula.",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos (copia difundida por El País)",
+     "url": "https://d500.epimg.net/descargables/2019/12/30/4ff5f0a5b64c2a18ad4a5f829e8e984d.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído el punto 2.1.14 en la copia de texto del PDF."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "En 2020 se pactaron precios máximos referidos a 2011-12",
+     "hecho": "La Conferencia General de Política Universitaria aprobó el 27-5-2020, por mayoría de las comunidades, un precio máximo por crédito de grado en primera matrícula basado en los precios de 2011-12 (16,05 euros de media). Las comunidades que lo superaban en más de un 15% debían bajar a 18,46 euros como máximo (Madrid estaba en 21,60), con plazo hasta el curso 2022-23. El resto de matrículas y los másteres no podían subir.",
+     "fecha": "2020-05-27",
+     "fuente": "Ministerio de Universidades (nota de prensa)",
+     "url": "https://www.ciencia.gob.es/Noticias/2020/Mayo/Reduccion-precios-publicos-grados-universitarios.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota ministerial; se usa para el contenido del acuerdo. El ministro era Manuel Castells, de la cuota de Unidas Podemos a propuesta de En Comú Podem, no militante de Podemos (conocimiento general; no consta en la URL)."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "El crédito de grado bajó de 19,11 a 15,37 euros",
+     "hecho": "Según la Estadística de Precios Públicos Universitarios, el precio medio del crédito de grado en primera matrícula fue de 20,63 euros en 2014-15, 19,11 en 2019-20, 17,40 en 2020-21, 15,62 en 2022-23 y 15,37 en 2024-25. Entre 2019-20 y 2022-23 bajó un 18%. Un curso de 60 créditos cuesta de media unos 922 euros, con diferencias entre Navarra (19,29 euros por crédito) y Galicia (11,95).",
+     "fecha": "2025",
+     "fuente": "Ministerio de Ciencia, Innovación y Universidades, Estadística de Precios Públicos Universitarios 2024-25",
+     "url": "https://www.ciencia.gob.es/InfoGeneralPortal/documento/63256cff-5dbc-4227-bd8c-a7badb119e9d",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído el PDF en copia archivada. La serie anual procede del gráfico del documento; el 18% y los 922 euros son cálculos propios. El precio medio es una media de titulaciones, no lo que paga cada estudiante: segundas matrículas y másteres no habilitantes son más caros, y los becarios no pagan."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2019 ya prometía universidad pública gratuita",
+     "hecho": "La medida 230 del programa de Podemos para noviembre de 2019 se titula «Universidad pública gratuita». Extendía la gratuidad a la formación profesional y a los másteres habilitantes y prometía bajar el resto de másteres «hasta al menos el precio actual de los grados». El programa de 2026 va más allá: todos los másteres y el doctorado, en todos los cursos y convocatorias.",
+     "fecha": "2019-10",
+     "fuente": "Programa de Podemos, elecciones generales de 10-11-2019 (copia de Betevé)",
+     "url": "https://img.beteve.cat/wp-content/uploads/2019/10/unides-podem_programa_generals.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída la página 97 del PDF en la copia archivada."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La ley universitaria de 2023 no estableció la gratuidad",
+     "hecho": "La Ley Orgánica 2/2023, del Sistema Universitario, tramitada por el Ministerio de Universidades del Gobierno de coalición, dispone que los precios públicos de los títulos oficiales «serán fijados por la Comunidad Autónoma», «dentro de un marco general de contención o reducción progresiva». La gratuidad solo aparece en el preámbulo, como «horizonte». El objetivo de dedicar el 1% del PIB a la universidad queda sujeto a «las disponibilidades presupuestarias de cada ejercicio».",
+     "fecha": "2023-03-22",
+     "fuente": "BOE (Ley Orgánica 2/2023)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7500",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leídos el preámbulo y los artículos sobre financiación y precios en el texto consolidado; no se anotó el número exacto del artículo de precios. La competencia autonómica es el límite principal: una ley estatal puede fijar topes o pagar la compensación, pero no fija el precio."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "norma",
+     "titulo": "La beca actual queda lejos de 800 euros al mes",
+     "hecho": "El Real Decreto 179/2026 fija para el curso 2026-27 una cuantía ligada a la renta de 1.700 euros al año, otra ligada a la residencia de 2.700 euros, una beca básica de 300 euros y una parte variable con un mínimo de 60 euros. Una beca de 800 euros al mes serían 7.200 euros en nueve meses o 9.600 en doce. El programa no dice cuántos meses, a cuántos estudiantes ni con qué umbrales de renta.",
+     "fecha": "2026-03-11",
+     "fuente": "BOE (Real Decreto 179/2026)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-5713",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leídas las cuantías en el BOE. Las cifras de 7.200 y 9.600 euros son cálculos propios. Las cuantías fijas son compatibles entre sí para las rentas más bajas (4.400 euros más la variable)."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Las universidades públicas ingresan 11.691 millones al año",
+     "hecho": "Según el informe estadístico del Ministerio publicado el 22-1-2025, las universidades públicas ingresaron 11.691,3 millones de euros en 2022, el 58,9% en transferencias corrientes de las comunidades autónomas. El Estado concedió 1.138 millones en becas a 305.328 universitarios en 2022-23. En 2023-24 había 1.762.459 estudiantes universitarios, el 74,3% en centros públicos. La nota no dice cuánto se ingresa por matrículas.",
+     "fecha": "2025-01-22",
+     "fuente": "Ministerio de Ciencia, Innovación y Universidades (nota sobre su informe estadístico anual)",
+     "url": "https://www.ciencia.gob.es/Noticias/2025/enero/informe-universidades-espanolas.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se localizó el ingreso total por precios públicos, que es el dato necesario para estimar el coste de la gratuidad; por eso no se da ninguna cifra de coste. El expediente de Codex tampoco la tiene: solo aporta escenarios aritméticos."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "podemos-inmigracion-2",
+   "pista_codex": "ampliacion-c-podemos-n206",
+   "promesa": "Cerrar todos los centros de internamiento de extranjeros (CIE) y sustituir el internamiento por alternativas sin privación de libertad.",
+   "ha_gobernado": "estatal",
+   "resumen": "Podemos promete cerrar todos los CIE. Ya lo prometía en su programa de 2019, pero el acuerdo de coalición no lo recogió y, con Unidas Podemos en el Gobierno, el Consejo de Ministros autorizó en noviembre de 2020 construir un CIE nuevo en Algeciras, que se creó formalmente en 2026. En 2025 funcionaban seis centros. En 2024 pasaron por ellos 1.863 personas y el 55,6% acabó expulsado o devuelto, según el Servicio Jesuita a Migrantes. El derecho europeo permite internar pero no obliga a hacerlo; el cierre exige cambiar una ley orgánica.",
+   "antecedentes": "La medida 146 del programa de 2019 era «Cerrar los centros de internamiento de extranjeros». El acuerdo de gobierno con el PSOE no la incluyó. El Ministerio del Interior, del PSOE, mantuvo los centros y siguió el plan de obras aprobado en enero de 2019, antes de la coalición. En febrero de 2026 Podemos volvió a poner el fin de los CIE como condición en una negociación parlamentaria.",
+   "matiz": "Interior no dependía de Podemos y el plan de nuevos centros era anterior a la coalición. En sentido contrario: la autorización del contrato de Algeciras fue un acuerdo del Consejo de Ministros en el que se sentaban ministros de Unidas Podemos, y el partido no hizo de este cierre una condición del pacto de gobierno.",
+   "refutacion": "Contra la promesa se buscó: qué pasó con los CIE mientras Podemos gobernaba, si el cierre es legal y qué dicen los datos. Salió que no se cerró ninguno por decisión política y se autorizó uno nuevo (e3, e4), que el acuerdo de 2019 no lo recogía (e2) y que el nuevo reglamento europeo de retorno amplía el margen para internar (e8). Contra esa evidencia se buscó: si la UE obliga a internar (no: tanto la directiva de 2008 como el reglamento de 2026 dicen «podrán», e7, e8); si los centros cumplen su función (solo en parte: el 44% de los internados en 2024 no fue expulsado y la Fiscalía describe expulsiones imposibles de documentar, e5, e6); si Podemos ha mantenido la exigencia (sí, e1, e9). No se encontró ninguna votación del Congreso de 2020 a 2026 sobre el cierre ni ninguna evaluación española de las alternativas al internamiento. No se localizó una protesta pública de Unidas Podemos contra el contrato de Algeciras, lo que no prueba que no existiera.",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Lo prometió en 2019 (e1), no lo llevó al acuerdo de gobierno (e2) y el Gobierno del que formaba parte autorizó un centro nuevo (e3, e4); Interior era del PSOE."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Lo mantiene en sus programas de 2019 y 2026 y lo exigió en 2026 (e1, e9); la excepción es que permaneció en el Gobierno que autorizó el nuevo CIE (e3)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Exige reformar una ley orgánica (e7); el derecho europeo lo permite porque internar es una facultad, no un deber (e7, e8), pero mantiene la obligación de ejecutar los retornos."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Casi la mitad de los internados no es expulsada y son menos de 2.000 personas al año (e5, e6), pero no hay evaluación de qué pasaría con los retornos sin internamiento ni red alternativa dimensionada."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2019 ya prometía cerrar los CIE",
+     "hecho": "La medida 146 del programa de Podemos para noviembre de 2019 dice: «Cerrar los centros de internamiento de extranjeros (CIE). Ningún modelo de privación de la libertad de las personas según su situación administrativa es adecuado […]. Es una excepción jurídica y democrática a la que se debe poner fin». La medida 148 añadía prohibir el encierro de víctimas de trata en los CIE.",
+     "fecha": "2019-10",
+     "fuente": "Programa de Podemos, elecciones generales de 10-11-2019 (copia de Betevé)",
+     "url": "https://img.beteve.cat/wp-content/uploads/2019/10/unides-podem_programa_generals.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída la página 64 del PDF en la copia archivada."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de coalición no mencionaba los CIE",
+     "hecho": "El acuerdo PSOE-Unidas Podemos del 30-12-2019 dedica a inmigración el punto 11.4: vías legales y seguras, reforma del sistema de acogida de solicitantes de asilo, fondo de integración y nueva ley de asilo. No contiene la palabra «internamiento» ni ninguna referencia a los CIE. Podemos entró en el Gobierno sin este compromiso firmado.",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos (copia difundida por El País)",
+     "url": "https://d500.epimg.net/descargables/2019/12/30/4ff5f0a5b64c2a18ad4a5f829e8e984d.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado con búsqueda de texto en la copia del PDF y lectura del punto 11.4."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "El Gobierno de coalición autorizó un CIE nuevo en Algeciras",
+     "hecho": "El Consejo de Ministros autorizó el 10-11-2020 a la sociedad estatal SIEPSE a contratar la construcción del nuevo Centro de Internamiento de Extranjeros de Algeciras, con un presupuesto de licitación de 21.003.071,39 euros sin IVA. La obra estaba prevista en el plan de infraestructuras de los CIE aprobado el 18-1-2019. Unidas Podemos tenía entonces cinco ministros en el Gobierno.",
+     "fecha": "2020-11-10",
+     "fuente": "Ministerio de Hacienda (nota de prensa del Consejo de Ministros)",
+     "url": "https://www.hacienda.gob.es/Documentacion/Publico/GabineteMinistro/Notas%20Prensa/2020/CONSEJO%20DE%20MINISTROS/10-11-20%20NP%20CM%20Centro%20Extranjeros%20Algeciras.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído el PDF. La autorización era obligatoria por superar el contrato los 12 millones; el plan y el ministerio promotor (Interior) eran del PSOE. El número de ministros de Unidas Podemos es conocimiento general, no consta en la URL. Este hecho no figura en el expediente de Codex."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "El nuevo CIE de Algeciras se creó en febrero de 2026",
+     "hecho": "La Orden INT/63/2026, de 5 de febrero, suprime el antiguo CIE de Algeciras y su anexo de Tarifa y crea el nuevo centro en la carretera CA-9208 de Algeciras. Es el edificio cuya construcción se autorizó en 2020. Podemos ya no estaba en el Gobierno.",
+     "fecha": "2026-02-05",
+     "fuente": "BOE (Orden INT/63/2026)",
+     "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2827",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída la orden. No indica el número de plazas. Sustituye un centro por otro: no aumenta el número de CIE."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Fiscalía: seis CIE activos y 2.510 informes de internamiento",
+     "hecho": "Según la Memoria de la Fiscalía de 2026, en 2025 funcionaban seis CIE (Madrid, Barcelona, Las Palmas, Algeciras, Murcia y Valencia) y el de Tenerife seguía inoperativo. Las fiscalías emitieron 2.510 informes de internamiento: 1.682 favorables y 828 desfavorables. La memoria señala que en Murcia es prácticamente imposible documentar expulsiones de nacionales de Marruecos y Argelia y que muchos internamientos cesan antes por solicitudes de asilo.",
+     "fecha": "2026",
+     "fuente": "Fiscalía General del Estado, Memoria 2026 (capítulo III, 4.3)",
+     "url": "https://www.fiscal.es/memorias/memoria2026/FISCALIA_SITE/capitulo_III/cap_III_4_3.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en copia archivada. Los informes no equivalen a personas internadas. La Fiscalía no pide el cierre: describe la medida como cautelar y decidida caso por caso."
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "En 2024 hubo 1.863 internados y el 55,6% fue expulsado",
+     "hecho": "El informe anual del Servicio Jesuita a Migrantes, difundido el 29-9-2025, cuenta 1.863 personas internadas en CIE en 2024, el 70% solo por estancia irregular. El 55,6% fue finalmente expulsado o devuelto y el 42,84% quedó en libertad. La estancia media fue de 33,66 días, con un máximo legal de 60. Madrid tuvo 593 internos, Barcelona 399 y Murcia 364.",
+     "fecha": "2025-09-29",
+     "fuente": "Servicio Jesuita a Migrantes, vía EFE en Público",
+     "url": "https://www.publico.es/sociedad/1-863-migrantes-retenidos-centro-internamiento-extranjeros-2024.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El SJM es una organización que pide el cierre de los CIE; sus cifras proceden de datos de Interior, según el informe, que no se abrió. La crónica habla de cinco centros y enumera seis. No se localizó el informe con datos de 2025."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "Internar es una facultad en la ley española y europea",
+     "hecho": "El artículo 62 de la Ley Orgánica 4/2000 dice que el instructor del expediente de expulsión «podrá solicitar» al juez el ingreso en un centro de internamiento, y el juez decide con arreglo al principio de proporcionalidad. El artículo 15 de la Directiva 2008/115/CE dice que los Estados «podrán mantener internados» a quienes estén en un procedimiento de retorno, salvo que puedan aplicarse medidas menos coercitivas. Ninguna de las dos normas obliga a tener CIE.",
+     "fecha": "2008-12-16",
+     "fuente": "BOE (Ley Orgánica 4/2000) y Diario Oficial de la UE (Directiva 2008/115/CE)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leídos el artículo 62 de la ley orgánica y el artículo 15 de la directiva (https://www.boe.es/buscar/doc.php?id=DOUE-L-2008-82607). Suprimir el internamiento exige ley orgánica (mayoría absoluta del Congreso). La obligación de ejecutar las decisiones de retorno se mantiene."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "El nuevo reglamento europeo de retorno amplía el internamiento posible",
+     "hecho": "El Reglamento (UE) 2026/2280, de 7 de octubre de 2026, sustituirá a la directiva de 2008 desde el 17-10-2027. Su artículo 29 dice que los Estados «podrán internar» tras una evaluación individual y su considerando 48 admite internamientos de hasta 24 meses, frente a los 60 días de la ley española. El artículo 23 regula alternativas: garantía financiera, control telemático y otras que prevea la ley nacional.",
+     "fecha": "2026-10-07",
+     "fuente": "Diario Oficial de la UE (Reglamento 2026/2280), en BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2026-81583",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leídos el título, los considerandos 48 a 51 y 65 y los artículos 23 y 29. Sigue siendo una facultad, no una obligación: el cierre no choca con el texto, pero va en dirección opuesta a la política común que acaba de aprobarse. El dato de Codex sobre fechas de aplicación es correcto."
+    },
+    {
+     "id": "e9",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "Podemos exigió en 2026 el fin de los CIE",
+     "hecho": "El 2-2-2026 el coportavoz de Podemos, Pablo Fernández, dijo que su partido aspira a derogar la Ley de Extranjería y poner fin a los centros de internamiento en el marco de una futura negociación sobre el traspaso de competencias migratorias a Cataluña, si el PSOE lo retomaba.",
+     "fecha": "2026-02-02",
+     "fuente": "Europa Press, vía Noticias de Navarra",
+     "url": "https://www.noticiasdenavarra.com/politica/2026/02/02/eleva-requisitos-pide-acabar-cie-migratorio-catalunya-10647567.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Es una declaración, no una votación. No se encontró ninguna iniciativa de Podemos votada en el Congreso sobre el cierre de los CIE en esta legislatura."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "podemos-seguridad-1",
+   "pista_codex": "ninguna",
+   "promesa": "Derogar la ley de seguridad ciudadana («ley mordaza»), prohibir las pelotas de goma y quitar la presunción de veracidad a las declaraciones de los agentes.",
+   "ha_gobernado": "estatal",
+   "resumen": "Podemos promete derogar la ley de seguridad ciudadana de 2015. Lo prometió en su programa de 2019 y lo firmó en el acuerdo de coalición, que hablaba de aprobar una ley nueva «a la mayor brevedad». La legislatura acabó sin ella: el 14 de marzo de 2023 la reforma cayó en comisión por 19 votos a 18; Unidas Podemos votó a favor y ERC y EH Bildu en contra por mantener, entre otras cosas, las pelotas de goma. Una segunda reforma, admitida a trámite en octubre de 2024, llevaba más de un año parada cuando se convocaron las elecciones. La ley sigue íntegra en vigor y es orgánica: cambiarla exige mayoría absoluta.",
+   "antecedentes": "La medida 154 del programa de 2019 prometía el «fin de las leyes mordaza». El punto 5.6 del acuerdo de coalición decía: «Aprobaremos una nueva Ley de seguridad ciudadana, que sustituya a la “Ley mordaza”». La reforma se tramitó a partir de una iniciativa del PNV y fracasó en 2023. En 2024 PSOE, Sumar, ERC, EH Bildu, PNV y BNG registraron otra; Podemos pide que prohíba ya las pelotas de goma y los rechazos en frontera.",
+   "matiz": "Unidas Podemos votó a favor de la reforma de 2023: no cayó por su voto, sino por el de ERC y EH Bildu, además de PP, Vox, Ciudadanos, Junts y UPN. En sentido contrario: el texto que apoyó entonces no incluía la prohibición de las pelotas de goma que hoy pone como exigencia, y el compromiso firmado en 2019 quedó sin cumplir.",
+   "refutacion": "Contra la promesa se buscó: qué pasó con el compromiso de 2019, qué votó Unidas Podemos y si la ley puede cambiarse. Salió que la ley sigue en vigor once años después (e1), que la reforma cayó en 2023 (e3) y que la de 2024 está bloqueada, en parte por las exigencias de Podemos y en parte por el choque entre PNV y EH Bildu (e6). Contra esa evidencia se buscó: si Unidas Podemos tumbó la reforma (no: votó a favor, e3); si el Constitucional impide derogarla (no: avaló la mayor parte de la ley, lo que no obliga a mantenerla, e7); si Podemos ha cambiado de posición (no en el fondo: pide lo mismo desde 2019, e4, e5). No se pudo comprobar el voto de Podemos en la toma en consideración de octubre de 2024 ni el contenido literal del dictamen de 2023 sobre pelotas de goma. No se encontraron datos oficiales posteriores a 2022 sobre sanciones, ni se pudo verificar el precedente de comunidades que hayan prohibido las pelotas de goma.",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Lo firmó en el acuerdo de gobierno de 2019 (e2) y la legislatura acabó con la ley intacta (e1, e3); votó a favor de la reforma que no salió (e3)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Pide la derogación desde 2019 y mantiene las mismas exigencias (e4, e5, e6); la excepción es que en 2023 apoyó un texto sin la prohibición de las pelotas de goma que ahora considera imprescindible (e3)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Es ley orgánica y no hay obstáculo constitucional (e1, e7), pero dos intentos seguidos han fracasado o se han parado por desacuerdo entre los grupos que harían falta (e3, e6)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Hay datos del uso de la ley, 1,87 millones de multas hasta 2022 (e8), pero no una evaluación independiente de los efectos de derogarla o de cambiar la presunción de veracidad."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La ley de 2015 sigue en vigor con sus artículos clave",
+     "hecho": "La Ley Orgánica 4/2015 está en vigor desde el 1-7-2015. Su artículo 52 dice que las denuncias y atestados de los agentes que hayan presenciado los hechos «constituirán base suficiente para adoptar la resolución que proceda, salvo prueba en contrario». Castiga la desobediencia a los agentes como infracción grave (multa de 601 a 30.000 euros) y las faltas de respeto como leve (de 100 a 600). La última modificación del texto es de febrero de 2021.",
+     "fecha": "2015-03-30",
+     "fuente": "BOE (Ley Orgánica 4/2015)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leídos los artículos 36.6, 37.4, 39.1 y 52 y la disposición final primera en el texto consolidado. Al ser ley orgánica, derogarla o sustituirla exige mayoría absoluta del Congreso (176 votos). La presunción del artículo 52 admite prueba en contrario."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de 2019 prometía una ley nueva «a la mayor brevedad»",
+     "hecho": "El punto 5.6 del acuerdo PSOE-Unidas Podemos (30-12-2019) dice: «Aprobaremos una nueva Ley de seguridad ciudadana, que sustituya a la “Ley mordaza” para garantizar el ejercicio del derecho a la libertad de expresión y reunión pacífica. Esta nueva legislación, que verá la luz a la mayor brevedad […]». La legislatura terminó en 2023 sin esa ley.",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos (copia difundida por El País)",
+     "url": "https://d500.epimg.net/descargables/2019/12/30/4ff5f0a5b64c2a18ad4a5f829e8e984d.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído el punto 5.6 en la copia de texto del PDF. El acuerdo no mencionaba las pelotas de goma ni la presunción de veracidad."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "votacion",
+     "titulo": "La reforma cayó en 2023 por 19 votos a 18",
+     "hecho": "El 14-3-2023 la Comisión de Interior del Congreso rechazó el dictamen de reforma de la ley por 19 votos en contra y 18 a favor. Votaron a favor PSOE, Unidas Podemos y PNV; en contra, PP, Vox, Ciudadanos, ERC, Junts, UPN y EH Bildu. ERC y EH Bildu alegaron que el texto mantenía las sanciones por desobediencia y faltas de respeto, las pelotas de goma y las devoluciones en caliente. El portavoz de Unidas Podemos, Pablo Echenique, culpó al PSOE.",
+     "fecha": "2023-03-14",
+     "fuente": "Orain (Grupo Noticias)",
+     "url": "https://orain.eus/es/politica/2023/03/14/la-ley-mordaza-seguira-en-vigor-tras-ser-rechazada-su-reforma-con-votos-en-contra-de-eh-bildu-y-erc/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La víspera, fuentes de Unidas Podemos atribuían el fracaso a la «absoluta negativa» del PSOE a negociar esos cuatro puntos (Vozpópuli, 13-3-2023, abierto). No se abrió el Diario de Sesiones ni el texto del dictamen."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2019 ya prometía derogar las leyes mordaza",
+     "hecho": "La medida 154 del programa de Podemos para noviembre de 2019 se titula «Fin de las leyes mordaza y de los delitos medievales de ofensa a los sentimientos religiosos e injurias a la Corona» y dice: «derogaremos las leyes mordaza y reformaremos el Código Penal para acabar con la criminalización de la libertad de expresión».",
+     "fecha": "2019-10",
+     "fuente": "Programa de Podemos, elecciones generales de 10-11-2019 (copia de Betevé)",
+     "url": "https://img.beteve.cat/wp-content/uploads/2019/10/unides-podem_programa_generals.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída la página 66 del PDF en la copia archivada. El programa de 2019 no citaba las pelotas de goma ni el plazo de detención de 48 horas, que aparecen en el de 2026."
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "En 2024 Podemos pidió prohibir ya las pelotas de goma",
+     "hecho": "El Congreso admitió a trámite el 29-10-2024, por 176 votos a 160, una nueva reforma presentada por los grupos de la mayoría de investidura (PSOE, Sumar, ERC, EH Bildu, PNV y BNG), y rechazó en diciembre las enmiendas a la totalidad de PP y Vox. El texto prevé una «sustitución progresiva» de las pelotas de goma y da seis meses para reformar la ley de extranjería sobre las devoluciones en caliente. Podemos anunció que insistiría en el cese inmediato de las pelotas de goma y en acabar con esas devoluciones.",
+     "fecha": "2024-12-14",
+     "fuente": "El Salto; El Independiente (votación del 29-10-2024)",
+     "url": "https://www.elsaltodiario.com/ley-seguridad-ciudadana/reforma-ley-mordaza-vez-se-puede",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El recuento de 176 a 160 procede de https://www.elindependiente.com/espana/2024/10/29/el-congreso-inicia-la-reforma-de-la-ley-mordaza-con-la-negativa-del-pp-y-vox-dan-a-bildu-la-proteccion-de-la-policia/amp/ (abierta), que no detalla el voto de Podemos. El Salto no aclara si Podemos lo planteó como línea roja."
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "La segunda reforma llevaba más de un año parada en 2026",
+     "hecho": "Según elDiario.es (30-6-2026 y 28-8-2026), la ponencia que debía redactar el texto no se reunió en todo 2026; un diputado la describió como «congelada». Las causas citadas son el choque entre PNV y EH Bildu por rebajar la desobediencia de grave a leve y las exigencias de Podemos: un plazo concreto para prohibir las pelotas de goma y la prohibición expresa del rechazo en frontera, que el PSOE quiere dejar para otra ley.",
+     "fecha": "2026-06-30",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/1_caa1d7",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Dos piezas del mismo medio y autor (la segunda, https://www.eldiario.es/1_ccf72d, abierta); basadas en fuentes de la negociación sin identificar. La convocatoria electoral del 5-10-2026 hace decaer la iniciativa. Podemos tiene cuatro diputados: su voto podía ser necesario para la mayoría absoluta."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "resolucion_judicial",
+     "titulo": "El Constitucional avaló la mayor parte de la ley en 2020",
+     "hecho": "La STC 172/2020, de 19 de noviembre, resolvió el recurso de más de cincuenta diputados contra la ley de seguridad ciudadana. El texto consolidado del BOE recoge que el rechazo en frontera de Ceuta y Melilla es conforme a la Constitución «siempre que se interprete» como indica el fundamento jurídico 8 C) de esa sentencia. El tribunal examinó también la sanción por el uso «no autorizado» de imágenes de policías (artículo 36.23).",
+     "fecha": "2020-11-19",
+     "fuente": "Tribunal Constitucional (STC 172/2020)",
+     "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/26498",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta la sentencia y la nota del BOE en la disposición final primera de la ley. Según reseñas jurídicas, el tribunal anuló el inciso «no autorizado» y avaló el resto; no se localizó el fallo literal en la página. Que la ley sea constitucional no impide derogarla: solo descarta que haya que hacerlo por mandato del tribunal."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "Interior contó 1,87 millones de multas hasta 2022",
+     "hecho": "Según datos del Ministerio del Interior recogidos por El Salto, entre julio de 2015 y diciembre de 2022 se impusieron 1.871.478 multas con la ley de seguridad ciudadana. Las infracciones más usadas, junto al consumo o tenencia de drogas, son la desobediencia o negativa a identificarse (artículo 36.6) y las faltas de respeto a los agentes (artículo 37.4), según el centro Irídia. elDiario.es cifró en marzo de 2025 la recaudación en más de 1.000 millones de euros en diez años.",
+     "fecha": "2024",
+     "fuente": "El Salto, con datos del Ministerio del Interior; elDiario.es",
+     "url": "https://www.elsaltodiario.com/burorrepresion/nueve-anos-protestando-mordaza",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Dato oficial leído a través de prensa; no se abrió el anuario de Interior ni se localizaron cifras de 2024-2025. El artículo de El Salto da una cifra de recaudación con un error de unidades, que no se usa. La recaudación de elDiario.es figura en el titular de https://www.eldiario.es/1_b9b96b. La cifra de Interior no incluye a las policías autonómicas. La mayoría de las multas son por drogas, que la promesa no menciona."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "podemos-corrupcion-1",
+   "pista_codex": "ninguna",
+   "promesa": "Prohibir que los partidos paguen sus campañas electorales con créditos de bancos o del Instituto de Crédito Oficial.",
+   "ha_gobernado": "estatal",
+   "resumen": "Podemos promete prohibir los créditos bancarios para campañas. Lo llevaba con la misma redacción en su programa de 2019 y lo aplica a sí mismo: financia la campaña del 29N con microcréditos de simpatizantes sin interés. Pero la ley de financiación de partidos, que permite esos créditos, no se tocó mientras estuvo en el Gobierno (2020-2023), y el acuerdo de coalición no lo recogía. El Tribunal de Cuentas cifró en 145,7 millones la deuda de los partidos con bancos al cierre de 2019. La reforma exige ley orgánica y el voto de partidos que usan ese crédito.",
+   "antecedentes": "La medida 111 del programa de noviembre de 2019 decía: «Prohibir que los partidos puedan financiar sus campañas electorales mediante créditos bancarios o del ICO». En 2018 Podemos coincidió con Ciudadanos en proponer un envío único de papeletas, la otra mitad de la medida actual. Ninguna de las dos cosas entró en el acuerdo de gobierno de 2019 ni se aprobó después.",
+   "matiz": "No recurrir a los bancos es una práctica propia de Podemos desde 2014, comprobable en sus campañas. En sentido contrario: los microcréditos que usa como alternativa tampoco están regulados de forma expresa, según el Tribunal de Cuentas, y la promesa obliga a los demás partidos, no a Podemos.",
+   "refutacion": "Contra la promesa se buscó: si Podemos ha pedido créditos bancarios, si cambió la ley cuando gobernó y si la medida es viable. Salió que la ley no se modificó en ese punto desde 2015 (e3) y que los grandes partidos dependen del crédito bancario (e4, e5). Contra esa evidencia se buscó: si Podemos incumple su propia regla (no se encontró ningún crédito bancario de campaña; la búsqueda sobre la compra de su sede solo arrojó una pieza de un medio que afirma que se pagó sin hipoteca, no contrastada y no usada); si la alternativa está libre de reparos (no del todo: el Tribunal de Cuentas pide regular los microcréditos, e6). No se pudo abrir el informe del Tribunal de Cuentas sobre las elecciones de 2019 ni el de 2023 para ver la financiación de cada partido. No se encontró ninguna prueba reciente de que el ICO preste a partidos para campañas: la ley no lo menciona (e3).",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Lo prometió en 2019 (e1), no lo llevó al acuerdo de gobierno y los artículos que permiten esos créditos no cambiaron mientras gobernó (e3)."
+    },
+    "coherencia": {
+     "nivel": 4,
+     "por": "Misma promesa en 2019 y 2026 (e1), campañas pagadas con microcréditos sin interés (e2) y posición sostenida sobre el envío único de papeletas desde 2018 (e7). No se encontró ninguna excepción."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Requiere reformar leyes orgánicas (e3) con el voto de partidos que deben decenas de millones a los bancos (e4, e5)."
+    },
+    "datos": {
+     "nivel": 3,
+     "por": "El endeudamiento bancario de los partidos está documentado (e4, e5) y Podemos hace campaña sin él (e2); el reparo es que la alternativa de los microcréditos carece de regulación expresa (e6)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "La misma promesa figuraba en el programa de 2019",
+     "hecho": "La medida 111 del programa de Podemos para noviembre de 2019 dice: «Prohibir que los partidos puedan financiar sus campañas electorales mediante créditos bancarios o del ICO. […] Quien paga manda, y los bancos no pueden mandar en los partidos». El texto de 2026 (medida 408) repite la prohibición casi con las mismas palabras.",
+     "fecha": "2019-10",
+     "fuente": "Programa de Podemos, elecciones generales de 10-11-2019 (copia de Betevé)",
+     "url": "https://img.beteve.cat/wp-content/uploads/2019/10/unides-podem_programa_generals.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída la página 54 del PDF en la copia archivada. El programa afirmaba que Podemos era «la única formación que no pide créditos», algo que no se pudo contrastar con los informes del Tribunal de Cuentas."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Podemos paga la campaña del 29N con microcréditos sin interés",
+     "hecho": "Según Demócrata (9-11-2026), Podemos financia la campaña del 29N con microcréditos de particulares al 0% de interés, con un objetivo de 600.000 euros; a 2 de noviembre llevaba 496.617. Vox ofrece un 4,25% y el PSOE un 3,75% por sus microcréditos; Izquierda Unida, como Podemos, no paga interés.",
+     "fecha": "2026-11-09",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/elecciones-generales-espana/microcreditos-partidos-intereses-elecciones-29n/",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "El artículo no dice si algún partido ha pedido además créditos bancarios para esta campaña. Las cifras de Podemos proceden del propio partido."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La ley que permite esos créditos no cambió entre 2020 y 2023",
+     "hecho": "La Ley Orgánica 8/2007 incluye entre los recursos privados de los partidos «los fondos procedentes de los préstamos o créditos que concierten» (artículo 2) y les permite pactar con los bancos las condiciones de su deuda, con interés de mercado y sin condonaciones (artículo 4). La versión vigente de ambos artículos es del 31-3-2015. El acuerdo de coalición de 2019 no contenía ninguna medida sobre créditos a partidos.",
+     "fecha": "2015-03-31",
+     "fuente": "BOE (Ley Orgánica 8/2007, texto consolidado)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-13022",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La ley no menciona el ICO. La ausencia en el acuerdo de 2019 se comprobó con búsqueda de texto en la copia del PDF de El País. La prohibición de condonar deudas es de 2015, anterior a la entrada de Podemos en el Gobierno. La reforma tocaría también la ley electoral, igualmente orgánica."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "Los partidos debían 145,7 millones a los bancos en 2019",
+     "hecho": "Según el informe del Tribunal de Cuentas sobre las cuentas de 2018 y 2019, difundido en octubre de 2023, los partidos con representación debían 145,72 millones de euros a entidades de crédito al cierre de 2019. El PSOE tenía una deuda total de 52,44 millones, casi toda bancaria salvo 6,23 millones de microcréditos, y el PP de 38,53 millones, casi toda con bancos.",
+     "fecha": "2023-10-03",
+     "fuente": "El Debate, sobre un informe del Tribunal de Cuentas",
+     "url": "https://www.eldebate.com/espana/20231003/tribunal-cuentas-indica-psoe-lideraba-2020-deuda-partidos-52-4-millones_143936.html",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "No se abrió el informe original. El artículo no da la deuda de Podemos; sí recoge que debía devolver 112.531,73 euros de subvenciones para gastos de seguridad no usadas para ese fin. Son deudas totales, no solo de campañas."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "Vox pagó la campaña de 2023 con un crédito húngaro",
+     "hecho": "El informe del Tribunal de Cuentas sobre las elecciones generales de 2023, aprobado el 27-3-2025, confirma que Vox recibió un crédito de 6,5 millones de euros del banco húngaro MBH y usó 6 millones en la campaña. El banco no respondió al tribunal, que no pudo acreditar su accionariado y apreció un incumplimiento del artículo 133.3 de la ley electoral, que obliga a las entidades a informar de los créditos a partidos.",
+     "fecha": "2025-03-29",
+     "fuente": "elDiario.es, sobre el informe del Tribunal de Cuentas",
+     "url": "https://www.eldiario.es/politica/tribunal-cuentas-denuncia-falta-colaboracion-banco-hungaro-mbh-prestamo-6-5-millones-vox_1_12174490.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se abrió el informe original. El incumplimiento se atribuye al banco. Muestra que el crédito bancario a campañas es legal y se usa; el artículo no detalla los créditos de PSOE, PP o Sumar en esa campaña."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "El Tribunal de Cuentas pide regular los microcréditos",
+     "hecho": "Según Demócrata (9-11-2026), el Tribunal de Cuentas fiscaliza los microcréditos y exige identificar a los prestamistas y documentar importes, plazos e intereses, y ha advertido de que hace falta regularlos con más detalle: ni la ley electoral ni la de financiación de partidos los contemplan de forma expresa. Es el sistema que Podemos usa en lugar del crédito bancario.",
+     "fecha": "2026-11-09",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/elecciones-generales-espana/microcreditos-partidos-intereses-elecciones-29n/",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "La advertencia del Tribunal se lee a través de prensa; una resolución de la Comisión Mixta publicada en el BOE (BOE-A-2024-26886) trata el asunto, pero el PDF no se pudo abrir por su tamaño. El artículo de Maldita.es sobre los microcréditos tampoco se pudo leer."
+    },
+    {
+     "id": "e7",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "En 2018 ya defendía el envío único de papeletas",
+     "hecho": "El 8-2-2018 Podemos y Ciudadanos se reunieron para impulsar una reforma electoral y coincidieron, entre otros puntos, en adoptar un envío único de papeletas para ahorrar gastos y en regular por ley los debates electorales. El envío único es la segunda parte de la medida 408 del programa de 2026.",
+     "fecha": "2018-02-08",
+     "fuente": "Europa Press, vía Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias_print/politica/podemos-y-ciudadanos-se-reunen-hoy-para-tratar-de-impulsar-una-reforma-electoral-que-aumente-la-proporcionalidad--3123208.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Aquella reforma no llegó a aprobarse. El envío individual de propaganda sigue vigente."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "podemos-territorio-2",
+   "pista_codex": "ninguna",
+   "promesa": "Elegir el Congreso por comunidades autónomas en lugar de por provincias, sustituir la fórmula D'Hondt por Sainte-Laguë y quitar las barreras de entrada.",
+   "ha_gobernado": "estatal",
+   "resumen": "Podemos promete cambiar la provincia por la comunidad autónoma como circunscripción y repartir los escaños con la fórmula Sainte-Laguë. Lo segundo lo defiende al menos desde 2018 y basta una ley orgánica; lo primero es nuevo y exige reformar el artículo 68 de la Constitución, con tres quintos de Congreso y Senado. El acuerdo de coalición de 2019 prometía buscar consenso para cambiar la fórmula: no se cambió, aunque sí se suprimió el voto rogado. El Consejo de Estado calculó en 2009 que Sainte-Laguë acerca escaños y votos sin tocar la Constitución.",
+   "antecedentes": "En 2018 Podemos acordó con Ciudadanos impulsar una reforma «que no implique una reforma de la Constitución», con Sainte-Laguë y manteniendo la provincia; no prosperó. El programa de 2019 repetía la fórmula Sainte-Laguë sin tocar la circunscripción. El acuerdo de gobierno de 2019 solo comprometía trabajar por un consenso sobre la fórmula y eliminar el voto rogado, lo que se hizo en 2022. La circunscripción autonómica aparece en 2026.",
+   "matiz": "La promesa tiene dos partes de dificultad muy distinta: cambiar la fórmula depende de una ley orgánica; cambiar la circunscripción, de una reforma constitucional que hoy no tiene los votos. En sentido contrario: hasta 2019 el propio Podemos descartaba tocar la Constitución para ir más rápido, y un sistema más proporcional beneficia a partidos de su tamaño.",
+   "refutacion": "Contra la promesa se buscó: si es posible sin reformar la Constitución, qué se hizo con lo pactado en 2019 y si la aritmética da. Salió que la provincia está en el artículo 68.2 (e1), que la fórmula no se cambió en la legislatura de coalición (e5) y que los tres quintos son inalcanzables sin PP o Vox con el Congreso saliente (e8). Contra esa evidencia se buscó: si al menos una parte es viable (sí: el Consejo de Estado considera que cambiar la fórmula cabe en la Constitución y mejora la proporcionalidad, e2); si Podemos incumplió todo lo pactado (no: el voto rogado se suprimió, e6); si ha cambiado de objetivo (no: pide más proporcionalidad desde 2018; cambia el instrumento, e3, e4). No se encontró ninguna simulación publicada del efecto de la circunscripción autonómica; la única abierta da cifras para circunscripción nacional (e7). No se comprobó la composición del Senado. La aritmética que cuenta será la que salga del 29N.",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "El acuerdo de 2019 prometía buscar consenso para cambiar la fórmula electoral y no se cambió (e5); de ese mismo punto solo se cumplió la supresión del voto rogado (e6)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Defiende más proporcionalidad y Sainte-Laguë desde 2018 (e3, e4); la excepción es que entonces descartaba tocar la Constitución y ahora propone una circunscripción que lo exige (e1, e3)."
+    },
+    "viabilidad": {
+     "nivel": 1,
+     "por": "La circunscripción autonómica exige reforma constitucional por tres quintos de ambas Cámaras (e1), que no salen sin PP o Vox (e8); solo el cambio de fórmula cabe por ley orgánica (e2)."
+    },
+    "datos": {
+     "nivel": 3,
+     "por": "El Consejo de Estado y las simulaciones publicadas respaldan que Sainte-Laguë reduce la distancia entre votos y escaños (e2, e7); no hay cálculo del efecto de la circunscripción autonómica."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La Constitución fija la provincia como circunscripción",
+     "hecho": "El artículo 68.2 de la Constitución dice: «La circunscripción electoral es la provincia», y el 68.3 que la elección atenderá «a criterios de representación proporcional». Cambiar la circunscripción exige reformar la Constitución por la vía del artículo 167: tres quintos de cada Cámara o, si no hay acuerdo, mayoría absoluta del Senado y dos tercios del Congreso.",
+     "fecha": "1978-12-29",
+     "fuente": "BOE (Constitución Española)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leídos los artículos 68 y 167. No es la reforma agravada del artículo 168. La fórmula D'Hondt y la barrera del 3% no están en la Constitución sino en la ley electoral, que es orgánica."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "Consejo de Estado: cambiar la fórmula cabe en la Constitución",
+     "hecho": "El informe del Consejo de Estado de 24-2-2009 sobre la reforma electoral, aprobado por unanimidad, señala que sustituir D'Hondt por otra fórmula (Sainte-Laguë, Droop o Hare), subir a 400 diputados o bajar el mínimo provincial a uno son cambios posibles «en el marco de los condicionamientos impuestos por el artículo 68». En su simulación con los resultados de 2008, Sainte-Laguë daba a IU 8 escaños en vez de 2 y al PSOE 160 en vez de 169.",
+     "fecha": "2009-02-24",
+     "fuente": "Consejo de Estado, Informe sobre las propuestas de modificación del régimen electoral general",
+     "url": "https://www.gutierrez-rubi.es/wp-content/uploads/2010/03/regimen-electoral.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en una copia íntegra alojada fuera de la web del Consejo de Estado (378 páginas); no se localizó el enlace oficial. El informe trata la circunscripción autonómica solo como propuesta que desborda el artículo 68. Los datos son de 2008."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "En 2018 Podemos proponía una reforma sin tocar la Constitución",
+     "hecho": "El 8-2-2018 Podemos y Ciudadanos acordaron impulsar ese año una reforma electoral más proporcional. Según Europa Press, coincidían «en que lo mejor es hacer una propuesta que no implique una reforma de la Constitución, para así agilizar el proceso». Podemos proponía cambiar D'Hondt por Sainte-Laguë y la provincia seguía siendo la circunscripción. La reforma no llegó a aprobarse.",
+     "fecha": "2018-02-08",
+     "fuente": "Europa Press, vía Bolsamanía",
+     "url": "https://www.bolsamania.com/noticias_print/politica/podemos-y-ciudadanos-se-reunen-hoy-para-tratar-de-impulsar-una-reforma-electoral-que-aumente-la-proporcionalidad--3123208.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El objetivo (más proporcionalidad) es el mismo que en 2026; cambia el instrumento, que ahora sí exige reforma constitucional."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2019 ya pedía la fórmula Sainte-Laguë",
+     "hecho": "La medida 126 del programa de Podemos para noviembre de 2019 dice: «Sustituiremos la fórmula de reparto de escaños D'Hondt por la de Sainte-Laguë, más proporcional», para atender al principio de «una persona, un voto». No proponía la circunscripción autonómica ni suprimir la barrera electoral; la medida 130 añadía una circunscripción exterior.",
+     "fecha": "2019-10",
+     "fuente": "Programa de Podemos, elecciones generales de 10-11-2019 (copia de Betevé)",
+     "url": "https://img.beteve.cat/wp-content/uploads/2019/10/unides-podem_programa_generals.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leídas las páginas 59 y 60 del PDF en la copia archivada."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de 2019 prometía buscar consenso sobre la fórmula",
+     "hecho": "El punto 5.7 del acuerdo PSOE-Unidas Podemos (30-12-2019) dice: «Se trabajará para conseguir un amplio consenso que permita modificar la fórmula electoral para mejorar la proporcionalidad del sistema». La legislatura terminó en 2023 sin cambio de fórmula: las elecciones de 2023 y las del 29-11-2026 se reparten con D'Hondt en circunscripciones provinciales.",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos (copia difundida por El País)",
+     "url": "https://d500.epimg.net/descargables/2019/12/30/4ff5f0a5b64c2a18ad4a5f829e8e984d.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído el punto 5.7 en la copia de texto del PDF. El compromiso era de medios («se trabajará»), no de resultado; no se encontró ninguna iniciativa del Gobierno de coalición para cambiar la fórmula. La vigencia de D'Hondt en 2026 consta en e7."
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "El voto rogado, pactado en el mismo punto, se suprimió en 2022",
+     "hecho": "El BOE publicó el 3-10-2022 la Ley Orgánica 12/2022, que reforma la ley electoral para regular el voto de los españoles en el extranjero y pone fin al voto rogado, vigente desde 2011. Era el primer compromiso del punto 5.7 del acuerdo de coalición, el mismo que recogía la fórmula electoral.",
+     "fecha": "2022-10-03",
+     "fuente": "Ministerio de la Presidencia (La Moncloa)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/mpresidencia14/Paginas/2022/031022-boevoto.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota oficial; se usa para la fecha y el contenido de la ley. Es otra medida del mismo apartado, no la que ahora se promete: muestra que la ley electoral sí se reformó en esa legislatura cuando hubo acuerdo."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "Una simulación de 2026: PP y PSOE perderían escaños",
+     "hecho": "elDiario.es publicó el 14-11-2026 una simulación con los votos de 2023: con circunscripción nacional y Sainte-Laguë, el PP pasaría de 137 a 117 escaños y el PSOE de 121 a 113, y Vox y Sumar subirían de 33 y 31 a 44 cada uno. El artículo recuerda que 29 de las 52 circunscripciones del 29N eligen cinco diputados o menos. Dice haber simulado también la circunscripción autonómica, pero no publica esas cifras.",
+     "fecha": "2026-11-14",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/1_cfaa68",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "La cifra publicada es para circunscripción nacional, más proporcional que la autonómica que propone Podemos: el efecto de la promesa sería menor. No se encontró ningún cálculo de qué provincias perderían representación propia con el cambio."
+    },
+    {
+     "id": "e8",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "dato_oficial",
+     "titulo": "Sin PP o Vox no hay tres quintos en el Congreso",
+     "hecho": "En las elecciones del 23-7-2023 el PP obtuvo 137 escaños y Vox 33. Los tres quintos del Congreso son 210 diputados: todos los demás grupos juntos suman 180. Podemos tiene cuatro. La reforma necesita además tres quintos del Senado.",
+     "fecha": "2023-07-23",
+     "fuente": "Junta Electoral Central (resumen de resultados, BOE de 1-9-2023)",
+     "url": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierto el PDF del BOE; los totales de escaños son los que ya usa nuestro archivo (cuadro II). La suma de 180 es un cálculo propio. No se comprobó la posición actual de PP, PSOE y Vox sobre la circunscripción autonómica ni la composición del Senado. La aritmética que cuenta será la del 29-11-2026."
+    }
+   ]
+  }
+ ],
+ "evidencias_para_existentes": [
+  {
+   "propuesta_id": "podemos-empleo-1",
+   "evidencia": {
+    "id": "e13",
+    "sentido": "contradice",
+    "componente": "datos",
+    "tipo": "informe_independiente",
+    "titulo": "AIReF (2025): efecto «ligeramente negativo» del SMI en la afiliación",
+    "hecho": "El documento técnico 9/25 de la AIReF (22-9-2025), con microdatos de la Seguridad Social, estima un efecto «ligeramente negativo y estadísticamente significativo» de las subidas del SMI sobre la afiliación: entre 40.000 y 65.000 afiliados menos por la subida de 2019 y entre 55.000 y 85.000 por la de 2023. Advierte de que solo mide efectos directos y no incluye los indirectos, como el mayor consumo, que pueden amortiguar la pérdida.",
+    "fecha": "2025-09-22",
+    "fuente": "AIReF, Documento técnico 9/25",
+    "url": "https://www.airef.es/wp-content/uploads/2025/09/Documentos-tecnicos-macro-opinion-sostenibilidad/250922_DT_SMI.pdf",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Leídas las conclusiones (páginas 27 y 28) en copia archivada. Es la fuente primaria que faltaba en e11, que cita rangos de la actualización de mayo de 2026 a través de prensa; los rangos de 2025 son algo distintos (40.000-65.000 frente a 45.000-54.000 para 2019). Las subidas analizadas fueron del 22% y del 8%; la de la promesa sería del 40% en cuatro años."
+   },
+   "cambia_nivel": null
+  },
+  {
+   "propuesta_id": "podemos-empleo-1",
+   "evidencia": {
+    "id": "e14",
+    "sentido": "contradice",
+    "componente": "historial",
+    "tipo": "documento_partido",
+    "titulo": "El programa de 2019 prometía 1.200 euros «en la próxima legislatura»",
+    "hecho": "La medida 178 del programa de Podemos para noviembre de 2019 se titula «Alcanzar un salario mínimo interprofesional de 1200 euros en la próxima legislatura» y fijaba como objetivo que el SMI fuera al menos el 60% del salario medio. Al acabar esa legislatura, en 2023, el SMI era de 1.080 euros.",
+    "fecha": "2019-10",
+    "fuente": "Programa de Podemos, elecciones generales de 10-11-2019 (copia de Betevé)",
+    "url": "https://img.beteve.cat/wp-content/uploads/2019/10/unides-podem_programa_generals.pdf",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Leída la página 78 del PDF en la copia archivada. Refuerza e3 con el documento original: los 1.200 euros no fueron solo una propuesta de negociación de junio de 2019, sino una promesa de programa con plazo. No cambia el sentido del contraste."
+   },
+   "cambia_nivel": null
+  },
+  {
+   "propuesta_id": "podemos-igualdad-2",
+   "evidencia": {
+    "id": "e12",
+    "sentido": "contexto",
+    "componente": "viabilidad",
+    "tipo": "dato_oficial",
+    "titulo": "Fiscalía: la especialización de 2025 trajo conflictos de competencia",
+    "hecho": "La Memoria de la Fiscalía de 2026 señala que la atribución de los delitos sexuales a las secciones de violencia sobre la mujer, en vigor desde el 3-10-2025, «ha supuesto un incremento de trabajo» que es «difícilmente cuantificable» porque solo rigió menos de tres meses de 2025. Recoge un aumento de las cuestiones de competencia sobre delitos sexuales contra niñas y adolescentes, que el Tribunal Supremo resolvió en tres sentencias de 2026.",
+    "fecha": "2026",
+    "fuente": "Fiscalía General del Estado, Memoria 2026 (capítulo III, 1.4)",
+    "url": "https://www.fiscal.es/memorias/memoria2026/FISCALIA_SITE/capitulo_III/cap_III_1_4.html",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Completa e8: la especialización que la ley de 2022 ordenaba ya es ley, y el primer balance oficial describe problemas de aplicación sin cifras. La memoria no ofrece número de procedimientos tras la reforma."
+   },
+   "cambia_nivel": null
+  },
+  {
+   "propuesta_id": "podemos-energia-1",
+   "evidencia": {
+    "id": "e13",
+    "sentido": "contexto",
+    "componente": "datos",
+    "tipo": "dato_oficial",
+    "titulo": "CNMV: Repsol valía 13.764 millones en 2024 y 18.037 en 2025",
+    "hecho": "El Informe anual 2025 de la CNMV cifra la capitalización de Repsol en 13.763,8 millones de euros al cierre de 2024 y en 18.037,0 millones al cierre de 2025. Con los 30.312,85 millones del 23-11-2026 (e6), el valor en bolsa se ha más que duplicado en menos de dos años, y con él el coste de comprar el 51%.",
+    "fecha": "2025-12-31",
+    "fuente": "CNMV, Informe anual 2025 (cuadro I.10)",
+    "url": "https://www.cnmv.es/DocPortal/Publicaciones/Informes/Informe_Anual_2025_ES.pdf",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Leída la página 152 en copia archivada. Da respaldo oficial a la serie de precios: el cálculo del Gobierno (e5) usó una capitalización de 17.570 millones de noviembre de 2025, coherente con este dato. Muestra que cualquier cifra de coste depende mucho de la fecha."
+   },
+   "cambia_nivel": null
+  }
+ ],
+ "correcciones": [
+  {
+   "propuesta_id": "podemos-empleo-1",
+   "campo": "evidencias.e3.nota",
+   "dice": "Era una propuesta de negociación; lo firmado después fue el 60% del salario medio (e2). No abrí el PDF del programa de Podemos de 2019.",
+   "deberia_decir": "En junio de 2019 era una propuesta de negociación; el programa de Podemos para las generales de noviembre de 2019 (medida 178) la convirtió en promesa con plazo: «un salario mínimo interprofesional de 1200 euros en la próxima legislatura». Lo firmado después fue el 60% del salario medio (e2).",
+   "fuente": "https://img.beteve.cat/wp-content/uploads/2019/10/unides-podem_programa_generals.pdf"
+  }
+ ],
+ "descartado": [
+  {"expediente": "libertad-sexual (00)", "motivo": "Trata un contraste que ya tenemos (igualdad-2). Sus dos hechos (reforma de 2023 y recuento del CGPJ) ya están en nuestro archivo con fuente primaria. El campo de hallazgos del expediente está dañado (texto partido letra a letra)."},
+  {"expediente": "nacional-podemos-n070 (02)", "motivo": "Mismo contraste que exterior-1. Solo aporta el artículo 13 del Tratado, que ya tenemos (e10); reconoce que no reconstruye el historial."},
+  {"expediente": "piloto-podemos-energia-03 (04)", "motivo": "Mismo contraste que energia-1. Solo se aprovecha la capitalización de la CNMV; el resto son citas genéricas de la Constitución."},
+  {"expediente": "ampliacion-a-podemos-n111 (08)", "motivo": "Mismo contraste que empleo-1. Se aprovechan el documento de la AIReF y el programa de 2019; el resto ya lo teníamos."},
+  {"expediente": "ampliacion-k-podemos-n155 (29)", "motivo": "Mismo contraste que igualdad-2. Se aprovecha la Memoria de la Fiscalía de 2026; la Ley Orgánica 1/2025 ya estaba (e8). El Real Decreto 422/2025 de plazas no se verificó."},
+  {"expediente": "nacional-podemos-n002 (01), ampliacion-c-podemos-n004 (11), ampliacion-e-podemos-n022, n023 y n024 (14, 15, 16)", "motivo": "Vivienda: tema ya contrastado en Podemos (rebaja del 40%); se priorizaron temas sin contraste."},
+  {"expediente": "piloto-podemos-empleo-extra1 (06), ampliacion-a-podemos-n178 (07), ampliacion-d-podemos-n122 (09), root-digital-podemos-n069 (25)", "motivo": "Empleo e igualdad: temas ya contrastados (SMI y ley del «solo sí es sí»)."},
+  {"expediente": "ampliacion-g-podemos-n027, n029 y n038 (17, 18, 19)", "motivo": "Energía: tema ya contrastado (empresa pública de energía)."},
+  {"expediente": "nacional-podemos-n208 (03), ampliacion-c-podemos-n212 (13), ampliacion-i-podemos-n089 y n091 (23, 24)", "motivo": "Inmigración: se eligió el cierre de los CIE (expediente 12), que tiene historial de gobierno comprobable; estas otras solo tienen análisis jurídico."},
+  {"expediente": "ampliacion-j-podemos-n280 (26), ampliacion-j-podemos-n298 (27)", "motivo": "Educación: se eligió la universidad gratuita (expediente 10) por tener un antecedente medible del Gobierno de coalición. El de ratios solo aporta un antecedente autonómico de programa."},
+  {"expediente": "ampliacion-h-podemos-n164, n167 y n177 (20, 21, 22), ampliacion-o-podemos-n304, n305 y n306 (33, 34, 35)", "motivo": "Sanidad: se eligió la derogación de la Ley 15/1997, que Codex no trata, porque es la única con compromiso firmado en 2019 y resultado comprobable. Los expedientes de primaria y salud mental no reconstruyen el historial y el dato de espera procede de una encuesta del CIS (Barómetro Sanitario)."},
+  {"expediente": "ampliacion-k-podemos-n146 (28), ampliacion-m-podemos-n145 y n151 (30, 31)", "motivo": "Igualdad: tema ya contrastado."},
+  {"expediente": "root-rail-podemos-n345 (32)", "motivo": "Codex lo clasifica en territorio, pero es política ferroviaria y no encaja en nuestra definición del tema (modelo territorial). Se eligió la reforma electoral."}
+ ]
+}

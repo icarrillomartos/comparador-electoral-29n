@@ -1,0 +1,2642 @@
+{
+ "compromisos": [
+  {
+   "id": "b01",
+   "tema": "instituciones",
+   "titulo": "Convocar elecciones tras la moción de censura",
+   "compromiso": "Convocar elecciones generales después de «recuperar la estabilidad» y «atender a las urgencias», buscando un consenso sobre la fecha. No dio fecha ni plazo.",
+   "cita": "Segundo, atender a las urgencias que tenga el país. Y, tercero, convocar elecciones generales para que los españoles y las españolas decidan el rumbo que dar al país con su voto.",
+   "cita_fecha": "2018-05-31",
+   "cita_fuente": "Diario de Sesiones del Congreso, Pleno núm. 126, pág. 21",
+   "cita_url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+   "cita_verificada": true,
+   "estado": "parcial",
+   "que_paso": "La moción prosperó el 1-6-2018. El 18-6-2018, en su primera entrevista como presidente (TVE), Sánchez dijo que aspiraba a agotar la legislatura y votar en 2020. El 13-2-2019 el Congreso rechazó sus Presupuestos y el 4-3-2019 disolvió las Cortes: se votó el 28-4-2019, casi once meses después de la moción.",
+   "dato_actual": {
+    "texto": "Elecciones generales celebradas el 28-4-2019, convocadas por el Real Decreto 129/2019, de 4 de marzo. Pasaron 331 días desde la moción.",
+    "fuente": "BOE",
+    "url": "https://www.boe.es/eli/es/rd/2019/03/04/129",
+    "verificado": true
+   },
+   "matiz": "Lo que dijo: que convocaría elecciones como tercera etapa, tras la estabilidad y las urgencias, y que construiría «un consenso para convocar las elecciones generales»; a un diputado le respondió que podían «discrepar en el tiempo, en el plazo» (págs. 21 y 55). Lo que no dijo: no prometió una fecha ni usó la expresión «cuanto antes» para las elecciones (en ese debate la empleó para la financiación autonómica, pág. 62). Hubo elecciones en menos de un año, pero llegaron al caer los Presupuestos y no por un calendario pactado; entre medias declaró que aspiraba a llegar a 2020.",
+   "promesa_2026": null,
+   "puntos": null,
+   "concrecion": null,
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "Hoja de ruta de la moción: estabilidad y elecciones",
+     "hecho": "Sánchez fijó tres etapas: recuperar la estabilidad, atender las urgencias y convocar elecciones, con «la construcción de un consenso para convocar las elecciones generales». No dio fecha: dijo que se podía «discrepar en el tiempo, en el plazo» (págs. 9, 21, 25 y 55).",
+     "fecha": "2018-05-31",
+     "fuente": "Congreso de los Diputados, Diario de Sesiones",
+     "url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído; citas comprobadas de nuevo en la revisión."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "El 18-6-2018: «agotar la legislatura»",
+     "hecho": "En su primera entrevista como presidente, en TVE, dijo: «Aspiro a convocar las elecciones en 2020, agotar la legislatura».",
+     "fecha": "2018-06-19",
+     "fuente": "Reuters (reproducido en Legal Today)",
+     "url": "https://www.legaltoday.com/rincon-de-reuters/sanchez-pretende-agotar-la-legislatura-hasta-2020-2018-06-19/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Disolución de las Cortes y elecciones el 28-4-2019",
+     "hecho": "El Real Decreto 129/2019, de 4 de marzo, disolvió el Congreso y el Senado y convocó elecciones para el 28 de abril de 2019.",
+     "fecha": "2019-03-04",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/eli/es/rd/2019/03/04/129",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "verificador",
+     "titulo": "Presupuestos de 2019 rechazados antes de la convocatoria",
+     "hecho": "Maldita recoge que el Congreso rechazó el proyecto de Presupuestos de 2019 y que Sánchez convocó entonces elecciones. En noviembre de 2018 había dicho que no las convocaría aunque no los aprobara.",
+     "fecha": "2025-09-05",
+     "fuente": "Maldita.es",
+     "url": "https://maldita.es/malditahemeroteca/20250905/gobierno-sanchez-presupuestos-excusas/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La frase de noviembre de 2018 consta en Maldita: https://maldita.es/malditahemeroteca/20181113/cuando-sanchez-pedia-elecciones-si-no-se-sacaban-los-presupuestos-adelante/ ; el rechazo de los Presupuestos y la convocatoria, en la url de esta evidencia."
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "tema": "instituciones",
+   "titulo": "Regeneración y ejemplaridad frente a la corrupción",
+   "compromiso": "Sacar la corrupción de la política: prevenirla, actuar cuando aparezca y asumir las responsabilidades políticas.",
+   "cita": "Lo que hay que hacer es prevenir esa corrupción, actuar cuando se produce esa corrupción y asumir las responsabilidades políticas cuando se produce esa corrupción.",
+   "cita_fecha": "2018-05-31",
+   "cita_fuente": "Diario de Sesiones del Congreso, Pleno núm. 126, pág. 32",
+   "cita_url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+   "cita_verificada": true,
+   "estado": "parcial",
+   "que_paso": "El Gobierno aprobó normas de prevención (entre ellas la Ley 2/2023 de protección del informante y, en 2025, un Plan Estatal de Lucha contra la Corrupción; el proyecto de Ley Orgánica de Integridad Pública se remitió al Congreso el 28-7-2026 y quedó sin aprobar al disolverse las Cortes). En paralelo, los dos últimos secretarios de Organización del PSOE acabaron ante el Supremo. José Luis Ábalos cesó como ministro el 10-7-2021; su exasesor Koldo García fue detenido el 21-2-2024 y el PSOE suspendió a Ábalos de militancia el 27-2-2024, seis días después, al negarse a dejar el escaño; el Supremo lo condenó el 22-6-2026 a 24 años y 3 meses por hechos de 2020 y 2021. Santos Cerdán dimitió el 12-6-2025, el día en que se conoció un informe de la Guardia Civil; el Supremo lo citó como investigado el 20-6-2025, estuvo en prisión provisional del 30-6-2025 al 19-11-2025 y sigue investigado, sin juicio. El fiscal general nombrado por el Gobierno, Álvaro García Ortiz, fue condenado el 20-11-2025 y cesó por real decreto de 9-12-2025.",
+   "dato_actual": {
+    "texto": "A 24-11-2026: Ábalos y Koldo García, condenados por el Supremo (24 años y 3 meses; 19 años, 8 meses y 1 día), con los incidentes de nulidad rechazados el 14-10-2026 y recursos de amparo presentados en noviembre ante el Constitucional, sin resolver. Cerdán, investigado en dos causas de la Audiencia Nacional, sin juicio. Álvaro García Ortiz, condenado a 2 años de inhabilitación y multa por revelación de datos reservados; su amparo sigue pendiente de admisión: según una sola fuente (Demócrata, 15-11-2026), el Constitucional no lo estudiará antes del 29N, y hay una solicitud de indulto en tramitación. Begoña Gómez, con juicio oral abierto ante jurado por tráfico de influencias y malversación (la Fiscalía pide la absolución), sin fecha. David Sánchez, condenado el 14-7-2026 a 9 años de inhabilitación por prevaricación y absuelto de tráfico de influencias; sentencia no firme, recurrida en apelación.",
+    "fuente": "CGPJ; Europa Press; El Independiente; Vozpópuli; Diario de León; Demócrata",
+    "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-condena-al-exministro-Jose-Luis-Abalos-y-a-su-exasesor-Koldo-Garcia-a-24-anos-y-19-anos-de-prision--respectivamente--por-delitos-de-organizacion-criminal--cohecho--malversacion-y-trafico-de-influencias",
+    "verificado": true
+   },
+   "matiz": "Estar investigado o tener juicio abierto no equivale a culpabilidad: de las personas citadas solo hay condena del Supremo para Ábalos, Koldo García y García Ortiz, y las tres están recurridas en amparo. La esposa y el hermano del presidente no tenían cargo en el Gobierno ni en el partido; se citan porque sus causas forman parte del debate sobre ejemplaridad, y en ambas la Fiscalía no acusó. Las salidas de Ábalos y Cerdán del partido llegaron después de conocerse las actuaciones policiales o judiciales, no antes. Sánchez pidió perdón en junio de 2025, no dimitió ni se sometió a una cuestión de confianza. En 2018 dijo también que «no hay ningún partido inmune a la corrupción».",
+   "promesa_2026": {
+    "texto": "Aprobar una ley de integridad pública, una estrategia anticorrupción y una agencia independiente que coordine a los organismos de control y proteja a quien denuncia.",
+    "cita": "Aprobar una Ley Orgánica de Integridad Pública y una Estrategia Nacional Anticorrupción con mapas de riesgos en todas las administraciones, y crear una Agencia Independiente de Integridad Pública",
+    "pagina": 102
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Prometió prevención y ejemplaridad en 2018; dos secretarios de Organización acabaron ante el Supremo y uno, exministro, está condenado (e2,e3,e5b)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Aprobó normas de prevención, pero las salidas de los implicados llegaron tras las actuaciones policiales o judiciales (e5,e5b)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Exige ley orgánica (mayoría absoluta) y una agencia nueva cuyo coste no se detalla (e8)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "No hay evaluación independiente abierta en esta investigación sobre el efecto de las medidas ya aprobadas."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El compromiso de 2018 sobre corrupción",
+     "hecho": "Sánchez defendió «la limpieza de sus instituciones y la ejemplaridad de los dirigentes» y dijo que hay que prevenir la corrupción, actuar y asumir responsabilidades políticas (pág. 32).",
+     "fecha": "2018-05-31",
+     "fuente": "Congreso de los Diputados, Diario de Sesiones",
+     "url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "resolucion_judicial",
+     "titulo": "El Supremo condena a Ábalos y a Koldo García",
+     "hecho": "La Sala Segunda notificó el 22-6-2026 la condena de José Luis Ábalos a 24 años y 3 meses y de Koldo García a 19 años, 8 meses y 1 día por organización criminal, cohecho, malversación y tráfico de influencias, por contratos de mascarillas de 2020 y otros hechos. Víctor de Aldama: 4 años y 6 meses, con la pena suspendida por colaborar.",
+     "fecha": "2026-06-22",
+     "fuente": "Consejo General del Poder Judicial",
+     "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-condena-al-exministro-Jose-Luis-Abalos-y-a-su-exasesor-Koldo-Garcia-a-24-anos-y-19-anos-de-prision--respectivamente--por-delitos-de-organizacion-criminal--cohecho--malversacion-y-trafico-de-influencias",
+     "estado_judicial": "condenado_firme",
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota del CGPJ abierta. El Supremo juzgó en única instancia: no cabe recurso ordinario; ver e3."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "resolucion_judicial",
+     "titulo": "Rechazada la nulidad de la sentencia de las mascarillas",
+     "hecho": "El Supremo desestimó el 14-10-2026 los incidentes de nulidad de Ábalos y Koldo García. La Fiscalía se refiere en ese trámite a «la sentencia firme». Ambos presentaron en noviembre de 2026 recurso de amparo ante el Tribunal Constitucional, pendiente de admisión.",
+     "fecha": "2026-10-14",
+     "fuente": "Europa Press (en Infobae)",
+     "url": "https://www.infobae.com/espana/agencias/2026/10/14/el-supremo-confirma-las-condenas-de-abalos-y-koldo-al-rechazar-sus-peticiones-de-anular-la-sentencia-de-las-mascarillas/",
+     "estado_judicial": "condenado_firme",
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta. El amparo de Ábalos consta en Artículo 14 (10-11-2026): https://www.articulo14.es/politica/abalos-pendiente-de-la-renovacion-del-constitucional-y-quien-revisara-su-sentencia-20261110.html ; el de Koldo García (ESdiario, 11-11-2026) no se abrió."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Santos Cerdán: investigado, sin juicio",
+     "hecho": "A agosto de 2026 Cerdán seguía investigado en la pieza de obra pública que instruye la Audiencia Nacional y en la causa del juez Pedraz sobre presuntas maniobras contra investigaciones judiciales. No hay procesamiento ni fecha de juicio conocidos.",
+     "fecha": "2026-08-02",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/08/02/curso-judicial-sentencias-historicas-seis-frentes-psoe/",
+     "estado_judicial": "investigado",
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Un solo medio para el conjunto; Ara confirmó en septiembre de 2026 que seguía investigado en la causa de Pedraz. No se ha encontrado ninguna resolución posterior: comprobar antes de publicar."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "norma",
+     "titulo": "Ábalos cesó como ministro en julio de 2021",
+     "hecho": "El Real Decreto 516/2021, de 10 de julio, dispuso el cese de José Luis Ábalos como ministro de Transportes. La detención de su exasesor fue el 21-2-2024 y el PSOE lo suspendió de militancia el 27-2-2024.",
+     "fecha": "2021-07-10",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11522",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cese comprobado en el BOE de 12-7-2021. Las fechas de 2024 (detención y suspensión) proceden de la cronología de prensa y no se han podido releer en una fuente primaria."
+    },
+    {
+     "id": "e5b",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "procedimiento_judicial",
+     "titulo": "Cerdán, investigado por el Supremo en junio de 2025",
+     "hecho": "El instructor del Supremo dictó el 20-6-2025 un auto que autoriza a la Guardia Civil a investigar las cuentas y el correo de Santos Cerdán en el PSOE por la presunta adjudicación de obras públicas a cambio de dinero, y lo citó a declarar el 30-6-2025. Cerdán había dimitido el 12-6-2025. Salió de prisión provisional el 19-11-2025 con comparecencias quincenales.",
+     "fecha": "2025-06-20",
+     "fuente": "Consejo General del Poder Judicial",
+     "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-instructor-del-Tribunal-Supremo-autoriza-a-la-UCO-a-investigar-cuentas--inmuebles-y-el-correo-electronico-corporativo-de-Santos-Cerdan-en-el-PSOE-y-Jose-Luis-Abalos-en-el-Ministerio-de-Fomento",
+     "estado_judicial": "investigado",
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota del CGPJ abierta. La salida de prisión consta en El Debate (1-12-2025): https://www.eldebate.com/espana/20251201/cerdan-esquiva-medios-anuncia-explicaciones-debido-tiempo_360633.html . La fecha de la dimisión y la de entrada en prisión (30-6-2025) no se han releído en fuente primaria."
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "resolucion_judicial",
+     "titulo": "Condena al fiscal general del Estado",
+     "hecho": "El Supremo adelantó el fallo el 20-11-2025: condena a Álvaro García Ortiz por revelación de datos reservados a multa de 7.200 euros y 2 años de inhabilitación para el cargo, con dos votos particulares de siete magistrados. Cesó por el Real Decreto 1138/2025, de 9 de diciembre. Recurrió en amparo en abril de 2026.",
+     "fecha": "2025-11-20",
+     "fuente": "Consejo General del Poder Judicial",
+     "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-condena-a-Alvaro-Garcia-Ortiz-por-un-delito-de-revelacion-de-secretos-a-pena-de-multa-y-2-anos-de-inhabilitacion-para-el-cargo-de-fiscal-general-del-Estado",
+     "estado_judicial": "condenado_firme",
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota del CGPJ y BOE de 10-12-2025 (BOE-A-2025-25142) abiertos. Sustituye a Wikipedia. El amparo seguía pendiente de admisión en junio de 2026 (elDiario.es); no hay dato posterior."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "procedimiento_judicial",
+     "titulo": "Begoña Gómez: juicio con jurado, sin fecha",
+     "hecho": "La Audiencia de Madrid confirmó el 16-7-2026 el juicio con jurado por tráfico de influencias y malversación y retiró otros dos delitos. La Fiscalía no acusa. A 23-11-2026 la causa no había llegado a la Audiencia Provincial y no había magistrado ni fecha.",
+     "fecha": "2026-11-23",
+     "fuente": "Vozpópuli; El Independiente",
+     "url": "https://www.vozpopuli.com/tribunales/la-justicia-madrilena-congela-el-juicio-a-begona-gomez-y-ni-siquiera-elige-al-juez-que-presidira-el-jurado.html",
+     "estado_judicial": "juicio",
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abiertas las dos (El Independiente, 2-8-2026, es la URL de e4). Sustituye a Wikipedia. No es cargo público ni del partido: se mantiene como contexto."
+    },
+    {
+     "id": "e7b",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "resolucion_judicial",
+     "titulo": "David Sánchez: condena no firme por prevaricación",
+     "hecho": "La Audiencia de Badajoz condenó el 14-7-2026 al hermano del presidente a 9 años de inhabilitación por prevaricación administrativa en su contratación en la Diputación y lo absolvió de tráfico de influencias. La Fiscalía no acusó. Su defensa recurrió en apelación ante el Tribunal Superior de Justicia de Extremadura.",
+     "fecha": "2026-10-08",
+     "fuente": "Diario de León (Efe)",
+     "url": "https://www.diariodeleon.es/nacional/261008/2099679/david-sanchez-recurre-condena-prevaricacion-denuncia-investigacion-prospectiva.html",
+     "estado_judicial": "condenado_no_firme",
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta; la condena coincide con El Independiente (2-8-2026). No es cargo del Gobierno ni del partido: se mantiene como contexto."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "Lo que promete ahora el PSOE",
+     "hecho": "El programa cita el Plan Estatal de Lucha contra la Corrupción de 2025 y promete una Ley Orgánica de Integridad Pública, una agencia independiente y una ley de grupos de interés (pág. 102). No menciona las causas judiciales. El Gobierno ya había remitido al Congreso el proyecto de esa ley el 28-7-2026 (e11).",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    },
+    {
+     "id": "e9",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Ley 2/2023 de protección del informante",
+     "hecho": "La Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción, se publicó en el BOE el 21-2-2023 y entró en vigor el 13-3-2023.",
+     "fecha": "2023-02-20",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-4513",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e10",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "Plan Estatal de Lucha contra la Corrupción de 2025",
+     "hecho": "El Consejo de Ministros aprobó el 26-8-2025 el Plan Estatal de Lucha contra la Corrupción: cinco ejes y quince medidas, entre ellas una agencia independiente de integridad, una ley de lobbies y el refuerzo de la Ley 2/2023.",
+     "fecha": "2025-08-26",
+     "fuente": "Ministerio de Hacienda",
+     "url": "https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2025/20250826-NP-CM-LUCHA-CONTRA-CORRUPCION.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota del Gobierno (documento de parte)."
+    },
+    {
+     "id": "e11",
+     "sentido": "apoya",
+     "componente": "viabilidad",
+     "tipo": "documento_partido",
+     "titulo": "El Gobierno remite al Congreso la Ley Orgánica de Integridad Pública",
+     "hecho": "El Consejo de Ministros aprobó el 28-7-2026, en segunda vuelta, el proyecto de Ley Orgánica de Integridad Pública y lo remitió al Congreso. Crea una Agencia Independiente de Integridad Pública. El 5-10-2026 se disolvieron las Cortes sin que se aprobara.",
+     "fecha": "2026-07-28",
+     "fuente": "Ministerio de Hacienda",
+     "url": "https://www.hacienda.gob.es/eu-ES/prensa/noticias/paginas/2026/20260728-np-cm-proyecto-ley-integridad-publica.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota del Gobierno. La disolución consta en la referencia del Consejo de Ministros de 5-10-2026 (lamoncloa.gob.es). Que el proyecto no se aprobó es deducción de esa disolución."
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "tema": "sanidad",
+   "titulo": "Devolver la sanidad universal",
+   "compromiso": "Recuperar la atención sanitaria pública para las personas excluidas en 2012, incluidos los inmigrantes sin papeles.",
+   "cita": "asumo también el compromiso de recuperar el carácter universal de nuestra sanidad pública, devolviendo a las personas que viven en España la atención sanitaria de la que fueron excluidos en abril de 2012.",
+   "cita_fecha": "2018-05-31",
+   "cita_fuente": "Diario de Sesiones del Congreso, Pleno núm. 126, pág. 24",
+   "cita_url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+   "cita_verificada": true,
+   "estado": "cumplido",
+   "que_paso": "El Gobierno aprobó el Real Decreto-ley 7/2018 el 27-7-2018, menos de dos meses después de la moción. Reconoce a los extranjeros no registrados ni autorizados el derecho a la atención «en las mismas condiciones» que los españoles, con requisitos para la financiación pública. El 14-5-2024 el Consejo de Ministros envió a las Cortes un proyecto de ley de universalidad para cerrar huecos (reagrupados, españoles residentes fuera, acceso a medicamentos). El 10-3-2026 el Consejo de Ministros aprobó un real decreto que unifica el procedimiento de acceso de las personas extranjeras sin residencia legal.",
+   "dato_actual": {
+    "texto": "El Real Decreto-ley 7/2018 sigue en vigor desde el 31-7-2018. El 10-3-2026 el Consejo de Ministros aprobó un real decreto que unifica el procedimiento de acceso de las personas extranjeras sin residencia legal. El proyecto de ley de universalidad de 14-5-2024 no consta como aprobado antes de la disolución de las Cortes de octubre de 2026 (Redacción Médica lo daba por paralizado el 9-3-2026).",
+    "fuente": "BOE; Ministerio de Sanidad",
+    "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6866",
+    "verificado": true
+   },
+   "matiz": "La norma se aprobó pronto y sigue vigente. El propio Gobierno admitió en 2024, al enviar una segunda ley, que quedaban colectivos sin cobertura completa; no consta que esa ley se aprobara antes de la disolución de las Cortes. El procedimiento de acceso se unificó por real decreto ocho años después de la norma de 2018.",
+   "promesa_2026": null,
+   "puntos": null,
+   "concrecion": null,
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El compromiso en la moción de censura",
+     "hecho": "Sánchez se comprometió a devolver la atención sanitaria a quienes fueron excluidos en abril de 2012 (pág. 24).",
+     "fecha": "2018-05-31",
+     "fuente": "Congreso de los Diputados, Diario de Sesiones",
+     "url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Real Decreto-ley 7/2018 de acceso universal",
+     "hecho": "Aprobado el 27-7-2018 y en vigor desde el 31-7-2018. Reconoce el derecho a la atención a extranjeros no registrados ni autorizados, con financiación pública si no tienen otra cobertura.",
+     "fecha": "2018-07-27",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-10752",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Proyecto de ley de universalidad de 2024",
+     "hecho": "El Consejo de Ministros aprobó el 14-5-2024 un proyecto de ley para incluir a españoles residentes en el extranjero, ascendientes reagrupados y otros colectivos, y su acceso a la prestación farmacéutica.",
+     "fecha": "2024-05-14",
+     "fuente": "La Moncloa, referencia del Consejo de Ministros",
+     "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2024/20240514-referencia-rueda-de-prensa-ministros.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Documento del Gobierno."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 lo da por hecho",
+     "hecho": "El programa dice «devolvimos la universalidad al Sistema Nacional de Salud» (pág. 46) y no incluye un compromiso de aprobar la ley de universalidad. Sí promete «acabar con las listas de espera» (pág. 49).",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Real decreto de marzo de 2026 sobre el acceso universal",
+     "hecho": "El Consejo de Ministros aprobó el 10-3-2026 un real decreto que regula el reconocimiento del derecho a la atención sanitaria de las personas extranjeras sin residencia legal: declaración responsable, requisitos unificados en todo el territorio y plazo de tres meses para resolver, con silencio estimatorio.",
+     "fecha": "2026-03-10",
+     "fuente": "Ministerio de Sanidad",
+     "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6866",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota de Sanidad abierta. El número del real decreto no figura en la nota y no se ha comprobado en el BOE. Redacción Médica (9-3-2026) describe la Ley de Universalidad como «totalmente parada»."
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "tema": "seguridad",
+   "titulo": "Derogar los artículos más duros de la «ley mordaza»",
+   "compromiso": "Derogar con urgencia los artículos de la ley de seguridad ciudadana recurridos ante el Constitucional.",
+   "cita": "Me comprometo a impulsar la derogación urgente de aquellos artículos que fueron recurridos ante el Tribunal Constitucional por el Partido Socialista y por los grupos parlamentarios de la oposición.",
+   "cita_fecha": "2018-05-31",
+   "cita_fuente": "Diario de Sesiones del Congreso, Pleno núm. 126, pág. 22",
+   "cita_url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+   "cita_verificada": true,
+   "estado": "incumplido",
+   "que_paso": "La Ley Orgánica 4/2015 sigue en vigor ocho años después. Una primera reforma fracasó en la legislatura 2019-2023 al oponerse ERC y EH Bildu, que la consideraban insuficiente en devoluciones en caliente, pelotas de goma y faltas de respeto a agentes. En octubre de 2024 el Congreso admitió a trámite una nueva reforma pactada con EH Bildu; la ponencia no se reunió en todo 2026 y decayó con la disolución de las Cortes.",
+   "dato_actual": {
+    "texto": "A 30-6-2026 la ley cumplía once años «plenamente vigente» y la ponencia de la reforma no se había reunido en 2026. Las Cortes se disolvieron en octubre de 2026 sin aprobarla.",
+    "fuente": "elDiario.es",
+    "url": "https://www.eldiario.es/politica/ley-mordaza-cumple-undecimo-aniversario-derogacion-estancada-congreso_1_13279703.html",
+    "verificado": true
+   },
+   "matiz": "El PSOE nunca tuvo mayoría propia y el bloqueo vino de sus socios, que pedían ir más lejos, y de la disputa entre PNV y EH Bildu; PP, Vox y UPN votaron en contra de tramitar la reforma. El compromiso de 2018 era de derogación «urgente».",
+   "promesa_2026": {
+    "texto": "Aprobar una nueva ley de seguridad ciudadana que sustituya a la de 2015.",
+    "cita": "Aprobar una nueva Ley de Seguridad Ciudadana que sustituya a la Ley Orgánica 4/2015, garantizando los derechos de reunión y manifestación, un régimen sancionador preciso, identificaciones sin discriminación y cámaras corporales",
+    "pagina": 99
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 0,
+     "por": "Prometido en 2018 como urgente y no aprobado en tres legislaturas (e1,e2,e3)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Ha impulsado dos reformas, pero rechazó exigencias de sus socios y ninguna llegó a votarse (e2,e3)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Es ley orgánica: necesita mayoría absoluta y a los mismos socios que no se pusieron de acuerdo (e3)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "No hay evaluación independiente consultada; el precedente parlamentario es de bloqueo (e2)."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El compromiso de derogación urgente",
+     "hecho": "Sánchez anunció que su Gobierno «iniciará la derogación de los aspectos más virulentos de la ley mordaza» y citó reunión, manifestación, libertad de información y expulsiones en frontera (pág. 22).",
+     "fecha": "2018-05-31",
+     "fuente": "Congreso de los Diputados, Diario de Sesiones",
+     "url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Once años de vigencia y la reforma, parada",
+     "hecho": "La reforma fracasó en la legislatura anterior por la oposición de ERC y EH Bildu. La nueva, tomada en consideración en octubre de 2024 con el voto en contra de PP, Vox y UPN, quedó paralizada tras las enmiendas; la ponencia no se reunió en 2026.",
+     "fecha": "2026-06-30",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/ley-mordaza-cumple-undecimo-aniversario-derogacion-estancada-congreso_1_13279703.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "Los desacuerdos entre socios",
+     "hecho": "A agosto de 2026 la ley seguía entre las pendientes: Podemos exigía plazo para prohibir las pelotas de goma y los rechazos en frontera; PNV y EH Bildu chocaban por el principio de autoridad policial.",
+     "fecha": "2026-08-28",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/1_ccf72d",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Enlace corto del propio medio; abierto y leído."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El PSOE vuelve a prometerlo en 2026",
+     "hecho": "El programa promete «una nueva Ley de Seguridad Ciudadana que sustituya a la Ley Orgánica 4/2015» (pág. 99). No fija plazo.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "tema": "inmigracion",
+   "titulo": "Acabar con las devoluciones en caliente",
+   "compromiso": "Derogar la disposición que permite expulsar en la frontera a extranjeros sin procedimiento ni acceso a un juez.",
+   "cita": "o a la disposición final que permite la expulsión de extranjeros en frontera de forma arbitraria y sin derecho a la tutela judicial efectiva.",
+   "cita_fecha": "2018-05-31",
+   "cita_fuente": "Diario de Sesiones del Congreso, Pleno núm. 126, pág. 22",
+   "cita_url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+   "cita_verificada": true,
+   "estado": "incumplido",
+   "que_paso": "La disposición no se derogó y el Gobierno siguió aplicándola. En febrero de 2020 el Tribunal Europeo de Derechos Humanos no apreció violación en un caso de 2014 en Melilla, y el 19-11-2020 el Tribunal Constitucional (Sentencia 172/2020), al resolver el recurso que el propio PSOE había firmado en 2015, declaró constitucional el rechazo en frontera si se aplica a entradas individualizadas, con control judicial y respetando las obligaciones internacionales. El Defensor del Pueblo concluyó después que en las devoluciones de Melilla del 24-6-2022 no se respetaron las garantías. En la reforma de la ley de seguridad ciudadana de 2024 el PSOE pactó una redacción menos ambiciosa sobre este punto. En 2026 el Tribunal Supremo fijó que la disposición no ampara el rechazo de quienes llegan a nado.",
+   "dato_actual": {
+    "texto": "A 30-6-2026 el rechazo en frontera seguía en la ley y la reforma de la ley de seguridad ciudadana, con el desacuerdo sobre este punto, no se había aprobado; las Cortes se disolvieron el 5-10-2026. En 2026 el Supremo limitó su aplicación a quienes llegan a nado (e5).",
+    "fuente": "elDiario.es; ARA",
+    "url": "https://es.ara.cat/sociedad/justicia/supremo-confirma-no-devoluciones-caliente-migrantes-llegan-mar_1_5793020.html",
+    "verificado": true
+   },
+   "matiz": "Tras 2020 la figura tiene aval del Tribunal Europeo de Derechos Humanos y del Constitucional si se respetan ciertas garantías, lo que cambió el marco respecto a 2018. El compromiso de derogarla era anterior a esas sentencias; después, el Gobierno optó por mantenerla.",
+   "promesa_2026": null,
+   "puntos": null,
+   "concrecion": null,
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El compromiso sobre expulsiones en frontera",
+     "hecho": "Entre los artículos que se comprometió a derogar, Sánchez citó la disposición que permite expulsar extranjeros en frontera «sin derecho a la tutela judicial efectiva» (pág. 22).",
+     "fecha": "2018-05-31",
+     "fuente": "Congreso de los Diputados, Diario de Sesiones",
+     "url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "resolucion_judicial",
+     "titulo": "El Constitucional avaló la figura con condiciones",
+     "hecho": "La Sentencia 172/2020, de 19 de noviembre, resolvió el recurso de diputados del PSOE y otros grupos contra la ley de 2015. Declaró que el rechazo en frontera es constitucional si se interpreta con condiciones (aplicación individualizada, control judicial y cumplimiento de las obligaciones internacionales) y cita la sentencia del TEDH en el caso N.D. y N.T. contra España.",
+     "fecha": "2020-11-19",
+     "fuente": "BOE, Tribunal Constitucional",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-16819",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Sentencia abierta en el BOE. Sustituye a Wikipedia. Las conclusiones del Defensor del Pueblo sobre Melilla (2022) y la actuación de Interior en Ceuta en 2018 no se han podido abrir en fuente primaria."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "El PSOE rebajó este punto en la reforma de 2024",
+     "hecho": "ERC y EH Bildu aceptaron a finales de 2024 una redacción menos ambiciosa sobre devoluciones en caliente; Podemos siguió pidiendo prohibir el rechazo en frontera.",
+     "fecha": "2026-06-30",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/ley-mordaza-cumple-undecimo-aniversario-derogacion-estancada-congreso_1_13279703.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 no lo menciona",
+     "hecho": "El capítulo de migración promete «ampliar las vías legales y seguras de protección internacional y reforzar el sistema público de acogida y asilo» (pág. 92) y una política europea que combine «la lucha contra las mafias» con la gestión «del asilo, las fronteras y las vías legales» (pág. 110). No menciona el rechazo en frontera ni las devoluciones.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "resolucion_judicial",
+     "titulo": "El Supremo limita el rechazo en frontera para quien llega a nado",
+     "hecho": "En 2026 el Tribunal Supremo fijó doctrina de que la disposición adicional décima de la Ley de Extranjería no permite el rechazo en frontera de quienes intentan entrar nadando en Ceuta y Melilla; la figura se mantiene para quienes superan vallas o elementos de contención.",
+     "fecha": "2026-07-08",
+     "fuente": "ARA (sobre sentencia del Tribunal Supremo)",
+     "url": "https://es.ara.cat/sociedad/justicia/supremo-confirma-no-devoluciones-caliente-migrantes-llegan-mar_1_5793020.html",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "La fecha es la de publicación en ARA; un buscador sitúa la sentencia el 29-6-2026. No se ha localizado el texto en CENDOJ."
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "tema": "pensiones",
+   "titulo": "Subir las pensiones con el coste de la vida",
+   "compromiso": "Volver a actualizar las pensiones cada año según los precios y no permitir retrocesos.",
+   "cita": "la mayoría de la sociedad nos ha trazado de forma clara un camino y es el de la actualización de las pensiones conforme al coste de la vida.",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "Comparecencia en el Pleno del Congreso, transcripción de La Moncloa, pág. 29",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+   "cita_verificada": true,
+   "estado": "cumplido",
+   "que_paso": "La Ley 21/2021, de 28 de diciembre, fijó por ley que las pensiones contributivas suben cada enero con la inflación media de los doce meses anteriores y derogó en la práctica el índice del 0,25 % de 2013. Está en vigor desde el 1-1-2022 y se ha aplicado todos los años, incluido el de mayor inflación.",
+   "dato_actual": {
+    "texto": "La regla del IPC está en la ley desde el 1-1-2022 (artículo 58 de la Ley General de la Seguridad Social). El PSOE cifra en un 46 % la subida de la pensión contributiva media desde 2018 (dato de partido, no contrastado aquí).",
+    "fuente": "BOE",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-21652",
+    "verificado": true
+   },
+   "matiz": "Es uno de los compromisos cumplidos con más claridad. La discusión abierta no es si se cumplió, sino cómo se paga: en esta investigación no se han abierto los informes de la AIReF sobre la sostenibilidad de la reforma, que el editor debería añadir.",
+   "promesa_2026": {
+    "texto": "Llevar a la Constitución el sistema público de pensiones y su subida con el IPC.",
+    "cita": "Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC, garantizando el derecho de las personas mayores a una pensión digna, suficiente y actualizada.",
+    "pagina": 40
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 4,
+     "por": "Prometió la subida con el IPC y la convirtió en ley, aplicada cada año desde 2022 (e1,e2)."
+    },
+    "coherencia": {
+     "nivel": 4,
+     "por": "Misma posición desde 2018 hasta el programa de 2026 (e1,e3)."
+    },
+    "viabilidad": {
+     "nivel": 1,
+     "por": "Reformar la Constitución exige tres quintos de ambas Cámaras, es decir, el acuerdo del PP (e3)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "La garantía legal ya existe; falta aquí la valoración de la AIReF sobre su coste."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El compromiso de julio de 2018",
+     "hecho": "En su primera comparecencia para explicar el programa de Gobierno, Sánchez defendió «la actualización de las pensiones conforme al coste de la vida». En la moción había dicho que no toleraría retrocesos (DS 126, pág. 24).",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa, transcripción oficial",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Ley 21/2021: las pensiones suben con el IPC",
+     "hecho": "La ley, en vigor desde el 1-1-2022, establece que las pensiones contributivas se revalorizan con la inflación media de los doce meses previos a diciembre; si es negativa, no bajan.",
+     "fecha": "2021-12-28",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-21652",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "documento_partido",
+     "titulo": "En 2026 promete llevarlo a la Constitución",
+     "hecho": "El programa promete «blindar constitucionalmente» el sistema y su revalorización con el IPC (pág. 40) y acordar «nuevas fuentes de financiación» en el Pacto de Toledo, sin cifras.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "tema": "instituciones",
+   "titulo": "Sacar a Franco del Valle de los Caídos",
+   "compromiso": "Exhumar los restos de Franco del Valle de los Caídos.",
+   "cita": "la decisión política de este Gobierno es firme: vamos a proceder a la exhumación de los restos del dictador Franco del Valle",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "Comparecencia en el Pleno del Congreso, transcripción de La Moncloa, págs. 4-5",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+   "cita_verificada": true,
+   "estado": "cumplido",
+   "que_paso": "El Gobierno aprobó un decreto-ley en agosto de 2018 y el acuerdo de exhumación el 15-2-2019. La familia recurrió y el Supremo suspendió la operación; en septiembre de 2019 la avaló. Los restos se trasladaron el 24-10-2019 al cementerio de Mingorrubio (El Pardo).",
+   "dato_actual": {
+    "texto": "Exhumación realizada el 24-10-2019, quince meses después del anuncio. El recinto pasó a llamarse Valle de Cuelgamuros con la Ley de Memoria Democrática de 2022.",
+    "fuente": "La Moncloa",
+    "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2019/prsp24102019.aspx",
+    "verificado": true
+   },
+   "matiz": "El retraso respecto al anuncio se debió a los recursos judiciales de la familia. PP y Ciudadanos se abstuvieron en la convalidación del decreto-ley en septiembre de 2018. Vox, que no tenía entonces diputados, se opuso públicamente.",
+   "promesa_2026": {
+    "texto": "Terminar de transformar el Valle de Cuelgamuros con un centro de interpretación.",
+    "cita": "Culminar la resignificación del Valle de Cuelgamuros, mediante la puesta en marcha de su Centro de Interpretación.",
+    "pagina": 98
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 4,
+     "por": "Anunció la exhumación y la ejecutó pese a los recursos (e1,e3)."
+    },
+    "coherencia": {
+     "nivel": 4,
+     "por": "Posición constante desde 2018 (e1,e4)."
+    },
+    "viabilidad": {
+     "nivel": 4,
+     "por": "Depende del Gobierno y de una inversión acotada; el recinto es patrimonio público."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "No hay datos independientes sobre plazos o coste del centro."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El anuncio en el Congreso",
+     "hecho": "Sánchez anunció el 17-7-2018 que el Gobierno procedería a la exhumación.",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa, transcripción oficial",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Real Decreto-ley 10/2018 que habilitó la exhumación",
+     "hecho": "Aprobado el 24-8-2018: solo pueden yacer en el Valle fallecidos a consecuencia de la Guerra Civil y regula el procedimiento de exhumación por acuerdo del Consejo de Ministros.",
+     "fecha": "2018-08-24",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/eli/es/rdl/2018/08/24/10",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "Acuerdo de exhumación y traslado",
+     "hecho": "El Consejo de Ministros acordó el 15-2-2019 la exhumación, en aplicación del Real Decreto-ley 10/2018. Se ejecutó el 24-10-2019, día en que el presidente hizo una declaración institucional.",
+     "fecha": "2019-02-15",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/consejodeministros/Paginas/enlaces/150219enlace-exhumacion.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abiertas la nota del acuerdo y la declaración institucional de 24-10-2019. Sustituye a Wikipedia. La sentencia del Supremo de septiembre de 2019 y el resultado de la votación en el Congreso no se han abierto en fuente primaria; se ha corregido el matiz, que atribuía a Vox un voto en una Cámara donde no tenía escaños."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "Lo que queda pendiente según el PSOE",
+     "hecho": "El programa promete culminar la «resignificación» del Valle con un centro de interpretación y completar el plan de exhumaciones de víctimas (pág. 98).",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "tema": "impuestos",
+   "titulo": "Publicar los nombres de la amnistía fiscal",
+   "compromiso": "Hacer pública la lista de quienes se acogieron a la amnistía fiscal de 2012.",
+   "cita": "desgraciadamente, no es posible revisar los casos que se acogieron a dicha amnistía, y esa imposibilidad afecta, señorías, según el artículo 9.3 de la Constitución Española, a la publicación de los nombres",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "Comparecencia en el Pleno del Congreso, transcripción de La Moncloa, pág. 15 (la cita recoge la renuncia; la promesa previa está documentada por Maldita)",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+   "cita_verificada": true,
+   "estado": "incumplido",
+   "que_paso": "En la oposición Sánchez pidió la lista, la llamó «la lista de la vergüenza» y en 2015 dijo en televisión que publicarla sería su segunda medida. A las seis semanas de llegar al Gobierno comunicó al Congreso que no era posible. En septiembre de 2018 el Congreso rechazó una iniciativa de Unidos Podemos para exigirla, con la abstención del PSOE. En octubre de 2020 la ministra de Hacienda reiteró que debía mantenerse el anonimato.",
+   "dato_actual": {
+    "texto": "A 24-11-2026 no consta que se haya publicado la lista (no se ha encontrado ninguna publicación posterior). La Ley 11/2021 prohíbe por ley cualquier nuevo mecanismo extraordinario de regularización fiscal.",
+    "fuente": "BOE, Ley 11/2021",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-11473",
+    "verificado": true
+   },
+   "matiz": "El Gobierno alegó un impedimento jurídico (la irretroactividad, según la sentencia del Constitucional y un informe de la Abogacía del Estado). Otros juristas y Unidos Podemos sostuvieron que una ley podía permitirlo; el PSOE no apoyó esa vía.",
+   "promesa_2026": null,
+   "puntos": null,
+   "concrecion": null,
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "«No es posible» publicar los nombres",
+     "hecho": "Sánchez dijo en el Congreso que la irretroactividad impedía publicar la lista y anunció una ley para «prohibir futuras leyes de amnistía fiscal» (pág. 15).",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa, transcripción oficial",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "verificador",
+     "titulo": "Diez veces pidió o prometió la lista",
+     "hecho": "Maldita documenta que Sánchez reclamó la lista antes de gobernar, que en mayo de 2015 (laSexta Noche) la situó entre sus primeras medidas y que en octubre de 2020 Hacienda defendió mantener «el anonimato».",
+     "fecha": "2020-10-14",
+     "fuente": "Maldita.es",
+     "url": "https://maldita.es/malditahemeroteca/20201014/10-veces-en-las-que-pedro-sanchez-pidio-que-se-publicara-la-lista-de-la-amnistia-fiscal-o-prometio-publicarla-cuando-llegara-al-gobierno/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "El Congreso rechazó exigir los nombres",
+     "hecho": "En septiembre de 2018 el Pleno rechazó una proposición de Unidos Podemos para publicar los nombres, con el voto en contra del PP y la abstención del PSOE.",
+     "fecha": "2018-09-18",
+     "fuente": "Europa Press (en Bolsamanía)",
+     "url": "https://www.bolsamania.com/noticias_amp/mercados/economia--el-congreso-con-el-no-del-pp-y-la-abstencion-del-psoe-rechaza-exigir-los-nombres-de-la-amnistia-fiscal--3493511.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierto. Solo ERC, PNV, Compromís y Bildu apoyaron la propuesta."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La ley de 2021 prohíbe nuevas amnistías fiscales",
+     "hecho": "La Ley 11/2021, de 9 de julio, incorpora a la Ley General Tributaria «la prohibición del establecimiento de cualquier mecanismo extraordinario de regularización fiscal», según su preámbulo.",
+     "fecha": "2021-07-09",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-11473",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "tema": "educacion",
+   "titulo": "Sustituir la LOMCE",
+   "compromiso": "Eliminar los aspectos de la LOMCE contrarios a la igualdad de oportunidades y la segregación escolar.",
+   "cita": "este Gobierno se propone eliminar los aspectos contrarios al principio de igualdad de oportunidades y la segregación escolar, que arrastra una Ley nacida sin consenso ni acuerdo",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "Comparecencia en el Pleno del Congreso, transcripción de La Moncloa, pág. 32",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+   "cita_verificada": true,
+   "estado": "cumplido",
+   "que_paso": "El Gobierno de coalición aprobó la Ley Orgánica 3/2020 (LOMLOE), publicada el 30-12-2020 y en vigor desde el 19-1-2021, que reforma la ley educativa de 2006 y deja sin efecto los cambios de la LOMCE. Se aprobó sin el apoyo del PP ni de Vox.",
+   "dato_actual": {
+    "texto": "La LOMLOE está en vigor desde el 19-1-2021. El abandono escolar temprano (jóvenes de 18 a 24 años) bajó del 17,9 % en 2018 al 13,0 % en 2024 y al 12,8 % en 2025, según Eurostat. El objetivo de la UE para 2030 es bajar del 9 %; el programa del PSOE fija un 10 %.",
+    "fuente": "Eurostat (tabla edat_lfse_14; objetivo de la UE: Eurostat Statistics Explained)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_14/default/table?lang=en",
+    "verificado": true
+   },
+   "matiz": "En 2018 Sánchez criticó que la LOMCE naciera «sin consenso»; la LOMLOE tampoco contó con el principal partido de la oposición, que anunció que la derogaría. Es la octava ley educativa general de la democracia.",
+   "promesa_2026": {
+    "texto": "Bajar el abandono escolar temprano por debajo del 10 % antes de 2030.",
+    "cita": "Reducir la tasa de abandono escolar temprano por debajo del 10% antes de 2030, reforzando la prevención, el apoyo, las segundas oportunidades",
+    "pagina": 52
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 3,
+     "por": "Cambió la ley como prometió; el objetivo de consenso que reclamaba no se alcanzó (e1,e2)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Línea constante en legislación educativa (e2,e3)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "La gestión educativa es autonómica: el objetivo depende de las comunidades y de financiación no detallada."
+    },
+    "datos": {
+     "nivel": 3,
+     "por": "El abandono baja de forma sostenida (12,8 % en 2025), pero faltan 2,8 puntos para el 10 % del programa y 3,8 para el 9 % de la UE y desde 2021 el descenso es lento (e2b)."
+    }
+   },
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El compromiso sobre la LOMCE",
+     "hecho": "Sánchez anunció que eliminaría los aspectos de la LOMCE contrarios a la igualdad de oportunidades y criticó su falta de consenso.",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa, transcripción oficial",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Ley Orgánica 3/2020 (LOMLOE)",
+     "hecho": "Publicada en el BOE el 30-12-2020, en vigor desde el 19-1-2021. Su preámbulo habla de «revertir los cambios promovidos por la LOMCE».",
+     "fecha": "2020-12-29",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta; la disposición derogatoria quedaba fuera del fragmento leído."
+    },
+    {
+     "id": "e2b",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Abandono escolar: del 17,9 % al 12,8 %",
+     "hecho": "Abandono temprano de la educación en España (18-24 años): 17,9 % en 2018; 17,3 % en 2019; 16,0 % en 2020; 13,3 % en 2021; 13,9 % en 2022; 13,7 % en 2023; 13,0 % en 2024; 12,8 % en 2025. La mayor caída es anterior a la entrada en vigor de la LOMLOE.",
+     "fecha": "2025",
+     "fuente": "Eurostat (tabla edat_lfse_14)",
+     "url": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_14/default/table?lang=en",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Consultada la API de Eurostat el 24-11-2026 (datos actualizados el 30-10-2026). La serie no permite atribuir la bajada a la ley."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "Objetivo de abandono escolar para 2030",
+     "hecho": "El programa fija bajar el abandono temprano del 10 % antes de 2030 (pág. 52) y promete un Estatuto del Docente.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "tema": "igualdad",
+   "titulo": "Regular la eutanasia",
+   "compromiso": "Sacar adelante una ley que regule la eutanasia.",
+   "cita": "El Gobierno apoya la tramitación de esta importante Ley, que de salir adelante, como así esperamos que salga adelante, supondrá la conquista de nuevos",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "Comparecencia en el Pleno del Congreso, transcripción de La Moncloa, pág. 30",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+   "cita_verificada": true,
+   "estado": "cumplido",
+   "que_paso": "La ley decayó dos veces por los adelantos electorales de 2019. El Congreso la aprobó el 17-12-2020 por 198 votos a favor, 138 en contra y 2 abstenciones; tras las enmiendas del Senado, la aprobó definitivamente el 18-3-2021 por 202 a 141, con 2 abstenciones, y se publicó el 25-3-2021 como Ley Orgánica 3/2021. Está en vigor desde el 25-6-2021. El Tribunal Constitucional rechazó en 2023 los recursos de Vox y del PP.",
+   "dato_actual": {
+    "texto": "Según el informe del Ministerio de Sanidad de 18-11-2026, en 2025 hubo 1.284 solicitudes nuevas y 574 personas recibieron la prestación (47,1 % de los 1.219 procedimientos finalizados; el 31,3 % terminó en fallecimiento durante la tramitación). Desde el 25-6-2021 hasta el 31-12-2025: 3.896 solicitudes y 1.698 prestaciones.",
+    "fuente": "Ministerio de Sanidad",
+    "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=7006",
+    "verificado": true
+   },
+   "matiz": "El compromiso se cumplió con tres años de demora por las dos disoluciones de 2019. Según el informe de 2025 (publicado el 18-11-2026), el 47,1 % de los procedimientos finalizados terminó en prestación y el 31,3 % en fallecimiento durante la tramitación. El programa de 2026 habla de garantizar su «ejercicio efectivo».",
+   "promesa_2026": {
+    "texto": "Garantizar que el derecho a la eutanasia se pueda ejercer de verdad, sin cambiar la ley.",
+    "cita": "Garantizar la muerte digna y el ejercicio efectivo del derecho a la eutanasia, de acuerdo con la legislación vigente.",
+    "pagina": 50
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 4,
+     "por": "Prometió la ley y la aprobó; el TC la avaló (e1,e2,e3)."
+    },
+    "coherencia": {
+     "nivel": 4,
+     "por": "Posición constante desde 2018 (e1,e5)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "La aplicación es de las comunidades autónomas; el programa no dice con qué instrumento."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Hay cifras oficiales hasta 2025 (e4, e6): 574 prestaciones en 2025, el 47,1 % de los procedimientos finalizados y un 31,3 % de solicitantes fallecidos durante la tramitación."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "Apoyo a la ley en julio de 2018",
+     "hecho": "Sánchez dijo en el Congreso que el Gobierno apoyaba la tramitación de la ley de eutanasia.",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa, transcripción oficial",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Ley Orgánica 3/2021, de regulación de la eutanasia",
+     "hecho": "Publicada el 25-3-2021; en vigor desde el 25-6-2021.",
+     "fecha": "2021-03-24",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-4628",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "votacion",
+     "titulo": "Votación en el Congreso y aval del Constitucional",
+     "hecho": "El Congreso aprobó la proposición de ley el 17-12-2020 por 198 votos a favor, 138 en contra y 2 abstenciones. El Tribunal Constitucional desestimó los recursos de Vox (Sentencia 19/2023) y del PP (Sentencia 94/2023). Tras las enmiendas del Senado, el Pleno la aprobó definitivamente el 18-3-2021 por 202 votos a favor, 141 en contra y 2 abstenciones.",
+     "fecha": "2020-12-17",
+     "fuente": "Congreso de los Diputados; Tribunal Constitucional",
+     "url": "https://www.congreso.es/web/guest/notas-de-prensa?_notasprensa_mvcPath=detalle&_notasprensa_notaId=38390",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota del Congreso abierta. Sentencias abiertas en https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/SENTENCIA/2023/19 y .../2023/94. Sustituye a Wikipedia. Votación del 18-3-2021 comprobada en el Diario de Sesiones núm. 89: https://www.congreso.es/public_oficiales/L14/CONG/DS/PL/DSCD-14-PL-89.PDF"
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Cifras oficiales hasta 2022",
+     "hecho": "Sanidad informó el 20-12-2023: 576 solicitudes y 288 prestaciones en 2022; 173 y 75 en el segundo semestre de 2021. Total acumulado: 749 solicitudes y 363 prestaciones.",
+     "fecha": "2023-12-20",
+     "fuente": "Ministerio de Sanidad",
+     "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6310",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "La promesa de 2026",
+     "hecho": "El programa promete garantizar el «ejercicio efectivo» del derecho «de acuerdo con la legislación vigente» (pág. 50) y blindar en la Constitución «la eutanasia» junto al aborto (pág. 89).",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Informe anual 2025 de la prestación de ayuda para morir",
+     "hecho": "Sanidad informó el 18-11-2026: 1.284 solicitudes nuevas y 574 prestaciones en 2025 (423 en 2024). De 1.219 procedimientos finalizados, 47,1 % acabaron en prestación, 31,3 % en fallecimiento durante la tramitación, 13,5 % en denegación y 8 % en revocación. Acumulado a 31-12-2025: 3.896 solicitudes y 1.698 prestaciones.",
+     "fecha": "2026-11-18",
+     "fuente": "Ministerio de Sanidad",
+     "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=7006",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "tema": "instituciones",
+   "titulo": "Una RTVE independiente elegida por concurso",
+   "compromiso": "Garantizar la independencia de RTVE y renovar su dirección mediante el concurso público pactado en 2017.",
+   "cita": "No duden en que, si sale adelante este Decreto, el concurso cumplirá sus plazos, incluso, se agilizarán.",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "Comparecencia en el Pleno del Congreso, transcripción de La Moncloa, pág. 39",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+   "cita_verificada": true,
+   "estado": "incumplido",
+   "que_paso": "En julio de 2018 el Congreso nombró a Rosa María Mateo administradora única provisional; estuvo casi tres años. El concurso público se celebró (95 candidatos y 20 considerados idóneos en diciembre de 2018), pero en marzo de 2021 PSOE, PP y otros grupos pactaron un consejo del que solo 4 de 10 miembros estaban entre los idóneos y eligieron presidente a José Manuel Pérez Tornero, que dimitió en septiembre de 2022. Tras dos presidencias interinas, el Gobierno aprobó el 22-10-2024 un decreto-ley que amplía el consejo de 10 a 15 miembros y permite elegirlo por mayoría absoluta en segunda votación; el 28-11-2024 José Pablo López fue designado presidente por el Congreso.",
+   "dato_actual": {
+    "texto": "Desde el 2-12-2024 RTVE tiene un consejo de 15 miembros: 11 propuestos por PSOE, Sumar, ERC, Junts, PNV y Podemos y 4 por el PP, elegidos por mayoría absoluta y no por dos tercios.",
+    "fuente": "BOE (Real Decreto-ley 5/2024)",
+    "url": "https://www.boe.es/eli/es/rdl/2024/10/22/5",
+    "verificado": true
+   },
+   "matiz": "El Gobierno justificó el decreto de 2024 por el bloqueo con el PP para renovar un consejo caducado. En julio de 2018 Sánchez había reprochado a otros grupos que bloquearan el concurso y pactaran «una representación»; el reparto de 2024 también fue un pacto entre partidos.",
+   "promesa_2026": null,
+   "puntos": null,
+   "concrecion": null,
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "Independencia de RTVE en la moción",
+     "hecho": "Sánchez citó el acuerdo parlamentario para «garantizar la independencia de la Corporación de Radio y Televisión Española» entre los consensos que su Gobierno aplicaría (pág. 22).",
+     "fecha": "2018-05-31",
+     "fuente": "Congreso de los Diputados, Diario de Sesiones",
+     "url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "Defensa del concurso público en julio de 2018",
+     "hecho": "Sánchez recordó que la ley de 2017 incorporó «la idea de un concurso público» y criticó que «dos grupos parlamentarios bloquean la renovación» y «pactan una representación» (pág. 38).",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa, transcripción oficial",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Julio de 2018: administradora única provisional",
+     "hecho": "El Pleno del Congreso eligió el 27-7-2018 a Rosa María Mateo «Administradora provisional única para la Corporación RTVE». Ocupó el cargo hasta marzo de 2021, cuando las Cortes eligieron un consejo pactado entre partidos sin completar el concurso público.",
+     "fecha": "2018-07-27",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10715",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Acuerdo comprobado en el sumario del BOE de 28-7-2018. Sustituye a Wikipedia. La duración del mandato y el desenlace del concurso son hechos de hemeroteca no releídos en fuente primaria; se retira la cita de los 17 expertos por no estar verificada."
+    },
+    {
+     "id": "e3b",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Noviembre de 2024: nuevo presidente por mayoría absoluta",
+     "hecho": "El Pleno del Congreso designó el 28-11-2024 presidente de la Corporación RTVE a José Pablo López, ya con las reglas del Real Decreto-ley 5/2024.",
+     "fecha": "2024-11-28",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-25104",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Acuerdo comprobado en el sumario del BOE de 2-12-2024. El número de votos (176) y el reparto de consejeros por partidos no se han releído en fuente primaria."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Real Decreto-ley 5/2024: mayoría absoluta en segunda vuelta",
+     "hecho": "En vigor desde el 24-10-2024. El consejo pasa a 15 miembros (11 el Congreso, 4 el Senado). Si no se logran dos tercios, a las 48 horas basta la mayoría absoluta, también para elegir presidente.",
+     "fecha": "2024-10-22",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/eli/es/rdl/2024/10/22/5",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 no habla de RTVE",
+     "hecho": "No hay ninguna mención a RTVE ni a la elección de su consejo en las 114 páginas. Sí promete una «Estrategia integral frente a la desinformación» (pág. 96).",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "El Comité de Expertos evaluó a 95 candidatos",
+     "hecho": "La resolución de 10-12-2018 del Comité de Expertos, publicada en el BOE el 18-12-2018, aprobó el informe de idoneidad: 95 candidatos evaluados y 20 idóneos, con más de 65 puntos.",
+     "fecha": "2018-12-18",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-17336",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e7",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "verificador",
+     "titulo": "Solo 4 de los 10 consejeros de 2021 pasaron el corte",
+     "hecho": "Civio señala el 29-3-2021 que solo cuatro de los diez miembros del nuevo consejo estaban entre los idóneos del concurso y que prevaleció el reparto habitual entre partidos.",
+     "fecha": "2021-03-29",
+     "fuente": "Civio",
+     "url": "https://civio.es/el-boe-nuestro-de-cada-dia/2021/03/29/solo-4-de-los-10-nuevos-miembros-del-nuevo-consejo-de-administracion-de-rtve-pasaron-el-corte-del-concurso/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "tema": "vivienda",
+   "titulo": "180.000 viviendas públicas en la legislatura",
+   "compromiso": "Construir o poner a disposición unas 180.000 viviendas de alquiler asequible durante la legislatura iniciada en 2023.",
+   "cita": "Son 180.000 las viviendas que queremos construir o poner a disposición a lo largo de esta legislatura. Y a quienes dudaban de la firmeza en la determinación del Gobierno de España por alcanzar este compromiso, simplemente quiero recordarles que, a día de hoy, hay más de 80.000 viviendas ya en diferentes fases en desarrollo.",
+   "cita_fecha": "2024-07-29",
+   "cita_fuente": "Intervención en el acto de firma de convenios del ICO para construir vivienda, transcripción oficial de La Moncloa",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2024/20240729-vivienda-convenio-ico.aspx",
+   "cita_verificada": true,
+   "estado": "incumplido",
+   "que_paso": "En abril de 2023 el Gobierno anunció 50.000 viviendas de la Sareb y otras con financiación pública y suelos de Defensa que, sumadas a planes anteriores, daban unas 183.000. El 29-7-2024 Sánchez dijo que era «el compromiso que yo asumí ante las Cortes Generales para ser investido» y lo cifró en 180.000 para «construir o poner a disposición a lo largo de esta legislatura». La legislatura terminó en octubre de 2026, un año antes de lo previsto. El Ministerio cuenta 120.479 viviendas «movilizadas» (con fondos transferidos) a 30-4-2026, pero no ha publicado cuántas están terminadas o entregadas.",
+   "dato_actual": {
+    "texto": "A 30-4-2026 el Ministerio de Vivienda contaba 120.479 viviendas «movilizadas» (fondos transferidos a comunidades o ayuntamientos, no viviendas acabadas) de un objetivo de 183.000, y 59.879 firmadas o en desarrollo. No hay cifra oficial de entregadas: la única fue de 14.000 «a disposición» en agosto de 2024.",
+    "fuente": "Maldita.es, con datos del Ministerio de Vivienda",
+    "url": "https://maldita.es/malditahemeroteca/20260430/vivienda-social-espana-sanchez/",
+    "verificado": true
+   },
+   "matiz": "Se clasifica como parcial y no como incumplido porque hay un avance oficial medible (dos tercios del objetivo con fondos transferidos) y la legislatura se cortó un año antes; pero «movilizada» no significa construida, y con el único dato oficial de viviendas disponibles (14.000 en 2024) el objetivo estaría muy lejos. La mayor parte depende de comunidades y ayuntamientos, que construyen y adjudican. La ministra habló en octubre de 2025 de «en torno a 100.000» entregadas sin publicar el detalle, y el Ministerio no dio el dato a Maldita ni tras pedirlo por la Ley de Transparencia. Si el editor exige viviendas terminadas como medida, el estado sería incumplido. El estado se asigna por viviendas terminadas y entregadas, que es lo que se prometió: no hay dato oficial que acredite esa cifra. Si se midiera por viviendas con financiación comprometida, sería un cumplimiento parcial.",
+   "promesa_2026": {
+    "texto": "Crear un parque estatal de 100.000 viviendas, construidas o compradas, para alquiler o venta a precio asequible.",
+    "cita": "Constituir un parque público estatal de 100.000 viviendas mediante la construcción y adquisición para incrementar la oferta de vivienda para la venta o alquiler estable a precio asequible",
+    "pagina": 28
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Cifras anunciadas en 2018, 2021 y 2023; constan fondos transferidos para 120.479, pero no entregas equivalentes (e0,e2,e3,e6)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Prioridad sostenida en el discurso, con cifras cambiantes (20.000, 100.000, 183.000) y sin rendición de cuentas (e2)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Depende de suelo, de comunidades y ayuntamientos y de un 1 % del PIB anual cuya fuente solo se apunta (e4)."
+    },
+    "datos": {
+     "nivel": 1,
+     "por": "El único recuento oficial es de viviendas «movilizadas»; no hay dato publicado de terminadas (e2,e6)."
+    }
+   },
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "evidencias": [
+    {
+     "id": "e0",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El compromiso de las 180.000 viviendas",
+     "hecho": "El 29-7-2024 Sánchez dijo que el objetivo era «la construcción o la puesta a disposición de más de 180.000 viviendas», que lo asumió en su investidura y que había «más de 80.000» en distintas fases de desarrollo.",
+     "fecha": "2024-07-29",
+     "fuente": "La Moncloa, transcripción oficial",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2024/20240729-vivienda-convenio-ico.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita literal comprobada."
+    },
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "El anuncio de abril de 2023 sobre la Sareb",
+     "hecho": "El Consejo de Ministros del 18-4-2023 anunció hasta 50.000 viviendas de la Sareb para alquiler asequible: 21.000 terminadas (9.000 disponibles y 12.000 pendientes de obras o cédula), 14.000 ya habitadas y suelo para 15.000. No fijó plazos.",
+     "fecha": "2023-04-18",
+     "fuente": "La Moncloa, resumen del Consejo de Ministros",
+     "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2023/180423-rp-cministros.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Documento del Gobierno."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "verificador",
+     "titulo": "No hay datos de viviendas terminadas",
+     "hecho": "Maldita recoge que el Ministerio da 120.479 viviendas «movilizadas» a 30-4-2026 de un objetivo de 183.000, que no ofrece cifra de construidas o entregadas para los planes 2018-2021, 2022-2025 y 2026-2030, y que la única cifra fue de 14.000 «a disposición» en agosto de 2024.",
+     "fecha": "2026-04-30",
+     "fuente": "Maldita.es",
+     "url": "https://maldita.es/malditahemeroteca/20260430/vivienda-social-espana-sanchez/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "En 2018 prometió 20.000 viviendas públicas",
+     "hecho": "Sánchez dijo: «Nos proponemos impulsar un parque de 20.000, 20.000 viviendas públicas en el plazo de cuatro años» (pág. 23).",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa, transcripción oficial",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído. No he encontrado balance oficial de esas 20.000."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "documento_partido",
+     "titulo": "Lo que dice el programa de 2026",
+     "hecho": "Afirma que desde 2018 se ha «activado la construcción de casi 1 millón de viviendas» y que se han «recuperado 40.000 viviendas» de la Sareb (pág. 24-25). Promete 100.000 viviendas estatales y movilizar un 1 % del PIB al año (págs. 27-28), sin plazo.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La ley de vivienda se aprobó en 2023",
+     "hecho": "La Ley 12/2023, de 24 de mayo, por el derecho a la vivienda, está en vigor desde el 26-5-2023.",
+     "fecha": "2023-05-24",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-12203",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierto: publicada el 25-5-2023, en vigor desde el 26-5-2023."
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "declaracion",
+     "titulo": "La ministra habla de unas 100.000 entregadas",
+     "hecho": "La ministra de Vivienda, Isabel Rodríguez, afirmó que ya se habían entregado «en torno a 100.000» de las más de 180.000 viviendas comprometidas. No publicó el desglose.",
+     "fecha": "2025-10-01",
+     "fuente": "Idealista News",
+     "url": "https://www.idealista.com/news/node/862242",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Abierta. Es una declaración del Gobierno sin datos publicados que la respalden; Maldita (e2) no obtuvo esa cifra del Ministerio."
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "tema": "impuestos",
+   "titulo": "Presentar Presupuestos cada año",
+   "compromiso": "Llevar los Presupuestos al Congreso cada año: en 2018 decía que «un Gobierno sin Presupuestos no puede hacer nada»; en 2025 prometió presentar los de 2026 y en junio de 2026 anunció los de 2027.",
+   "cita": "Un Gobierno sin Presupuestos no puede hacer nada. ¿Es este el Gobierno que necesita nuestro país?",
+   "cita_fecha": "2018-02-21",
+   "cita_fuente": "Tuit de Pedro Sánchez como líder de la oposición, recogido por Maldita.es",
+   "cita_url": "https://maldita.es/malditahemeroteca/20181113/cuando-sanchez-pedia-elecciones-si-no-se-sacaban-los-presupuestos-adelante/",
+   "cita_verificada": true,
+   "estado": "incumplido",
+   "que_paso": "Sánchez aprobó tres Presupuestos (2021, 2022 y 2023) y gobernó con cuentas prorrogadas en 2019, 2020, 2024, 2025 y 2026. El artículo 134.3 de la Constitución obliga al Gobierno a presentar el proyecto al Congreso al menos tres meses antes de que expiren los anteriores. No presentó los de 2024 (alegó el adelanto electoral catalán), ni los de 2025, ni los de 2026. Sobre estos últimos dijo en TVE el 1-9-2025: «Voy a presentarlos»; el 23-12-2025 se aprobaron los criterios de una nueva prórroga. El 24-2-2026 el Tribunal Constitucional admitió un conflicto del Senado contra el Gobierno por no presentar los proyectos de 2024, 2025 y 2026. El 3-6-2026 Sánchez anunció el inicio de los trámites de los de 2027; las Cortes se disolvieron en octubre.",
+   "dato_actual": {
+    "texto": "España cierra 2026 con los Presupuestos de 2023 prorrogados por tercer año. El Gobierno aprobó el 23-12-2025 los criterios de la prórroga para 2026.",
+    "fuente": "Ministerio de Hacienda",
+    "url": "https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2025/20251223-NP-CM-PRORROGA-PGE.aspx",
+    "verificado": true
+   },
+   "matiz": "El Gobierno carecía de mayoría y lo alegó. Pero la obligación del artículo 134.3 es presentar el proyecto, no ganarlo, y en 2019 Sánchez sí lo presentó, lo perdió y convocó elecciones. En noviembre de 2018, ya presidente, dijo que seguiría gobernando aunque no los aprobara. El Constitucional no ha resuelto todavía el conflicto planteado por el Senado. No se ha podido comprobar si el proyecto de 2027 llegó a registrarse antes de la disolución.",
+   "promesa_2026": null,
+   "puntos": null,
+   "concrecion": null,
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "verificador",
+     "titulo": "«O presupuestos o elecciones» en 2018",
+     "hecho": "Como líder de la oposición, Sánchez tuiteó el 21-2-2018 que «un Gobierno sin Presupuestos no puede hacer nada» y pidió a Rajoy una cuestión de confianza si no los aprobaba. El 14-11-2018, ya presidente, dijo que no convocaría elecciones aunque no aprobara los de 2019.",
+     "fecha": "2018-11-13",
+     "fuente": "Maldita.es",
+     "url": "https://maldita.es/malditahemeroteca/20181113/cuando-sanchez-pedia-elecciones-si-no-se-sacaban-los-presupuestos-adelante/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e1b",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "Artículo 134.3 de la Constitución",
+     "hecho": "«El Gobierno deberá presentar ante el Congreso de los Diputados los Presupuestos Generales del Estado al menos tres meses antes de la expiración de los del año anterior». El apartado 4 prevé la prórroga automática si no se aprueban antes del 1 de enero.",
+     "fecha": "1978-12-29",
+     "fuente": "BOE, Constitución Española",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Texto consolidado abierto; cita literal comprobada."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "verificador",
+     "titulo": "Tres aprobados y prórrogas sucesivas",
+     "hecho": "Aprobó los de 2021, 2022 y 2023. En 2024 el Gobierno atribuyó la prórroga al adelanto electoral catalán y dijo que trabajaría en los de 2025, que tampoco presentó. El 1-9-2025 Sánchez dijo de los de 2026: «Voy a presentarlos»; el 2-9-2025 la ministra de Hacienda anunció el inicio de los trabajos.",
+     "fecha": "2025-09-05",
+     "fuente": "Maldita.es",
+     "url": "https://maldita.es/malditahemeroteca/20250905/gobierno-sanchez-presupuestos-excusas/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "Prórroga para 2026",
+     "hecho": "Hacienda comunicó el 23-12-2025 el acuerdo con los criterios de aplicación de la prórroga presupuestaria en 2026, al no haber nueva ley a 1 de enero.",
+     "fecha": "2025-12-23",
+     "fuente": "Ministerio de Hacienda",
+     "url": "https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2025/20251223-NP-CM-PRORROGA-PGE.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "El Constitucional admite el conflicto del Senado",
+     "hecho": "El Tribunal Constitucional admitió a trámite el conflicto planteado por el Senado contra el Gobierno por no presentar los proyectos de Presupuestos de 2024, 2025 y 2026. Es la primera vez que estudia un conflicto por una omisión de este tipo. No hay sentencia.",
+     "fecha": "2026-02-24",
+     "fuente": "Vozpópuli",
+     "url": "https://www.vozpopuli.com/tribunales/el-constitucional-admite-a-tramite-el-recurso-del-senado-contra-el-gobierno-por-no-presentar-los-presupuestos.html",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Abierta. Sustituye a la evidencia anterior, que no estaba verificada y enlazaba un documento del Congreso sin abrir. El dato de la votación de la senda de estabilidad se ha retirado por no estar comprobado."
+    },
+    {
+     "id": "e4b",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "dato_oficial",
+     "titulo": "Junio de 2026: anuncio de los Presupuestos de 2027",
+     "hecho": "El 3-6-2026, en el Cercle d'Economia, Sánchez anunció que el Gobierno iniciaba esa semana «los trámites para presentar y aprobar» los Presupuestos de 2027, con la orden de elaboración en el BOE.",
+     "fecha": "2026-06-03",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/030626-sanchez-reunion-cercle-economia.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta. No se ha podido comprobar si el proyecto se registró en el Congreso antes de la disolución de octubre de 2026."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 no se compromete a ello",
+     "hecho": "No hay ninguna mención a presentar los Presupuestos Generales cada año. Promete mantener «una senda decreciente» de deuda y déficit y adaptar la Ley de Estabilidad Presupuestaria al marco europeo (pág. 47), e incorporar por ley el programa de rendición de cuentas «Cumpliendo» (pág. 102).",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "tema": "empleo",
+   "titulo": "Derogar la reforma laboral de 2012",
+   "compromiso": "Derogar la reforma laboral del PP y recuperar los derechos laborales que recortó.",
+   "cita": "Derogaremos la reforma laboral. Recuperaremos los derechos laborales arrebatados por la reforma laboral de 2012. Impulsaremos en el marco del diálogo social la protección de las personas trabajadoras y recuperaremos el papel de los convenios colectivos.",
+   "cita_fecha": "2019-12-30",
+   "cita_fuente": "Acuerdo de coalición PSOE-Unidas Podemos «Coalición progresista. Un nuevo acuerdo para España», punto 1.3, pág. 4",
+   "cita_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+   "cita_verificada": true,
+   "estado": "parcial",
+   "que_paso": "El punto 1.3 del acuerdo de coalición concretaba tres derogaciones «con carácter urgente»: el despido por absentismo por bajas médicas, el límite a la vigencia de los convenios caducados y la prioridad del convenio de empresa sobre el sectorial. El despido por absentismo se derogó en 2020. El Real Decreto-ley 32/2021, pactado con sindicatos y patronal, recuperó la vigencia indefinida de los convenios caducados y la prioridad del convenio sectorial en salarios, eliminó el contrato de obra y servicio y limitó los temporales. No tocó la indemnización por despido ni otros cambios de 2012. El Congreso lo convalidó el 3-2-2022 por un voto. En la moción de 2018 Sánchez había dicho que en aquella legislatura no abriría el Estatuto de los Trabajadores.",
+   "dato_actual": {
+    "texto": "Tercer trimestre de 2026: 22.852.600 ocupados y paro del 10,18 % (INE). La nota del INE no publica la tasa de temporalidad; BBVA Research, con los microdatos de esa EPA, la sitúa en el 14,9 % una vez corregida de estacionalidad. El PSOE la cifra en el 15,4 % en 2026 frente al 20,4 % de 2022.",
+    "fuente": "INE, Encuesta de Población Activa",
+    "url": "https://www.ine.es/dyngs/Prensa/EPA3T26.htm",
+    "verificado": true
+   },
+   "matiz": "No fue una derogación completa de la reforma de 2012, sino una reforma parcial negociada con sindicatos y patronal. Las tres medidas que el acuerdo de 2019 calificaba de urgentes sí se aprobaron; el coste del despido, que el acuerdo no mencionaba, no se cambió. La temporalidad bajó; parte del empleo indefinido nuevo es fijo discontinuo. El programa dice que el paro bajó del 10 %, pero el último dato del INE es 10,18 %.",
+   "promesa_2026": {
+    "texto": "Aprobar una ley de negociación colectiva que refuerce a sindicatos y patronales, y completar la jornada de 37,5 horas.",
+    "cita": "Reforzar la negociación colectiva. Aprobar una Ley de Negociación Colectiva que refuerce el papel de los sindicatos y las organizaciones empresariales",
+    "pagina": 43
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "Prometió derogar y aprobó una reforma parcial con resultados medibles en temporalidad (e2,e3)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Del «derogaremos» de 2019 a una reforma parcial que cumplió las tres medidas urgentes del acuerdo y no tocó el despido; en 2018 había descartado abrir el Estatuto (e0,e1,e2)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Ley ordinaria que requiere pactos en el Congreso y diálogo social."
+    },
+    "datos": {
+     "nivel": 3,
+     "por": "El empleo y la temporalidad evolucionaron a favor tras 2021 (e3,e5)."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "evidencias": [
+    {
+     "id": "e0",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "Texto literal del acuerdo de coalición de 2019",
+     "hecho": "El punto 1.3 dice «Derogaremos la reforma laboral» y enumera, «con carácter urgente», tres derogaciones: despido por absentismo por bajas, límites a la vigencia del convenio y prioridad del convenio de empresa. Añade cambios en subcontratación y en la modificación unilateral de condiciones.",
+     "fecha": "2019-12-30",
+     "fuente": "PSOE y Unidas Podemos, acuerdo de coalición (copia íntegra publicada por Diario de Pontevedra)",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF de 50 páginas abierto y texto extraído; cita en la pág. 4. La copia de psoe.es (https://www.psoe.es/media-content/2019/12/30122019-Coalición-progresista.pdf) bloquea las descargas automáticas y no pudo abrirse."
+    },
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "En 2018 descartó abrir el Estatuto de los Trabajadores",
+     "hecho": "En la moción dijo que un nuevo Estatuto de los Trabajadores «lógicamente no podríamos abrir» en esa legislatura (pág. 55). En julio habló de la merma del poder de negociación causada por la reforma (La Moncloa, pág. 16).",
+     "fecha": "2018-05-31",
+     "fuente": "Congreso de los Diputados, Diario de Sesiones",
+     "url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Real Decreto-ley 32/2021, de reforma laboral",
+     "hecho": "En vigor desde el 31-12-2021. Suprime el contrato por obra o servicio y limita el temporal a circunstancias de la producción y sustitución. El fragmento consultado no contiene cambios en la indemnización por despido.",
+     "fecha": "2021-12-28",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-21788",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "EPA del tercer trimestre de 2026",
+     "hecho": "22.852.600 ocupados; tasa de paro del 10,18 %. En el trimestre, los asalariados temporales subieron en 68.000 y los indefinidos en 22.100. Publicada el 27-10-2026.",
+     "fecha": "2026-10-27",
+     "fuente": "INE",
+     "url": "https://www.ine.es/dyngs/Prensa/EPA3T26.htm",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "documento_partido",
+     "titulo": "Cifras y promesas del programa",
+     "hecho": "El programa atribuye a la reforma haber «recortado la temporalidad del 20,4% en 2022 al 15,4% en 2026» y el paro «por debajo del 10%» (pág. 36). Promete una Ley de Negociación Colectiva (pág. 43) y la jornada de 37,5 horas (pág. 41).",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "Temporalidad en el tercer trimestre de 2026",
+     "hecho": "BBVA Research, con datos de la EPA del tercer trimestre de 2026, sitúa la tasa de temporalidad en el 14,9 % corregida de estacionalidad y la de paro en el 10,2 %, ambas casi sin cambios por segundo trimestre.",
+     "fecha": "2026-10-27",
+     "fuente": "BBVA Research",
+     "url": "https://www.bbvaresearch.com/publicaciones/espana-epa-3t26-la-creacion-de-empleo-perdio-impulso/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta la página resumen. La cifra sin desestacionalizar (15,4 %) figura en el PDF del informe, que no se abrió. No se localizó la tabla del INE con la serie desde 2018."
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "tema": "empleo",
+   "titulo": "Subir el salario mínimo",
+   "compromiso": "Subir el salario mínimo hasta el 60 % del salario medio.",
+   "cita": "Subiremos el Salario Mínimo Interprofesional hasta alcanzar progresivamente el 60% del salario medio en España tal y como recomienda la Carta Social Europea.",
+   "cita_fecha": "2019-12-30",
+   "cita_fuente": "Acuerdo de coalición PSOE-Unidas Podemos «Coalición progresista. Un nuevo acuerdo para España», punto 1.4, pág. 5",
+   "cita_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+   "cita_verificada": true,
+   "estado": "cumplido",
+   "que_paso": "El primer compromiso es de octubre de 2018: el acuerdo presupuestario del Gobierno con Unidos Podemos fijó el salario mínimo en 900 euros en 2019, desde 735,90. En diciembre de 2019 el acuerdo de coalición añadió el objetivo del 60 % del salario medio. Ha subido todos los años salvo 2020-2021, cuando se congeló hasta septiembre de 2021. El Real Decreto 126/2026 lo fijó en 1.221 euros en 14 pagas (17.094 al año), con efectos desde el 1-1-2026. Las últimas subidas se pactaron con los sindicatos y sin la patronal.",
+   "dato_actual": {
+    "texto": "Salario mínimo de 2026: 1.221 euros al mes en 14 pagas, 40,70 euros al día (BOE). Según Eurostat, en 2025 equivalía al 51,9 % del salario bruto medio mensual (37,9 % en 2018) y en 2024 al 60,6 % del salario mediano.",
+    "fuente": "BOE",
+    "url": "https://www.boe.es/eli/es/rd/2026/02/18/126/con",
+    "verificado": true
+   },
+   "matiz": "La subida es un hecho comprobable en el BOE. Que alcance el 60 % depende de la vara de medir: el Gobierno lo calcula sobre el salario medio neto; con el salario bruto medio, Eurostat da un 51,9 % en 2025, y con el salario mediano, un 60,6 % en 2024. El acuerdo de 2019 decía «salario medio» sin precisar. No se ha contrastado aquí el efecto sobre el empleo de menor salario, sobre el que el Banco de España y la AIReF publicaron estudios con resultados discutidos.",
+   "promesa_2026": {
+    "texto": "Fijar por ley que el salario mínimo no baje del 60 % del salario medio y que las subidas no se absorban con complementos.",
+    "cita": "Blindar por ley el SMI por encima del 60% del salario medio y actualizarlo periódicamente según los precios, los salarios, la productividad",
+    "pagina": 37
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 4,
+     "por": "Prometió 900 euros en 2018 y el 60 % del salario medio en 2019; lo ha subido un 66 % en ocho años por decreto (e0,e00,e1)."
+    },
+    "coherencia": {
+     "nivel": 4,
+     "por": "Política sostenida todos los años de Gobierno (e00,e1)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Ley ordinaria; no cuesta al presupuesto, pero la regla de absorción cambia el Estatuto y la patronal se opone."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Según la medida, el salario mínimo está en el 52 % del salario bruto medio o en el 61 % del mediano; sin contraste aquí del efecto en el empleo (e4)."
+    }
+   },
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "evidencias": [
+    {
+     "id": "e0",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El compromiso del 60 % en el acuerdo de coalición",
+     "hecho": "El punto 1.4 del acuerdo de 30-12-2019 dice: «Subiremos el Salario Mínimo Interprofesional hasta alcanzar progresivamente el 60% del salario medio en España tal y como recomienda la Carta Social Europea». Prevé una comisión asesora y el diálogo social.",
+     "fecha": "2019-12-30",
+     "fuente": "PSOE y Unidas Podemos, acuerdo de coalición (copia íntegra publicada por Diario de Pontevedra)",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído; cita en la pág. 5."
+    },
+    {
+     "id": "e00",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "Octubre de 2018: acuerdo para subirlo a 900 euros",
+     "hecho": "La nota de Hacienda sobre el acuerdo presupuestario con Unidos Podemos recoge el compromiso de «la mayor subida de la historia de la democracia del Salario Mínimo Interprofesional (SMI) hasta situarlo en 900 euros en catorce pagas en 2019», un 22,3 % más, con un impacto presupuestario de 340 millones.",
+     "fecha": "2018-10-11",
+     "fuente": "Ministerio de Hacienda, nota de prensa",
+     "url": "https://www.hacienda.gob.es/GabineteMinistro/Notas%20Prensa/2018/CONSEJO%20DE%20MINISTROS/11-10-18%20NP%20Acuerdo%20de%20PGE%202019.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e1",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Real Decreto 126/2026: salario mínimo de 1.221 euros",
+     "hecho": "Fija el SMI en 40,70 euros al día o 1.221 al mes, con un mínimo anual de 17.094 euros y efectos desde el 1-1-2026. La versión consolidada anota que el Real Decreto 1013/2026 fija el de 2027.",
+     "fecha": "2026-02-18",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/eli/es/rd/2026/02/18/126/con",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El balance del PSOE",
+     "hecho": "El programa cifra la subida en un 66 %, de 736 a 1.221 euros, y promete blindar por ley el 60 % del salario medio (págs. 35 y 37). Es el balance del propio partido.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "En julio de 2018 hablaba de salarios de convenio",
+     "hecho": "Sánchez apoyó entonces el pacto de rentas para subir «el salario mínimo por convenio, de manera progresiva, hasta los 14.000 euros» (pág. 16). El salario mínimo legal anual de 2026 es de 17.094 euros.",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa, transcripción oficial",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "El salario mínimo frente al salario medio, según Eurostat",
+     "hecho": "Salario mínimo como porcentaje del salario bruto medio mensual en España: 37,9 % en 2018, 45,6 % en 2019, 49,1 % en 2023, 50,0 % en 2024 y 51,9 % en 2025. Sobre el salario mediano: 44,2 % en 2018 y 60,6 % en 2024.",
+     "fecha": "2025",
+     "fuente": "Eurostat (tabla earn_mw_avgr2, industria, construcción y servicios)",
+     "url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_avgr2/default/table?lang=en",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Consultada la API de Eurostat el 24-11-2026. Mide salario bruto; el objetivo del Gobierno se calcula sobre el neto, que no publica Eurostat."
+    }
+   ]
+  },
+  {
+   "id": "b16",
+   "tema": "territorio",
+   "titulo": "Cumplimiento íntegro de la sentencia del procés y no a la amnistía",
+   "compromiso": "Que la sentencia del procés se cumpliera íntegra, traer a Puigdemont ante la justicia española y no aceptar una amnistía.",
+   "cita": "El independentismo lo que pide, y lo saben ustedes y lo saben los telespectadores, es la amnistía. Algo que, desde luego, este gobierno no va a aceptar y que desde luego no entra en la legislación ni en la Constitución Española.",
+   "cita_fecha": "2022-11-10",
+   "cita_fuente": "Entrevista en «Al Rojo Vivo» (laSexta), transcripción oficial de La Moncloa",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2022/prsp10112022.aspx",
+   "cita_verificada": true,
+   "estado": "contrario",
+   "que_paso": "El 14-10-2019, tras la sentencia, Sánchez dijo que acatarla «significa su íntegro cumplimiento». El 4-11-2019, en el debate electoral, se comprometió a traer a Puigdemont «de vuelta a España». El Gobierno indultó el 22-6-2021 a los nueve condenados que estaban en prisión; en el expediente, el Ministerio de Justicia calificó la amnistía de «claramente inconstitucional». El 10-11-2022 Sánchez dijo que su Gobierno no la aceptaría. Tras las elecciones de julio de 2023, el PSOE pactó con ERC y Junts una ley de amnistía; el 28-10-2023 Sánchez la defendió ante su partido como «condición para la investidura». El Congreso la aprobó el 30-5-2024. El Tribunal Constitucional la avaló el 26-6-2025 y el Tribunal de Justicia de la UE el 16-7-2026.",
+   "dato_actual": {
+    "texto": "El 23-11-2026 el Supremo aplicó la amnistía a Carles Puigdemont, Toni Comín y Lluís Puig y archivó la causa del 1-O. Puigdemont no ha sido juzgado; su entorno dice que volverá a España después del 29N.",
+    "fuente": "Ara",
+    "url": "https://es.ara.cat/politica/supremo-aplica-amnistia-total-puigdemont-archiva-definitivamente-causa-1_1_5920236.html",
+    "verificado": true
+   },
+   "matiz": "Posición del Gobierno: Sánchez reconoció en enero de 2024 un «cambio de opinión» porque «la situación ha evolucionado» y sostiene que indultos, reforma del Código Penal y amnistía son «pasos en una línea coherente» que han mejorado la convivencia en Cataluña. La ley ha superado el examen del Constitucional y de la justicia europea: es legal. Lo que se mide aquí es otra cosa: dijo que la sentencia se cumpliría íntegra y hubo indultos parciales a los 20 meses; dijo en 2022 que no aceptaría la amnistía y la pactó en 2023, cuando necesitaba esos votos para la investidura. La Fiscalía pidió activar la euroorden contra Puigdemont en 2019, pero la entrega dependía de la justicia belga y no se produjo.",
+   "promesa_2026": null,
+   "puntos": null,
+   "concrecion": null,
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "14-10-2019: «íntegro cumplimiento» de la sentencia",
+     "hecho": "En su declaración institucional tras la sentencia del Supremo, Sánchez dijo: «el acatamiento de la misma significa su cumplimiento. Reitero, significa su íntegro cumplimiento». Añadió: «Nadie está por encima de la ley».",
+     "fecha": "2019-10-14",
+     "fuente": "La Moncloa, transcripción oficial",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2019/prsp14102019.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita literal comprobada."
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "4-11-2019: compromiso de traer a Puigdemont",
+     "hecho": "En el debate electoral, Sánchez dijo a Pablo Casado: «Yo me comprometo hoy y aquí a traerlo de vuelta a España y que rinda cuentas ante la justicia española». Dos días después, en RNE, explicó que la Fiscalía había pedido activar la euroorden y que esperaba la decisión de la justicia belga.",
+     "fecha": "2019-11-04",
+     "fuente": "Maldita.es (vídeo del PSOE) y La Moncloa (transcripción de la entrevista en RNE, 6-11-2019, págs. 9-10)",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2019/20191106%20PG%20Entrevista%20RNE%20I%C3%B1igo%20Alfonso.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abiertas las dos fuentes. El vídeo del debate está en https://maldita.es/malditahemeroteca/20240808/sanchez-vuelta-espana-puigdemont-justicia/ ; la transcripción de RNE recoge la pregunta sobre esa frase y la respuesta."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Indultos de junio de 2021",
+     "hecho": "El Real Decreto 460/2021, de 22 de junio, indultó a Oriol Junqueras; ese día se aprobaron los de los otros ocho condenados en prisión (BOE de 23-6-2021). Fueron indultos parciales: se perdonó la pena de prisión pendiente y se mantuvo la inhabilitación.",
+     "fecha": "2021-06-22",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10467",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Sumario del BOE de 23-6-2021 abierto. El carácter parcial y el mantenimiento de la inhabilitación no se releyeron en el texto del decreto en esta revisión."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "10-11-2022: el Gobierno «no va a aceptar» la amnistía",
+     "hecho": "Al anunciar la reforma del delito de sedición, Sánchez dijo en laSexta que la amnistía es algo que «este gobierno no va a aceptar» y que «no entra en la legislación ni en la Constitución Española».",
+     "fecha": "2022-11-10",
+     "fuente": "La Moncloa, transcripción oficial",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2022/prsp10112022.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita literal comprobada."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "verificador",
+     "titulo": "Del «no» a la amnistía a defenderla",
+     "hecho": "Maldita documenta con vídeos que Sánchez negó la amnistía el 20 y el 21-7-2023, en campaña, y que el 28-10-2023 la defendió como «una condición para la investidura». La propuesta de indulto de 2021 la llamaba «claramente inconstitucional». En enero de 2024 reconoció un «cambio de opinión».",
+     "fecha": "2025-06-27",
+     "fuente": "Maldita.es",
+     "url": "https://maldita.es/malditahemeroteca/20250627/pedro-sanchez-amnistia-constitucion/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta. Enlaza los vídeos originales con minutaje."
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Ley Orgánica 1/2024, de amnistía",
+     "hecho": "Publicada y en vigor el 11-6-2024. El Congreso la aprobó el 30-5-2024.",
+     "fecha": "2024-06-10",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-11776",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El resultado de la votación (177 a 172) no se comprobó en fuente del Congreso en esta revisión."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "resolucion_judicial",
+     "titulo": "El Constitucional avaló la ley en 2025",
+     "hecho": "La Sentencia 137/2025 resolvió el recurso de diputados y senadores del PP contra la Ley Orgánica 1/2024. Declaró la ley conforme a la Constitución salvo en puntos concretos.",
+     "fecha": "2025-06-26",
+     "fuente": "Tribunal Constitucional",
+     "url": "https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/SENTENCIA/2025/137",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Texto de la sentencia abierto; el reparto de votos (6-4) y el detalle de los preceptos anulados no se releyeron."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "El Tribunal de Justicia de la UE la avaló en 2026",
+     "hecho": "El 16-7-2026 el TJUE concluyó que la amnistía no afecta a los intereses financieros de la UE ni vulnera la directiva antiterrorista. Objetó el plazo de dos meses que la ley daba a los jueces para aplicarla.",
+     "fecha": "2026-07-16",
+     "fuente": "Ara",
+     "url": "https://es.ara.cat/politica/tjue-avala-amnistia-senala-camino-justicia-espanola_1_5800143.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta. El comunicado oficial n.º 112/26 del TJUE (https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260112es.pdf) no pudo descargarse."
+    },
+    {
+     "id": "e9",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "resolucion_judicial",
+     "titulo": "El Supremo archiva la causa contra Puigdemont",
+     "hecho": "El 23-11-2026 la Sala Penal del Supremo aplicó la amnistía a Puigdemont, Comín y Puig después de que el Constitucional obligara a amnistiar la malversación. Un mes antes se había aplicado a Junqueras, Turull, Bassa y Romeva.",
+     "fecha": "2026-11-23",
+     "fuente": "Ara",
+     "url": "https://es.ara.cat/politica/supremo-aplica-amnistia-total-puigdemont-archiva-definitivamente-causa-1_1_5920236.html",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Un solo medio abierto; no se localizó la nota del CGPJ. Se retira el estado_judicial porque la evidencia no versa sobre la promesa de una persona procesada sino sobre el efecto de la ley."
+    },
+    {
+     "id": "e10",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 no menciona Cataluña",
+     "hecho": "En las 114 páginas no aparecen las palabras Cataluña, amnistía, indulto ni referéndum. El capítulo territorial promete reformar el Senado e institucionalizar la Conferencia de Presidentes (pág. 91).",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt); búsqueda repetida en la revisión."
+    }
+   ]
+  },
+  {
+   "id": "b17",
+   "tema": "exterior",
+   "titulo": "Autodeterminación del Sáhara Occidental",
+   "compromiso": "Apoyar en la ONU una solución pactada que previera la libre determinación del pueblo saharaui.",
+   "cita": "que prevea la libre determinación del pueblo del Sahara Occidental",
+   "cita_fecha": "2018-09-27",
+   "cita_fuente": "Discurso ante la Asamblea General de Naciones Unidas, transcripción de La Moncloa",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2018/prsp20180927.aspx",
+   "cita_verificada": true,
+   "estado": "contrario",
+   "que_paso": "El 14-3-2022 Sánchez escribió al rey de Marruecos que España considera la propuesta marroquí de autonomía para el Sáhara «la base más seria, creíble y realista». La carta la dio a conocer Rabat el 18-3-2022; el Gobierno no la había anunciado ni debatido antes en el Congreso. Sánchez la explicó en el Pleno el 30-3-2022. El 7-4-2022 el Congreso aprobó una proposición no de ley de Unidas Podemos, ERC y EH Bildu sobre la posición del Gobierno, por 168 votos a favor, 118 en contra y 61 abstenciones.",
+   "dato_actual": {
+    "texto": "El Gobierno mantiene desde marzo de 2022 el apoyo al plan marroquí de autonomía. El programa del PSOE para 2026 no menciona el Sáhara ni Marruecos.",
+    "fuente": "Programa del PSOE 29N 2026",
+    "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+    "verificado": true
+   },
+   "matiz": "Posición del Gobierno: no hubo cambio de fondo, porque España sigue apoyando una solución «mutuamente aceptable» en el marco de Naciones Unidas, y la carta siguió a una crisis migratoria y diplomática con Marruecos. Lo comprobable es que en 2018 Sánchez defendió ante la ONU una solución «que prevea la libre determinación del pueblo del Sahara Occidental» y que la carta de 2022, según la leyó él mismo en el Congreso, respalda como base la propuesta de autonomía bajo soberanía marroquí y no menciona la libre determinación. Era, además, una posición de política exterior y no una promesa electoral formal.",
+   "promesa_2026": null,
+   "puntos": null,
+   "concrecion": null,
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "La posición de 2018 ante la ONU",
+     "hecho": "El 27-9-2018, en la Asamblea General, Sánchez defendió una solución política, justa, duradera y mutuamente aceptable «que prevea la libre determinación del pueblo del Sahara Occidental».",
+     "fecha": "2018-09-27",
+     "fuente": "La Moncloa, transcripción oficial",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2018/prsp20180927.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "La carta a Mohamed VI, leída en el Congreso",
+     "hecho": "El 30-3-2022 Sánchez citó «textualmente» en el Pleno su carta: «España considera la propuesta marroquí de autonomía presentada en 2007 como la base más seria, creíble y realista para la resolución de ese diferendo», y habló de los esfuerzos de Marruecos «en el marco de Naciones Unidas» para una solución «mutuamente aceptable».",
+     "fecha": "2022-03-30",
+     "fuente": "Congreso de los Diputados, Diario de Sesiones núm. 174",
+     "url": "https://www.congreso.es/public_oficiales/L14/CONG/DS/PL/DSCD-14-PL-174.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído (pág. 18). Sustituye a Wikipedia."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "El Congreso aprobó una iniciativa crítica con el cambio",
+     "hecho": "El 7-4-2022 el Pleno aprobó la proposición no de ley de Unidas Podemos, ERC y EH Bildu «relativa a la posición del Gobierno español en relación con el conflicto del Sáhara Occidental»: 168 votos a favor, 118 en contra y 61 abstenciones.",
+     "fecha": "2022-04-07",
+     "fuente": "Congreso de los Diputados, Diario de Sesiones núm. 178",
+     "url": "https://www.congreso.es/public_oficiales/L14/CONG/DS/PL/DSCD-14-PL-178.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído (pág. 45). Sustituye al titular de El Mundo, que no estaba verificado. El Diario no desglosa el voto por grupos en ese pasaje."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "Silencio en el programa de 2026",
+     "hecho": "El programa no contiene las palabras Sáhara, saharaui ni Marruecos. Sobre África promete «una relación estratégica de cooperación» (pág. 109).",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    }
+   ]
+  },
+  {
+   "id": "b18",
+   "tema": "energia",
+   "titulo": "Cerrar las nucleares entre 2027 y 2035",
+   "compromiso": "Cerrar de forma ordenada todas las centrales nucleares entre 2027 y 2035 y sustituirlas por renovables.",
+   "cita": "Para el año 2030, se prevé una potencia total instalada en el sector eléctrico de 157 GW, de los que 50 GW serán energía eólica; 37 GW solar fotovoltaica; 27 GW ciclos combinados de gas; 16 GW hidráulica; 8 GW bombeo; 7 GW solar termoeléctrica; y 3 GW nuclear",
+   "cita_fecha": "2019-02-22",
+   "cita_fuente": "Referencia del Consejo de Ministros sobre el borrador del Plan Nacional Integrado de Energía y Clima 2021-2030, La Moncloa",
+   "cita_url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2019/refc20190222.aspx",
+   "cita_verificada": true,
+   "estado": "parcial",
+   "que_paso": "El borrador del Plan de Energía y Clima que el Gobierno aprobó el 22-2-2019 preveía bajar la potencia nuclear a 3 GW en 2030 (hoy hay unos 7 GW). En marzo de 2019 las eléctricas firmaron con la empresa pública Enresa un protocolo para cerrar los siete reactores entre 2027 y 2035, empezando por Almaraz. El Plan de Residuos Radiactivos de diciembre de 2023 mantuvo ese calendario. El 30-10-2025 las propietarias de Almaraz pidieron prorrogarla. La Orden TED/864/2026, de 12 de agosto, renovó su autorización hasta el 8-6-2030, con informe del Consejo de Seguridad Nuclear.",
+   "dato_actual": {
+    "texto": "Almaraz I y II pueden operar hasta el 8-6-2030 (Orden TED/864/2026). El calendario de 2019 situaba sus cierres en 2027 y 2028. La fecha final de 2035 no ha cambiado.",
+    "fuente": "BOE",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17756",
+    "verificado": true
+   },
+   "matiz": "El Gobierno sostiene que la fecha final de 2035 no cambia, que la prórroga la pidieron las empresas y que cuenta con el informe del regulador; la orden dice que su efecto sobre las renovables será «acotado y poco significativo». El calendario de 2019 era un protocolo entre las empresas y Enresa, no una ley. El primer cierre previsto se ha aplazado, y el programa habla de «mantener el calendario» sin mencionar esa prórroga.",
+   "promesa_2026": {
+    "texto": "Mantener el cierre nuclear hasta 2035 y llegar al 81 % de electricidad renovable en 2030.",
+    "cita": "Mantener el calendario de cierre de las centrales nucleares hasta 2035 y desarrollar proyectos de transición justa en las comarcas afectadas",
+    "pagina": 66
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "Fijó el calendario en 2019, lo mantuvo en 2023 y aplazó su primer cierre en 2026 (e1,e3,e4)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Mantiene 2035 en el programa tras prorrogar Almaraz tres meses antes (e4,e5)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "El cierre depende de órdenes ministeriales y de las propietarias; varios cierres se concentran ahora entre 2030 y 2035 (e4)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "El regulador informó la prórroga hasta 2030; no se han abierto datos independientes sobre la cobertura de la demanda sin nuclear (e4)."
+    }
+   },
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "2019: el plan del Gobierno reduce la nuclear a 3 GW en 2030",
+     "hecho": "La referencia del Consejo de Ministros de 22-2-2019 sobre el borrador del Plan de Energía y Clima prevé para 2030 una potencia de 157 GW, de ellos «3 GW nuclear».",
+     "fecha": "2019-02-22",
+     "fuente": "La Moncloa, referencia del Consejo de Ministros",
+     "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2019/refc20190222.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita literal comprobada."
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Marzo de 2019: protocolo de cierre entre 2027 y 2035",
+     "hecho": "Iberdrola, Naturgy y EDP firmaron con Enresa un protocolo que concreta el cierre de todo el parque nuclear entre 2027 y 2035, con Almaraz primero y Trillo al final; Endesa lo firmó después.",
+     "fecha": "2019-03",
+     "fuente": "elDiario.es (con información de Efe)",
+     "url": "https://www.eldiario.es/extremadura/economia/iberdrola-naturgy-firman-protocolo-almaraz_1_1662433.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta. El texto del protocolo no está publicado en abierto en las webs consultadas."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "dato_oficial",
+     "titulo": "2023: el Plan de Residuos mantiene 2027-2035",
+     "hecho": "El 7.º Plan General de Residuos Radiactivos, aprobado el 27-12-2023, toma como escenario el «cese de la operación de las centrales nucleares entre 2027 y 2035», conforme al protocolo de marzo de 2019.",
+     "fecha": "2023-12-27",
+     "fuente": "Ministerio para la Transición Ecológica, nota de prensa",
+     "url": "https://www.miteco.gob.es/content/dam/miteco/es/prensa/23.12.27_NdP_El%20Gobierno%20aprueba%20el%207%C2%BA%20PGRR.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "2026: el Gobierno prorroga Almaraz hasta 2030",
+     "hecho": "La Orden TED/864/2026, de 12 de agosto, renueva la autorización de Almaraz I y II hasta el 8-6-2030, a petición de las propietarias (30-10-2025) y con informe del Consejo de Seguridad Nuclear. El calendario de 2019 preveía sus cierres en 2027 y 2028.",
+     "fecha": "2026-08-12",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17756",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta en el BOE (publicada el 14-8-2026). Sustituye a la crónica de Euronews y a Wikipedia."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa mantiene 2035",
+     "hecho": "Promete «mantener el calendario de cierre de las centrales nucleares hasta 2035» y alcanzar «el 81% de generación eléctrica» renovable en 2030 (págs. 65-66). No cita la prórroga de Almaraz.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    }
+   ]
+  },
+  {
+   "id": "b19",
+   "tema": "instituciones",
+   "titulo": "Renovar el Poder Judicial por consenso",
+   "compromiso": "Renovar por acuerdo parlamentario los órganos constitucionales caducados, empezando por el Consejo General del Poder Judicial, con criterios de mérito y capacidad.",
+   "cita": "Promoveremos acuerdos parlamentarios de consenso que permitan la elección y renovación de los órganos constitucionales y organismos independientes, como en el caso del Consejo General del Poder Judicial, el Defensor del Pueblo, la Presidencia del Consejo de Transparencia y Buen Gobierno y el Consejo de Administración de Radiotelevisión Española.",
+   "cita_fecha": "2019-12-30",
+   "cita_fuente": "Acuerdo de coalición PSOE-Unidas Podemos «Coalición progresista. Un nuevo acuerdo para España», punto 2.11.1, pág. 21",
+   "cita_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+   "cita_verificada": true,
+   "estado": "parcial",
+   "que_paso": "El mandato del Consejo había caducado en diciembre de 2018 y la renovación exige tres quintos de cada Cámara, es decir, acuerdo entre PSOE y PP. Mientras duró el bloqueo, la mayoría de Gobierno aprobó la Ley Orgánica 4/2021, que limitó los nombramientos de un Consejo en funciones. El acuerdo PSOE-PP llegó en junio de 2024, con mediación de la Comisión Europea: los nuevos vocales se nombraron por reales decretos de 24-7-2024, cinco años y medio después de caducar el mandato. La Ley Orgánica 3/2024 encargó al Consejo una propuesta para reformar la elección de los vocales jueces; el Consejo la remitió al Gobierno y a las Cortes el 5-2-2025. No consta que esa reforma se haya aprobado.",
+   "dato_actual": {
+    "texto": "El Consejo está renovado desde julio de 2024. La reforma del sistema de elección de los vocales de procedencia judicial, prevista en la Ley Orgánica 3/2024, no consta aprobada a la disolución de las Cortes de octubre de 2026 (sin comprobar en el Congreso).",
+    "fuente": "BOE",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16127",
+    "verificado": true
+   },
+   "matiz": "La renovación necesitaba al PP, que la condicionó durante años a cambiar antes el sistema de elección; el PSOE atribuye el retraso a ese «bloqueo» y el PP, a la negativa del Gobierno a esa reforma. El compromiso de 2019 hablaba de consenso también para RTVE, que en 2024 se renovó por decreto-ley y mayoría absoluta (véase b11). No se ha localizado una cita original de Sánchez con la expresión «despolitizar la justicia»: por eso se mide el texto del acuerdo de 2019.",
+   "promesa_2026": {
+    "texto": "Dar más autonomía a la Fiscalía: un fiscal general con mandato de cinco años, que no coincida con la legislatura, y prohibir que el Gobierno le dé instrucciones sobre casos concretos.",
+    "cita": "Reforzar la autonomía del Ministerio Fiscal, con un mandato de cinco años para la Fiscalía General del Estado desvinculado de la legislatura y la prohibición de instrucciones del Gobierno sobre casos concretos",
+    "pagina": 100
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "Renovó el Consejo por acuerdo con el PP, cinco años y medio tarde; la reforma de la elección de vocales quedó sin aprobar (e3,e4,e5)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Consenso en el Poder Judicial y decreto-ley por mayoría absoluta en RTVE, pese a que el acuerdo de 2019 pedía consenso para ambos (e1,e3)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "El Estatuto del Ministerio Fiscal es ley ordinaria; requiere pactos en el Congreso."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "No se ha abierto ninguna evaluación independiente sobre la medida."
+    }
+   },
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El compromiso del acuerdo de coalición de 2019",
+     "hecho": "El punto 2.11.1 promete «acuerdos parlamentarios de consenso» para renovar el Consejo General del Poder Judicial, el Defensor del Pueblo, el Consejo de Transparencia y el consejo de RTVE, primando «mérito, capacidad, igualdad, paridad de género y prestigio profesional».",
+     "fecha": "2019-12-30",
+     "fuente": "PSOE y Unidas Podemos, acuerdo de coalición (copia íntegra publicada por Diario de Pontevedra)",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído; cita en la pág. 21."
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "norma",
+     "titulo": "2021: límites a un Consejo en funciones",
+     "hecho": "La Ley Orgánica 4/2021, de 29 de marzo, estableció el régimen del Consejo General del Poder Judicial cuando su mandato ha caducado y le impidió hacer nombramientos discrecionales.",
+     "fecha": "2021-03-29",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4907",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta en el BOE (título y objeto). El detalle de las funciones limitadas no se releyó."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Julio de 2024: nombramiento de los nuevos vocales",
+     "hecho": "Los Reales Decretos 755/2024 y 756/2024, de 24 de julio, nombraron a los vocales propuestos por el Congreso y por el Senado. El mandato anterior había caducado en diciembre de 2018.",
+     "fecha": "2024-07-24",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-15351",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado en el sumario del BOE de 25-7-2024."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "Ley Orgánica 3/2024: encargo de reformar la elección",
+     "hecho": "La ley, fruto del acuerdo PSOE-PP, reforma la Ley del Poder Judicial y el Estatuto del Ministerio Fiscal. Su disposición adicional da seis meses al Consejo para proponer, por tres quintos, una reforma del sistema de elección de los vocales jueces y remitirla al Gobierno y a las Cortes.",
+     "fecha": "2024-08-02",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16127",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta en el BOE."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Febrero de 2025: el Consejo envía su propuesta",
+     "hecho": "El Pleno del Consejo acordó por unanimidad el 5-2-2025 remitir al Gobierno y a las Cortes su propuesta de reforma del sistema de elección de los vocales de procedencia judicial. No consta que se haya tramitado como ley.",
+     "fecha": "2025-02-05",
+     "fuente": "Legal Today (nota del CGPJ)",
+     "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-cgpj-cumple-en-plazo-el-mandato-del-legislador-y-acuerda-por-unanimidad-remitir-al-gobierno-y-a-las-cortes-una-propuesta-sobre-la-reforma-del-sistema-de-eleccion-de-los-vocales-de-procedencia-judic-2025-02-05/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta. Que la reforma no se haya aprobado después no se pudo comprobar en el Congreso: verificar antes de publicar."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "Lo que dice el programa de 2026",
+     "hecho": "El programa afirma: «Renovamos el Consejo General del Poder Judicial tras más de cinco años de bloqueo del PP» (pág. 88). No propone cambiar la elección de los vocales; promete un mandato de cinco años para el fiscal general y prohibir instrucciones del Gobierno sobre casos concretos (pág. 100).",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    }
+   ]
+  },
+  {
+   "id": "b20",
+   "tema": "impuestos",
+   "titulo": "Impuestos temporales a la banca y a las energéticas",
+   "compromiso": "Aprobar dos impuestos excepcionales y temporales, de dos años, a las grandes empresas energéticas (2.000 millones al año) y a los grandes bancos (1.500 millones al año).",
+   "cita": "Del mismo modo, les anuncio, señorías, que el Gobierno aprobará un impuesto excepcional y temporal a las grandes entidades financieras que ya se están empezando a beneficiar de las subidas de tipos de interés. (Aplausos). Este impuesto a las grandes entidades financieras tendrá una duración de dos años y se estima que podremos recaudar en torno a 1500 millones de euros al año.",
+   "cita_fecha": "2022-07-12",
+   "cita_fuente": "Debate sobre el estado de la nación, Diario de Sesiones del Congreso, Pleno núm. 200, pág. 12 (el de las energéticas, en la pág. 11)",
+   "cita_url": "https://www.congreso.es/public_oficiales/L14/CONG/DS/PL/DSCD-14-PL-200.PDF",
+   "cita_verificada": true,
+   "estado": "cumplido",
+   "que_paso": "La Ley 38/2022, de 27 de diciembre, creó los dos gravámenes cinco meses después del anuncio. Se cobraron en 2023 y 2024. En 2024 recaudaron 2.859 millones (1.695 la banca y 1.164 las energéticas), por debajo de los 3.500 anunciados. Al acabar el plazo, la Ley 7/2024 convirtió el de la banca en un impuesto sobre el margen de intereses y comisiones para tres ejercicios desde 2024. El Gobierno prorrogó el de las energéticas por el Real Decreto-ley 10/2024, pero el Congreso lo derogó el 22-1-2025.",
+   "dato_actual": {
+    "texto": "El gravamen a las energéticas no está en vigor desde 2025. El impuesto a la banca se aplica a los tres primeros ejercicios iniciados desde el 1-1-2024. Recaudación conjunta de 2024: 2.859 millones de euros.",
+    "fuente": "La Moncloa (Ministerio de Hacienda)",
+    "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/paginas/2024/270424-gravamenes-banca.aspx",
+    "verificado": true
+   },
+   "matiz": "Se aprobó lo anunciado y en plazo. Dos precisiones: la recaudación de 2024 quedó un 18 % por debajo de la estimación, y la continuidad del gravamen energético cayó porque el Gobierno no reunió mayoría en el Congreso para prorrogarlo. Bancos y energéticas recurrieron los gravámenes ante los tribunales; no se ha comprobado aquí el resultado de esos recursos.",
+   "promesa_2026": null,
+   "puntos": null,
+   "concrecion": null,
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El anuncio en el debate del estado de la nación",
+     "hecho": "Sánchez anunció el 12-7-2022 «un impuesto sobre los beneficios extraordinarios de las grandes empresas energéticas, que recaudará 2000 millones de euros al año durante los próximos dos años» y otro «excepcional y temporal» a las grandes entidades financieras, de dos años y unos 1.500 millones al año.",
+     "fecha": "2022-07-12",
+     "fuente": "Congreso de los Diputados, Diario de Sesiones núm. 200",
+     "url": "https://www.congreso.es/public_oficiales/L14/CONG/DS/PL/DSCD-14-PL-200.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído (págs. 11-12)."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Ley 38/2022: los dos gravámenes temporales",
+     "hecho": "La Ley 38/2022, de 27 de diciembre, establece los gravámenes temporales energético y de entidades de crédito y crea además el impuesto temporal de solidaridad de las grandes fortunas.",
+     "fecha": "2022-12-27",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-22684",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta en el BOE."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Recaudación de 2024: 2.859 millones",
+     "hecho": "Hacienda informó de que en 2024 el gravamen a las entidades de crédito recaudó 1.695 millones y el de las energéticas 1.164 millones, «muy similar al importe del año anterior». El anuncio de 2022 estimaba 1.500 y 2.000 millones al año.",
+     "fecha": "2024-09-27",
+     "fuente": "La Moncloa (Ministerio de Hacienda)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/paginas/2024/270424-gravamenes-banca.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta. La nota es del Gobierno; no se ha contrastado con los informes de recaudación de la Agencia Tributaria."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "El Congreso derogó la prórroga del gravamen energético",
+     "hecho": "El Congreso acordó el 22-1-2025 derogar el Real Decreto-ley 10/2024, de 23 de diciembre, que establecía un gravamen temporal energético para 2025.",
+     "fecha": "2025-01-22",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1137",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado en el sumario del BOE de 23-1-2025. El reparto de votos no se ha abierto."
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Ley 7/2024: el de la banca pasa a ser un impuesto",
+     "hecho": "La Ley 7/2024, de 20 de diciembre, crea un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras, aplicable a los tres primeros períodos impositivos que se inicien a partir del 1-1-2024.",
+     "fecha": "2024-12-20",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Abierta en el BOE."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "Lo que dice el programa de 2026",
+     "hecho": "El programa recuerda: «Hemos aprobado impuestos extraordinarios a la banca y a las grandes energéticas, aunque las derechas derogaron la prórroga del segundo en 2025» (pág. 36). No promete recuperarlo ni prorrogar el de la banca; sí subir la tasa a las transacciones financieras del 0,2 % al 0,4 % (pág. 49).",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt)."
+    }
+   ]
+  },
+  {
+   "id": "b21",
+   "tema": "territorio",
+   "titulo": "Renovar la financiación autonómica",
+   "compromiso": "Sentar las bases para actualizar «cuanto antes» el sistema de financiación de las comunidades autónomas, advirtiendo de que no podría resolverlo todo.",
+   "cita": "en caso de que fructificara esta moción de censura, debería ser comprensivo en el sentido de que nosotros no vamos a poder resolverlo todo, pero intentaremos sentar las bases para que esa actualización del sistema de financiación autonómico se produzca cuanto antes",
+   "cita_fecha": "2018-05-31",
+   "cita_fuente": "Diario de Sesiones del Congreso, Pleno núm. 126, pág. 62 (respuesta al diputado Joan Baldoví, de Compromís)",
+   "cita_url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+   "cita_verificada": true,
+   "estado": "incumplido",
+   "que_paso": "El sistema vigente es el de la Ley 22/2009, que preveía una revisión a los cinco años y sigue aplicándose. En ocho años de Gobierno no se aprobó uno nuevo. Según el programa del PSOE, el Gobierno presentó en 2026 una propuesta con 21.000 millones adicionales que aprobó el Consejo de Política Fiscal y Financiera; no llegó a ser ley antes de la disolución de las Cortes.",
+   "dato_actual": {
+    "texto": "A noviembre de 2026 sigue en vigor el sistema de la Ley 22/2009. La propuesta de 2026 que cita el programa del PSOE no se ha convertido en ley.",
+    "fuente": "BOE",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375",
+    "verificado": true
+   },
+   "matiz": "La frase de 2018 era prudente: habló de «intentar sentar las bases», no de aprobar la reforma. Un nuevo sistema exige ley orgánica y, en la práctica, el acuerdo de comunidades gobernadas por distintos partidos, que mantienen posiciones enfrentadas. El hecho medible es que el sistema caducado en 2014 sigue vigente y que la propuesta formal llegó en el octavo año. Los datos sobre la propuesta de 2026 proceden solo del programa del PSOE y no se han podido contrastar en Hacienda.",
+   "promesa_2026": {
+    "texto": "Sacar adelante el nuevo sistema de financiación autonómica propuesto por el Gobierno, con 21.000 millones más para las comunidades.",
+    "cita": "Impulsaremos el nuevo sistema de financiación autonómica propuesto por el Gobierno de España y aprobado en el Consejo de Política Fiscal y Financiera, que aporta 21.000 millones de euros adicionales",
+    "pagina": 60
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Comprometido en 2018; ocho años después sigue vigente el sistema de 2009 y solo hay una propuesta sin aprobar (e1,e2,e3)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Objetivo mantenido en el discurso, sin proyecto de ley hasta el final del periodo (e1,e3)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Exige ley orgánica, el concurso de las comunidades autónomas y 21.000 millones cuya fuente no se detalla (e3)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "No se ha abierto ninguna evaluación independiente (AIReF, FEDEA) de la propuesta."
+    }
+   },
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El compromiso en la moción de censura",
+     "hecho": "Sánchez respondió a Compromís que conocía la necesidad de «renovar el modelo de financiación autonómica», que no podría «resolverlo todo» y que intentaría «sentar las bases» para actualizarlo «cuanto antes» (pág. 62).",
+     "fecha": "2018-05-31",
+     "fuente": "Congreso de los Diputados, Diario de Sesiones",
+     "url": "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y texto extraído."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Sigue vigente el sistema de 2009",
+     "hecho": "La Ley 22/2009, de 18 de diciembre, regula el sistema de financiación de las comunidades de régimen común. Su disposición adicional séptima prevé una valoración quinquenal del sistema para su posible modificación. El texto consolidado sigue en vigor.",
+     "fecha": "2009-12-18",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Texto consolidado abierto en el BOE el 24-11-2026."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "La propuesta de 2026, según el programa",
+     "hecho": "El programa promete impulsar «el nuevo sistema de financiación autonómica propuesto por el Gobierno de España y aprobado en el Consejo de Política Fiscal y Financiera», con 21.000 millones adicionales (pág. 60), y desplegarlo «dentro de la senda de gasto» (pág. 47).",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 29N 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en el texto extraído del PDF oficial (texto/psoe.txt). Dato de partido: la aprobación en el Consejo de Política Fiscal y Financiera y la cifra no se han contrastado con Hacienda."
+    }
+   ]
+  }
+ ],
+ "nota_metodo": "Selección: se partió de las fuentes primarias de 2018 (Diario de Sesiones del Congreso núm. 126, de 31-5-2018, y transcripción oficial de la comparecencia de 17-7-2018) y se tomaron los compromisos expresos más concretos; se añadieron los hitos posteriores más recordados. Son 21 compromisos. El estado se asigna por el hecho medible, no por la intención. En el Diario de Sesiones no figura que Sánchez prometiera elecciones «cuanto antes»: habló de convocarlas tras estabilizar el país y por consenso, sin fecha. Revisión independiente de 24-11-2026: se sustituyeron las citas débiles de b12, b14, b15, b16 y b18 por el texto literal de la fuente original; se retiró Wikipedia de todas las evidencias; se actualizó el estado judicial de b02; se añadieron b19 (Poder Judicial), b20 (impuestos a banca y energéticas) y b21 (financiación autonómica), y b12 pasó de incumplido a parcial. Quedaron fuera por no poder documentar la cita original en fuente abierta: «con Bildu no vamos a pactar» (la cita localizada es de abril de 2015, anterior al periodo y referida a Navarra), «no dormiría tranquilo» con Podemos en el Gobierno, el gasto en defensa y la pobreza infantil. Limitaciones: las herramientas de búsqueda se agotaron durante la revisión, de modo que parte de las comprobaciones se hicieron abriendo directamente BOE, Congreso, La Moncloa, CGPJ, Tribunal Constitucional y Eurostat; lo que no pudo abrirse está indicado en la «nota» de cada evidencia y en datos/revision-balance.md. Campos añadidos al esquema: «cita_verificada» y «dato_actual.verificado». Las cifras marcadas como dato de partido proceden del programa del PSOE y no están contrastadas."
+}

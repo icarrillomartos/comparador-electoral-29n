@@ -1,0 +1,647 @@
+{
+ "medias": {
+  "pp": {
+   "n": 7,
+   "historial": 1.43,
+   "n_historial_null": 0,
+   "coherencia": 2.29,
+   "viabilidad": 2.29,
+   "datos": 2,
+   "concrecion": 1.43,
+   "indice": 47.9
+  },
+  "psoe": {
+   "n": 7,
+   "historial": 1.57,
+   "n_historial_null": 0,
+   "coherencia": 2.29,
+   "viabilidad": 2.29,
+   "datos": 1.86,
+   "concrecion": 1,
+   "indice": 47
+  },
+  "vox": {
+   "n": 7,
+   "historial": 1.8,
+   "n_historial_null": 2,
+   "coherencia": 2.71,
+   "viabilidad": 1.57,
+   "datos": 1.43,
+   "concrecion": 0.29,
+   "indice": 42.9
+  },
+  "frenteamplio": {
+   "n": 7,
+   "historial": 1.86,
+   "n_historial_null": 0,
+   "coherencia": 2.86,
+   "viabilidad": 2.29,
+   "datos": 1.71,
+   "concrecion": 1.71,
+   "indice": 53.3
+  },
+  "podemos": {
+   "n": 7,
+   "historial": 1.71,
+   "n_historial_null": 0,
+   "coherencia": 2.86,
+   "viabilidad": 1.86,
+   "datos": 1.71,
+   "concrecion": 1.43,
+   "indice": 47.7
+  },
+  "salf": {
+   "n": 7,
+   "historial": 1,
+   "n_historial_null": 6,
+   "coherencia": 2.43,
+   "viabilidad": 1.71,
+   "datos": 1.71,
+   "concrecion": 2.14,
+   "indice": 48.7
+  },
+  "balance_psoe_12": {
+   "n": 12,
+   "historial": 2.33,
+   "coherencia": 2.75,
+   "viabilidad": 2.42,
+   "datos": 2.08,
+   "concrecion": 1.25,
+   "indice": 55.6
+  }
+ },
+ "filas": [
+  {
+   "p": "pp",
+   "id": "pp-vivienda-1",
+   "H": 1,
+   "C": 3,
+   "V": 2,
+   "D": 1,
+   "K": 2,
+   "I": 44,
+   "gob": "estatal"
+  },
+  {
+   "p": "pp",
+   "id": "pp-impuestos-1",
+   "H": 2,
+   "C": 3,
+   "V": 2,
+   "D": 2,
+   "K": 1,
+   "I": 53,
+   "gob": "estatal"
+  },
+  {
+   "p": "pp",
+   "id": "pp-instituciones-1",
+   "H": 0,
+   "C": 2,
+   "V": 2,
+   "D": 3,
+   "K": 2,
+   "I": 39,
+   "gob": "estatal"
+  },
+  {
+   "p": "pp",
+   "id": "pp-pensiones-1",
+   "H": 1,
+   "C": 2,
+   "V": 3,
+   "D": 2,
+   "K": 2,
+   "I": 49,
+   "gob": "estatal"
+  },
+  {
+   "p": "pp",
+   "id": "pp-inmigracion-1",
+   "H": 2,
+   "C": 2,
+   "V": 2,
+   "D": 2,
+   "K": 1,
+   "I": 48,
+   "gob": "estatal"
+  },
+  {
+   "p": "pp",
+   "id": "pp-instituciones-2",
+   "H": 2,
+   "C": 2,
+   "V": 2,
+   "D": 2,
+   "K": 1,
+   "I": 48,
+   "gob": "estatal"
+  },
+  {
+   "p": "pp",
+   "id": "pp-igualdad-1",
+   "H": 2,
+   "C": 2,
+   "V": 3,
+   "D": 2,
+   "K": 1,
+   "I": 54,
+   "gob": "estatal"
+  },
+  {
+   "p": "psoe",
+   "id": "psoe-vivienda-1",
+   "H": 1,
+   "C": 3,
+   "V": 2,
+   "D": 2,
+   "K": 1,
+   "I": 45,
+   "gob": "estatal"
+  },
+  {
+   "p": "psoe",
+   "id": "psoe-impuestos-1",
+   "H": 3,
+   "C": 3,
+   "V": 3,
+   "D": 2,
+   "K": 2,
+   "I": 69,
+   "gob": "estatal"
+  },
+  {
+   "p": "psoe",
+   "id": "psoe-empleo-1",
+   "H": 2,
+   "C": 2,
+   "V": 3,
+   "D": 2,
+   "K": 1,
+   "I": 54,
+   "gob": "estatal"
+  },
+  {
+   "p": "psoe",
+   "id": "psoe-sanidad-1",
+   "H": 1,
+   "C": 2,
+   "V": 2,
+   "D": 1,
+   "K": 1,
+   "I": 36,
+   "gob": "estatal"
+  },
+  {
+   "p": "psoe",
+   "id": "psoe-seguridad-1",
+   "H": 1,
+   "C": 2,
+   "V": 2,
+   "D": 2,
+   "K": 1,
+   "I": 40,
+   "gob": "estatal"
+  },
+  {
+   "p": "psoe",
+   "id": "psoe-igualdad-1",
+   "H": 2,
+   "C": 3,
+   "V": 2,
+   "D": 2,
+   "K": 0,
+   "I": 50,
+   "gob": "estatal"
+  },
+  {
+   "p": "psoe",
+   "id": "psoe-instituciones-1",
+   "H": 1,
+   "C": 1,
+   "V": 2,
+   "D": 2,
+   "K": 1,
+   "I": 35,
+   "gob": "estatal"
+  },
+  {
+   "p": "vox",
+   "id": "vox-vivienda-1",
+   "H": 2,
+   "C": 3,
+   "V": 2,
+   "D": 1,
+   "K": 2,
+   "I": 51,
+   "gob": "autonomico"
+  },
+  {
+   "p": "vox",
+   "id": "vox-impuestos-1",
+   "H": 2,
+   "C": 2,
+   "V": 2,
+   "D": 1,
+   "K": 0,
+   "I": 41,
+   "gob": "autonomico"
+  },
+  {
+   "p": "vox",
+   "id": "vox-inmigracion-2",
+   "H": null,
+   "C": 3,
+   "V": 1,
+   "D": 1,
+   "K": 0,
+   "I": 40,
+   "gob": "autonomico"
+  },
+  {
+   "p": "vox",
+   "id": "vox-inmigracion-3",
+   "H": 2,
+   "C": 2,
+   "V": 1,
+   "D": 2,
+   "K": 0,
+   "I": 39,
+   "gob": "autonomico"
+  },
+  {
+   "p": "vox",
+   "id": "vox-instituciones-2",
+   "H": 2,
+   "C": 2,
+   "V": 2,
+   "D": 2,
+   "K": 0,
+   "I": 45,
+   "gob": "autonomico"
+  },
+  {
+   "p": "vox",
+   "id": "vox-igualdad-1",
+   "H": 1,
+   "C": 3,
+   "V": 2,
+   "D": 1,
+   "K": 0,
+   "I": 39,
+   "gob": "autonomico"
+  },
+  {
+   "p": "vox",
+   "id": "vox-territorio-1",
+   "H": null,
+   "C": 4,
+   "V": 1,
+   "D": 2,
+   "K": 0,
+   "I": 45,
+   "gob": "autonomico"
+  },
+  {
+   "p": "frenteamplio",
+   "id": "frenteamplio-empleo-1",
+   "H": 2,
+   "C": 3,
+   "V": 3,
+   "D": 2,
+   "K": 2,
+   "I": 61,
+   "gob": "estatal"
+  },
+  {
+   "p": "frenteamplio",
+   "id": "frenteamplio-vivienda-1",
+   "H": 2,
+   "C": 3,
+   "V": 2,
+   "D": 1,
+   "K": 3,
+   "I": 54,
+   "gob": "municipal"
+  },
+  {
+   "p": "frenteamplio",
+   "id": "frenteamplio-impuestos-1",
+   "H": 2,
+   "C": 3,
+   "V": 2,
+   "D": 2,
+   "K": 2,
+   "I": 55,
+   "gob": "estatal"
+  },
+  {
+   "p": "frenteamplio",
+   "id": "frenteamplio-sanidad-1",
+   "H": 2,
+   "C": 3,
+   "V": 2,
+   "D": 1,
+   "K": 2,
+   "I": 51,
+   "gob": "estatal"
+  },
+  {
+   "p": "frenteamplio",
+   "id": "frenteamplio-igualdad-1",
+   "H": 2,
+   "C": 3,
+   "V": 3,
+   "D": 2,
+   "K": 1,
+   "I": 59,
+   "gob": "estatal"
+  },
+  {
+   "p": "frenteamplio",
+   "id": "frenteamplio-inmigracion-1",
+   "H": 2,
+   "C": 3,
+   "V": 2,
+   "D": 2,
+   "K": 1,
+   "I": 53,
+   "gob": "estatal"
+  },
+  {
+   "p": "frenteamplio",
+   "id": "frenteamplio-exterior-1",
+   "H": 1,
+   "C": 2,
+   "V": 2,
+   "D": 2,
+   "K": 1,
+   "I": 40,
+   "gob": "estatal"
+  },
+  {
+   "p": "podemos",
+   "id": "podemos-vivienda-1",
+   "H": 2,
+   "C": 3,
+   "V": 1,
+   "D": 1,
+   "K": 2,
+   "I": 45,
+   "gob": "estatal"
+  },
+  {
+   "p": "podemos",
+   "id": "podemos-impuestos-2",
+   "H": 2,
+   "C": 4,
+   "V": 2,
+   "D": 1,
+   "K": 2,
+   "I": 56,
+   "gob": "estatal"
+  },
+  {
+   "p": "podemos",
+   "id": "podemos-empleo-1",
+   "H": 3,
+   "C": 3,
+   "V": 3,
+   "D": 1,
+   "K": 3,
+   "I": 68,
+   "gob": "estatal"
+  },
+  {
+   "p": "podemos",
+   "id": "podemos-igualdad-2",
+   "H": 2,
+   "C": 3,
+   "V": 2,
+   "D": 3,
+   "K": 1,
+   "I": 56,
+   "gob": "estatal"
+  },
+  {
+   "p": "podemos",
+   "id": "podemos-energia-1",
+   "H": 1,
+   "C": 3,
+   "V": 2,
+   "D": 2,
+   "K": 0,
+   "I": 43,
+   "gob": "estatal"
+  },
+  {
+   "p": "podemos",
+   "id": "podemos-instituciones-1",
+   "H": 1,
+   "C": 2,
+   "V": 0,
+   "D": 2,
+   "K": 1,
+   "I": 20,
+   "gob": "estatal"
+  },
+  {
+   "p": "podemos",
+   "id": "podemos-exterior-1",
+   "H": 1,
+   "C": 2,
+   "V": 3,
+   "D": 2,
+   "K": 1,
+   "I": 46,
+   "gob": "estatal"
+  },
+  {
+   "p": "salf",
+   "id": "salf-vivienda-1",
+   "H": null,
+   "C": 3,
+   "V": 2,
+   "D": 2,
+   "K": 3,
+   "I": 58,
+   "gob": "nunca"
+  },
+  {
+   "p": "salf",
+   "id": "salf-impuestos-1",
+   "H": null,
+   "C": 2,
+   "V": 2,
+   "D": 2,
+   "K": 3,
+   "I": 53,
+   "gob": "nunca"
+  },
+  {
+   "p": "salf",
+   "id": "salf-seguridad-1",
+   "H": null,
+   "C": 3,
+   "V": 2,
+   "D": 1,
+   "K": 2,
+   "I": 51,
+   "gob": "nunca"
+  },
+  {
+   "p": "salf",
+   "id": "salf-inmigracion-1",
+   "H": null,
+   "C": 3,
+   "V": 1,
+   "D": 1,
+   "K": 2,
+   "I": 45,
+   "gob": "nunca"
+  },
+  {
+   "p": "salf",
+   "id": "salf-instituciones-2",
+   "H": null,
+   "C": 1,
+   "V": 1,
+   "D": 2,
+   "K": 3,
+   "I": 41,
+   "gob": "nunca"
+  },
+  {
+   "p": "salf",
+   "id": "salf-exterior-1",
+   "H": null,
+   "C": 3,
+   "V": 2,
+   "D": 2,
+   "K": 0,
+   "I": 50,
+   "gob": "nunca"
+  },
+  {
+   "p": "salf",
+   "id": "salf-instituciones-4",
+   "H": 1,
+   "C": 2,
+   "V": 2,
+   "D": 2,
+   "K": 2,
+   "I": 43,
+   "gob": "nunca"
+  }
+ ],
+ "balance": [
+  {
+   "id": "b02",
+   "H": 1,
+   "C": 2,
+   "V": 2,
+   "D": 2,
+   "K": 1,
+   "I": 40
+  },
+  {
+   "id": "b04",
+   "H": 0,
+   "C": 2,
+   "V": 2,
+   "D": 2,
+   "K": 1,
+   "I": 33
+  },
+  {
+   "id": "b06",
+   "H": 4,
+   "C": 4,
+   "V": 1,
+   "D": 2,
+   "K": 1,
+   "I": 45
+  },
+  {
+   "id": "b07",
+   "H": 4,
+   "C": 4,
+   "V": 4,
+   "D": 2,
+   "K": 1,
+   "I": 85
+  },
+  {
+   "id": "b09",
+   "H": 3,
+   "C": 3,
+   "V": 2,
+   "D": 3,
+   "K": 2,
+   "I": 66
+  },
+  {
+   "id": "b10",
+   "H": 4,
+   "C": 4,
+   "V": 2,
+   "D": 2,
+   "K": 0,
+   "I": 70
+  },
+  {
+   "id": "b12",
+   "H": 1,
+   "C": 2,
+   "V": 2,
+   "D": 1,
+   "K": 2,
+   "I": 39
+  },
+  {
+   "id": "b14",
+   "H": 2,
+   "C": 2,
+   "V": 3,
+   "D": 3,
+   "K": 1,
+   "I": 58
+  },
+  {
+   "id": "b15",
+   "H": 4,
+   "C": 4,
+   "V": 3,
+   "D": 2,
+   "K": 2,
+   "I": 81
+  },
+  {
+   "id": "b18",
+   "H": 2,
+   "C": 2,
+   "V": 3,
+   "D": 2,
+   "K": 2,
+   "I": 56
+  },
+  {
+   "id": "b19",
+   "H": 2,
+   "C": 2,
+   "V": 3,
+   "D": 2,
+   "K": 1,
+   "I": 54
+  },
+  {
+   "id": "b21",
+   "H": 1,
+   "C": 2,
+   "V": 2,
+   "D": 2,
+   "K": 1,
+   "I": 40
+  }
+ ]
+}

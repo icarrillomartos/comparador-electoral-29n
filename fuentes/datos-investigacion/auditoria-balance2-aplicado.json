@@ -1,0 +1,255 @@
+{
+ "aplicados": [
+  {
+   "donde": "b12/matiz",
+   "cambio": "reescrito para ser coherente con estado «incumplido»: explica las 120.479 «movilizadas» sin cifra oficial de entregadas (antes decía «Se clasifica como parcial»)"
+  },
+  {
+   "donde": "b12/cita_fuente",
+   "cambio": "«transcripción oficial de La Moncloa…» → «transcripción oficial de La Moncloa (el acto es del 29-7-2024 según el archivo; la página …»"
+  },
+  {
+   "donde": "b12/dato_actual",
+   "cambio": "«No hay cifra oficial de entregadas: la única fue de 14.000 «a disposic…» → «No hay cifra oficial de entregadas: la única fue de 14.000 «a disposición» en agosto de 20…»"
+  },
+  {
+   "donde": "b12/e6",
+   "cambio": "sentido: apoya → contexto (declaración sin datos publicados)"
+  },
+  {
+   "donde": "b12/e7",
+   "cambio": "evidencia nueva: La investidura de 2023: 183.000 viviendas públicas"
+  },
+  {
+   "donde": "b12/e8",
+   "cambio": "evidencia nueva: Unas 49.000 viviendas protegidas certificadas desde 2021"
+  },
+  {
+   "donde": "b12/e9",
+   "cambio": "evidencia nueva: Nota de Vivienda de agosto de 2024: 59.879 en desarrollo y 14.000 disponibles"
+  },
+  {
+   "donde": "nota_metodo (b12)",
+   "cambio": "«, y b12 pasó de incumplido a parcial.…» → «, y b12 se mantiene en incumplido (se midió por viviendas entregadas, de las que no hay ci…»"
+  },
+  {
+   "donde": "b13/cita_fuente",
+   "cambio": "«recogido por Maldita.es…» → «recogido por Maldita.es (es una crítica a Rajoy, no una promesa; el compromiso de presenta…»"
+  },
+  {
+   "donde": "b13/que_paso",
+   "cambio": "«las Cortes se disolvieron en octubre.…» → «las Cortes se disolvieron en octubre. El 7-7-2026 el Gobierno aprobó el techo de gasto de …»"
+  },
+  {
+   "donde": "b13/matiz",
+   "cambio": "«En noviembre de 2018, ya presidente, dijo que seguiría gobernando aunq…» → «En noviembre de 2018, ya presidente, dijo en un acto de Expansión que seguiría con la agen…»"
+  },
+  {
+   "donde": "b13/e1",
+   "cambio": "«El 14-11-2018, ya presidente, dijo que no convocaría elecciones aunque…» → «En noviembre de 2018, ya presidente, dijo en un acto de Expansión que no convocaría elecci…»"
+  },
+  {
+   "donde": "b13/dato_actual",
+   "cambio": "dato de 23-12-2025 → techo de gasto 2027 y senda rechazada (julio de 2026), manteniendo la prórroga"
+  },
+  {
+   "donde": "b13/e6",
+   "cambio": "evidencia nueva: El 20-11-2018 Sánchez avisa de que adelantaría elecciones sin Presupuestos"
+  },
+  {
+   "donde": "b13/e7",
+   "cambio": "evidencia nueva: Hacienda: el Congreso rechaza la senda de estabilidad de 2027"
+  },
+  {
+   "donde": "b13/e8",
+   "cambio": "evidencia nueva: El Congreso rechaza por segunda vez la senda de estabilidad"
+  },
+  {
+   "donde": "b14/promesa_2026",
+   "cambio": "Ley de Negociación Colectiva (pág. 43) → medida 110, reformar el despido improcedente (pág. 41), que trata la parte de 2012 que no se tocó"
+  },
+  {
+   "donde": "b14/concrecion",
+   "cambio": "instrumento: true → false (la medida 110 no nombra una ley concreta)"
+  },
+  {
+   "donde": "b14/e4",
+   "cambio": "«Promete una Ley de Negociación Colectiva (pág. 43) y la jornada de 37,…» → «Promete reformar el despido improcedente (medida 110, pág. 41), una Ley de Negociación Col…»"
+  },
+  {
+   "donde": "b15/que_paso",
+   "cambio": "«Ha subido todos los años salvo 2020-2021, cuando se congeló hasta sept…» → «Ha subido cada año desde 2019 (950 euros en 2020, según el Real Decreto 231/2020); en 2021…»"
+  },
+  {
+   "donde": "b15/que_paso (2027)",
+   "cambio": "«Las últimas subidas se pactaron con los sindicatos y sin la patronal.…» → «Las últimas subidas se pactaron con los sindicatos y sin la patronal. El Real Decreto 1013…»"
+  },
+  {
+   "donde": "b15/dato_actual",
+   "cambio": "SMI de 2026 (1.221 €) → SMI de 2027 (1.286 €, RD 1013/2026), con el dato de Eurostat"
+  },
+  {
+   "donde": "b15/matiz",
+   "cambio": "«El acuerdo de 2019 decía «salario medio» sin precisar.…» → «El acuerdo de 2019 decía «salario medio» sin precisar. Los reales decretos de 2026 y 2027 …»"
+  },
+  {
+   "donde": "b15/e1",
+   "cambio": "«con un mínimo anual de 17.094 euros y efectos desde el 1-1-2026…» → «con efectos desde el 1-1-2026 (17.094 euros al año en 14 pagas es un cálculo, 1.221 x 14, …»"
+  },
+  {
+   "donde": "b15/e3 (quita comparación no equivalente)",
+   "cambio": "« El salario mínimo legal anual de 2026 es de 17.094 euros.…» → «…»"
+  },
+  {
+   "donde": "b15/e5",
+   "cambio": "evidencia nueva: En 2023 prometió garantizar por ley el 60 %"
+  },
+  {
+   "donde": "b15/e6",
+   "cambio": "evidencia nueva: El SMI de 2020 subió a 950 euros"
+  },
+  {
+   "donde": "b15/e7",
+   "cambio": "evidencia nueva: El SMI de 2027 se fija en 1.286 euros"
+  },
+  {
+   "donde": "b16/que_paso",
+   "cambio": "«El Congreso la aprobó el 30-5-2024.…» → «En diciembre de 2022 una reforma penal (LO 14/2022) suprimió el delito de sedición por el …»"
+  },
+  {
+   "donde": "b16/e11",
+   "cambio": "evidencia nueva: La reforma penal de 2022 suprime el delito de sedición"
+  },
+  {
+   "donde": "b17/dato_actual",
+   "cambio": "«mantiene desde marzo de 2022» con fuente que no lo dice (programa) → declaración conjunta de 4-12-2025"
+  },
+  {
+   "donde": "b17/matiz",
+   "cambio": "«Era, además, una posición de política exterior y no una promesa electo…» → «Era, además, una posición de política exterior y no una promesa electoral formal. En octub…»"
+  },
+  {
+   "donde": "b17/e5",
+   "cambio": "evidencia nueva: La declaración conjunta de 2025 acoge la resolución 2797 de la ONU"
+  },
+  {
+   "donde": "b18/estado",
+   "cambio": "parcial → en_curso (decisión del editor: ningún cierre ha vencido; el primero estaba previsto para el 1-11-2027)"
+  },
+  {
+   "donde": "b18/cita",
+   "cambio": "PNIEC de 2019 («3 GW nuclear» en 2030), que no dice nada del calendario de cierre → frase del 7.º PGRR de 27-12-2023 que sí lo dice (el PNIEC queda como e1)"
+  },
+  {
+   "donde": "b18/que_paso",
+   "cambio": "«La Orden TED/864/2026, de 12 de agosto, renovó su autorización hasta e…» → «La Orden TED/864/2026, de 12 de agosto, renovó su autorización hasta el 8-6-2030, con info…»"
+  },
+  {
+   "donde": "b19/promesa_2026, puntos, concrecion",
+   "cambio": "la medida de la Fiscalía (pág. 100) no trata el mismo asunto y el programa no propone nada sobre la elección del CGPJ (solo presume de haberlo renovado, pág. 88, e6) → null en los tres"
+  },
+  {
+   "donde": "b19/dato_actual",
+   "cambio": "«sin comprobar en el Congreso» → votación del 10-9-2026 (PP rechazada 170-175); sigue sin constar reforma aprobada"
+  },
+  {
+   "donde": "b19/matiz",
+   "cambio": "«El compromiso de 2019 hablaba…» → «En octubre de 2020 el PSOE y Unidas Podemos registraron una proposición de ley para design…»"
+  },
+  {
+   "donde": "b19/e7",
+   "cambio": "evidencia nueva: En 2020 PSOE y UP propusieron elegir el CGPJ por mayoría absoluta"
+  },
+  {
+   "donde": "b19/e8",
+   "cambio": "evidencia nueva: El Congreso rechaza el cambio de modelo de elección de vocales propuesto por el PP"
+  },
+  {
+   "donde": "b20/matiz",
+   "cambio": "«Se aprobó lo anunciado y en plazo. Dos precisiones: la recaudación de …» → «Se aprobó lo anunciado y en plazo. Dos precisiones: la recaudación de 2024 (2.859 millones…»"
+  },
+  {
+   "donde": "b20/e3",
+   "cambio": "«El anuncio de 2022 estimaba 1.500 y 2.000 millones al año.…» → «El anuncio de 2022 estimaba 1.500 y 2.000 millones al año; Hacienda dice que la cifra está…»"
+  },
+  {
+   "donde": "b21/dato_actual",
+   "cambio": "«sigue en vigor... no es ley» con fuente BOE de 2009 y dato de partido → añade el voto del CPFF de 4-9-2026 confirmado por prensa"
+  },
+  {
+   "donde": "b21/que_paso",
+   "cambio": "«que aprobó el Consejo de Política Fiscal y Financiera; no llegó a ser …» → «que aprobó el Consejo de Política Fiscal y Financiera el 4-9-2026 con los votos de Cataluñ…»"
+  },
+  {
+   "donde": "b21/matiz",
+   "cambio": "«Los datos sobre la propuesta de 2026 proceden solo del programa del PS…» → «La votación del Consejo de Política Fiscal y Financiera y la cifra de 20.975 millones se h…»"
+  },
+  {
+   "donde": "b21/e3",
+   "cambio": "«Dato de partido: la aprobación en el Consejo de Política Fiscal y Fina…» → «La aprobación en el Consejo de Política Fiscal y Financiera y la cifra se contrastan en e4…»"
+  },
+  {
+   "donde": "b21/e4",
+   "cambio": "evidencia nueva: El CPFF aprueba la propuesta con los votos de Cataluña y Canarias"
+  },
+  {
+   "donde": "b21/e5",
+   "cambio": "evidencia nueva: El Congreso rechaza las enmiendas de totalidad contra la condonación de deuda autonómica"
+  },
+  {
+   "donde": "b22",
+   "cambio": "compromiso nuevo: Crear un ingreso mínimo vital (cumplido)"
+  },
+  {
+   "donde": "b23",
+   "cambio": "compromiso nuevo: Reducir la jornada a 37,5 horas (incumplido)"
+  },
+  {
+   "donde": "nota_metodo (recuento)",
+   "cambio": "«Son 21 compromisos.…» → «Son 23 compromisos (b22 y b23 se añadieron en la revisión de 24-11-2026 para equilibrar: u…»"
+  }
+ ],
+ "no_aplicados": [
+  {
+   "donde": "b16/cita y título",
+   "motivo": "la cita es literal y solo cubre la parte de la amnistía; no requiere cambio (confianza alta, gravedad baja)"
+  },
+  {
+   "donde": "b15/estado, b17/estado",
+   "motivo": "el estado lo decide el editor; pasan a estados_a_decidir"
+  },
+  {
+   "donde": "b12/estado",
+   "motivo": "decidido por el editor: se mantiene «incumplido»; se corrigió el matiz y nota_metodo"
+  },
+  {
+   "donde": "b13/cita (compromiso)",
+   "motivo": "solo se aclaró en cita_fuente que es una crítica y no una promesa; no se cambió la cita ni el título"
+  },
+  {
+   "donde": "b18/puntos",
+   "motivo": "no se cambió ningún nivel; el texto «por» ya decía que se aplazó el primer cierre"
+  },
+  {
+   "donde": "b19/e5 (reforma no aprobada)",
+   "motivo": "sigue sin poder confirmarse en el Congreso más allá de la votación de 10-9-2026; se dejó dicho de forma neutra"
+  }
+ ],
+ "niveles_a_decidir": [],
+ "estados_a_decidir": [
+  {
+   "donde": "b15/estado",
+   "estado_actual": "cumplido",
+   "estado_propuesto": "cumplido solo si se explicita la vara de medir (cuantía y 60 % sobre salario medio neto según el Gobierno); si no, parcial",
+   "motivo": "La única medida independiente del objetivo literal es Eurostat sobre salario bruto medio: 51,9 % en 2025; los reales decretos dicen que «se mantiene el objetivo». La cuantía (736 a 1.221, y 1.286 en 2027) sí es incontestable.",
+   "confianza": "media"
+  },
+  {
+   "donde": "b17/estado",
+   "estado_actual": "contrario",
+   "estado_propuesto": "contrario (alternativa: incumplido)",
+   "motivo": "La base que España apoya (autonomía bajo soberanía marroquí) no incluye la opción de independencia que preveía la frase de 2018, pero la carta de 2022 no niega expresamente la libre determinación y España mantiene el marco de la ONU.",
+   "confianza": "media"
+  }
+ ]
+}

@@ -1,0 +1,765 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Comparador 29N</title>
+<meta name="description" content="Compara las propuestas de cada partido para las elecciones generales del 29 de noviembre de 2026 y contrasta sus promesas con hechos documentados.">
+<style>
+:root{
+  color-scheme:light dark;
+  --bg:#f3f4f7; --card:#fff; --ink:#0e1218; --ink2:#465064; --ink3:#7d8697; --line:#e3e6ec; --soft:#eef0f4;
+  --n0:#b03a27; --n1:#c25e14; --n2:#987506; --n3:#13807a; --n4:#2163ad;
+  --sh:0 1px 2px rgba(14,18,24,.05),0 10px 28px -14px rgba(14,18,24,.22);
+  --r:18px; --sans:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#0d0f13; --card:#171a20; --ink:#f1f3f6; --ink2:#b3bac7; --ink3:#808998; --line:#2a2e37; --soft:#1f232b;
+    --n0:#ee7b65; --n1:#f09a52; --n2:#dcc04f; --n3:#4fc9bd; --n4:#6aa8ea;
+    --sh:0 1px 2px rgba(0,0,0,.4),0 14px 34px -14px rgba(0,0,0,.7);}
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 var(--sans);overflow-x:hidden;-webkit-font-smoothing:antialiased}
+button{font:inherit;color:inherit;cursor:pointer;background:none;border:0;padding:0;text-align:inherit}
+a{color:inherit;text-underline-offset:3px}
+h1,h2,h3,h4{margin:0;line-height:1.15;letter-spacing:-.022em;font-weight:780}
+p{margin:0}
+:focus-visible{outline:2.5px solid var(--n4);outline-offset:2px;border-radius:8px}
+[hidden]{display:none!important}
+.wrap{max-width:1160px;margin:0 auto;padding:0 18px}
+.num{font-variant-numeric:tabular-nums}
+
+/* Cabecera y navegación */
+header.top{position:sticky;top:0;z-index:30;background:color-mix(in srgb,var(--bg) 86%,transparent);backdrop-filter:saturate(1.4) blur(14px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:14px;height:56px}
+.logo{display:flex;align-items:center;gap:8px;font-weight:800;font-size:1.05rem;text-decoration:none;letter-spacing:-.02em}
+.logo b{background:var(--ink);color:var(--bg);padding:3px 8px;border-radius:8px;font-size:.92rem}
+.cuenta{font-size:.8rem;color:var(--ink3);font-weight:600;margin-left:2px}
+nav.tabs{display:flex;gap:2px;margin-left:auto}
+nav.tabs a{display:flex;align-items:center;gap:7px;padding:8px 13px;border-radius:999px;text-decoration:none;color:var(--ink2);font-weight:650;font-size:.92rem}
+nav.tabs a svg{width:18px;height:18px;flex:none}
+nav.tabs a[aria-current=page]{background:var(--ink);color:var(--bg)}
+nav.tabs a:hover:not([aria-current=page]){background:var(--soft)}
+@media (max-width:760px){
+  header.top{backdrop-filter:none;background:var(--bg)}
+  .top .wrap{height:50px}
+  nav.tabs{position:fixed;left:0;right:0;bottom:0;z-index:30;margin:0;background:color-mix(in srgb,var(--card) 94%,transparent);backdrop-filter:blur(14px);border-top:1px solid var(--line);padding:6px 6px calc(6px + env(safe-area-inset-bottom));justify-content:space-around}
+  nav.tabs a{flex:1;flex-direction:column;gap:2px;font-size:.68rem;padding:5px 2px;border-radius:12px;font-weight:700}
+  nav.tabs a svg{width:22px;height:22px}
+  nav.tabs a[aria-current=page]{background:none;color:var(--ink)}
+  nav.tabs a:not([aria-current=page]){color:var(--ink3)}
+  main{padding-bottom:84px}
+  .cuenta{margin-left:auto}
+}
+
+/* Cabeceras de sección */
+.cab{padding:26px 0 14px}
+.cab h1{font-size:clamp(1.55rem,4.4vw,2.3rem)}
+.cab p{color:var(--ink2);margin-top:6px;max-width:56ch}
+.kick{display:inline-flex;align-items:center;gap:6px;font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;font-weight:800;color:var(--ink3);margin-bottom:8px}
+.etq{font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);font-weight:800}
+
+/* Inicio */
+.hero{padding:38px 0 8px;text-align:center}
+.hero h1{font-size:clamp(2rem,7vw,3.6rem);letter-spacing:-.04em;line-height:1.02}
+.hero h1 span{color:var(--ink3)}
+.hero p{color:var(--ink2);margin:12px auto 0;max-width:40ch;font-size:1.05rem}
+.puertas{display:grid;gap:14px;grid-template-columns:repeat(3,1fr);margin:28px 0 8px}
+@media (max-width:860px){.puertas{grid-template-columns:1fr}}
+.puerta{display:flex;flex-direction:column;gap:10px;background:var(--card);border:1px solid var(--line);border-radius:22px;padding:20px;text-decoration:none;box-shadow:var(--sh);transition:transform .16s,border-color .16s;min-height:210px}
+.puerta:hover{transform:translateY(-3px);border-color:var(--ink3)}
+.puerta .n{font-size:.72rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3)}
+.puerta h2{font-size:1.35rem}
+.puerta .vis{margin-top:auto;padding-top:8px}
+.puerta .ir{display:flex;justify-content:space-between;align-items:center;font-weight:700;font-size:.9rem;color:var(--ink2);padding-top:10px;border-top:1px solid var(--line)}
+.puerta .ir i{font-style:normal;width:30px;height:30px;border-radius:50%;background:var(--ink);color:var(--bg);display:grid;place-items:center}
+.mini-p{display:flex;flex-wrap:wrap;gap:5px}
+.mini-p span{font-size:.7rem;font-weight:800;padding:3px 7px;border-radius:6px;background:var(--c);color:var(--t)}
+.mini-tira{position:relative;height:34px;border-radius:10px;background:linear-gradient(90deg,color-mix(in srgb,var(--n0) 22%,transparent) 0 25%,color-mix(in srgb,var(--n1) 22%,transparent) 25% 45%,color-mix(in srgb,var(--n2) 22%,transparent) 45% 60%,color-mix(in srgb,var(--n3) 22%,transparent) 60% 75%,color-mix(in srgb,var(--n4) 22%,transparent) 75%)}
+.mini-tira i{position:absolute;top:50%;width:9px;height:9px;border-radius:50%;background:var(--c);transform:translate(-50%,-50%);box-shadow:0 0 0 1.5px var(--card)}
+.sec-t{display:flex;align-items:baseline;justify-content:space-between;margin:30px 0 12px}
+.sec-t h2{font-size:1.2rem}
+
+/* Temas */
+.temas{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+.tema{display:flex;align-items:center;gap:10px;padding:11px 12px;background:var(--card);border:1.5px solid var(--line);border-radius:14px;font-weight:680;font-size:.92rem;line-height:1.2;transition:border-color .15s,background .15s}
+.tema .ico{width:34px;height:34px;border-radius:10px;background:var(--soft);display:grid;place-items:center;font-size:1.15rem;flex:none}
+.tema:hover{border-color:var(--ink3)}
+.tema[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.tema[aria-pressed=true] .ico{background:color-mix(in srgb,var(--bg) 18%,transparent)}
+.barra{position:sticky;top:56px;z-index:20;background:color-mix(in srgb,var(--bg) 90%,transparent);backdrop-filter:blur(12px);margin:0 -18px;padding:8px 0;border-bottom:1px solid var(--line)}
+.barra.suelta{position:static;background:none;backdrop-filter:none;border-bottom:0;padding:4px 0 2px}
+.barra .temas{display:flex;overflow-x:auto;scrollbar-width:none;padding:2px 18px;gap:8px;scroll-padding:0 18px}
+.barra .temas::-webkit-scrollbar{display:none}
+.barra .tema{flex:none;padding:7px 12px 7px 7px;border-radius:999px;font-size:.88rem;white-space:nowrap}
+.barra .tema .ico{width:28px;height:28px;border-radius:50%;font-size:1rem}
+@media (max-width:760px){.barra{top:50px}}
+
+/* Partidos */
+.pchips{display:flex;flex-wrap:wrap;gap:7px;align-items:center}
+.pc{display:inline-flex;align-items:center;gap:7px;padding:7px 13px 7px 10px;border-radius:999px;border:1.5px solid var(--line);background:var(--card);font-weight:720;font-size:.88rem;color:var(--ink2);white-space:nowrap;transition:background .15s,color .15s,border-color .15s}
+.pc i{width:11px;height:11px;border-radius:50%;background:var(--c);flex:none}
+.pc:hover{border-color:var(--c)}
+.pc[aria-pressed=true]{background:var(--c);border-color:var(--c);color:var(--t)}
+.pc[aria-pressed=true] i{background:var(--t);opacity:.9}
+.pc.todos i{display:none}
+.pc.todos{padding-left:13px}
+.pc.todos[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.sep{width:1px;height:22px;background:var(--line);margin:0 3px;flex:none}
+@media (max-width:760px){.pchips{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;margin:0 -18px;padding:2px 18px;width:calc(100% + 36px)}.pchips::-webkit-scrollbar{display:none}.pc{flex:none}.herr .busca{flex:1 0 100%}}
+.herr{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:14px 0 4px}
+.txt{padding:8px 2px;font-weight:700;font-size:.84rem;color:var(--ink2);text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--line)}
+.txt:hover{text-decoration-color:currentColor}
+.busca{flex:1;min-width:210px;display:flex;align-items:center;gap:8px;background:var(--card);border:1.5px solid var(--line);border-radius:999px;padding:0 14px;height:42px}
+.busca:focus-within{border-color:var(--ink)}
+.busca input{flex:1;border:0;background:none;font:inherit;color:inherit;outline:0;min-width:0}
+.busca svg{width:17px;height:17px;color:var(--ink3);flex:none}
+select.sel{font:inherit;font-weight:700;font-size:.88rem;color:var(--ink2);background:var(--card);border:1.5px solid var(--line);border-radius:999px;padding:8px 12px;height:40px}
+
+/* Comparar */
+.cols{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));align-items:start;padding:14px 0 50px}
+@media (max-width:760px){
+  .cols.varias{grid-template-columns:none;grid-auto-flow:column;grid-auto-columns:84%;overflow-x:auto;scroll-snap-type:x mandatory;margin:0 -18px;padding:14px 18px 30px;scrollbar-width:none}
+  .cols.varias::-webkit-scrollbar{display:none}
+  .cols.varias .col{scroll-snap-align:center}
+}
+.col{background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh);overflow:hidden}
+.col>header{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:12px 16px;background:var(--c);color:var(--t)}
+.col h2{font-size:1.05rem}
+.col header span{font-size:.76rem;font-weight:750;opacity:.9;white-space:nowrap}
+.prop{border-top:1px solid var(--line)}
+.prop:first-of-type{border-top:0}
+.prop summary{display:flex;align-items:center;gap:10px;padding:12px 14px 12px 16px;cursor:pointer;list-style:none;font-weight:650;font-size:.95rem;line-height:1.3}
+.prop summary::-webkit-details-marker{display:none}
+.prop summary:hover{background:var(--soft)}
+.prop summary .t{flex:1}
+.prop summary .tm{display:block;font-size:.7rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--ink3);margin-bottom:2px}
+.chev{width:18px;height:18px;color:var(--ink3);flex:none;transition:transform .2s}
+details[open]>summary .chev{transform:rotate(180deg)}
+.prop .det{padding:0 16px 16px;font-size:.93rem;color:var(--ink2)}
+.cita{margin:10px 0 6px;padding:10px 12px;border-radius:12px;background:var(--soft);color:var(--ink);font-size:.92rem;border-left:3px solid var(--c,var(--ink3))}
+.fte{font-size:.8rem;color:var(--ink3)}
+.fte a{font-weight:700;color:var(--ink2)}
+.concr{display:flex;flex-wrap:wrap;gap:5px;margin:10px 0 2px}
+.concr span{font-size:.74rem;font-weight:700;padding:3px 8px;border-radius:999px;background:var(--soft);color:var(--ink3)}
+.concr span.si{background:color-mix(in srgb,var(--n3) 16%,transparent);color:var(--n3)}
+.concr span.no{text-decoration:line-through}
+.btn{display:inline-flex;align-items:center;gap:8px;margin-top:10px;padding:9px 14px;border-radius:999px;background:var(--ink);color:var(--bg);font-weight:750;font-size:.86rem}
+.masprog{border-top:1px solid var(--line);background:var(--soft)}
+.masprog>summary{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:13px 16px;cursor:pointer;list-style:none;font-weight:750;font-size:.88rem;color:var(--ink2);min-height:44px}
+.masprog>summary::-webkit-details-marker{display:none}
+.masprog>summary b{color:var(--ink)}
+.masprog[open]>summary .chev{transform:rotate(180deg)}
+.masprog .lista{background:var(--card,var(--bg))}
+.prop.mini summary{font-weight:560;font-size:.9rem;padding:10px 14px 10px 16px}
+.masprog .otra{display:block;width:100%;padding:12px 16px;font-weight:750;font-size:.86rem;color:var(--ink2);border-top:1px solid var(--line);text-align:center;min-height:44px}
+.masprog .otra:hover{background:var(--soft)}
+.orig{font-size:.74rem;color:var(--ink3);margin-top:8px}
+.vacio{padding:22px 16px;color:var(--ink3);font-size:.9rem;text-align:center}
+.aviso{margin:18px 0 60px;padding:26px 18px;border:1.5px dashed var(--line);border-radius:var(--r);color:var(--ink2);text-align:center}
+.pista-m{display:none;font-size:.78rem;color:var(--ink3);font-weight:650;margin-top:10px}
+@media (max-width:760px){.pista-m{display:block}}
+
+/* Anillo */
+.ring{flex:none;display:block}
+.ring text{font-family:var(--sans);font-variant-numeric:tabular-nums}
+
+/* Nube de puntos */
+.nube{background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh);padding:16px 16px 12px;margin:6px 0 4px}
+.nfila{display:grid;grid-template-columns:86px 1fr;align-items:center;gap:10px}
+.nfila+.nfila{margin-top:4px}
+.nnom{display:flex;align-items:center;gap:7px;font-weight:760;font-size:.82rem;line-height:1.1}
+.nnom i{width:10px;height:10px;border-radius:50%;background:var(--c);flex:none}
+.npista{position:relative;border-radius:10px;background:linear-gradient(90deg,color-mix(in srgb,var(--n0) 13%,transparent) 0 25%,color-mix(in srgb,var(--n1) 13%,transparent) 25% 45%,color-mix(in srgb,var(--n2) 13%,transparent) 45% 60%,color-mix(in srgb,var(--n3) 13%,transparent) 60% 75%,color-mix(in srgb,var(--n4) 13%,transparent) 75%)}
+.ndot{position:absolute;width:18px;height:18px;border-radius:50%;background:var(--c);transform:translateX(-50%);box-shadow:0 0 0 2px var(--card);transition:transform .12s}
+.ndot::after{content:"";position:absolute;inset:-6px}
+.ndot:hover,.ndot:focus-visible{transform:translateX(-50%) scale(1.35);z-index:2}
+.neje{display:grid;grid-template-columns:86px 1fr;gap:10px;margin-top:6px}
+.neje div{display:flex;font-size:.66rem;font-weight:800;color:var(--ink3);text-transform:uppercase;letter-spacing:.04em}
+.neje span{min-width:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;padding-top:5px;border-top:3px solid var(--k);margin-right:2px}
+.nleg{min-height:1.5em;margin-top:10px;font-size:.86rem;color:var(--ink2);font-weight:600}
+.nleg b{color:var(--ink)}
+@media (max-width:560px){.nube{padding:12px 10px 10px}.nfila,.neje{grid-template-columns:62px 1fr;gap:6px}.nnom{font-size:.74rem;gap:5px}.ndot{width:18px;height:18px;box-shadow:0 0 0 1.5px var(--card)}.ndot::after{inset:-7px}}
+
+/* Tarjetas */
+.grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(min(100%,300px),1fr));padding:14px 0 50px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh);padding:16px;display:flex;flex-direction:column;gap:12px;transition:transform .15s,border-color .15s;width:100%}
+.card:hover{transform:translateY(-3px);border-color:var(--ink3)}
+.card .sup{display:flex;align-items:center;gap:8px;font-size:.76rem;font-weight:750;color:var(--ink3)}
+.tag{display:inline-flex;align-items:center;padding:3px 8px;border-radius:7px;background:var(--c);color:var(--t);font-size:.72rem;font-weight:800;letter-spacing:.01em}
+.card .mid{display:flex;gap:14px;align-items:center}
+.card h3{font-size:1.02rem;line-height:1.25;font-weight:740}
+.card .inf{margin-top:auto;display:flex;flex-direction:column;gap:6px}
+.evbar{display:flex;gap:3px;height:7px}
+.evbar i{border-radius:99px;background:var(--k);min-width:5px}
+.evtxt{display:flex;justify-content:space-between;font-size:.76rem;font-weight:700;color:var(--ink3)}
+.evtxt b{color:var(--k)}
+
+/* Balance */
+.pila{display:flex;gap:4px;height:66px;margin:8px 0 10px}
+.pila button{border-radius:12px;background:var(--k);color:#fff;display:flex;flex-direction:column;justify-content:center;align-items:center;font-weight:820;font-size:1.3rem;line-height:1;min-width:62px;transition:opacity .15s,transform .15s}
+@media (prefers-color-scheme:dark){.pila button{color:#0d0f13}}
+.pila button small{font-size:.64rem;font-weight:800;opacity:.92;margin-top:3px;text-align:center;line-height:1.05;padding:0 4px}
+.pila.filtrada button[aria-pressed=false]{opacity:.28}
+.pila button:hover{transform:translateY(-2px)}
+.est{display:inline-flex;align-items:center;gap:6px;font-size:.74rem;font-weight:820;color:var(--k)}
+.est i{font-style:normal;width:22px;height:22px;border-radius:50%;background:var(--k);color:var(--card);display:grid;place-items:center;font-size:.8rem;font-weight:900}
+.card .ahora{display:flex;align-items:center;gap:10px;font-size:.8rem;font-weight:700;color:var(--ink3);padding-top:10px;border-top:1px solid var(--line)}
+.card .ahora b{color:var(--ink);display:block}
+
+/* España en datos */
+.conm{display:inline-flex;background:var(--soft);border-radius:999px;padding:4px;gap:2px;margin:0 0 14px}
+.conm a{padding:9px 16px;border-radius:999px;font-weight:760;font-size:.9rem;text-decoration:none;color:var(--ink2);white-space:nowrap}
+.conm a[aria-current=true]{background:var(--card);color:var(--ink);box-shadow:var(--sh)}
+.dgrupo{margin:22px 0 8px;display:flex;align-items:baseline;gap:10px}
+.dgrupo h2{font-size:1.05rem}
+.dgrid{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(min(100%,300px),1fr))}
+.dato{background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh);padding:14px 16px;display:flex;flex-direction:column;gap:10px}
+.dato h3{font-size:.95rem;font-weight:740;line-height:1.25}
+.dato .vs{display:grid;grid-template-columns:1fr auto 1fr;align-items:end;gap:8px}
+.dato .v small{display:block;font-size:.68rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--ink3)}
+.dato .v b{font-size:1.45rem;font-weight:820;letter-spacing:-.03em;line-height:1.1}
+.dato .v b span{font-size:.72rem;font-weight:700;color:var(--ink3);letter-spacing:0;margin-left:2px}
+.dato .v.antes b{color:var(--ink3)}
+.dato .fl{color:var(--ink3);font-size:1.1rem;padding-bottom:3px}
+.cambio{display:flex;align-items:center;justify-content:space-between;gap:8px;border-radius:12px;padding:8px 11px;background:color-mix(in srgb,var(--k) 13%,transparent);color:var(--k);font-weight:820}
+.cambio .p{font-size:1.05rem}
+.cambio .e{font-size:.72rem;letter-spacing:.05em;text-transform:uppercase}
+.dato details summary{cursor:pointer;list-style:none;font-size:.76rem;font-weight:700;color:var(--ink3)}
+.dato details summary::-webkit-details-marker{display:none}
+.dato details p{font-size:.82rem;color:var(--ink2);margin-top:6px}
+
+.ojo{display:flex;gap:7px;align-items:flex-start;font-size:.8rem;font-weight:620;line-height:1.35;color:var(--ink);background:color-mix(in srgb,var(--n2) 16%,transparent);border-radius:10px;padding:8px 10px}
+.ojo::before{content:"⚠";flex:none;color:var(--n1)}
+.fgrid{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(min(100%,270px),1fr));margin-bottom:6px}
+.fcard{background:var(--ink);color:var(--bg);border-radius:var(--r);padding:16px;display:flex;flex-direction:column;gap:10px;min-height:128px;transition:transform .15s}
+.fcard:hover{transform:translateY(-3px)}
+.fcard .b{font-size:.68rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;opacity:.7}
+.fcard h3{font-size:1.05rem;line-height:1.25}
+.fcard .ir{margin-top:auto;font-size:.8rem;font-weight:700;opacity:.85}
+.detras{align-self:flex-start;font-size:.8rem;font-weight:750;color:var(--ink);background:var(--soft);border-radius:999px;padding:7px 12px;min-height:32px}
+.detras:hover{background:var(--line)}
+.concl{font-size:1.08rem;font-weight:650;line-height:1.4;color:var(--ink)}
+.relato{border-left:3px solid var(--line);padding:2px 0 2px 12px;color:var(--ink2);font-style:italic}
+.ojos{display:grid;gap:8px;margin:0;padding:0;list-style:none}
+.tabla-f{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:14px;margin-top:10px}
+.tabla-f table{width:100%;border-collapse:collapse;font-size:.86rem}
+.tabla-f caption{text-align:left;font-weight:760;padding:12px 14px 6px;font-size:.92rem}
+.tabla-f th,.tabla-f td{text-align:right;padding:8px 12px;border-top:1px solid var(--line);white-space:nowrap;font-variant-numeric:tabular-nums}
+.tabla-f th{font-size:.68rem;letter-spacing:.05em;text-transform:uppercase;color:var(--ink3);white-space:normal}
+.tabla-f th:first-child,.tabla-f td:first-child{text-align:left;white-space:normal;font-weight:650}
+.tabla-f .pie{padding:10px 14px 12px;font-size:.78rem;color:var(--ink3);border-top:1px solid var(--line)}
+.pan .dgrid{margin-top:4px}
+
+/* Ficha */
+dialog{border:0;padding:0;background:var(--bg);color:var(--ink);width:min(860px,calc(100vw - 32px));max-width:none;height:min(900px,calc(100dvh - 40px));max-height:none;border-radius:24px;box-shadow:0 30px 80px rgba(0,0,0,.35);overflow:hidden}
+dialog::backdrop{background:rgba(10,12,16,.55);backdrop-filter:blur(3px)}
+dialog[open]{display:flex;flex-direction:column;animation:sube .22s ease-out}
+@keyframes sube{from{transform:translateY(24px);opacity:0}}
+@media (max-width:760px){dialog{width:100vw;height:100dvh;border-radius:0;margin:0}}
+@media (prefers-reduced-motion:reduce){dialog[open]{animation:none}.card,.puerta{transition:none}}
+.dh{display:flex;align-items:center;gap:10px;padding:12px 14px 12px 18px;background:var(--card);border-bottom:1px solid var(--line)}
+.dh .sup{display:flex;align-items:center;gap:8px;font-size:.78rem;font-weight:750;color:var(--ink3);flex-wrap:wrap}
+.x{margin-left:auto;width:38px;height:38px;border-radius:50%;background:var(--soft);font-size:1.25rem;line-height:1;flex:none;text-align:center}
+.db{overflow-y:auto;overscroll-behavior:contain;flex:1}
+.dtop{background:var(--card);padding:18px 18px 0;border-bottom:1px solid var(--line)}
+.dtop h2{font-size:clamp(1.25rem,3.8vw,1.7rem)}
+.veredicto{display:grid;grid-template-columns:auto 1fr;gap:18px;align-items:center;margin-top:16px}
+@media (max-width:560px){.veredicto{grid-template-columns:1fr;justify-items:start;gap:12px}.veredicto .anillo{display:flex;align-items:center;gap:14px}}
+.anillo .lab{font-weight:820;font-size:1.05rem;color:var(--k)}
+.anillo .mar{font-size:.78rem;color:var(--ink3);font-weight:650}
+.anillo{text-align:center}
+@media (max-width:560px){.anillo{text-align:left}}
+.comps{display:flex;flex-direction:column;gap:2px;min-width:0;width:100%}
+.cp summary{display:grid;grid-template-columns:92px 1fr auto 16px;gap:10px;align-items:center;padding:5px 0;cursor:pointer;list-style:none;font-size:.86rem;font-weight:720}
+.cp summary::-webkit-details-marker{display:none}
+.cp .pips{display:grid;grid-template-columns:repeat(4,1fr);gap:3px}
+.cp .pips i{height:9px;border-radius:99px;background:var(--line)}
+.cp .pips i.on{background:var(--k)}
+.cp .pips.nulo i{background:repeating-linear-gradient(135deg,var(--line) 0 4px,transparent 4px 7px)}
+.cp .peso{font-size:.72rem;color:var(--ink3);font-weight:750}
+.cp .chev{width:14px;height:14px}
+.cp p{font-size:.86rem;color:var(--ink2);padding:2px 0 10px}
+.tope{font-size:.8rem;color:var(--ink2);background:color-mix(in srgb,var(--n1) 13%,transparent);border-radius:10px;padding:7px 10px;margin-top:8px;font-weight:600}
+.seg{display:flex;gap:4px;margin-top:16px;overflow-x:auto;scrollbar-width:none}
+.seg::-webkit-scrollbar{display:none}
+.seg button{padding:10px 14px;font-weight:760;font-size:.9rem;color:var(--ink3);border-bottom:3px solid transparent;white-space:nowrap}
+.seg button[aria-selected=true]{color:var(--ink);border-bottom-color:var(--ink)}
+.seg button span{font-size:.72rem;background:var(--soft);border-radius:99px;padding:1px 7px;margin-left:4px;color:var(--ink2)}
+.pan{padding:18px 18px 70px}
+.pan>h3{font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);font-weight:800;margin:22px 0 8px}
+.pan>h3:first-child{margin-top:0}
+.pan p{color:var(--ink2)}
+.clamp{display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
+.clamp.abierto{display:block}
+.mas{font-weight:760;font-size:.86rem;margin-top:2px;padding:8px 0;text-decoration:underline;text-underline-offset:3px}
+.acord{background:var(--card);border:1px solid var(--line);border-radius:14px;margin-top:10px}
+.acord summary{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:13px 14px;cursor:pointer;list-style:none;font-weight:740;font-size:.93rem}
+.acord summary::-webkit-details-marker{display:none}
+.acord .in{padding:0 14px 14px;font-size:.93rem;color:var(--ink2)}
+.acord .in p+p{margin-top:8px}
+.filtro-ev{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.fe{display:inline-flex;align-items:center;gap:6px;padding:7px 12px;border-radius:999px;border:1.5px solid var(--line);background:var(--card);font-weight:740;font-size:.84rem;color:var(--ink2)}
+.fe i{width:9px;height:9px;border-radius:3px;background:var(--k)}
+.fe[aria-pressed=true]{border-color:var(--ink);color:var(--ink)}
+.ev{background:var(--card);border:1px solid var(--line);border-left:5px solid var(--k);border-radius:14px;margin-top:8px}
+.ev summary{display:flex;gap:10px;align-items:center;padding:11px 12px 11px 13px;cursor:pointer;list-style:none}
+.ev summary::-webkit-details-marker{display:none}
+.ev .tt{flex:1;min-width:0}
+.ev h4{font-size:.94rem;font-weight:700;line-height:1.3;letter-spacing:-.01em}
+.ev .me{display:flex;gap:6px;flex-wrap:wrap;align-items:center;font-size:.72rem;color:var(--ink3);font-weight:700;margin-top:4px}
+.flag{font-size:.68rem;font-weight:800;padding:1px 6px;border-radius:5px;background:var(--soft);color:var(--ink2)}
+.flag.j{background:color-mix(in srgb,var(--n1) 18%,transparent);color:var(--n1)}
+.ev .in{padding:0 13px 13px;font-size:.9rem;color:var(--ink2)}
+.ev .in .fte{margin-top:8px}
+.medidor{position:relative;height:26px;margin:14px 0 2px}
+.medidor .pista{position:absolute;inset:9px 0;border-radius:99px;background:linear-gradient(90deg,var(--n0) 0 25%,var(--n1) 25% 45%,var(--n2) 45% 60%,var(--n3) 60% 75%,var(--n4) 75%);opacity:.28}
+.medidor .rango{position:absolute;top:5px;height:16px;border-radius:99px;background:var(--k);opacity:.4}
+.medidor .punto{position:absolute;top:0;width:6px;height:26px;border-radius:3px;background:var(--k);transform:translateX(-3px);box-shadow:0 0 0 2px var(--card)}
+.esc{display:flex;justify-content:space-between;font-size:.68rem;color:var(--ink3);font-weight:700}
+.pasos{position:relative;margin:0;padding:0;list-style:none}
+.pasos li{position:relative;padding:0 0 22px 44px}
+.pasos li::before{content:"";position:absolute;left:14px;top:30px;bottom:0;width:2px;background:var(--line)}
+.pasos li:last-child::before{display:none}
+.pasos .nodo{position:absolute;left:0;top:0;width:30px;height:30px;border-radius:50%;background:var(--k,var(--ink));color:var(--card);display:grid;place-items:center;font-weight:850;font-size:.82rem}
+.pasos h3{font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);font-weight:800;padding-top:8px;margin-bottom:8px}
+.pasos .caja{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:13px 14px}
+.pasos .caja.fuerte p{color:var(--ink);font-weight:620}
+
+/* Método */
+.cifras{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:6px 0 18px}
+@media (max-width:640px){.cifras{grid-template-columns:repeat(2,1fr)}}
+.cifras div{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px}
+.cifras b{display:block;font-size:1.9rem;font-weight:830;letter-spacing:-.03em;line-height:1}
+.cifras span{font-size:.8rem;color:var(--ink3);font-weight:700}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:18px;box-shadow:var(--sh);margin-bottom:14px}
+.panel h2{font-size:1.1rem;margin-bottom:4px}
+.panel>p{color:var(--ink2);font-size:.93rem}
+.pesos{display:grid;gap:10px;margin:16px 0 4px}
+.pw{display:grid;grid-template-columns:104px 1fr 44px;gap:4px 12px;align-items:center}
+.pw b{font-size:.92rem}
+.pw .b{height:12px;border-radius:99px;background:var(--soft);overflow:hidden}
+.pw .b i{display:block;height:100%;border-radius:99px;background:var(--ink)}
+.pw em{font-style:normal;font-weight:820;text-align:right}
+.pw small{grid-column:1/-1;font-size:.8rem;color:var(--ink3);margin-top:-2px}
+.escala{display:grid;grid-template-columns:repeat(5,1fr);gap:3px;margin-top:20px}
+.escala div{border-top:6px solid var(--k);padding-top:6px;font-size:.68rem;font-weight:780;color:var(--ink2);line-height:1.2;min-width:0;overflow-wrap:anywhere}
+.escala b{display:block;color:var(--ink3);font-weight:700}
+.prosa ul{margin:6px 0 0;padding-left:18px}
+.prosa li{margin:5px 0}
+.prosa table{width:100%;border-collapse:collapse;font-size:.86rem}
+.prosa th,.prosa td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+.prosa th{font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;color:var(--ink3)}
+.prosa a{font-weight:700}
+.tabla{overflow-x:auto}
+footer{padding:26px 0 40px;color:var(--ink3);font-size:.8rem;text-align:center}
+@media (max-width:760px){footer{padding-bottom:110px}.pc{min-height:44px}.barra .tema{min-height:44px}.x{width:44px;height:44px}.cp summary{min-height:44px}.dato details summary{padding:12px 0}.sel{min-height:44px}.txt,.mas,.btn,.detras,.conm a{min-height:44px;display:inline-flex;align-items:center}}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="logo" href="#/">Comparador <b>29N</b></a><span class="cuenta" id="cuenta"></span>
+  <nav class="tabs" aria-label="Secciones">
+    <a href="#/" data-tab="inicio"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg>Inicio</a>
+    <a href="#/comparar" data-tab="comparar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="7" height="16" rx="2"/><rect x="14" y="4" width="7" height="16" rx="2"/></svg>Propuestas</a>
+    <a href="#/contraste" data-tab="contraste"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 0 1 9 9h-9z" fill="currentColor"/></svg>Contraste</a>
+    <a href="#/balance" data-tab="balance"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Desde 2018</a>
+    <a href="#/metodo" data-tab="metodo"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg>Método</a>
+  </nav>
+</div></header>
+<main class="wrap" id="app"></main>
+<footer><div class="wrap">Herramienta independiente, sin vínculo con ningún partido ni medio · Datos cerrados el <span id="fecha"></span> · Cada dato enlaza a su fuente</div></footer>
+<dialog id="ficha" aria-labelledby="ficha-t"></dialog>
+
+<script>
+const D = /*__DATOS__*/null;
+const $ = (s, r = document) => r.querySelector(s);
+const $$ = (s, r = document) => [...r.querySelectorAll(s)];
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const url = u => /^https?:\/\//i.test(u || '') ? esc(u) : '#';
+const P = Object.fromEntries(D.partidos.map(p => [p.id, p]));
+const T = Object.fromEntries(D.temas.map(t => [t.id, t.nombre]));
+const CPORPROP = Object.fromEntries(D.contrastes.map(c => [c.propuesta_id, c]));
+const PROP = Object.fromEntries(D.propuestas.map(p => [p.id, p]));
+const ICO = {vivienda:'🏠', impuestos:'💶', empleo:'💼', pensiones:'🧓', sanidad:'🏥', educacion:'🎓', inmigracion:'🛂', seguridad:'⚖️', igualdad:'🤝', energia:'🌱', corrupcion:'🔎', instituciones:'🏛️', territorio:'🗺️', exterior:'🌍'};
+const TCORTO = {impuestos:'Impuestos', empleo:'Empleo', seguridad:'Seguridad', igualdad:'Igualdad', energia:'Energía y campo', instituciones:'Instituciones', territorio:'Territorio', exterior:'Exterior'};
+const tnom = id => TCORTO[id] || T[id] || '';
+const nivelColor = v => v >= 75 ? 'var(--n4)' : v >= 60 ? 'var(--n3)' : v >= 45 ? 'var(--n2)' : v >= 25 ? 'var(--n1)' : 'var(--n0)';
+const sobre = h => { const n = parseInt(String(h).slice(1), 16), l = [n >> 16, n >> 8 & 255, n & 255].map(v => (v /= 255) <= .03928 ? v / 12.92 : ((v + .055) / 1.055) ** 2.4), L = .2126 * l[0] + .7152 * l[1] + .0722 * l[2]; return 1.05 / (L + .05) >= (L + .05) / .0596 ? '#fff' : '#14171c'; };
+const pcol = p => `--c:${p.color};--t:${sobre(p.color)}`;
+const SENT = {contradice: ['En contra', 'var(--n0)'], apoya: ['A favor', 'var(--n4)'], contexto: ['Contexto', 'var(--ink3)']};
+const TIPO = {votacion:'Votación', norma:'Norma publicada', dato_oficial:'Dato oficial', resolucion_judicial:'Resolución judicial', procedimiento_judicial:'Procedimiento judicial', documento_partido:'Documento del partido', declaracion:'Declaración', informe_independiente:'Informe independiente', verificador:'Verificador', prensa:'Prensa'};
+const JUD = {investigado:'Investigado, sin condena', procesado:'Procesado, sin condena', juicio:'En juicio, sin sentencia', condenado_no_firme:'Condena no firme', condenado_firme:'Condena firme', responsable_civil_firme:'Responsable civil, sentencia firme', absuelto:'Absuelto', archivado:'Archivado'};
+const COMP = {historial:['Historial','Qué pasó cuando tuvieron poder para hacerlo'], viabilidad:['Viabilidad','Si depende de ellos o necesita mayorías, comunidades, Europa o dinero'], coherencia:['Coherencia','Si sus votos y actos van en la misma dirección que la promesa'], datos:['Datos','Qué dicen las cifras oficiales y los organismos independientes'], concrecion:['Concreción','Si el programa da cifra, plazo, financiación e instrumento']};
+const EST = {cumplido:['Cumplido','var(--n4)','✓'], parcial:['A medias','var(--n2)','◐'], en_curso:['En curso','var(--ink3)','…'], incumplido:['Incumplido','var(--n1)','✕'], contrario:['Hizo lo contrario','var(--n0)','⇄']};
+const CHEV = '<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>';
+const fechaLarga = f => { if(!f) return ''; const m = String(f).match(/^(\d{4})(?:-(\d{2}))?(?:-(\d{2}))?/); if(!m) return esc(f); const ms=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic']; return (m[3]?+m[3]+' ':'')+(m[2]?ms[+m[2]-1]+' ':'')+m[1]; };
+const guardar = (k, v) => { try { localStorage.setItem('c29n-' + k, JSON.stringify(v)); } catch (e) {} };
+const leer = (k, d) => { try { const v = JSON.parse(localStorage.getItem('c29n-' + k)); return v ?? d; } catch (e) { return d; } };
+const plano = s => String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+const FONDO = D.partidos.filter(p => p.n_contrastes);
+const PROG = D.programa || [], PASO = 30;
+const nmil = n => Number(n).toLocaleString('es-ES');
+const fprog = p => { const m = String(p.programa.fecha || '').match(/^\d{4}(-\d{2})?(-\d{2})?/); return m ? ' (' + fechaLarga(m[0]) + ')' : ''; };
+
+const S = {
+  tema: leer('tema', 'vivienda'),
+  sel: new Set((v => Array.isArray(v) ? v : D.partidos.filter(p => p.a_fondo).map(p => p.id))(leer('sel2', null)).filter(id => P[id])),
+  q: '', fPartido: 'todos', fTema: 'todos', orden: 'partido', fEstado: 'todos'
+};
+if (!T[S.tema]) S.tema = 'vivienda';
+
+const ring = (v, s = 46, w = 5) => { const r = (s - w) / 2, c = 2 * Math.PI * r, m = s / 2;
+  return `<svg class="ring" width="${s}" height="${s}" viewBox="0 0 ${s} ${s}" style="color:var(--ink)" role="img" aria-label="Plausibilidad ${v} sobre 100"><circle cx="${m}" cy="${m}" r="${r}" fill="none" stroke="var(--line)" stroke-width="${w}"/><circle cx="${m}" cy="${m}" r="${r}" fill="none" stroke="${nivelColor(v)}" stroke-width="${w}" stroke-linecap="round" stroke-dasharray="${(c * v / 100).toFixed(1)} ${c.toFixed(1)}" transform="rotate(-90 ${m} ${m})"/><text x="${m}" y="${m}" dy=".36em" text-anchor="middle" font-size="${(s * .34).toFixed(1)}" font-weight="820" fill="currentColor">${v}</text></svg>`; };
+const tag = p => `<span class="tag" style="${pcol(p)}">${esc(p.corto)}</span>`;
+const temaBtn = (t, attr, on) => `<button class="tema" ${attr}="${t.id}"${on === undefined ? '' : ` aria-pressed="${on}"`}><span class="ico" aria-hidden="true">${ICO[t.id] || '•'}</span><span>${esc(tnom(t.id))}</span></button>`;
+const largo = (txt, n = 300) => String(txt || '').length > n ? `<p class="clamp">${esc(txt)}</p><button class="mas" data-mas>Leer más</button>` : `<p>${esc(txt)}</p>`;
+const acord = (t, html, open) => html ? `<details class="acord"${open ? ' open' : ''}><summary>${t}${CHEV}</summary><div class="in">${html}</div></details>` : '';
+
+/* ---------- Inicio ---------- */
+function vInicio() {
+  const cuenta = k => D.balance.filter(b => b.estado === k).length;
+  return `<section class="hero">
+    <h1>Lo que prometen.<br><span>Y lo que consta.</span></h1>
+    <p>Programas, hechos y fuentes para decidir tu voto el 29 de noviembre.</p></section>
+    <div class="puertas">
+      <a class="puerta" href="#/comparar"><span class="n">1 · Propuestas</span><h2>¿Qué propone cada partido?</h2>
+        <div class="vis"><div class="mini-p">${D.partidos.filter(p => p.n_propuestas).map(p => `<span style="${pcol(p)}">${esc(p.corto)}</span>`).join('')}</div></div>
+        <div class="ir"><span>${PROG.length ? nmil(D.propuestas.length + PROG.length) + ' medidas' : D.propuestas.length + ' medidas'} · ${D.temas.length} temas</span><i aria-hidden="true">→</i></div></a>
+      <a class="puerta" href="#/contraste"><span class="n">2 · Contraste</span><h2>¿Es creíble lo que prometen?</h2>
+        <div class="vis"><div class="mini-tira">${D.contrastes.map(c => `<i style="left:${Math.min(97, Math.max(3, c.indice.valor))}%;--c:${P[c.partido].color}"></i>`).join('')}</div></div>
+        <div class="ir"><span>${D.contrastes.length} promesas a prueba</span><i aria-hidden="true">→</i></div></a>
+      <a class="puerta" href="#/balance"><span class="n">3 · Desde 2018</span><h2>¿Qué fue de lo que prometió Sánchez?</h2>
+        <div class="vis"><div class="evbar" style="height:34px;gap:4px">${Object.entries(EST).map(([k, [, col]]) => cuenta(k) ? `<i style="flex:${cuenta(k)};--k:${col};border-radius:10px"></i>` : '').join('')}</div></div>
+        <div class="ir"><span>${D.balance.length} compromisos revisados</span><i aria-hidden="true">→</i></div></a>
+    </div>
+    <div class="sec-t"><h2>Empieza por lo que te importa</h2></div>
+    <div class="temas" style="padding-bottom:50px">${D.temas.map(t => temaBtn(t, 'data-ir-tema')).join('')}</div>`;
+}
+
+/* ---------- Comparar ---------- */
+function vComparar() {
+  const nac = D.partidos.filter(p => p.ambito === 'nacional'), terr = D.partidos.filter(p => p.ambito !== 'nacional');
+  const chip = p => `<button class="pc" data-partido="${p.id}" aria-pressed="${S.sel.has(p.id)}" style="${pcol(p)}"><i></i>${esc(p.corto)}</button>`;
+  return `<section class="cab"><h1>¿Qué propone cada partido?</h1></section>
+    <div class="barra"><div class="temas" role="group" aria-label="Tema">${D.temas.map(t => temaBtn(t, 'data-tema', t.id === S.tema)).join('')}</div></div>
+    <div class="herr"><div class="pchips" role="group" aria-label="Partidos">${nac.map(chip).join('')}<span class="sep"></span>${terr.map(chip).join('')}</div></div>
+    <div class="herr"><label class="busca"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input id="q" type="search" placeholder="Buscar en los programas: alquiler, IRPF, sanidad…" value="${esc(S.q)}" aria-label="Buscar en los programas"></label>
+      <button class="txt" data-accion="nacionales">Solo nacionales</button><button class="txt" data-accion="todos">Todos</button><button class="txt" data-accion="ninguno">Ninguno</button></div>
+    <div id="cols"></div>`;
+}
+function pintaCols() {
+  const caja = $('#cols'); if (!caja) return;
+  const sel = D.partidos.filter(p => S.sel.has(p.id)), q = plano(S.q.trim());
+  if (!sel.length) { caja.innerHTML = `<div class="aviso">Toca un partido para ver sus propuestas.</div>`; return; }
+  const cols = sel.map(p => {
+    const casa = x => x.partido === p.id && (q.length >= 3 ? plano(x.titulo + ' ' + x.resumen + ' ' + x.cita).includes(q) : x.tema === S.tema);
+    const props = D.propuestas.filter(casa), mas = PROG.filter(casa), tot = props.length + mas.length;
+    return `<section class="col" style="${pcol(p)}">
+      <header><h2>${esc(p.nombre)}</h2><span>${tot} ${tot === 1 ? 'medida' : 'medidas'}</span></header>
+      ${props.map(x => propHTML(x, q.length >= 3)).join('') || (mas.length ? '' : `<div class="vacio">${!p.n_propuestas ? 'Sin programa publicado para el 29N.' : q.length >= 3 ? 'Nada sobre eso en su programa.' : 'Su programa no recoge medidas sobre este tema.'}</div>`)}
+      ${mas.length ? `<details class="masprog" data-mp="${p.id}"${q.length >= 3 ? ' open' : ''}><summary><span>${props.length ? 'Ver <b>' + mas.length + ' más</b> de su programa' : '<b>' + mas.length + (mas.length === 1 ? ' medida' : ' medidas') + '</b> en su programa'}</span>${CHEV}</summary><div class="lista"></div></details>` : ''}
+    </section>`;
+  }).join('');
+  setTimeout(() => $$('.masprog[open]', caja).forEach(m => { if (!$('.lista', m).childElementCount) pintaMas(m); }), 0);
+  caja.innerHTML = `${sel.length > 1 ? '<div class="pista-m">Desliza a los lados para cambiar de partido →</div>' : ''}<div class="cols${sel.length > 1 ? ' varias' : ''}">${cols}</div>`;
+}
+function pintaMas(det, hasta) {
+  const p = P[det.dataset.mp], q = plano(S.q.trim()), caja = $('.lista', det);
+  const mas = PROG.filter(x => x.partido === p.id && (q.length >= 3 ? plano(x.titulo + ' ' + x.resumen + ' ' + x.cita).includes(q) : x.tema === S.tema));
+  const n = Math.min(mas.length, hasta || PASO), ya = $$('.prop.mini', caja).length, viejo = $('.otra', caja);
+  if (viejo) viejo.outerHTML = '';
+  caja.insertAdjacentHTML('beforeend', mas.slice(ya, n).map(x => miniHTML(x, q.length >= 3)).join('') + (n < mas.length ? `<button class="otra" data-otra="${n + PASO}">Ver ${Math.min(PASO, mas.length - n)} más · quedan ${mas.length - n}</button>` : ''));
+  if (ya) $$('.prop.mini', caja)[ya]?.querySelector('summary').focus();
+}
+function miniHTML(x, conTema) {
+  const p = P[x.partido], enlace = p.programa.url ? `${url(p.programa.url)}${x.pagina ? '#page=' + x.pagina : ''}` : '#';
+  return `<details class="prop mini" style="--c:${p.color}">
+    <summary><span class="t">${conTema ? `<span class="tm">${esc(tnom(x.tema))}</span>` : ''}${esc(x.titulo)}</span>${CHEV}</summary>
+    <div class="det">${x.resumen ? `<p>${esc(x.resumen)}</p>` : ''}
+      <div class="cita">«${/^[a-záéíóúñ]/.test(x.cita) ? '… ' : ''}${esc(x.cita)}${/[.!?»]$/.test(x.cita) ? '' : '…'}»</div>
+      <div class="fte">Programa de ${esc(p.corto)}${fprog(p)}${x.pagina ? ', pág. ' + x.pagina + ' del PDF' : ''} · <a href="${enlace}" target="_blank" rel="noopener">abrir el original</a></div>
+      <div class="orig">Del inventario completo del programa. El resumen procede de una segunda edición de este comparador; la cita es un fragmento literal comprobado en el PDF. Sin contraste.</div>
+    </div></details>`;
+}
+function propHTML(x, conTema) {
+  const p = P[x.partido], c = CPORPROP[x.id], k = x.concrecion || {};
+  const enlace = (x.url || p.programa.url) ? `${url(x.url || p.programa.url)}${x.pagina ? '#page=' + x.pagina : ''}` : '#';
+  const cc = [['cifra', 'Cifra'], ['plazo', 'Plazo'], ['financiacion', 'Cómo se paga'], ['instrumento', 'Instrumento legal']].map(([a, b]) => `<span class="${k[a] ? 'si' : 'no'}">${k[a] ? '✓ ' : ''}${b}</span>`).join('');
+  return `<details class="prop" style="--c:${p.color}">
+    <summary><span class="t">${conTema ? `<span class="tm">${esc(tnom(x.tema))}</span>` : ''}${esc(x.titulo)}</span>${c ? ring(c.indice.valor, 38, 4) : ''}${CHEV}</summary>
+    <div class="det"><p>${esc(x.resumen)}</p>
+      <div class="cita">«${esc(x.cita)}»</div>
+      <div class="fte">Programa de ${esc(p.corto)}${fprog(p)}${x.pagina ? ', pág. ' + x.pagina + ' del PDF' : ''} · <a href="${enlace}" target="_blank" rel="noopener">abrir el original</a></div>
+      <div class="concr" title="Qué concreta el texto del programa">${cc}</div>
+      ${c ? `<button class="btn" data-ficha="c:${esc(x.id)}">¿Es creíble? Ver el contraste →</button>` : ''}
+    </div></details>`;
+}
+
+/* ---------- Contraste ---------- */
+function nube() {
+  const movil = innerWidth < 600, umbral = movil ? 6.5 : innerWidth < 900 ? 5 : 3.2, paso = movil ? 20 : 21;
+  const filas = FONDO.filter(p => S.fPartido === 'todos' || S.fPartido === p.id).map(p => {
+    const cs = D.contrastes.filter(c => c.partido === p.id && (S.fTema === 'todos' || c.tema === S.fTema)).sort((a, b) => a.indice.valor - b.indice.valor), niv = [];
+    const dots = cs.map(c => { let l = 0; while (niv[l] !== undefined && c.indice.valor - niv[l] < umbral) l++; niv[l] = c.indice.valor; return [c, l]; });
+    return `<div class="nfila"><div class="nnom" style="--c:${p.color}"><i></i><span>${esc(p.corto)}</span></div>
+      <div class="npista" style="height:${Math.max(1, niv.length) * paso + 10}px">${dots.map(([c, l]) => `<button class="ndot" data-ficha="c:${esc(c.propuesta_id)}" data-leg="${esc(p.corto)} · ${esc(c.promesa)}" data-v="${c.indice.valor}" style="left:${Math.min(98, Math.max(2, c.indice.valor))}%;bottom:${5 + l * paso}px;--c:${p.color}" aria-label="${esc(p.corto)}: ${esc(c.promesa)} ${c.indice.valor} sobre 100"></button>`).join('')}</div></div>`;
+  }).join('');
+  const zonas = movil ? [['0', 25, 'var(--n0)'], ['25', 20, 'var(--n1)'], ['45', 15, 'var(--n2)'], ['60', 15, 'var(--n3)'], ['75 – 100', 25, 'var(--n4)']] : [['Muy poco', 25, 'var(--n0)'], ['Poco', 20, 'var(--n1)'], ['Dudosa', 15, 'var(--n2)'], ['Plausible', 15, 'var(--n3)'], ['Muy plausible', 25, 'var(--n4)']];
+  return `<div class="nube">${filas}<div class="neje"><span></span><div>${zonas.map(([n, w, k]) => `<span style="flex:${w};--k:${k}">${n}</span>`).join('')}</div></div>
+    <div class="nleg" id="nleg">Cada punto es una promesa: más a la derecha, más creíble. Tócalo para ver las pruebas, o usa la lista de abajo.</div></div>`;
+}
+function vContraste() {
+  let lista = D.contrastes.filter(c => (S.fPartido === 'todos' || c.partido === S.fPartido) && (S.fTema === 'todos' || c.tema === S.fTema));
+  const ord = D.partidos.map(p => p.id);
+  if (S.orden === 'mayor') lista = [...lista].sort((a, b) => b.indice.valor - a.indice.valor);
+  else if (S.orden === 'menor') lista = [...lista].sort((a, b) => a.indice.valor - b.indice.valor);
+  else lista = [...lista].sort((a, b) => ord.indexOf(a.partido) - ord.indexOf(b.partido));
+  const temas = D.temas.filter(t => D.contrastes.some(c => c.tema === t.id));
+  return `<section class="cab"><h1>¿Es creíble lo que prometen?</h1>
+    <p>De 0 a 100: cuánto respaldan los hechos que cada promesa se cumpla. <a href="#/metodo"><b>Cómo se calcula</b></a></p></section>
+    ${nube()}
+    <div class="herr"><div class="pchips"><button class="pc todos" data-fp="todos" aria-pressed="${S.fPartido === 'todos'}">Todos</button>${FONDO.map(p => `<button class="pc" data-fp="${p.id}" aria-pressed="${S.fPartido === p.id}" style="${pcol(p)}"><i></i>${esc(p.corto)}</button>`).join('')}</div></div>
+    <div class="barra suelta"><div class="temas" role="group" aria-label="Tema"><button class="tema" data-ft="todos" aria-pressed="${S.fTema === 'todos'}"><span class="ico" aria-hidden="true">✳️</span><span>Todos</span></button>${temas.map(t => temaBtn(t, 'data-ft', t.id === S.fTema)).join('')}</div></div>
+    <div class="herr"><select class="sel" id="forden" aria-label="Orden">${[['partido', 'Ordenar por partido'], ['mayor', 'Más plausibles primero'], ['menor', 'Menos plausibles primero']].map(([a, b]) => `<option value="${a}"${S.orden === a ? ' selected' : ''}>${b}</option>`).join('')}</select></div>
+    <div class="grid">${lista.map(c => {
+      const p = P[c.partido], a = c.evidencias.filter(e => e.sentido === 'apoya').length, n = c.evidencias.filter(e => e.sentido === 'contradice').length;
+      return `<button class="card" data-ficha="c:${esc(c.propuesta_id)}">
+        <div class="sup">${tag(p)}<span>${esc(tnom(c.tema))}</span></div>
+        <div class="mid">${ring(c.indice.valor, 62, 6)}<h3>${esc(c.promesa)}</h3></div>
+        <div class="inf"><div class="evbar" aria-hidden="true"><i style="flex:${n};--k:var(--n0)"></i><i style="flex:${a};--k:var(--n4)"></i></div>
+        <div class="evtxt"><span><b style="--k:var(--n0)">${n}</b> en contra</span><span>${esc(c.indice.etiqueta)} · ±${c.indice.margen}</span><span><b style="--k:var(--n4)">${a}</b> a favor</span></div></div>
+      </button>`;
+    }).join('') || '<div class="aviso" style="grid-column:1/-1">No hay promesas contrastadas con ese filtro.</div>'}</div>`;
+}
+function veredicto(ix, titulo) {
+  const k = nivelColor(ix.valor), a = Math.max(0, ix.valor - ix.margen), b = Math.min(100, ix.valor + ix.margen);
+  const comps = ['historial', 'viabilidad', 'coherencia', 'datos', 'concrecion'].map(key => {
+    const c = ix.componentes[key], [n, d] = COMP[key], nulo = c.valor === null;
+    return `<details class="cp" style="--k:${nulo ? 'var(--ink3)' : nivelColor(c.valor)}"><summary title="${esc(d)}"><span>${n}</span>
+      <span class="pips${nulo ? ' nulo' : ''}" role="img" aria-label="${nulo ? 'sin historial' : c.nivel + ' de 4'}">${[1, 2, 3, 4].map(i => `<i class="${!nulo && i <= c.nivel ? 'on' : ''}"></i>`).join('')}</span>
+      <span class="peso">${nulo ? 'neutro' : c.nivel + '/4'} · ${String(c.peso).replace('.', ',')}%</span>${CHEV}</summary>
+      <p><b>${esc(d)}.</b> ${nulo ? 'Nunca han tenido poder sobre este asunto: cuenta como neutro (50 sobre 100), ni suma ni resta. ' : ''}${esc(c.por)}</p></details>`;
+  }).join('');
+  return `<div class="veredicto" style="--k:${k}">
+    <div class="anillo">${ring(ix.valor, 112, 10)}<div><div class="lab">${esc(ix.etiqueta)}</div><div class="mar">margen: ${a}–${b}</div></div></div>
+    <div class="comps"><div class="etq" style="margin-bottom:4px">${titulo}</div>${comps}${ix.topes.map(t => `<div class="tope">${esc(t)}</div>`).join('')}<div class="fte" style="margin-top:8px">Media ponderada: ${String(ix.base).replace('.', ',')}${ix.topes.length ? ' → con tope' : ''} → <b>${ix.valor}</b></div></div></div>`;
+}
+function evidencias(evs) {
+  const n = s => evs.filter(e => e.sentido === s).length;
+  const filtros = ['contradice', 'apoya', 'contexto'].filter(n).map(s => `<button class="fe" data-fev="${s}" aria-pressed="true" style="--k:${SENT[s][1]}"><i></i>${SENT[s][0]} · ${n(s)}</button>`).join('');
+  const orden = {contradice: 0, apoya: 1, contexto: 2};
+  return `<div class="filtro-ev">${filtros}</div>` + [...evs].sort((a, b) => orden[a.sentido] - orden[b.sentido]).map(e => `<details class="ev" data-s="${e.sentido}" style="--k:${(SENT[e.sentido] || SENT.contexto)[1]}">
+    <summary><div class="tt"><h4>${esc(e.titulo)}</h4><div class="me"><span style="color:var(--k)">${(SENT[e.sentido] || SENT.contexto)[0]}</span><span>· ${esc(TIPO[e.tipo] || e.tipo)}</span>${e.fecha ? `<span>· ${fechaLarga(e.fecha)}</span>` : ''}
+      ${e.estado_judicial ? `<span class="flag j">${esc(JUD[e.estado_judicial] || e.estado_judicial)}</span>` : ''}${e.fuente_unica ? '<span class="flag">Una sola fuente</span>' : ''}${e.verificado ? '' : '<span class="flag">Enlace sin verificar</span>'}</div></div>${CHEV}</summary>
+    <div class="in"><p>${esc(e.hecho)}</p><div class="fte">${esc(e.id || '')} · Fuente: <a href="${url(e.url)}" target="_blank" rel="noopener">${esc(e.fuente)}</a>${e.nota ? ` · ${esc(e.nota)}` : ''}</div></div></details>`).join('');
+}
+const pestañas = ps => `<div class="seg" role="tablist">${ps.map(([t, n], i) => `<button role="tab" data-st="${i}" aria-selected="${i === 0}">${t}${n != null ? `<span>${n}</span>` : ''}</button>`).join('')}</div>`;
+const incert = ix => acord('¿Por qué ese margen de error?', `<p>${esc(ix.margen_por.join('; '))}.</p>`);
+function fichaContraste(id) {
+  const c = CPORPROP[id]; if (!c) return null;
+  const p = P[c.partido], x = PROP[id], gob = {estatal: 'Ha gobernado España', autonomico: 'Ha gobernado en comunidades', municipal: 'Ha gobernado en ayuntamientos', nunca: 'Nunca ha gobernado'}[c.ha_gobernado] || '';
+  const k = x.concrecion || {};
+  return {cab: `${tag(p)}<span>${esc(tnom(c.tema))}</span>${gob ? `<span>· ${gob}</span>` : ''}`,
+    top: `<h2 id="ficha-t">${esc(c.promesa)}</h2>${veredicto(c.indice, 'De dónde sale el número')}
+      ${pestañas([['Lo esencial'], ['Pruebas', c.evidencias.length], ['El programa']])}`,
+    panes: [`<h3>En resumen</h3>${largo(c.resumen)}
+      ${acord('Matiz para no leerlo mal', c.matiz ? `<p>${esc(c.matiz)}</p>` : '')}
+      ${acord('Lo que prometieron antes', c.antecedentes ? `<p>${esc(c.antecedentes)}</p>` : '')}
+      ${acord('Cómo pusimos a prueba la evidencia', c.refutacion ? `<p>${esc(c.refutacion)}</p>` : '')}
+      ${incert(c.indice)}`,
+      evidencias(c.evidencias),
+      `<h3>Lo que dice el programa</h3><div class="cita" style="--c:${p.color}">«${esc(x.cita)}»</div>
+      <div class="fte">Programa de ${esc(p.corto)}${fprog(p)}${x.pagina ? ', pág. ' + x.pagina + ' del PDF' : ''} · <a href="${url(p.programa.url)}${x.pagina ? '#page=' + x.pagina : ''}" target="_blank" rel="noopener">abrir el original</a></div>
+      <h3>Qué concreta</h3><div class="concr">${[['cifra', 'Cifra'], ['plazo', 'Plazo'], ['financiacion', 'Cómo se paga'], ['instrumento', 'Instrumento legal']].map(([a, b]) => `<span class="${k[a] ? 'si' : 'no'}">${k[a] ? '✓ ' : ''}${b}</span>`).join('')}</div>
+      <h3>En pocas palabras</h3><p>${esc(x.resumen)}</p>`]};
+}
+
+/* ---------- Balance ---------- */
+const nfmt = v => Number(v).toLocaleString('es-ES', {maximumFractionDigits: Math.abs(v) >= 1000 ? 0 : Math.abs(v) >= 100 ? 1 : 2});
+const conm = datos => D.espana ? `<div class="conm"><a href="#/balance" aria-current="${!datos}">Compromisos</a><a href="#/balance/datos" aria-current="${!!datos}">España en datos</a></div>` : '';
+const SEN = {mejora: ['Mejor', 'var(--n4)'], empeora: ['Peor', 'var(--n0)'], igual: ['Igual', 'var(--ink3)'], neutro: ['Sin valorar', 'var(--ink3)']};
+function datoCard(i, enFicha) {
+  const [et, k] = SEN[i.sentido] || SEN.neutro, sube = i.valor_actual > i.valor_2018, corto = /^(%|€|días|puntos)/.test(i.unidad), u = corto ? `<span>${esc(i.unidad.split(' ')[0])}</span>` : '';
+  if (i.sentido === 'unico') return `<article class="dato"><h3>${esc(i.nombre)}</h3>
+    <div class="vs" style="grid-template-columns:1fr"><div class="v"><small>${esc(i.periodo_actual)}</small><b>${nfmt(i.valor_actual)}${u || `<span>${esc(i.unidad)}</span>`}</b></div></div>
+    <details><summary>${esc(i.unidad)} · Fuente y contexto ▾</summary><p>${i.ojo ? `<b>Ojo:</b> ${esc(i.ojo)} ` : ''}${i.nota ? esc(i.nota) + ' ' : ''}Fuente: <a href="${url(i.url)}" target="_blank" rel="noopener"><b>${esc(i.fuente)}</b></a>${i.calculo_propio ? ' · <span class="flag">Cálculo propio con datos oficiales</span>' : ''}${i.verificado ? '' : ' · <span class="flag">Dato tomado de prensa, no del original</span>'}</p></details></article>`;
+  return `<article class="dato"><h3>${esc(i.nombre)}</h3>
+    <div class="vs"><div class="v antes"><small>${esc(i.periodo_2018)}</small><b>${nfmt(i.valor_2018)}${u}</b></div><span class="fl" aria-hidden="true">→</span>
+    <div class="v"><small>${esc(i.periodo_actual)}</small><b>${nfmt(i.valor_actual)}${u}</b></div></div>
+    <div class="cambio" style="--k:${k}"><span class="p">${sube ? '▲ +' : i.valor_actual < i.valor_2018 ? '▼ −' : ''}${nfmt(Math.abs(i.cambio_pct))} %${i.cambio_puntos != null && /^%/.test(i.unidad) ? ` <span style="font-size:.76rem;font-weight:700">(${i.cambio_puntos > 0 ? '+' : '−'}${nfmt(Math.abs(i.cambio_puntos))} puntos)</span>` : ''}</span><span class="e">${et}</span></div>
+    ${i.ver && !enFicha ? `<button class="detras" data-ficha="f:${esc(i.ver)}">¿Qué hay detrás de este dato? →</button>` : ''}
+    <details><summary>${esc(i.unidad)} · Fuente y contexto ▾</summary><p>${i.ojo ? `<b>Ojo:</b> ${esc(i.ojo)} ` : ''}${i.nota ? esc(i.nota) + ' ' : ''}Fuente: <a href="${url(i.url)}" target="_blank" rel="noopener"><b>${esc(i.fuente)}</b></a>${i.calculo_propio ? ' · <span class="flag">Cálculo propio con datos oficiales</span>' : ''}${i.verificado ? '' : ' · <span class="flag">Dato tomado de prensa, no del original</span>'}</p></details></article>`;
+}
+function fichaFondo(id) {
+  let an, bl; (D.espana?.fondo || []).forEach(b => b.analisis.forEach(a => { if (a.id === id) { an = a; bl = b; } }));
+  if (!an) return null;
+  const celda = v => typeof v === 'number' ? nfmt(v) : esc(v ?? '–');
+  const clave = (an.clave ? an.clave.map(k => an.indicadores.find(i => i.id === k)).filter(Boolean) : an.indicadores).filter(i => i.sentido !== 'unico').slice(0, 2), nLetra = an.ojo.length + (an.no_se_puede_saber ? 1 : 0);
+  const tablas = an.tablas.map(tb => `<div class="tabla-f"><table><caption>${esc(tb.titulo)}</caption><tr>${tb.columnas.map(c => `<th>${esc(c)}</th>`).join('')}</tr>${tb.filas.map(f => `<tr>${f.map(v => `<td>${celda(v)}</td>`).join('')}</tr>`).join('')}</table>
+        <div class="pie">${tb.periodos ? esc(tb.periodos) + ' · ' : ''}${tb.nota ? esc(tb.nota) + ' ' : ''}Fuente: <a href="${url(tb.url)}" target="_blank" rel="noopener"><b>${esc(tb.fuente)}</b></a>${tb.calculo_propio ? ' · <span class="flag">Cálculo propio con datos oficiales</span>' : ''}${tb.verificado === false ? ' · <span class="flag">Dato tomado de prensa, no del original</span>' : ''}</div></div>`).join('');
+  return {cab: `<span class="tag" style="--c:var(--ink);--t:var(--bg)">${esc(bl.bloque)}</span><span>España en datos · 2018 frente a hoy</span>`,
+    top: `<h2 id="ficha-t">${esc(an.titulo)}</h2>${pestañas([['En corto'], ['Los datos', an.indicadores.length + an.tablas.length]].concat(nLetra ? [['Letra pequeña', nLetra]] : []))}`,
+    panes: [`<ol class="pasos">
+      ${an.relato ? `<li><span class="nodo">1</span><h3>Lo que se suele decir</h3><p class="relato">${esc(an.relato)}</p></li>` : ''}
+      <li style="--k:var(--n3)"><span class="nodo">✓</span><h3>Lo que sale al mirar los datos</h3><div class="caja fuerte"><p class="concl">${esc(an.conclusion || an.lectura)}</p></div></li>
+      ${clave.length ? `<li><span class="nodo">3</span><h3>${clave.length > 1 ? 'Los dos datos clave' : 'El dato clave'}</h3><div class="dgrid" style="grid-template-columns:repeat(auto-fit,minmax(220px,1fr))">${clave.map(i => datoCard(i, true)).join('')}</div></li>` : ''}</ol>
+      ${an.conclusion ? acord('La explicación completa, con todas las cifras', `<p>${esc(an.lectura)}</p>`) : ''}`,
+      `${an.indicadores.length ? `<div class="dgrid">${an.indicadores.map(i => datoCard(i, true)).join('')}</div>` : ''}${tablas}`]
+      .concat(nLetra ? [`${an.ojo.length ? `<h3>Para no leerlo mal</h3><ul class="ojos">${an.ojo.map(o => `<li class="ojo"><span>${esc(o)}</span></li>`).join('')}</ul>` : ''}
+      ${an.no_se_puede_saber ? `<h3>Lo que no se puede saber con estos datos</h3><p>${esc(an.no_se_puede_saber)}</p>` : ''}`] : [])};
+}
+function vDatos() {
+  const E = D.espana, F = E.fondo || [];
+  const n = s => E.indicadores.filter(i => i.sentido === s).length, grupos = [...new Set(E.indicadores.map(i => i.bloque))];
+  const uni = u => /^(%|€)/.test(u) ? u : ' ' + u;
+  return `<section class="cab"><h1>España en datos: 2018 frente a hoy</h1>
+    <p>Del año en que Sánchez llegó al Gobierno al último dato oficial publicado.</p></section>
+    ${conm(true)}
+    <div class="pila" style="pointer-events:none">${['mejora', 'empeora', 'neutro'].map(s => n(s) ? `<button tabindex="-1" style="flex:${n(s)};--k:${SEN[s][1]}">${n(s)}<small>${s === 'mejora' ? 'Mejoran' : s === 'empeora' ? 'Empeoran' : 'Sin valorar'}</small></button>` : '').join('')}</div>
+    ${F.length ? `<div class="dgrupo"><h2>Lo que hay detrás del titular</h2><span class="fte">${F.reduce((s, b) => s + b.analisis.length, 0)} análisis</span></div>
+      <div class="pchips" style="margin-bottom:12px">${F.map((bl, k) => `<button class="pc todos" data-fb="${k}" aria-pressed="${k === (S.fb || 0)}">${esc(bl.bloque)}</button>`).join('')}</div>
+      <div class="fgrid">${F[S.fb || 0].analisis.map(an => `<button class="fcard" data-ficha="f:${esc(an.id)}"><h3>${esc(an.titulo)}</h3><span class="ir">Ver el análisis →</span></button>`).join('')}</div>
+      <div class="dgrupo"><h2>Todos los indicadores</h2></div>` : ''}
+    ${grupos.map(g => `<div class="dgrupo"><h2>${esc(g)}</h2></div><div class="dgrid">${E.indicadores.filter(i => i.bloque === g).map(datoCard).join('')}</div>`).join('')}
+    <div class="aviso" style="text-align:left;margin-top:22px"><b>Para leerlo bien.</b> ${esc(E.advertencia || '')} Los importes en euros son nominales: compáralos con la subida de precios del mismo periodo. «Sin valorar» son los datos donde decir si subir es bueno o malo es una opinión.</div>`;
+}
+function vBalance() {
+  if (ruta().id === 'datos' && D.espana) return vDatos();
+  const cuenta = k => D.balance.filter(b => b.estado === k).length;
+  const lista = D.balance.filter(b => S.fEstado === 'todos' || b.estado === S.fEstado).sort((a, b) => String(a.cita_fecha).localeCompare(String(b.cita_fecha)));
+  return `<section class="cab"><h1>¿Qué fue de lo que prometió Sánchez?</h1>
+    <p>${D.balance.length} compromisos desde la moción de censura de 2018. Toca un color para filtrar.</p></section>
+    ${conm(false)}
+    <div class="pila${S.fEstado === 'todos' ? '' : ' filtrada'}" role="group" aria-label="Estado">${Object.entries(EST).map(([k, [n, col]]) => cuenta(k) ? `<button data-fe="${k}" aria-pressed="${S.fEstado === k}" style="flex:${cuenta(k)};--k:${col}" title="${n}">${cuenta(k)}<small>${n}</small></button>` : '').join('')}</div>
+    ${S.fEstado === 'todos' ? '' : `<button class="txt" data-fe="todos">Ver los ${D.balance.length}</button>`}
+    <div class="grid">${lista.map(b => { const [n, col, ic] = EST[b.estado] || EST.en_curso; return `<button class="card" data-ficha="b:${esc(b.id)}">
+      <div class="sup"><span class="est" style="--k:${col}"><i aria-hidden="true">${ic}</i>${n}</span><span style="margin-left:auto">${String(b.cita_fecha || '').slice(0, 4)} · ${esc(tnom(b.tema))}</span></div>
+      <h3>${esc(b.titulo)}</h3>
+      <div class="ahora">${b.indice ? `${ring(b.indice.valor, 40, 4)}<span><b>Lo vuelve a prometer</b>${esc(b.indice.etiqueta)} · ±${b.indice.margen}</span>` : '<span>El programa de 2026 no recoge un compromiso nuevo sobre esto</span>'}</div>
+    </button>`; }).join('')}</div>
+    ${D.balance_nota ? acord('Cómo se eligieron estos compromisos', `<p>${esc(D.balance_nota)}</p>`) : ''}<div style="height:50px"></div>`;
+}
+function fichaBalance(id) {
+  const b = D.balance.find(x => x.id === id); if (!b) return null;
+  const [en, ec, ic] = EST[b.estado] || EST.en_curso, pr = b.promesa_2026, psoe = P.psoe, evs = b.evidencias || [];
+  return {cab: `<span class="est" style="--k:${ec}"><i aria-hidden="true">${ic}</i>${esc(en)}</span><span>· ${esc(tnom(b.tema))}</span>`,
+    top: `<h2 id="ficha-t">${esc(b.titulo)}</h2>${b.compromiso ? `<p style="color:var(--ink2);margin-top:8px;font-size:.95rem">${esc(b.compromiso)}</p>` : ''}${pestañas([['La historia'], ['Pruebas', evs.length]].concat(b.indice ? [['El número']] : []))}`,
+    panes: [`<ol class="pasos">
+      <li><span class="nodo">1</span><h3>Lo que dijo · ${fechaLarga(b.cita_fecha)}</h3><div class="cita" style="margin-top:0">«${esc(b.cita)}»</div>
+        <div class="fte"><a href="${url(b.cita_url)}" target="_blank" rel="noopener">${esc(b.cita_fuente)}</a></div></li>
+      <li style="--k:${ec}"><span class="nodo">${ic}</span><h3>Lo que pasó · ${esc(en)}</h3><div class="caja">${largo(b.que_paso, 260)}</div></li>
+      <li><span class="nodo">3</span><h3>El dato hoy</h3><div class="caja fuerte"><p>${esc(b.dato_actual?.texto || '')}</p>
+        <div class="fte" style="margin-top:6px">Fuente: <a href="${url(b.dato_actual?.url)}" target="_blank" rel="noopener">${esc(b.dato_actual?.fuente || '')}</a></div></div></li>
+      <li><span class="nodo">4</span><h3>Lo que promete ahora</h3>${pr ? `<div class="caja">${largo(pr.texto, 260)}${pr.cita ? `<div class="cita" style="--c:${psoe.color}">«${esc(pr.cita)}»</div><div class="fte">Programa del PSOE${pr.pagina ? ', pág. ' + pr.pagina : ''} · <a href="${url(psoe.programa.url)}${pr.pagina ? '#page=' + pr.pagina : ''}" target="_blank" rel="noopener">abrir el original</a></div>` : ''}
+        ${b.indice ? `<div style="display:flex;align-items:center;gap:12px;margin-top:12px">${ring(b.indice.valor, 52, 5)}<div><b style="color:${nivelColor(b.indice.valor)}">${esc(b.indice.etiqueta)}</b><div class="fte">Plausibilidad de que lo cumpla · ±${b.indice.margen}</div></div></div>` : ''}</div>` : '<div class="caja"><p>El programa del PSOE para el 29N no recoge ningún compromiso sobre este asunto.</p></div>'}</li></ol>
+      ${acord('Matiz para no leerlo mal', b.matiz ? `<p>${esc(b.matiz)}</p>` : '')}`,
+      evidencias(evs)].concat(b.indice ? [`${veredicto(b.indice, 'Plausibilidad de que cumpla lo que promete ahora')}${incert(b.indice)}`] : [])};
+}
+
+/* ---------- Método ---------- */
+function vMetodo() {
+  const w = D.pesos, nEv = D.contrastes.reduce((a, c) => a + c.evidencias.length, 0) + D.balance.reduce((a, c) => a + (c.evidencias || []).length, 0);
+  const zonas = [['Muy poco', '0–24', 'var(--n0)'], ['Poco', '25–44', 'var(--n1)'], ['Dudosa', '45–59', 'var(--n2)'], ['Plausible', '60–74', 'var(--n3)'], ['Muy plausible', '75–100', 'var(--n4)']];
+  return `<section class="cab"><h1>Cómo está hecho</h1></section>
+  <div class="cifras"><div><b class="num">${D.propuestas.length}</b><span>propuestas destacadas de ${D.partidos.filter(p => p.n_propuestas).length} programas</span></div>${PROG.length ? `<div><b class="num">${nmil(PROG.length)}</b><span>medidas más del inventario completo</span></div>` : ''}<div><b class="num">${D.contrastes.length}</b><span>promesas contrastadas</span></div><div><b class="num">${D.balance.length}</b><span>compromisos desde 2018</span></div><div><b class="num">${nEv}</b><span>pruebas enlazadas</span></div></div>
+  <div class="panel"><h2>El porcentaje, en una imagen</h2><p>Si este partido gobernara, ¿cuánto respaldan los hechos que la promesa se cumpla? Cinco ingredientes con peso fijo, iguales para todos:</p>
+    <div class="pesos">${['historial', 'viabilidad', 'coherencia', 'datos', 'concrecion'].map(k => `<div class="pw"><b>${COMP[k][0]}</b><span class="b"><i style="width:${w[k] / 30 * 100}%"></i></span><em>${w[k]}%</em><small>${COMP[k][1]}</small></div>`).join('')}</div>
+    <div class="escala">${zonas.map(([n, r, k]) => `<div style="--k:${k}">${n}<b>${r}</b></div>`).join('')}</div></div>
+  <div class="prosa">
+    ${acord('Cómo se puntúa', `<p>Niveles: 0 → 0, 1 → 25, 2 → 50, 3 → 75, 4 → 100 puntos. Se multiplica cada uno por su peso, se suman y se redondea (,5 hacia arriba).</p><p>Cada ingrediente se puntúa de 0 a 4 con criterios fijos y se convierte a una escala de 0 a 100. El índice es la media ponderada. No es una probabilidad estadística ni una predicción: es un resumen ordenado y reproducible de lo encontrado.</p>`)}
+    ${acord('Reglas especiales: sin historial, topes y margen', `<ul><li><b>Sin historial:</b> si el partido nunca ha tenido poder sobre ese asunto, el historial cuenta como neutro (50 sobre 100) y el margen de incertidumbre aumenta. No haber gobernado no suma ni resta.</li>
+    <li><b>Topes:</b> una promesa que exige reforma constitucional agravada o es jurídicamente inviable no puede pasar de 20; una que choca con el derecho europeo o el Tribunal Constitucional, de 45; una que ya se prometió con poder para cumplirla y no se cumplió, de 50.</li>
+    <li><b>Margen (±):</b> parte de 6 puntos y crece cuando no hay historial, hay pocas evidencias verificadas, alguna es de fuente única o la evidencia es sólida en los dos sentidos.</li></ul>`)}
+    ${acord('De dónde salen las propuestas', `<p>De los programas oficiales publicados por cada partido para el 29N. Cada propuesta lleva una cita literal y la página del PDF, y un programa informático comprueba que la cita está en el documento. El resumen es nuestro, en lenguaje llano; la cita es suya.</p>
+    ${PROG.length ? `<p><b>Dos niveles.</b> Las <b>${D.propuestas.length} destacadas</b> las elegimos y resumimos nosotros, con su grado de concreción. Debajo de ellas, «Ver más de su programa» abre otras <b>${nmil(PROG.length)} medidas</b> que proceden del inventario de una segunda edición independiente de este comparador (Codex): el resumen es suyo y la clasificación por temas es nuestra. Solo se han incorporado las medidas cuya cita literal localizamos en el mismo PDF oficial; no tienen contraste ni índice.</p>` : ''}
+    <div class="tabla"><table><tr><th>Partido</th><th>Documento</th><th>Fecha</th><th>Págs.</th><th>Huella</th></tr>
+    ${D.partidos.map(p => `<tr><td><b>${esc(p.corto)}</b></td><td>${p.programa.url ? `<a href="${url(p.programa.url)}" target="_blank" rel="noopener">${esc(p.programa.titulo || 'Programa 29N')}</a>` : 'Sin programa localizado. ' + esc(p.nota || '')}</td><td>${fprog(p).replace(/[()]/g, '').trim() || 'noviembre de 2026, sin fecha en el documento'}</td><td>${p.programa.paginas || '–'}</td><td><code>${p.programa.sha256 ? p.programa.sha256.slice(0, 12) : '–'}</code></td></tr>`).join('')}</table></div>`)}
+    ${acord('Cómo se contrasta una promesa', `<p>De cada partido nacional se han elegido promesas emblemáticas de temas distintos. Para cada una se busca: qué prometieron antes y qué fue de ello; qué hicieron donde gobiernan o gobernaron (Estado, comunidades, ayuntamientos); qué han votado; qué dicen las cifras oficiales; y qué necesita la medida para aplicarse.</p>
+    <p><b>Prueba de refutación en los dos sentidos.</b> Primero se intenta demostrar que la promesa no es creíble. Después se intenta demostrar que esa evidencia en contra es falsa, exagerada o está sacada de contexto. Lo que resiste las dos pruebas es lo que ves.</p>`)}
+    ${acord('Regla de fuentes: el mismo listón para todos', `<ul><li><b>Primero, documentos:</b> BOE, votaciones del Congreso, INE, Eurostat, Banco de España, AIReF, Tribunal de Cuentas, sentencias y autos, y los propios programas.</li>
+    <li><b>Después, verificadores e informes independientes.</b></li>
+    <li><b>La prensa, de cualquier línea editorial, solo para hechos</b> y con la misma exigencia. Ninguna cabecera se da por buena ni se veta de antemano. Si un hecho solo lo sostiene un medio, se marca «Una sola fuente».</li>
+    <li>Si no pudimos abrir un enlace para comprobarlo, se marca «Enlace sin verificar».</li>
+    <li><b>En asuntos judiciales</b> se indica siempre el estado exacto. Investigado o procesado no es condenado.</li>
+    <li><b>No se juzgan intenciones.</b> Votar contra una ley no equivale a estar contra aquello que la ley dice proteger: se recoge el motivo alegado. Los textos describen hechos; las etiquetas («Dudosa», «Incumplido»…) solo resumen la puntuación. Tú decides.</li></ul>`)}
+    ${acord('Límites que debes conocer', `<ul><li>La puntuación de cada componente es un juicio razonado, no una medición. Por eso se muestra la justificación y las pruebas: si no estás de acuerdo con un nivel, puedes ver por qué se puso.</li>
+    <li>El índice no dice si una medida es buena o mala, solo cómo de creíble es que se cumpla.</li>
+    <li>No contempla la aritmética parlamentaria que salga de las urnas: un partido sin mayoría puede no poder aplicar ni lo más viable.</li>
+    <li>Solo se han contrastado algunas promesas por partido. Que una no esté no significa nada.</li>
+    <li>Quien ha gobernado acumula más hechos comprobables, así que la cantidad de pruebas no es igual entre partidos.</li>
+    <li>Los seis partidos de ámbito nacional tienen contraste completo; los territoriales, solo sus propuestas.</li>
+    <li>El balance desde 2018 revisa solo a Sánchez porque es quien ha gobernado España en ese periodo; de los demás se contrasta lo que hicieron donde tuvieron poder.</li>
+    <li>Los datos se cerraron el ${fechaLarga(D.generado)}. Lo ocurrido después no está.</li></ul>`, true)}
+    ${acord('Datos abiertos', `<p>Todo lo que ves está en <a href="datos.json">datos.json</a>: propuestas, evidencias, niveles y resultado. Puedes recalcular cada porcentaje con la fórmula de esta página. El detalle completo está en <a href="metodologia.md">metodologia.md</a>.</p>`)}
+  </div><div style="height:50px"></div>`;
+}
+
+/* ---------- Navegación ---------- */
+const dlg = $('#ficha'), TABS = ['inicio', 'comparar', 'contraste', 'balance', 'metodo'];
+function abrirFicha(clave, empuja = true) {
+  const [t, id] = [clave[0], clave.slice(2)], f = t === 'c' ? fichaContraste(id) : t === 'f' ? fichaFondo(id) : fichaBalance(id);
+  if (!f) return;
+  dlg.innerHTML = `<div class="dh"><div class="sup">${f.cab}</div><button class="x" aria-label="Cerrar">×</button></div>
+    <div class="db"><div class="dtop">${f.top}</div>${f.panes.map((h, i) => `<section class="pan" data-sp="${i}"${i ? ' hidden' : ''}>${h}</section>`).join('')}</div>`;
+  if (!dlg.open) dlg.showModal();
+  $('.db', dlg).scrollTop = 0;
+  if (empuja) { try { history.pushState({ficha: clave}, '', `#/${t === 'c' ? 'contraste' : t === 'f' ? 'balance/datos' : 'balance'}/${encodeURIComponent(id)}`); } catch (e) {} }
+}
+function cerrarFicha() { if (dlg.open) dlg.close(); }
+const salir = () => history.state?.ficha ? history.back() : (cerrarFicha(), location.hash = '#/' + ruta().tab + (ruta().sub ? '/datos' : ''));
+dlg.addEventListener('click', e => {
+  if (e.target === dlg || e.target.closest('.x')) return salir();
+  const b = e.target.closest('button'); if (!b) return;
+  const d = b.dataset;
+  if (d.ficha) return abrirFicha(d.ficha);
+  if (d.st !== undefined) { $$('[data-st]', dlg).forEach(x => x.setAttribute('aria-selected', x === b)); $$('[data-sp]', dlg).forEach(x => x.hidden = x.dataset.sp !== d.st); }
+  else if (d.fev) { const on = b.getAttribute('aria-pressed') !== 'true'; b.setAttribute('aria-pressed', on); $$(`.ev[data-s="${d.fev}"]`, b.closest('.pan')).forEach(x => x.hidden = !on); }
+  else if ('mas' in d) { const p = b.previousElementSibling, on = p.classList.toggle('abierto'); b.textContent = on ? 'Leer menos' : 'Leer más'; }
+});
+dlg.addEventListener('cancel', e => { e.preventDefault(); salir(); });
+function ruta() { const [, tab = '', id, sub] = location.hash.split('/'); return {tab: TABS.includes(tab) ? tab : 'inicio', id: id ? decodeURIComponent(id) : null, sub: sub ? decodeURIComponent(sub) : null}; }
+let tabActual = null;
+let origen = null, vistaDatos = false;
+function pinta(mantener) {
+  const r = ruta(), y = scrollY;
+  if (mantener && tabActual === r.tab && dlg.open && (vistaDatos ? r.id === 'datos' && !r.sub : !r.id)) { cerrarFicha(); if (origen && document.contains(origen)) origen.focus({preventScroll: true}); return; }
+  $('#app').innerHTML = {inicio: vInicio, comparar: vComparar, contraste: vContraste, balance: vBalance, metodo: vMetodo}[r.tab]();
+  if (r.tab === 'contraste') { const on = $('.barra .tema[aria-pressed=true]'), c = on?.parentElement; if (on) c.scrollLeft += on.getBoundingClientRect().left - c.getBoundingClientRect().left - (c.clientWidth - on.offsetWidth) / 2; }
+  if (r.tab === 'comparar') { pintaCols(); $('.barra .tema[aria-pressed=true]')?.scrollIntoView({block: 'nearest', inline: 'center'}); }
+  $$('nav.tabs a').forEach(a => a.dataset.tab === r.tab ? a.setAttribute('aria-current', 'page') : a.removeAttribute('aria-current'));
+  if (tabActual !== r.tab || vistaDatos !== (r.tab === 'balance' && r.id === 'datos')) scrollTo(0, 0); else if (mantener) scrollTo(0, y);
+  tabActual = r.tab; vistaDatos = r.tab === 'balance' && r.id === 'datos';
+  if (r.id && r.tab === 'contraste') abrirFicha('c:' + r.id, false); else if (r.id && r.id !== 'datos' && r.tab === 'balance') abrirFicha('b:' + r.id, false); else if (r.tab === 'balance' && r.id === 'datos' && r.sub) abrirFicha('f:' + r.sub, false); else cerrarFicha();
+}
+addEventListener('hashchange', () => pinta(true));
+addEventListener('popstate', () => pinta(true));
+document.addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b || dlg.contains(b)) return;
+  const d = b.dataset;
+  if (d.ficha) { origen = b; return abrirFicha(d.ficha); }
+  if (d.otra) return pintaMas(b.closest('.masprog'), +d.otra);
+  if (d.irTema) { S.tema = d.irTema; S.q = ''; guardar('tema', S.tema); location.hash = '#/comparar'; return; }
+  if (d.tema) { S.tema = d.tema; S.q = ''; guardar('tema', S.tema); const q = $('#q'); if (q) q.value = '';
+    $$('.barra .tema').forEach(x => x.setAttribute('aria-pressed', x.dataset.tema === S.tema)); b.scrollIntoView({block: 'nearest', inline: 'center', behavior: 'smooth'}); return pintaCols(); }
+  if (d.partido) { S.sel.has(d.partido) ? S.sel.delete(d.partido) : S.sel.add(d.partido); guardar('sel2', [...S.sel]); b.setAttribute('aria-pressed', S.sel.has(d.partido)); return pintaCols(); }
+  if (d.accion) { S.sel = new Set(d.accion === 'ninguno' ? [] : D.partidos.filter(p => d.accion === 'todos' || p.a_fondo).map(p => p.id)); guardar('sel2', [...S.sel]);
+    $$('.pc[data-partido]').forEach(x => x.setAttribute('aria-pressed', S.sel.has(x.dataset.partido))); return pintaCols(); }
+  if (d.fp) S.fPartido = d.fp; else if (d.ft) S.fTema = d.ft; else if (d.fb !== undefined) S.fb = +d.fb; else if (d.fe) S.fEstado = S.fEstado === d.fe ? 'todos' : d.fe;
+  else return;
+  pinta(true);
+});
+document.addEventListener('toggle', e => { const m = e.target; if (m.classList?.contains('masprog') && m.open && !$('.lista', m).childElementCount) pintaMas(m); }, true);
+document.addEventListener('input', e => { if (e.target.id === 'q') { S.q = e.target.value; const on = plano(S.q.trim()).length >= 3; $$('.barra .tema').forEach(x => x.setAttribute('aria-pressed', !on && x.dataset.tema === S.tema)); pintaCols(); } });
+document.addEventListener('change', e => { if (e.target.id === 'ftema') { S.fTema = e.target.value; pinta(true); } else if (e.target.id === 'forden') { S.orden = e.target.value; pinta(true); } });
+const leyenda = e => { const b = e.target.closest?.('.ndot'), l = $('#nleg'); if (b && l) l.innerHTML = `<b>${b.dataset.v}%</b> · ${esc(b.dataset.leg)}`; };
+document.addEventListener('mouseover', leyenda); document.addEventListener('focusin', leyenda);
+let rz, aw = innerWidth; addEventListener('resize', () => { clearTimeout(rz); rz = setTimeout(() => { if (innerWidth !== aw && ruta().tab === 'contraste' && !dlg.open) pinta(true); aw = innerWidth; }, 200); });
+(() => { const dias = Math.ceil((new Date('2026-11-29T00:00:00') - new Date()) / 864e5);
+  $('#cuenta').textContent = dias > 1 ? `Faltan ${dias} días` : dias === 1 ? 'Mañana se vota' : dias === 0 ? 'Hoy se vota' : ''; })();
+$('#fecha').textContent = fechaLarga(D.generado);
+pinta(false);
+</script>
+</body>
+</html>

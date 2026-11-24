@@ -1,0 +1,122 @@
+{
+ "aplicados": [
+  {
+   "donde": "psoe-instituciones-1/e11",
+   "cambio": "no existía → evidencia a favor: RDL 21/2026 (registro de lobbies), verificada en la ficha del BOE; mencionada en el resumen"
+  },
+  {
+   "donde": "psoe-vivienda-1/e11",
+   "cambio": "no existía → evidencia a favor: Ley 12/2023 con su BOE, verificada"
+  },
+  {
+   "donde": "psoe-vivienda-1/e12",
+   "cambio": "no existía → evidencia a favor: Plan Estatal 2026-2030 (7.000 M, 60% Estado), verificada en La Moncloa"
+  },
+  {
+   "donde": "psoe-vivienda-1/e9",
+   "cambio": "sentido 'contradice' → 'contexto': el déficit de vivienda describe el problema, no la credibilidad de la promesa"
+  },
+  {
+   "donde": "psoe-sanidad-1/e9",
+   "cambio": "no existía → evidencia a favor (indirecta): RDL 7/2018 de acceso universal, verificada en el BOE"
+  },
+  {
+   "donde": "psoe-seguridad-1/e6",
+   "cambio": "sentido 'contradice' → 'contexto': aplicar una ley vigente es obligación de la Administración, como dice su propia nota"
+  },
+  {
+   "donde": "psoe-seguridad-1/e3",
+   "cambio": "título 'El programa… no incluía derogar la ley' → 'Según El Salto, el programa… no mencionaba derogar la ley'; nota: el artículo no reproduce el texto"
+  },
+  {
+   "donde": "psoe-igualdad-1/e10",
+   "cambio": "no existía → evidencia a favor: proyecto de LO de violencia vicaria (14-7-2026), verificada en La Moncloa"
+  },
+  {
+   "donde": "psoe-impuestos-1/e4",
+   "cambio": "'mantenía el gravamen energético en 2025' → 'establecía un gravamen temporal energético para 2025' (comprobado en congreso.es)"
+  },
+  {
+   "donde": "psoe-impuestos-1/refutacion",
+   "cambio": "frase de proceso eliminada: «Pistas que NO pude comprobar por agotarse el cupo » → «Pistas no comprobadas y no usadas:»"
+  },
+  {
+   "donde": "psoe-empleo-1/refutacion",
+   "cambio": "frase de proceso eliminada: «(el cupo de búsquedas se agotó, no es una comproba» → «(no es una comprobación exhaustiva)»"
+  },
+  {
+   "donde": "psoe-instituciones-1/refutacion",
+   "cambio": "frase de proceso eliminada: «No pude comprobar, por agotarse las búsquedas:» → «No comprobados:»"
+  }
+ ],
+ "no_aplicados": [
+  {
+   "donde": "psoe-instituciones-1/e4",
+   "motivo": "fuente_primaria: el PDF de la votación del Congreso no tenía texto legible; no se sustituye la URL"
+  },
+  {
+   "donde": "psoe-instituciones-1/e8",
+   "motivo": "confianza baja; no se abrió la nota de Transparencia Internacional"
+  },
+  {
+   "donde": "psoe-vivienda-1/refutacion (STC 79/2024)",
+   "motivo": "la página de Cuatrecasas abierta sí habla de artículos sobre vivienda protegida y parques públicos; otras fuentes lo matizan. Sin leer el fallo no se cambia"
+  },
+  {
+   "donde": "psoe-sanidad-1/e5",
+   "motivo": "reclasificar a 'contexto' depende de la serie 7,0% de Cuentas de Salud 2023, que no comprobé en la fuente"
+  },
+  {
+   "donde": "psoe-seguridad-1/resumen (dos intentos)",
+   "motivo": "fuente vista solo en el buscador, no abierta"
+  },
+  {
+   "donde": "psoe-seguridad-1/falta_evidencia enmiendas 12-12-2024",
+   "motivo": "la URL dio error 406 y no se abrió otra fuente"
+  },
+  {
+   "donde": "psoe-igualdad-1/refutacion",
+   "motivo": "texto a reemplazar no encontrado"
+  },
+  {
+   "donde": "psoe-igualdad-1/e5",
+   "motivo": "confianza baja"
+  },
+  {
+   "donde": "psoe-impuestos-1/e5-e6",
+   "motivo": "reclasificación sin URL abierta que la respalde"
+  },
+  {
+   "donde": "psoe-empleo-1/falta_evidencia Plan Normativo 2026",
+   "motivo": "fuente vista solo en el buscador, no abierta"
+  },
+  {
+   "donde": "psoe-empleo-1/e7",
+   "motivo": "confianza baja de pertinencia; se deja al editor"
+  }
+ ],
+ "niveles_a_decidir": [
+  {
+   "donde": "psoe-instituciones-1/puntos.coherencia",
+   "nivel_actual": 1,
+   "nivel_propuesto": 2,
+   "motivo": "El nivel 1 se apoya en una condena a un exministro (e5) y en una investigación sin procesar (e6), no en votos o actos del Gobierno contra la promesa; el Gobierno presentó ley, plan y decreto de lobbies (e2, e11).",
+   "confianza": "media"
+  },
+  {
+   "donde": "psoe-vivienda-1/puntos.historial",
+   "nivel_actual": 1,
+   "nivel_propuesto": 2,
+   "motivo": "El 1 se apoya en la falta de datos publicados (e1) y 600 viviendas ofertadas (fuente única, e2); la vivienda protegida terminada se duplicó (e3) y se aprobó la Ley 12/2023 (e11). Ausencia de dato no es incumplimiento.",
+   "confianza": "media"
+  },
+  {
+   "donde": "psoe-sanidad-1/puntos.historial",
+   "nivel_actual": 1,
+   "nivel_propuesto": 2,
+   "motivo": "Las notas de e4/e5 recogen que el Sistema de Cuentas de Salud da 7,0% en 2023 (año prometido); el nivel 1 afirma que solo se superó con claridad en 2020-2021. Sin comprobar la serie en la fuente.",
+   "confianza": "baja"
+  }
+ ],
+ "estados_a_decidir": []
+}

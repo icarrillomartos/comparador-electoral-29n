@@ -1,0 +1,172 @@
+{
+ "aplicados": [
+  {
+   "donde": "salf-vivienda-1/refutacion",
+   "cambio": "quitado comentario de proceso («el presupuesto de búsquedas se agotó»)"
+  },
+  {
+   "donde": "salf-vivienda-1/e5",
+   "cambio": "sentido contradice → contexto; añadido que las cifras son de vivienda nueva y que la usada tributa por ITP autonómico; nota de cálculo propio"
+  },
+  {
+   "donde": "salf-vivienda-1/puntos.datos",
+   "cambio": "por.datos: precisado que el cálculo es de vivienda nueva"
+  },
+  {
+   "donde": "salf-impuestos-1/resumen",
+   "cambio": "añadida la reducción gradual hasta 50.000"
+  },
+  {
+   "donde": "salf-impuestos-1/antecedentes",
+   "cambio": "antecedentes: son diseños distintos, no un cambio de cifra"
+  },
+  {
+   "donde": "salf-impuestos-1/refutacion",
+   "cambio": "refutacion: cambio de diseño, no de cifra"
+  },
+  {
+   "donde": "salf-impuestos-1/refutacion",
+   "cambio": "quitado comentario de proceso"
+  },
+  {
+   "donde": "salf-impuestos-1/e3",
+   "cambio": "sentido contradice → contexto; «la promesa era 30.000, no 35.000» → descripción de dos diseños distintos"
+  },
+  {
+   "donde": "salf-impuestos-1/e4",
+   "cambio": "evidencia eliminada (trata la propuesta de tres quintos para subir impuestos, no la rebaja del IRPF); quedan 5 evidencias con apoyo y contradicción"
+  },
+  {
+   "donde": "salf-impuestos-1/puntos.viabilidad",
+   "cambio": "por.viabilidad: quitada la referencia a e4 (otra propuesta)"
+  },
+  {
+   "donde": "salf-inmigracion-1/antecedentes",
+   "cambio": "antecedentes: no se atribuye a 2025 el dato de ausencias"
+  },
+  {
+   "donde": "salf-inmigracion-1/refutacion",
+   "cambio": "quitado comentario de proceso («PDF ilegible para la herramienta»)"
+  },
+  {
+   "donde": "salf-inmigracion-1/e6",
+   "cambio": "nota: añadido que la fuente no indica el periodo de ausencias e intervenciones"
+  },
+  {
+   "donde": "salf-exterior-1/refutacion",
+   "cambio": "quitado prefijo de proceso «Revisión de 24-11-2026»"
+  },
+  {
+   "donde": "salf-exterior-1/e4",
+   "cambio": "nota: la fuente no indica el periodo de ausencias e intervenciones"
+  },
+  {
+   "donde": "salf-instituciones-2/resumen",
+   "cambio": "resumen: separadas las causas y aclarado cuál tiene relación con corrupción"
+  },
+  {
+   "donde": "salf-instituciones-2/antecedentes",
+   "cambio": "antecedentes: fecha del primer suplicatorio"
+  },
+  {
+   "donde": "salf-instituciones-2/matiz",
+   "cambio": "matiz: precisado «en su mayoría» (3 de 5)"
+  },
+  {
+   "donde": "salf-instituciones-2/refutacion",
+   "cambio": "refutacion: referencia a las cinco causas por separado"
+  },
+  {
+   "donde": "salf-instituciones-2/refutacion",
+   "cambio": "refutacion: causa de Illa remitida a e13, con el matiz de recurrible"
+  },
+  {
+   "donde": "salf-instituciones-2/refutacion",
+   "cambio": "quitados comentarios de proceso"
+  },
+  {
+   "donde": "salf-instituciones-2/refutacion",
+   "cambio": "quitado prefijo de proceso"
+  },
+  {
+   "donde": "salf-instituciones-2/puntos.coherencia",
+   "cambio": "por.coherencia: referencias a las causas separadas"
+  },
+  {
+   "donde": "salf-instituciones-2/e1",
+   "cambio": "evidencia agregada de cinco suplicatorios → solo la causa de la fiscal (contexto, investigado, inmunidad levantada 28-4-2026); resto de causas en e10-e13"
+  },
+  {
+   "donde": "salf-instituciones-2/e10-e13",
+   "cambio": "añadidas cuatro evidencias de contexto, una por causa (eurodiputados, Algeciras, desórdenes públicos: investigado; falsa prueba de covid de Illa: archivado, auto recurrible)"
+  },
+  {
+   "donde": "salf-instituciones-2/e2",
+   "cambio": "añadida la versión de Pérez (≈50 % en gastos del partido) y la calificación provisional del auto"
+  },
+  {
+   "donde": "salf-instituciones-2/e3",
+   "cambio": "676 euros según EFE → unos 600 euros según Ara (la fuente enlazada)"
+  },
+  {
+   "donde": "salf-instituciones-2/e9",
+   "cambio": "fuente elDiario.es → informe oficial del Tribunal de Cuentas (Congreso); cifra de 962.350,26 atribuida a elDiario.es, no al informe; plazo 12-10-2024"
+  },
+  {
+   "donde": "salf-instituciones-4/resumen",
+   "cambio": "resumen: fechas de sorteos según la fuente"
+  },
+  {
+   "donde": "salf-instituciones-4/resumen",
+   "cambio": "resumen: añadida la donación de octubre de 2026 y el total declarado"
+  },
+  {
+   "donde": "salf-instituciones-4/antecedentes",
+   "cambio": "antecedentes: el segundo sorteo no tiene fecha en la fuente"
+  },
+  {
+   "donde": "salf-instituciones-4/antecedentes",
+   "cambio": "antecedentes: destino posterior del cheque"
+  },
+  {
+   "donde": "salf-instituciones-4/matiz",
+   "cambio": "matiz: sustituida la frase sobre falta de pruebas"
+  },
+  {
+   "donde": "salf-instituciones-4/refutacion",
+   "cambio": "refutacion: sustituida la laguna por el dato de e8; quitado comentario de proceso"
+  },
+  {
+   "donde": "salf-instituciones-4/refutacion",
+   "cambio": "refutacion: quitada la afirmación de que no había donaciones posteriores"
+  },
+  {
+   "donde": "salf-instituciones-4/puntos.historial",
+   "cambio": "por.historial: corregido el hecho; nivel sin cambiar"
+  },
+  {
+   "donde": "salf-instituciones-4/e3",
+   "cambio": "«segundo sorteo anunciado el 1 de octubre / segunda ganadora» → dos sorteos a 3-10-2024, sin fechas; vídeo del 1-10 con una mujer de Avilés"
+  },
+  {
+   "donde": "salf-instituciones-4/e8",
+   "cambio": "añadida evidencia: donación de 25.000 euros a ELAdos (octubre de 2026) y total declarado de 170.000 euros"
+  }
+ ],
+ "no_aplicados": [
+  {
+   "donde": "salf-inmigracion-1/e5 y antecedentes (voto en el reglamento de retorno)",
+   "motivo": "falta_evidencia de confianza baja: no se abrió el acta nominal del Parlamento Europeo ni se localizó el voto de Alvise; pendiente (https://www.europarl.europa.eu/doceo/document/PV-10-2026-06-17-RCV_ES.html, votaciones del 26-3-2026 y 17-6-2026)."
+  }
+ ],
+ "niveles_a_decidir": [
+  {
+   "donde": "salf-instituciones-4/puntos.historial",
+   "nivel_actual": 1,
+   "nivel_propuesto": 2,
+   "motivo": "El nivel 1 se apoyaba en la falta de datos posteriores a octubre de 2025. Consta una donación de 25.000 euros en octubre de 2026 (e8) y Alvise declara cerca de 170.000 euros donados (sin verificar), frente a un neto de 8.088 euros/mes; solo los dos sorteos y los 25.000 euros están contrastados por terceros.",
+   "confianza": "media"
+  }
+ ],
+ "estados_a_decidir": []
+}

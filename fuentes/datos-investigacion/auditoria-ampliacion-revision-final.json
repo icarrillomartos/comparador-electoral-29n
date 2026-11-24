@@ -1,0 +1,255 @@
+{
+ "comparar": {
+  "pasa": false,
+  "resumen": "Citas: 0 fallos en 4.429 (598 destacadas + las 3.831 del programa completo, no solo una muestra), todas en la página indicada o la siguiente. Falla por la cláusula literal «fuente fechada»: ninguna propuesta muestra la fecha del programa. Además, el segundo nivel solo usa 10 de los 14 temas.",
+  "comprobaciones": {
+   "citas_propuestas": "598/598 localizadas (543 exactas, 55 tras quitar puntuación/guiones)",
+   "citas_programa": "3.831/3.831 localizadas (2.925 exactas, 906 tras quitar puntuación/guiones)",
+   "duplicados_propuestas_programa": 3,
+   "citas_repetidas_dentro_de_programa": 0,
+   "muestra_60": {
+    "tema_razonable": "45/60 (75 %)",
+    "tema_dudoso": "8/60 (13 %)",
+    "tema_claramente_erroneo": "7/60 (12 %)",
+    "titulo_cortado": "1/60 (global 518/3.831 = 13,5 %)",
+    "titulo_en_otra_lengua": "0/60 (global 0 detectados)",
+    "resumen_vacio": "5/60 (global 378/3.831 = 9,9 %)",
+    "resumen_con_detalles_que_la_cita_mostrada_no_contiene": "14/60 (23 %)",
+    "cita_que_por_si_sola_no_expresa_la_medida": "6/60 (10 %)",
+    "cita_con_encabezado_ajeno_al_final": "3/60 (global 62 por patrón)",
+    "contenido_inventado": "0 detectado (2 resúmenes cotejados con el texto completo del programa: fieles)"
+   }
+  },
+  "hallazgos": [
+   {
+    "gravedad": "alta",
+    "que": "Ninguna propuesta mostrada lleva fecha de la fuente. La línea de fuente es «Programa de X, pág. N del PDF · abrir el original»; la fecha del programa existe en datos.json (partidos[].programa.fecha) pero no se pinta ni en la propuesta ni en la tabla de Método (solo título, páginas y huella). Además 5 de 13 fechas son imprecisas.",
+    "ejemplo": "propHTML/miniHTML/fichaContraste no usan programa.fecha. Fechas: ERC «2026», Compromís «2026», PNV «2026-11», CC «2026-11», SALF «2026-11 (el documento no lleva fecha…)».",
+    "arreglo": "Añadir a la línea de fuente «(publicado el 10 nov 2026)» o, si no hay día, «descargado el 23-24 nov 2026»; añadir columna Fecha en la tabla de Método."
+   },
+   {
+    "gravedad": "media",
+    "que": "El segundo nivel (3.831 medidas) solo está clasificado en 10 de los 14 temas: no hay ninguna en Pensiones, Corrupción, Instituciones y justicia ni Defensa y exterior, aunque metodologia.md dice «la clasificación en los 14 temas es de esta edición». En esos 4 temas nunca aparece «Ver N más» y las medidas están en otro bloque.",
+    "ejemplo": "41 medidas de pensiones están en Empleo (x-bng-t0111 «Actualizar pensiones con el IPC real», x-pnv-t0162); OTAN/Palestina/Sáhara en Territorio o Seguridad (x-bng-t0705, x-pp-n054); x-podemos-n421 «Restaurar jurisdicción universal» y x-bng-t0381 «voto de tripulantes» en Igualdad; x-vox-n039 «Atención sin cita previa» en Territorio; x-frente-amplio-t0926 «Seleccionar policías» en Empleo.",
+    "arreglo": "Reclasificar con los 14 temas (al menos pensiones, exterior, corrupción e instituciones por palabras clave y revisión) o declarar en la web y en la metodología que el segundo nivel usa 10 bloques."
+   },
+   {
+    "gravedad": "media",
+    "que": "518 títulos del segundo nivel están cortados: 434 de Junts acaban en «…» y 84 del Frente Amplio se cortan a 125 caracteres en mitad de palabra, sin puntos suspensivos. En 378 medidas (279 Junts, 99 Frente Amplio) el resumen está vacío; en otras el resumen repite el título completo.",
+    "ejemplo": "x-frente-amplio-t0122: «…las prestaciones necesarias en condiciones de i»; x-frente-amplio-t0141: «…equiparar dispositivos el»; x-junts-t0170: «…retorno industrial al menos…» y debajo el mismo texto entero.",
+    "arreglo": "Redactar títulos cortos propios (≤80 caracteres) para esas 808 medidas con título >80 y pasar el texto largo al resumen; nunca cortar en mitad de palabra."
+   },
+   {
+    "gravedad": "media",
+    "que": "En el segundo nivel la cita mostrada es un fragmento de ~230 caracteres que a menudo no contiene lo que afirman título y resumen (el resumen es fiel al párrafo completo, pero el lector no puede comprobarlo con la cita). 102 citas empiezan en mitad de frase (81 del PSOE) y 62 arrastran al final el encabezado del apartado siguiente.",
+    "ejemplo": "x-psoe-n289 «Proteger cetáceos…»: cita «las mejores evidencias científicas y medidas obligatorias de reducción de la velocidad del transporte»; x-psoe-n328 «Acceso a salud reproductiva»: cita «la educación, la prevención y la atención específica a las mujeres con discapacidad.»; x-pp-n224: el resumen habla del fondo de enfermedades raras y la cita solo de farmacias; x-ehbildu-t0028 termina en «1.4. Contención de precios y carestía de la vida La cada vez mayor…»; x-junts-t0122 termina en «Objectiu 4: Oficialitat del català a Europa.»",
+    "arreglo": "Ampliar la cita hasta la frase completa que contiene la medida (inicio y fin de oración) y recortar encabezados ajenos."
+   },
+   {
+    "gravedad": "baja",
+    "que": "3 duplicados entre destacadas y programa completo (todos PSOE): la cita del segundo nivel está contenida en la de la destacada.",
+    "ejemplo": "x-psoe-n136 ↔ psoe-sanidad-1 (7 % del PIB); x-psoe-balance-pniec ↔ psoe-energia-1 (81 % renovable); x-psoe-inmigracion-06 ↔ psoe-inmigracion-1 (500 millones).",
+    "arreglo": "Retirar esas 3 del segundo nivel; añadir al filtro de duplicados la comprobación «cita contenida»."
+   },
+   {
+    "gravedad": "baja",
+    "que": "Las citas en catalán y gallego se muestran sin traducir ni avisar (el título y el resumen sí están en castellano). 45 citas del segundo nivel y 18 destacadas conservan ligaduras tipográficas del PDF (ﬁ, ﬂ), que rompen la búsqueda del navegador.",
+    "ejemplo": "x-bng-t0677: «Abolición permanente do servizo militar obrigatorio…»; x-cc-t0079: «ﬁnanciación suﬁciente».",
+    "arreglo": "Etiqueta «cita original en gallego/catalán» y normalizar ligaduras (NFKC) al construir."
+   },
+   {
+    "gravedad": "baja",
+    "que": "Compromís no tiene ninguna medida en el segundo nivel y solo 3 destacadas por tema; no figura en la tabla del programa completo de metodologia.md.",
+    "ejemplo": "Columna Compromís: «3 medidas» en casi todos los temas, sin desplegable.",
+    "arreglo": "Añadir una fila o una frase que lo explique."
+   }
+  ]
+ },
+ "indice": {
+  "pasa": true,
+  "resumen": "Fórmula implementada solo desde metodologia.md: 106 índices recalculados (84 contrastes + 22 compromisos del balance con índice) y 0 descuadres en valor, base, topes, margen, etiqueta, pesos y nivel de concreción.",
+  "comprobaciones": {
+   "contrastes": "84/84",
+   "balance_con_indice": "22/22 (13 compromisos sin promesa 2026 no llevan índice)",
+   "topes_activos": 4,
+   "sin_historial": 19,
+   "medias_por_partido": "coinciden con metodologia.md (PP 52,3 · PSOE 50,1 · Vox 46,7 · FA 50,1 · Podemos 46,4 · SALF 48,9)",
+   "evidencias": "982 enlazadas, 981 verificadas: coincide"
+  },
+  "hallazgos": [
+   {
+    "gravedad": "baja",
+    "que": "La «media ponderada» que se muestra con un decimal no sigue la regla de redondeo publicada (,5 hacia arriba): las bases acabadas en ,25 o ,75 salen unas hacia abajo y otras hacia arriba. No afecta al entero final.",
+    "ejemplo": "46,25 → «46,2» (psoe-pensiones-1), 66,25 → «66,2» (b06), pero 43,75 → «43,8» (pp-vivienda-1).",
+    "arreglo": "Guardar la base con dos decimales o redondear con la misma regla."
+   },
+   {
+    "gravedad": "baja",
+    "que": "La metodología no dice expresamente que el tope se aplica antes de redondear, que el tope solo se anota cuando rebaja el valor, ni qué cuenta como evidencia «a favor/en contra» y «verificada» (campos sentido=apoya/contradice y verificado; las de contexto no cuentan para el +2 pero sí para las cuatro verificadas). Con la lectura natural cuadra todo, pero hay que deducirlo.",
+    "ejemplo": "pp-instituciones-1 tiene historial 0 (tope 50) y base 38,8: topes=[] porque no llega a actuar.",
+    "arreglo": "Añadir dos líneas con los nombres de campo de datos.json y el orden de las operaciones."
+   },
+   {
+    "gravedad": "baja",
+    "que": "La página Método de la web dice «puedes recalcular cada porcentaje con la fórmula de esta página», pero ahí no figuran los incrementos del margen (+6, +4, +2, +2); solo están en metodologia.md.",
+    "ejemplo": "Acordeón «Reglas especiales: sin historial, topes y margen».",
+    "arreglo": "Poner las cifras del margen también en la web."
+   },
+   {
+    "gravedad": "baja",
+    "que": "Textos desfasados o que chocan con el dato: balance_nota (visible en «Cómo se eligieron estos compromisos») dice «Son 23 compromisos» y hay 35; salf-instituciones-4 se rotula «Nunca ha gobernado» y a la vez tiene historial 2/4; 6 contrastes de Vox figuran como «Ha gobernado en comunidades» con historial neutro.",
+    "ejemplo": "b-nota: «Son 23 compromisos (b22 y b23 se añadieron…)».",
+    "arreglo": "Actualizar la nota y explicar en la ficha por qué hay o no historial en esos casos."
+   }
+  ]
+ },
+ "ux": {
+  "pasa": true,
+  "resumen": "Probado en navegador a 1744 px y 375 px: sin desborde horizontal en las 6 rutas, 146 fichas abiertas (84 contrastes, 35 balance, 27 análisis) con todas sus pestañas sin excepción, sin pestañas vacías ni textos undefined/NaN, 0 errores de consola. Detalle solo al pedirlo. Hay defectos de accesibilidad táctil y de estado.",
+  "comprobaciones": {
+   "desborde_horizontal": "0 px en #/, comparar, contraste, balance, balance/datos, metodo (móvil y escritorio)",
+   "errores_consola": 0,
+   "fichas_abiertas": 146,
+   "carga_perezosa": "lista vacía hasta abrir; 30 → 60 con «Ver 30 más · quedan N»",
+   "busqueda": "6-16 ms por tecla con los 13 partidos (hasta 1.953 coincidencias); solo pinta las destacadas, el resto queda tras el desplegable",
+   "tira_temas_contraste": "15 botones con icono, desplazable, filtra bien (Corrupción → 6 tarjetas)",
+   "fichaFondo": "27/27 con relato, conclusión, indicadores, tablas y avisos; 26 con dos datos clave, 1 con uno"
+  },
+  "hallazgos": [
+   {
+    "gravedad": "media",
+    "que": "Objetivos táctiles por debajo de 44 px en móvil.",
+    "ejemplo": "Puntos de la nube de Contraste: 13 px (25 px con el área ampliada), 84 puntos, varios solapados; «Fuente y contexto ▾» de cada indicador: 18 px de alto (35 en la página); filas de componentes del índice: 31 px; chips de partido: 38 px; botón cerrar ×: 38 px; «Solo nacionales / Todos / Ninguno»: 36 px; «¿Qué hay detrás de este dato?»: 33 px.",
+    "arreglo": "min-height:44px en .pc, .txt, .x, .detras, .cp summary y .dato details summary; ampliar ::after de .ndot a inset:-16px o apoyarse en la lista de tarjetas."
+   },
+   {
+    "gravedad": "media",
+    "que": "«Ver 30 más» repinta toda la lista: se cierran las medidas que el usuario tenía abiertas y se pierde el foco de teclado (el botón pulsado se destruye). Igual al teclear en el buscador: se cierran los desplegables y cada tecla obliga a reabrirlos.",
+    "ejemplo": "Abrir una medida del Frente Amplio en Igualdad, pulsar «Ver 30 más · quedan 176»: la medida abierta queda cerrada.",
+    "arreglo": "Añadir los 30 nuevos con insertAdjacentHTML y mover el foco al primero; al buscar, conservar abierto el desplegable (o abrirlo solo cuando no hay destacadas que casen)."
+   },
+   {
+    "gravedad": "media",
+    "que": "Al buscar, los resultados del programa completo quedan ocultos tras «Ver N más» en cada columna: el contador dice «343 medidas» pero solo se ven las destacadas; en móvil hay que deslizar y abrir columna a columna.",
+    "ejemplo": "Buscar «viv» con todos los partidos: 49 visibles de 343.",
+    "arreglo": "Con búsqueda activa, abrir el desplegable por defecto o mostrar las primeras coincidencias."
+   },
+   {
+    "gravedad": "baja",
+    "que": "Ficha de «España en datos»: el paso 3 se titula siempre «Los dos datos clave» aunque solo haya uno comparable.",
+    "ejemplo": "ferrocarril-dinero-exterior: una sola tarjeta bajo «Los dos datos clave».",
+    "arreglo": "Título según el número («El dato clave» / «Los dos datos clave»)."
+   },
+   {
+    "gravedad": "baja",
+    "que": "En el segundo nivel, título cortado y resumen idéntico se leen dos veces seguidas; el título corta en mitad de palabra.",
+    "ejemplo": "«…y el resto al finaliz» seguido del mismo párrafo completo.",
+    "arreglo": "Ver arreglo de títulos en el criterio comparar."
+   },
+   {
+    "gravedad": "baja",
+    "que": "Formato de cifras irregular: los números de cuatro cifras salen sin punto de millar (es-ES no agrupa por debajo de 10.000) junto a otros que sí lo llevan.",
+    "ejemplo": "«1707 → 5230» millones de euros en la ficha de ferrocarril.",
+    "arreglo": "toLocaleString('es-ES',{useGrouping:'always'}) o separador propio."
+   },
+   {
+    "gravedad": "baja",
+    "que": "Textos poco claros para un ciudadano: «Medida del inventario completo: resumen de la edición Codex, cita comprobada aquí en el PDF. Sin contraste.» (no se sabe qué es Codex); «pág. N del PDF» sin fecha; las pestañas usan role=tab sin role=tabpanel ni navegación con flechas; la barra superior (pila) de España en datos son botones sin función.",
+    "ejemplo": "Pie de cada medida del segundo nivel.",
+    "arreglo": "«Medida tomada de un segundo inventario independiente; la cita está comprobada en el programa. No tiene análisis de credibilidad.»; completar el patrón de pestañas; convertir la pila decorativa en div."
+   }
+  ]
+ },
+ "segunda_pasada": {
+  "version": "index.html / datos.json de 24-11-2026 22:42, servida en ?v=h2; comprobado con scripts propios y navegador a 375 px",
+  "comparar": {
+   "pasa": true,
+   "arreglado": [
+    "Fecha visible en las 4.425 propuestas pintadas (598 + 3.827), en la ficha de contraste y en la tabla de Método (columna Fecha): 0 sin fecha",
+    "Segundo nivel repartido en los 14 temas (pensiones 58, corrupción 21, instituciones 234, exterior 198)",
+    "Muestra nueva de 60: tema razonable 54/60 (90 %), dudoso 5 (8 %), claramente erróneo 1 (2 %; x-frente-amplio-t0192, coste de envío de libros, en Igualdad)",
+    "Títulos: 0 con «…», 0 cortados en preposición o mitad de palabra, máximo 91 caracteres (11 pasan de 80); 0 en otra lengua",
+    "Resúmenes vacíos: 50 (antes 378)",
+    "Duplicados propuestas↔programa: 0 (antes 3; el programa pasa de 3.831 a 3.827)",
+    "Citas: 3.827/3.827 y 598/598 localizadas en su página o la siguiente"
+   ],
+   "sigue_fallando": [
+    {
+     "gravedad": "media",
+     "que": "Las citas-fragmento no se han tocado: 99 empiezan en mitad de frase, 62 arrastran el encabezado del apartado siguiente y siguen los mismos casos en que la cita no contiene lo que dice el título.",
+     "ejemplo": "x-psoe-n289 y x-psoe-n328 idénticas; x-ehbildu-t0028 sigue acabando en «1.4. Contención de precios…»; en la muestra nueva 5/60 con encabezado ajeno (x-pnv-t0170 «…COMPETENCIAS Y CONDICIONES PROFESIONALES») y 2/60 donde la cita no expresa la medida (x-pp-n064).",
+     "arreglo": "Ampliar a la oración completa y recortar encabezados."
+    },
+    {
+     "gravedad": "baja",
+     "que": "249 resúmenes repiten el título casi palabra por palabra (sobre todo Junts) y quedan 50 vacíos.",
+     "ejemplo": "x-junts-t0271: título y resumen «Regular (el) uso ético y auditable de algoritmos públicos…».",
+     "arreglo": "Ocultar el resumen cuando no añade nada al título."
+    },
+    {
+     "gravedad": "baja",
+     "que": "Cinco fechas siguen siendo aproximadas, ahora a la vista: ERC y Compromís solo «2026»; SALF, PNV y CC «nov 2026».",
+     "ejemplo": "«Programa de ERC (2026), pág. N del PDF».",
+     "arreglo": "Poner la fecha de descarga (23-24 nov 2026) cuando el documento no lleva día."
+    },
+    {
+     "gravedad": "baja",
+     "que": "Siguen 62 citas con ligaduras ﬁ/ﬂ y las citas en catalán/gallego sin etiqueta de lengua.",
+     "ejemplo": "x-cc-t0046 «ﬁnanciación».",
+     "arreglo": "Normalizar NFKC al construir."
+    }
+   ]
+  },
+  "indice": {
+   "pasa": true,
+   "arreglado": [
+    "106/106 recalculados otra vez desde metodologia.md (84 contrastes + 22 del balance): 0 descuadres",
+    "Nota del balance: «Son 35 compromisos», coincide con los 35 del dato"
+   ],
+   "sigue_fallando": [
+    {
+     "gravedad": "baja",
+     "que": "La página Método de la web sigue sin dar los incrementos del margen (+6, +4, +2, +2) aunque invita a recalcular «con la fórmula de esta página»; solo están en metodologia.md.",
+     "ejemplo": "«Margen (±): parte de 6 puntos y crece cuando…»",
+     "arreglo": "Añadir las cifras."
+    },
+    {
+     "gravedad": "baja",
+     "que": "La base de un decimal sigue sin aplicar el «,5 hacia arriba» (46,25 → 46,2). No cambia ningún entero.",
+     "ejemplo": "psoe-pensiones-1",
+     "arreglo": "Mismo redondeo que el resultado."
+    }
+   ]
+  },
+  "ux": {
+   "pasa": true,
+   "arreglado": [
+    "«Ver 30 más» añade sin repintar: la medida abierta sigue abierta (mismo nodo) y el foco pasa a la primera nueva",
+    "La búsqueda abre los desplegables: «alquiler» con 13 partidos, 113 visibles de 113, 7-8 ms por tecla",
+    "Móvil: chips, cerrar, filas de componentes y «Fuente y contexto» ya en 42-44 px",
+    "«El dato clave» en singular cuando hay uno",
+    "Sin desborde en las 6 rutas, 146 fichas sin excepción ni pestañas vacías, 0 errores de consola"
+   ],
+   "sigue_fallando": [
+    {
+     "gravedad": "media",
+     "que": "Los 84 puntos de la nube de Contraste siguen en 13 px con área táctil de 25 px en móvil (sin cambio).",
+     "ejemplo": ".ndot::after inset -6px → 25×25",
+     "arreglo": "inset:-16px o remitir a las tarjetas."
+    },
+    {
+     "gravedad": "baja",
+     "que": "Quedan por debajo de 44 px: «Solo nacionales/Todos/Ninguno» (36), «¿Es creíble? Ver el contraste» (39), «¿Qué hay detrás de este dato?» (33), «Leer más» (37) y el conmutador Compromisos/España en datos (40).",
+     "ejemplo": ".txt, .btn, .detras, .mas, .conm a",
+     "arreglo": "min-height:44px."
+    },
+    {
+     "gravedad": "baja",
+     "que": "«Codex» sigue apareciendo sin explicar en el pie de cada medida del segundo nivel y en Método.",
+     "ejemplo": "«…segunda edición independiente de este comparador (Codex)»",
+     "arreglo": "Quitar el nombre o explicarlo en una línea."
+    }
+   ]
+  }
+ }
+}

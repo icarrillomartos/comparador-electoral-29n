@@ -1,0 +1,544 @@
+{
+ "partido": "pnv",
+ "programa": {
+  "titulo": "Programa Elecciones Generales 2026 (EAJ-PNV)",
+  "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+  "paginas": 43,
+  "fecha": "2026-11"
+ },
+ "propuestas": [
+  {
+   "id": "pnv-vivienda-1",
+   "tema": "vivienda",
+   "titulo": "Agilizar los trámites urbanísticos para construir más vivienda",
+   "resumen": "Piden acortar los trámites urbanísticos de nuevas viviendas, con plazos razonables y garantías legales.",
+   "cita": "Agilizar los trámites urbanísticos para facilitar la construcción de nuevas viviendas, con plazos razonables y garantías legales.",
+   "pagina": 7,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-vivienda-2",
+   "tema": "vivienda",
+   "titulo": "Evitar el fraude en los contratos de temporada",
+   "resumen": "Quieren impedir que los contratos de temporada se usen para esquivar las garantías del alquiler de vivienda habitual.",
+   "cita": "Evitar que los contratos de temporada se utilicen fraudulentamente para eludir las garantías del alquiler de vivienda habitual.",
+   "pagina": 8,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-vivienda-3",
+   "tema": "vivienda",
+   "titulo": "Dar seguridad jurídica a inquilinos y pequeños propietarios",
+   "resumen": "Proponen seguridad jurídica para ambas partes con el fin de favorecer el alquiler de vivienda habitual.",
+   "cita": "Dar seguridad jurídica a las personas inquilinas y a los pequeños propietarios para favorecer el alquiler habitual.",
+   "pagina": 8,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-impuestos-1",
+   "tema": "impuestos",
+   "titulo": "Estudiar IVA cero o superreducido en alimentos básicos",
+   "resumen": "Plantean una reforma del IVA de bienes esenciales y estudiar tipos cero o superreducidos para algunos alimentos, dentro del marco europeo.",
+   "cita": "Favorecer una reforma integral del IVA de los bienes y servicios esenciales, estudiando la aplicación de tipos cero o superreducidos a determinados alimentos básicos (pescado, carne, entre otros)",
+   "pagina": 21,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-impuestos-2",
+   "tema": "impuestos",
+   "titulo": "Usar los superávits locales para inversión",
+   "resumen": "Quieren que ayuntamientos, diputaciones y Gobierno Vasco puedan usar sus superávits en inversiones prioritarias.",
+   "cita": "Facilitar que los ayuntamientos, las diputaciones forales y el Gobierno Vasco puedan utilizar sus superávits para inversiones prioritarias",
+   "pagina": 21,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-impuestos-3",
+   "tema": "impuestos",
+   "titulo": "Más capacidad normativa de las Haciendas Forales en IVA",
+   "resumen": "Reclaman ampliar la capacidad normativa de las haciendas forales en el IVA y los impuestos especiales.",
+   "cita": "Ampliar la capacidad normativa de las Haciendas Forales en el IVA y los Impuestos Especiales.",
+   "pagina": 21,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-empleo-1",
+   "tema": "empleo",
+   "titulo": "Salario mínimo propio de Euskadi",
+   "resumen": "Reclaman la competencia para fijar un salario mínimo vasco siempre por encima del estatal, definido mediante diálogo social.",
+   "cita": "Reclamar, en el marco de un nuevo estatus político para Euskadi, la competencia plena para establecer un salario mínimo propio, adaptado al coste de vida y siempre por encima del mínimo estatal.",
+   "pagina": 9,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-empleo-2",
+   "tema": "empleo",
+   "titulo": "Prestación por desempleo de hasta 36 meses",
+   "resumen": "Proponen ampliar la cobertura de la prestación por desempleo hasta un máximo de 36 meses, ligada a mejorar la empleabilidad.",
+   "cita": "Ampliar la cobertura de la prestación por desempleo hasta un máximo de 36 meses",
+   "pagina": 9,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-empleo-3",
+   "tema": "empleo",
+   "titulo": "Mejor protección al cesar la actividad de autónomos",
+   "resumen": "Quieren acercar progresivamente la prestación por cese de actividad de los autónomos a la de desempleo y simplificar requisitos.",
+   "cita": "Mejorar la protección de las personas autónomas cuando cesa su actividad, aproximándola progresivamente a la prestación por desempleo,",
+   "pagina": 15,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-pensiones-1",
+   "tema": "pensiones",
+   "titulo": "Revalorizar las pensiones cada año con el IPC",
+   "resumen": "Proponen mantener la revalorización anual de las pensiones conforme al IPC.",
+   "cita": "Evitar que las pensiones pierdan poder adquisitivo: revalorizarlas anualmente conforme al IPC",
+   "pagina": 31,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-pensiones-2",
+   "tema": "pensiones",
+   "titulo": "Sin penalización por jubilación anticipada con 40 años cotizados",
+   "resumen": "Piden eliminar las penalizaciones de la jubilación anticipada para quien tenga más de 40 años cotizados.",
+   "cita": "Eliminar las penalizaciones de la jubilación anticipada para las personas trabajadoras con más de 40 años cotizados",
+   "pagina": 31,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-pensiones-3",
+   "tema": "pensiones",
+   "titulo": "Cerrar la transferencia del régimen económico de la Seguridad Social",
+   "resumen": "Quieren culminar el traspaso a Euskadi de la gestión del régimen económico de la Seguridad Social, según el Estatuto de Gernika.",
+   "cita": "Asegurar la culminación de la transferencia a Euskadi de la gestión del régimen económico de la Seguridad Social",
+   "pagina": 31,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-sanidad-1",
+   "tema": "sanidad",
+   "titulo": "Adaptar el MIR a las necesidades reales",
+   "resumen": "Proponen ajustar las plazas de formación de especialistas (MIR) a las necesidades y evitar vacantes.",
+   "cita": "Formar más especialistas sanitarios donde se necesitan, adaptando el sistema MIR para adecuar la oferta de plazas a las necesidades reales de profesionales",
+   "pagina": 32,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-sanidad-2",
+   "tema": "sanidad",
+   "titulo": "Culminar las transferencias sanitarias pendientes",
+   "resumen": "Piden completar traspasos como la formación sanitaria especializada, la acreditación de plazas y la sanidad exterior.",
+   "cita": "Culminar las transferencias sanitarias pendientes a Euskadi, especialmente en formación sanitaria especializada, acreditación de plazas, control sanitario de las incapacidades laborales y sanidad exterior.",
+   "pagina": 32,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-sanidad-3",
+   "tema": "sanidad",
+   "titulo": "Cumplir y financiar la Ley ELA",
+   "resumen": "Exigen el cumplimiento íntegro y la financiación suficiente de la Ley ELA.",
+   "cita": "Asegurar el cumplimiento íntegro y la financiación suficiente de la Ley ELA",
+   "pagina": 33,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-educacion-1",
+   "tema": "educacion",
+   "titulo": "Mantener el Sistema Vasco de Becas",
+   "resumen": "Defienden que Euskadi conserve su capacidad normativa sobre su propio sistema de becas.",
+   "cita": "Defender la capacidad normativa del Sistema Vasco de Becas",
+   "pagina": 10,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-educacion-2",
+   "tema": "educacion",
+   "titulo": "Reforzar la Formación Profesional Dual",
+   "resumen": "Proponen fortalecer la FP Dual con colaboración entre centros y empresas.",
+   "cita": "Fortalecer la Formación Profesional Dual",
+   "pagina": 10,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-educacion-3",
+   "tema": "educacion",
+   "titulo": "Evitar interferencias estatales en educación",
+   "resumen": "Quieren preservar las competencias educativas de Euskadi.",
+   "cita": "Preservar las competencias educativas de Euskadi",
+   "pagina": 10,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-inmigracion-1",
+   "tema": "inmigracion",
+   "titulo": "Más competencias de migración y extranjería para Euskadi",
+   "resumen": "Piden una gestión integral vasca de llegada, acogida, residencia, trabajo e integración.",
+   "cita": "Promover mayores competencias para Euskadi en materia de migración y extranjería",
+   "pagina": 24,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-inmigracion-2",
+   "tema": "inmigracion",
+   "titulo": "Acogida descentralizada y rechazo del centro de Arana",
+   "resumen": "Reclaman un acuerdo Estado-instituciones vascas y rechazan grandes centros de acogida como el previsto en Arana.",
+   "cita": "priorizando un modelo de acogida descentralizado y rechazando la implantación de grandes centros como el previsto en Arana, Vitoria-Gasteiz.",
+   "pagina": 25,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-inmigracion-3",
+   "tema": "inmigracion",
+   "titulo": "Contratación en origen",
+   "resumen": "Proponen favorecer la contratación en origen ligada a las necesidades del mercado laboral vasco.",
+   "cita": "Favorecer la contratación en origen, vinculada a las necesidades del mercado laboral vasco y con garantías para las personas trabajadoras.",
+   "pagina": 25,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-seguridad-1",
+   "tema": "seguridad",
+   "titulo": "Reformas contra la multirreincidencia",
+   "resumen": "Quieren reformas legales para una respuesta judicial ágil frente a quien delinque de forma reiterada.",
+   "cita": "Combatir la multirreincidencia y proteger a las víctimas.",
+   "pagina": 24,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-seguridad-2",
+   "tema": "seguridad",
+   "titulo": "Ertzaintza como policía integral",
+   "resumen": "Defienden el reconocimiento de la Ertzaintza como policía integral de Euskadi.",
+   "cita": "Defender el reconocimiento efectivo de la Ertzaintza como policía integral de Euskadi",
+   "pagina": 24,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-seguridad-3",
+   "tema": "seguridad",
+   "titulo": "Rechazo de la prisión permanente revisable",
+   "resumen": "Proponen rechazar la prisión permanente revisable y orientar el sistema penitenciario a la reinserción.",
+   "cita": "Rechazar la prisión permanente revisable y defender un sistema penitenciario orientado a la reeducación y la reinserción",
+   "pagina": 28,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-igualdad-1",
+   "tema": "igualdad",
+   "titulo": "Perímetro de 150 metros en clínicas de aborto",
+   "resumen": "Proponen reformar la Ley de Seguridad Ciudadana para fijar perímetros de protección de al menos 150 metros.",
+   "cita": "Modificar la Ley de Seguridad Ciudadana para establecer perímetros de protección de al menos 150 metros",
+   "pagina": 26,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-igualdad-2",
+   "tema": "igualdad",
+   "titulo": "Cumplir el Pacto de Estado contra la Violencia de Género",
+   "resumen": "Piden aplicar íntegramente las medidas estatales del Pacto renovado en 2025, sobre todo en violencia digital y económica.",
+   "cita": "Asegurar el cumplimiento íntegro de las medidas estatales del Pacto de Estado contra la Violencia de Género renovado en 2025",
+   "pagina": 26,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-igualdad-3",
+   "tema": "igualdad",
+   "titulo": "Tipificar penalmente las terapias de conversión",
+   "resumen": "Quieren un delito específico para las prácticas de conversión de orientación o identidad.",
+   "cita": "Favorecer la tipificación penal específica de las prácticas de conversión",
+   "pagina": 27,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-energia-1",
+   "tema": "energia",
+   "titulo": "Bajar el impuesto especial de la electricidad al 0,5 %",
+   "resumen": "Proponen reducir de forma permanente ese impuesto al 0,5 %, dentro de los límites de la normativa europea.",
+   "cita": "Reducir de forma permanente el Impuesto Especial sobre la Electricidad al 0,5 %, dentro de los límites permitidos por la normativa europea.",
+   "pagina": 16,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-energia-2",
+   "tema": "energia",
+   "titulo": "Acelerar las redes eléctricas de Euskadi",
+   "resumen": "Piden acelerar inversiones en redes para industria, electrificación y demanda residencial.",
+   "cita": "Acelerar las inversiones en redes eléctricas de Euskadi",
+   "pagina": 15,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-energia-3",
+   "tema": "energia",
+   "titulo": "Plan Estratégico propio de la PAC para Euskadi",
+   "resumen": "Reclaman que la PAC 2028-2034 reconozca un plan estratégico vasco con gestión propia y financiación diferenciada.",
+   "cita": "Asegurar una Política Agraria Común 2028-2034 que reconozca un Plan Estratégico propio para Euskadi",
+   "pagina": 17,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-instituciones-1",
+   "tema": "instituciones",
+   "titulo": "Nueva Ley de Secretos Oficiales",
+   "resumen": "Quieren sustituir la ley vigente por otra con criterios objetivos y plazos de desclasificación automática.",
+   "cita": "Asegurar la aprobación de una nueva Ley de Secretos Oficiales, que sustituya la legislación vigente, establezca criterios objetivos de clasificación y fije plazos concretos de desclasificación automática.",
+   "pagina": 40,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-instituciones-2",
+   "tema": "instituciones",
+   "titulo": "Consejo Vasco de Justicia",
+   "resumen": "Proponen crear un Consejo Vasco de Justicia con funciones de gobierno del Poder Judicial en Euskadi.",
+   "cita": "Impulsar la creación de un Consejo Vasco de Justicia",
+   "pagina": 39,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-instituciones-3",
+   "tema": "instituciones",
+   "titulo": "Más transparencia y rendición de cuentas",
+   "resumen": "Piden más transparencia sobre decisiones, presupuestos y resultados de las administraciones.",
+   "cita": "Reforzar la transparencia y la rendición de cuentas de las administraciones públicas",
+   "pagina": 40,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-territorio-1",
+   "tema": "territorio",
+   "titulo": "Cumplir el Estatuto de Gernika",
+   "resumen": "Exigen completar todas las transferencias pendientes con los recursos correspondientes.",
+   "cita": "Asegurar el cumplimiento íntegro del Estatuto de Gernika y la culminación de todas las transferencias pendientes",
+   "pagina": 38,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-territorio-2",
+   "tema": "territorio",
+   "titulo": "Avanzar hacia un Concierto Político",
+   "resumen": "Proponen trasladar los principios de pacto y bilateralidad al ámbito institucional con el Estado.",
+   "cita": "Avanzar hacia un Concierto Político",
+   "pagina": 39,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pnv-territorio-3",
+   "tema": "territorio",
+   "titulo": "Ampliar las capacidades del Concierto Económico",
+   "resumen": "Quieren modificar la Ley del Concierto Económico para ampliar las capacidades financiero-fiscales vascas.",
+   "cita": "Aumentar nuestras capacidades financiero-fiscales promoviendo la modificación de la Ley del Concierto económico y el convenio económico.",
+   "pagina": 39,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-exterior-1",
+   "tema": "exterior",
+   "titulo": "Voz propia de Euskadi en el Consejo de la UE",
+   "resumen": "Piden presencia vasca en formaciones del Consejo de la UE como ECOFIN y Justicia y Asuntos de Interior.",
+   "cita": "Impulsar la presencia con voz propia de Euskadi en las distintas formaciones del Consejo de la Unión Europea, particularmente en el Consejo ECOFIN y en el Consejo de Justicia y Asuntos de Interior",
+   "pagina": 41,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pnv-exterior-2",
+   "tema": "exterior",
+   "titulo": "Oficialidad del euskera, catalán y gallego en la UE",
+   "resumen": "Proponen que estas lenguas sean oficiales y se usen en las instituciones comunitarias.",
+   "cita": "Promover la oficialidad del euskera, el catalán y el gallego en la Unión Europea",
+   "pagina": 41,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  }
+ ],
+ "nota": "Programa oficial de EAJ-PNV. Muchas medidas son reclamaciones de competencias o recursos para Euskadi; el programa apenas incluye cifras o plazos."
+}

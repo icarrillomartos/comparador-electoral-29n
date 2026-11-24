@@ -1,0 +1,2922 @@
+{
+ "partido": "pp",
+ "programa": {
+  "titulo": "Reconstrucción nacional. El programa del cambio necesario para España",
+  "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+  "paginas": 82,
+  "fecha": "2026-11-10"
+ },
+ "propuestas": [
+  {
+   "id": "pp-vivienda-1",
+   "tema": "vivienda",
+   "titulo": "Construir un millón de viviendas",
+   "resumen": "Movilizar suelo público y privado con comunidades y ayuntamientos, aprobar una nueva Ley del Suelo y resolver las licencias de obra en tres meses con silencio positivo. El texto no fija plazo ni presupuesto para el millón.",
+   "cita": "CONSTRUIREMOS UN MILLÓN DE VIVIENDAS. Movilizaremos suelo público y privado",
+   "pagina": 53,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-vivienda-2",
+   "tema": "vivienda",
+   "titulo": "Derogar la Ley de Vivienda y los topes al alquiler",
+   "resumen": "Suprimir la Ley de Vivienda de 2023, las zonas tensionadas y el índice de precios del alquiler.",
+   "cita": "Eliminaremos las zonas tensionadas y el índice de precios",
+   "pagina": 53,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-vivienda-3",
+   "tema": "vivienda",
+   "titulo": "Menos impuestos y aval público para la primera vivienda",
+   "resumen": "Bajar el IVA de la primera vivienda del 10 % al 4 % para menores de 40 años, pago fraccionado, aval público de hasta el 20 % del valor y una cuenta de ahorro con deducción (Hucha Hogar Joven).",
+   "cita": "LOS JÓVENES NO PAGARÁN IMPUESTOS EN EL MOMENTO DE ADQUIRIR SU PRIMERA VIVIENDA.",
+   "pagina": 54,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-vivienda-4",
+   "tema": "vivienda",
+   "titulo": "Deducción para inquilinos y para caseros que renueven",
+   "resumen": "Deducción en el IRPF por alquiler de vivienda habitual según ingresos, y deducción para el propietario particular que renueve tres años subiendo la renta por debajo del IPC.",
+   "cita": "Los inquilinos tendrán una deducción en el IRPF por el alquiler de su vivienda habitual,",
+   "pagina": 55,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-impuestos-1",
+   "tema": "impuestos",
+   "titulo": "Bajar el IRPF y ajustarlo a la inflación",
+   "resumen": "Subir los mínimos personales y familiares, bajar el IRPF de rentas medias y bajas, dejar exento el salario mínimo y deflactar la tarifa. No da cifras de tipos ni de coste.",
+   "cita": "Deflactaremos la tarifa y actualizaremos los principales parámetros del impuesto para impedir que la inflación vuelva a utilizarse como una subida encubierta de impuestos.",
+   "pagina": 60,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-impuestos-2",
+   "tema": "impuestos",
+   "titulo": "IVA del 0 % para los alimentos básicos",
+   "resumen": "Aplicar un IVA del 0 % a los alimentos básicos, incluidos carne, pescado y conservas, mientras dure la crisis de precios.",
+   "cita": "un IVA del 0% a los alimentos básicos, incluidos la carne, el pescado y las conservas.",
+   "pagina": 61,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-impuestos-3",
+   "tema": "impuestos",
+   "titulo": "Los jóvenes no pagarán IRPF el primer año",
+   "resumen": "Reducción del IRPF para trabajadores y autónomos de 18 a 35 años durante sus cuatro primeros años de tributación, de forma decreciente.",
+   "cita": "La reducción será del 100% el primer año, del 75% el segundo, del 50% el tercero y del 25% el cuarto.",
+   "pagina": 60,
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-impuestos-4",
+   "tema": "impuestos",
+   "titulo": "Auditoría de todo el gasto público en cien días",
+   "resumen": "Auditar el gasto de los últimos años, las ayudas, contratos y subvenciones, y usar las conclusiones en el primer presupuesto para suprimir gastos y reducir estructuras.",
+   "cita": "EN CIEN DÍAS, LOS ESPAÑOLES LO SABRÁN TODO.",
+   "pagina": 12,
+   "concrecion": {
+    "cifra": false,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-empleo-1",
+   "tema": "empleo",
+   "titulo": "Cuota cero para nuevos autónomos",
+   "resumen": "Los nuevos autónomos no pagarán cuota el primer año, ni el segundo si ingresan menos del salario mínimo. Su vivienda habitual quedará protegida frente a las deudas del negocio.",
+   "cita": "Los nuevos autónomos no pagarán cuota a la Seguridad Social durante su primer año, ni durante el segundo si sus ingresos no llegan al salario mínimo.",
+   "pagina": 59,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-empleo-2",
+   "tema": "empleo",
+   "titulo": "Autónomos sin IVA por debajo de 85.000 euros",
+   "resumen": "Los autónomos que facturen menos de 85.000 euros no tendrán que cobrar ni declarar IVA, podrán presentar menos declaraciones y tendrán bonificada la cotización de sus dos primeros empleados.",
+   "cita": "bonificaremos el 100% de las cotizaciones empresariales por el primer trabajador durante un año y el 50% por el segundo.",
+   "pagina": 59,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-empleo-3",
+   "tema": "empleo",
+   "titulo": "Cheque de formación para cada trabajador",
+   "resumen": "Cada trabajador tendrá un cheque de formación que conserva aunque cambie de empresa, con más recursos para mayores y sectores expuestos a la inteligencia artificial.",
+   "cita": "Lo financiaremos con las cuotas de formación que ya pagan empresas y trabajadores",
+   "pagina": 58,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-empleo-4",
+   "tema": "empleo",
+   "titulo": "Menos cotización para empresas con plantillas estables",
+   "resumen": "Las empresas con plantillas más estables que la media de su sector cotizarán menos por desempleo. Se publicará cada mes cuántos fijos discontinuos están sin trabajar.",
+   "cita": "publicaremos cada mes, junto al paro registrado, cuántos fijos discontinuos no están trabajando",
+   "pagina": 59,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-pensiones-1",
+   "tema": "pensiones",
+   "titulo": "Subir las pensiones cada año con el IPC",
+   "resumen": "Mantener el poder adquisitivo de las pensiones con una subida anual ligada al IPC, dentro de un Pacto de Toledo renovado.",
+   "cita": "cada año con el IPC. Aseguraremos a los más jóvenes que sus futuras pensiones también mantendrán su poder adquisitivo.",
+   "pagina": 43,
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-pensiones-2",
+   "tema": "pensiones",
+   "titulo": "Blindar la caja única de la Seguridad Social",
+   "resumen": "Fijar por ley que las cotizaciones financien pensiones y prestaciones en toda España sin repartir los recursos por territorios.",
+   "cita": "Blindaremos legalmente la caja única de la Seguridad Social",
+   "pagina": 17,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-pensiones-3",
+   "tema": "pensiones",
+   "titulo": "Incentivos fiscales para seguir trabajando tras jubilarse",
+   "resumen": "Deducciones en el IRPF para quien compatibilice pensión y trabajo (jubilación activa).",
+   "cita": "la jubilación activa mediante deducciones en el IRPF.",
+   "pagina": 43,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-sanidad-1",
+   "tema": "sanidad",
+   "titulo": "Plan urgente contra las listas de espera",
+   "resumen": "Pacto de Estado por la sanidad con las comunidades y un plan urgente de reducción de listas de espera. No fija objetivos de días ni presupuesto.",
+   "cita": "REDUCIREMOS LAS LISTAS DE ESPERA Y ASEGURAREMOS LA FINANCIACIÓN SANITARIA.",
+   "pagina": 68,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-sanidad-2",
+   "tema": "sanidad",
+   "titulo": "4.500 médicos más en Atención Primaria",
+   "resumen": "Incorporar más profesionales al sistema público en coordinación con las comunidades, con al menos 4.500 médicos de familia adicionales, y más plazas de formación especializada.",
+   "cita": "En Atención Primaria, al menos 4.500 médicos más.",
+   "pagina": 69,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-sanidad-3",
+   "tema": "sanidad",
+   "titulo": "Plan Nacional de Salud Mental 2027-2037",
+   "resumen": "Más profesionales de salud mental y acceso a atención psicológica desde Atención Primaria, con prioridad para infancia, adolescencia y prevención del suicidio.",
+   "cita": "TAMBIÉN HABRÁ MÁS PROFESIONALES Y MÁS ATENCIÓN A LA SALUD MENTAL.",
+   "pagina": 70,
+   "concrecion": {
+    "cifra": false,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-sanidad-4",
+   "tema": "sanidad",
+   "titulo": "Ley nacional de cuidados paliativos",
+   "resumen": "Garantizar por ley el acceso a cuidados paliativos, incluidos los pediátricos y la atención a domicilio.",
+   "cita": "aprobaremos una ley nacional de cuidados paliativos",
+   "pagina": 70,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-educacion-1",
+   "tema": "educacion",
+   "titulo": "Escuela infantil de 0 a 3 años gratuita",
+   "resumen": "El Estado pagaría la mitad de cada plaza de 0 a 3 años, pública o concertada, y las comunidades la otra mitad. Gratuidad completa al final de la legislatura.",
+   "cita": "la etapa será gratuita para todas las familias que la soliciten.",
+   "pagina": 57,
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-educacion-2",
+   "tema": "educacion",
+   "titulo": "Sustituir la LOMLOE y exigir aprobar para pasar de curso",
+   "resumen": "Nueva ley educativa en lugar de la LOMLOE. En la ESO habría que aprobar las asignaturas para pasar de curso, con refuerzo obligatorio antes de repetir.",
+   "cita": "En la ESO volverá a pasarse de curso con las asignaturas aprobadas.",
+   "pagina": 68,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-educacion-3",
+   "tema": "educacion",
+   "titulo": "Enseñanza en castellano garantizada en toda España",
+   "resumen": "Garantizar que se pueda recibir enseñanza en castellano en todas las etapas y comunidades, respetando las lenguas cooficiales y las sentencias. Además, una prueba de acceso a la universidad común.",
+   "cita": "el derecho constitucional de recibir enseñanza en castellano en todas las etapas del sistema educativo y en toda la Nación",
+   "pagina": 39,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-educacion-4",
+   "tema": "educacion",
+   "titulo": "Libre elección de colegio y conciertos de seis años",
+   "resumen": "Elegir centro en todo el municipio, mantener los conciertos donde haya demanda y que duren al menos seis años con financiación que cubra el coste real.",
+   "cita": "Los conciertos durarán al menos seis años en todas las etapas,",
+   "pagina": 67,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-inmigracion-1",
+   "tema": "inmigracion",
+   "titulo": "Prohibir por ley las regularizaciones masivas",
+   "resumen": "Reformar la Ley de Extranjería para vetar las regularizaciones masivas y dejar el arraigo como vía individual y excepcional. El padrón no bastará para ayudas no urgentes.",
+   "cita": "Reformaremos la Ley de Extranjería para prohibir las regularizaciones masivas e indiscriminadas",
+   "pagina": 22,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-inmigracion-2",
+   "tema": "inmigracion",
+   "titulo": "Visado por puntos y cupos anuales de trabajadores",
+   "resumen": "Entrada legal mediante visados por puntos (formación, experiencia, idioma) y cupos anuales por sectores, solo con países que colaboren en los retornos.",
+   "cita": "Implantaremos visados por puntos que valoren la formación",
+   "pagina": 22,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-inmigracion-3",
+   "tema": "inmigracion",
+   "titulo": "Expulsión de extranjeros condenados por delitos graves",
+   "resumen": "La expulsión sería la regla para condenados por delitos sexuales, de sangre y multirreincidencia. Más tiempo máximo en centros de internamiento y centros de retorno en terceros países.",
+   "cita": "QUIEN DELINQUE SERÁ EXPULSADO DE ESPAÑA.",
+   "pagina": 23,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-inmigracion-4",
+   "tema": "inmigracion",
+   "titulo": "Compromiso de integración y veto al burka",
+   "resumen": "Para renovar la residencia habrá que aprender español y conocer la Constitución. Se prohíbe el burka y el niqab en espacios públicos.",
+   "cita": "Prohibiremos el uso del burka y el niqab en los espacios públicos.",
+   "pagina": 23,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-seguridad-1",
+   "tema": "seguridad",
+   "titulo": "Desalojo de viviendas ocupadas en 48 horas",
+   "resumen": "Ley para que el propietario recupere su vivienda en 48 horas con orden judicial. El dueño no pagará suministros ni impuestos durante la ocupación y el empadronamiento del ocupante será nulo.",
+   "cita": "EL OCUPA SALDRÁ EN 48 HORAS POR ORDEN JUDICIAL.",
+   "pagina": 55,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-seguridad-2",
+   "tema": "seguridad",
+   "titulo": "Respuesta penal más rápida a la multirreincidencia",
+   "resumen": "Más juicios rápidos, tramitación conjunta de delitos leves relacionados y mejor acceso policial a los antecedentes.",
+   "cita": "Impediremos que nadie haga del hurto y la ocupación un modo de vida.",
+   "pagina": 17,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-seguridad-3",
+   "tema": "seguridad",
+   "titulo": "Ampliar la prisión permanente revisable",
+   "resumen": "Aplicarla al asesino que oculte el cadáver o no revele dónde está, y a pederastas y violadores reincidentes.",
+   "cita": "AMPLIAREMOS LA PRISIÓN PERMANENTE REVISABLE A QUIEN HAGA DESAPARECER A SU VÍCTIMA Y A LOS DEPREDADORES SEXUALES.",
+   "pagina": 20,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-seguridad-4",
+   "tema": "seguridad",
+   "titulo": "Policía y Guardia Civil, profesión de riesgo",
+   "resumen": "Reconocer a policías y guardias civiles como profesión de riesgo, completar la equiparación salarial y actualizar las dietas.",
+   "cita": "Reconoceremos a Policía Nacional y Guardia Civil como profesiones de riesgo, culminaremos el acuerdo de equiparación salarial",
+   "pagina": 20,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-igualdad-1",
+   "tema": "igualdad",
+   "titulo": "Eliminar el cambio de sexo registral por simple declaración",
+   "resumen": "Revisar la Ley Trans y suprimir la autodeterminación del sexo en el Registro Civil. El sexo biológico marcará las categorías deportivas femeninas.",
+   "cita": "la libre autodeterminación registral del sexo",
+   "pagina": 44,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-igualdad-2",
+   "tema": "igualdad",
+   "titulo": "Una ayuda fiscal única por hijos, cobrada cada mes",
+   "resumen": "Unificar las deducciones familiares del IRPF en una sola, que se cobre mensualmente y llegue también a familias que no pagan suficiente IRPF. Los mínimos familiares subirán con la inflación.",
+   "cita": "Refundiremos las deducciones familiares del IRPF en una sola, reembolsable, con un único trámite y abono mensual.",
+   "pagina": 56,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-igualdad-3",
+   "tema": "igualdad",
+   "titulo": "Pulseras de alejamiento bajo control de Interior",
+   "resumen": "El sistema de dispositivos contra maltratadores pasaría al Ministerio del Interior, con supervisión policial continua y conservación de los datos como prueba.",
+   "cita": "LAS MUJERES NO QUEDARÁN DESPROTEGIDAS POR EL CAOS ADMINISTRATIVO.",
+   "pagina": 19,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-igualdad-4",
+   "tema": "igualdad",
+   "titulo": "Redes sociales prohibidas a menores de 14 años",
+   "resumen": "Sin cuenta en redes antes de los 14 y con permiso de los padres hasta los 16. Verificación de edad obligatoria y sanciones a las plataformas según su facturación.",
+   "cita": "NINGÚN MENOR DE 14 AÑOS PODRÁ TENER UNA CUENTA EN REDES SOCIALES, Y HASTA LOS 16 NECESITARÁ AUTORIZACIÓN DE SUS PADRES.",
+   "pagina": 58,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-energia-1",
+   "tema": "energia",
+   "titulo": "Mantener abiertas las centrales nucleares",
+   "resumen": "Anular el calendario de cierre de las cinco centrales y tramitar en cien días la prórroga de su vida útil, con el visto bueno del Consejo de Seguridad Nuclear.",
+   "cita": "ELIMINAREMOS EL CALENDARIO DE CIERRE DE ALMARAZ, ASCÓ, VANDELLÓS, COFRENTES Y TRILLO.",
+   "pagina": 71,
+   "concrecion": {
+    "cifra": false,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-energia-2",
+   "tema": "energia",
+   "titulo": "Quitar el impuesto del 7 % a la electricidad",
+   "resumen": "Suprimir el impuesto a la producción eléctrica, rebajar la carga fiscal del recibo y crear una tarifa social única que sustituya a los bonos eléctrico y térmico.",
+   "cita": "el impuesto del 7% a la producción eléctrica y reduciremos la carga",
+   "pagina": 71,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-energia-3",
+   "tema": "energia",
+   "titulo": "Pacto Nacional del Agua con 40.000 millones",
+   "resumen": "Inversiones en regadíos, embalses, desalación y reutilización de agua hasta 2030, dentro de un plan de infraestructuras con participación privada.",
+   "cita": "movilizaremos hasta 40.000 millones de euros en inversiones hasta 2030",
+   "pagina": 46,
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-energia-4",
+   "tema": "energia",
+   "titulo": "Revisar los plazos de las políticas climáticas",
+   "resumen": "Mantener el objetivo de descarbonización pero revisar los ritmos por sector y retirar obligaciones que perjudiquen a la industria o al empleo.",
+   "cita": "ha llegado el momento de revisar los ritmos de cada sector",
+   "pagina": 72,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-instituciones-1",
+   "tema": "instituciones",
+   "titulo": "Que los jueces elijan a los vocales judiciales del CGPJ",
+   "resumen": "Los jueces votarían directamente a los doce vocales judiciales del Consejo General del Poder Judicial. Las Cortes solo elegirían a los ocho juristas.",
+   "cita": "LOS JUECES ELEGIRÁN A LOS JUECES.",
+   "pagina": 32,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-instituciones-2",
+   "tema": "corrupcion",
+   "titulo": "Endurecer la malversación y recuperar el dinero robado",
+   "resumen": "Volver a las penas de malversación anteriores a 2022, reforzar la oficina que recupera bienes del delito y adoptar las normas penales europeas contra la corrupción.",
+   "cita": "LOS CORRUPTOS DEVOLVERÁN LO ROBADO.",
+   "pagina": 34,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "tema_anterior": "instituciones"
+  },
+  {
+   "id": "pp-instituciones-3",
+   "tema": "instituciones",
+   "titulo": "Derogar la amnistía y limitar los indultos",
+   "resumen": "Derogar la Ley de Amnistía y aprobar una nueva Ley del Indulto que excluya a condenados por corrupción, terrorismo o delitos contra el orden constitucional.",
+   "cita": "Derogaremos la Ley de Amnistía",
+   "pagina": 29,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-instituciones-4",
+   "tema": "instituciones",
+   "titulo": "Elecciones obligatorias tras dos prórrogas presupuestarias",
+   "resumen": "Si un Gobierno prorroga los presupuestos dos años seguidos, se disolverían las Cortes y habría elecciones.",
+   "cita": "una segunda prórroga consecutiva provoque la disolución de las Cortes y la convocatoria de elecciones.",
+   "pagina": 30,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-territorio-1",
+   "tema": "territorio",
+   "titulo": "Financiación autonómica común, sin pactos bilaterales",
+   "resumen": "Nuevo modelo de financiación acordado entre todas las comunidades, sin regímenes singulares, con un fondo de nivelación transitorio pagado por el Estado.",
+   "cita": "Ninguna de las Comunidades que actualmente integran el régimen común saldrá de él ni habrá nuevos regímenes singulares negociados bilateralmente al margen de este sistema.",
+   "pagina": 41,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-territorio-2",
+   "tema": "territorio",
+   "titulo": "Recuperar los delitos de sedición y referéndum ilegal",
+   "resumen": "Volver a incluir en el Código Penal la sedición, actualizada, y la convocatoria de referéndum ilegal.",
+   "cita": "adaptado a la legislación contemporánea, y el de convocatoria de referéndum ilegal.",
+   "pagina": 16,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-territorio-3",
+   "tema": "territorio",
+   "titulo": "Solo castellano en los debates del Congreso",
+   "resumen": "Reformar el Reglamento del Congreso para que los debates sean en castellano. Las lenguas cooficiales seguirían en el Senado.",
+   "cita": "EL CASTELLANO VOLVERÁ A SER LA LENGUA COMÚN DE TRABAJO EN EL CONGRESO.",
+   "pagina": 47,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-exterior-1",
+   "tema": "exterior",
+   "titulo": "Ley para planificar y financiar la defensa",
+   "resumen": "Inversión plurianual en defensa con objetivos de personal y material, y compromisos internacionales respaldados por las Cortes. No fija porcentaje del PIB.",
+   "cita": "una ley de programación y financiación de la defensa, con objetivos de personal y material a medio y largo plazo.",
+   "pagina": 26,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "pp-exterior-2",
+   "tema": "exterior",
+   "titulo": "Mantener el apoyo a Ucrania y las sanciones a Rusia",
+   "resumen": "Seguir apoyando a Ucrania en lo político, económico, militar y humanitario mientras dure la agresión rusa.",
+   "cita": "el apoyo político, económico, militar y humanitario a Ucrania",
+   "pagina": 74,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-exterior-3",
+   "tema": "exterior",
+   "titulo": "Volver al equilibrio entre Marruecos y Argelia",
+   "resumen": "Apoyar la vía de Naciones Unidas para el Sáhara Occidental, informar a las Cortes y defender la españolidad de Ceuta, Melilla y Canarias.",
+   "cita": "los esfuerzos de Naciones Unidas en el Sáhara Occidental",
+   "pagina": 74,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-exterior-4",
+   "tema": "exterior",
+   "titulo": "Defender la PAC y la cohesión en la UE",
+   "resumen": "En el presupuesto europeo 2028-2034, exigir que la política agraria y la de cohesión sigan separadas y sin recortes para España.",
+   "cita": "PAC y la cohesión sigan siendo políticas propias, con fondos propios y sin recortes para España",
+   "pagina": 74,
+   "concrecion": {
+    "cifra": false,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-corrupcion-1",
+   "tema": "corrupcion",
+   "titulo": "Trazabilidad digital de contratos y fondos públicos",
+   "resumen": "Crearían un sistema único para seguir los contratos, las subvenciones y las grandes transferencias de dinero público de todas las administraciones, e identificar a los beneficiarios reales de las empresas adjudicatarias. El programa no fija plazo ni presupuesto.",
+   "cita": "Implantaremos un sistema único e interoperable de trazabilidad digital de los contratos, las subvenciones y las grandes transferencias de fondos públicos de todas las administraciones",
+   "pagina": 34,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-corrupcion-2",
+   "tema": "corrupcion",
+   "titulo": "Autoridad independiente de transparencia y conflictos de intereses",
+   "resumen": "Convertirían el Consejo de Transparencia y Buen Gobierno en una autoridad independiente que absorbería la Oficina de Conflictos de Intereses, con capacidad para hacer cumplir sus resoluciones y sancionar. No fijan plazo ni presupuesto.",
+   "cita": "Transformaremos el Consejo de Transparencia y Buen Gobierno en una Autoridad Independiente de Transparencia y Buen Gobierno, que absorberá también la Oficina de Conflictos de Intereses",
+   "pagina": 34,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-corrupcion-3",
+   "tema": "corrupcion",
+   "titulo": "Registro público y obligatorio de lobbies",
+   "resumen": "Regularían la actividad de los lobbies ante el Gobierno y las Cortes con un registro nacional público y obligatorio, dependiente de la nueva autoridad de transparencia, que indique a quién representa cada grupo. No fijan plazo ni presupuesto.",
+   "cita": "Crearemos un Registro Nacional público y obligatorio, dependiente de la Autoridad Independiente de Transparencia, en el que conste a quién representa cada grupo de interés",
+   "pagina": 36,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-corrupcion-4",
+   "tema": "corrupcion",
+   "titulo": "Inelegibilidad de condenados por corrupción grave",
+   "resumen": "Ampliarían las incompatibilidades e inelegibilidades para que quienes hayan sido condenados por corrupción grave (y por terrorismo o delitos graves contra la vida o las instituciones) no puedan ocupar cargos públicos. No fijan plazo.",
+   "cita": "Ampliaremos las incompatibilidades e inelegibilidades aplicables a los condenados por terrorismo, así como a los condenados por corrupción grave",
+   "pagina": 29,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "pp-corrupcion-5",
+   "tema": "corrupcion",
+   "titulo": "Sin indulto para condenados por corrupción",
+   "resumen": "Aprobarían una nueva Ley del Indulto con criterios objetivos y transparentes que impida indultar a condenados por corrupción, terrorismo, delitos contra la integridad territorial o el orden constitucional y delitos graves contra menores. No fijan plazo.",
+   "cita": "No podrán ser indultados los condenados por corrupción, terrorismo, delitos contra la integridad territorial o el orden constitucional ni por delitos graves contra menores",
+   "pagina": 29,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  }
+ ],
+ "contrastes": [
+  {
+   "propuesta_id": "pp-vivienda-1",
+   "promesa": "Construir un millón de viviendas.",
+   "ha_gobernado": "estatal",
+   "resumen": "El programa titula «Construiremos un millón de viviendas» y lo apoya en liberar suelo, una nueva Ley del Suelo y licencias en tres meses, sin plazo ni presupuesto escritos. En 2025 se terminaron unas 92.000 viviendas y el Banco de España cifra el déficit en 750.000. Cuando el PP gobernó el Estado (2011-2018) la vivienda protegida cayó a su mínimo histórico y en Madrid vendió 2.935 pisos públicos en una operación anulada por los tribunales; el Plan Vive madrileño ha entregado 6.530 viviendas de 16.500 previstas. El 16-11-2026 Feijóo precisó que no promete un millón de viviendas «públicas», sino leyes para que se construyan 250.000 al año.",
+   "antecedentes": "Feijóo anunció el 12-1-2026 que cubriría «durante la próxima legislatura el déficit de un millón de viviendas» (e4). En mayo de 2024 el PP no garantizó su abstención a la reforma de la Ley del Suelo del Gobierno, que fue retirada antes de votarse (e8), y el 2-10-2026 votó contra los dos decretos-ley de vivienda (e9). En el Gobierno central (2011-2018) las entregas de vivienda protegida bajaron hasta 4.938 en 2017 (e5).",
+   "matiz": "El urbanismo y la vivienda son competencia de comunidades y ayuntamientos: ni la caída de la vivienda protegida de 2012-2017 ni un futuro millón de viviendas dependen solo del Gobierno central, y la caída coincidió con la crisis financiera. El programa habla de facilitar que se construya (suelo, licencias, crédito), no de un millón de viviendas públicas. Una frase de Feijóo difundida el 16-11-2026 como si negara la promesa estaba mal transcrita: el medio la corrigió (e3).",
+   "refutacion": "Para tumbar la promesa busqué el ritmo real de construcción, el historial del PP y declaraciones contradictorias: salieron las cifras del Banco de España (e1), el mínimo de vivienda protegida (e5) y la venta anulada del IVIMA (e6). Para tumbar esa evidencia comprobé que el Banco de España recomienda varias medidas que el programa recoge (e2), que la construcción ya crecía en 2024 (e10; serie del Ministerio, no comparable con la del Banco de España) y que Madrid sí ha entregado vivienda asequible con el Plan Vive (e7). Un hecho muy difundido resultó engañoso: el 16-11-2026 se publicó que Feijóo había dicho «Yo no he dicho que vaya a hacer un millón de viviendas». La entrevista original (Politico) lleva una nota de corrección: la frase literal fue «un millón de viviendas públicas», seguida del compromiso de leyes para construir 250.000 al año; Maldita.es retiró la hemeroteca que había publicado sobre esa frase (e3). No es, por tanto, una contradicción con el programa. No se verificó con fuente primaria la serie anual completa de vivienda protegida ni el reparto por comunidades.",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Con poder estatal y autonómico la vivienda protegida tocó mínimo y se vendió parque público; el Plan Vive es un contrapeso parcial (e5, e6, e7)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Lo anuncia como compromiso de legislatura y lo mantiene en campaña como objetivo de 250.000 viviendas al año mediante leyes, no como vivienda pública; no garantizó su abstención a la Ley del Suelo de 2024 y votó contra los decretos de 2026 (e3, e4, e8, e9)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Depende de comunidades y ayuntamientos y no explica financiación ni plazo (e2, e8)."
+    },
+    "datos": {
+     "nivel": 1,
+     "por": "Exigiría unas 250.000 viviendas al año frente a 92.000 en 2025, con falta de mano de obra; el Banco de España ve una oferta «no muy halagüeña» (e1, e10)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "Banco de España: faltan 750.000 viviendas",
+     "hecho": "El Informe Anual 2025 del Banco de España cifra en 750.000 el déficit de viviendas acumulado en 2021-2025. En 2025 se terminaron unas 92.000 viviendas y se crearon unos 240.000 hogares. Señala trabas urbanísticas, escasez de suelo y falta de mano de obra (7 % del empleo, frente al 11 % a finales de los noventa).",
+     "fecha": "2026-06-18",
+     "fuente": "Banco de España (Informe Anual 2025), recogido por elDiario.es",
+     "url": "https://www.eldiario.es/economia/banco-espana-eleva-750-000-viviendas-faltan-anticipa-deficit-agravara-proximos-anos_1_13313634.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Déficit (750.000), viviendas terminadas (92.000) y hogares creados (240.000) comprobados en el artículo y en El Debate (e2). El dato de mano de obra (7 % frente a 11 %) consta en el artículo; el PDF del Banco de España no se pudo leer."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "El Banco de España pide simplificar la regulación urbanística",
+     "hecho": "El Banco de España recomienda simplificar la regulación, dar más capacidad a los ayuntamientos, fomentar la construcción industrializada y aumentar la rehabilitación. Son líneas que el programa del PP recoge. El parque público es el 1,5 % del total, frente al 7 % de media europea.",
+     "fecha": "2026-06-18",
+     "fuente": "Banco de España (Informe Anual 2025), recogido por El Debate",
+     "url": "https://www.eldebate.com/economia/20260618/banco-espana-cifra-750000-deficit-vivienda-doble-italia-pide-simplificar-regulacion_429981.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "Feijóo: no un millón de viviendas «públicas», sino leyes",
+     "hecho": "En una entrevista publicada el 16-11-2026, a la pregunta «Ha prometido construir un millón de viviendas», Feijóo respondió: «Yo no he dicho que vaya a hacer un millón de viviendas públicas, he dicho que España necesita un millón de viviendas», y añadió que impulsará leyes para volver a construir 250.000 al año. La primera versión publicada omitía «públicas»; el medio lo corrigió con una nota.",
+     "fecha": "2026-11-16",
+     "fuente": "Politico (entrevista original, con nota de corrección)",
+     "url": "https://www.politico.eu/article/feijoo-hare-una-auditoria-a-las-cuentas-publicas-de-espana-no-me-creo-los-datos/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Texto de la entrevista y nota de «CORRECCIONES» leídos en el original. No hay vídeo ni audio público de la respuesta. elDiario.es publicó la primera versión (https://www.eldiario.es/1_d09022) y Maldita.es retiró su hemeroteca tras la corrección (https://maldita.es/control-del-poder/20261118/feijoo-construir-un-millon-viviendas/). La medida 144 del programa se titula «Construiremos un millón de viviendas»."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "En enero de 2026 lo planteó como objetivo de legislatura",
+     "hecho": "El 12-1-2026 Feijóo se comprometió a «cubrir durante la próxima legislatura el déficit de un millón de viviendas». Cifró la falta actual en 700.000 viviendas, más 160.000 nuevas necesidades al año.",
+     "fecha": "2026-01-12",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/01/12/feijoo-contraprograma-el-acto-de-sanchez-con-la-promesa-de-un-millon-de-viviendas-para-la-proxima-legislatura/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "La vivienda protegida tocó mínimo histórico en 2017",
+     "hecho": "En 2017, con el PP en el Gobierno central, Estado y comunidades entregaron 4.938 viviendas protegidas, la cifra más baja de la serie del Ministerio de Fomento. En 2007 y 2008 fueron unas 68.000 al año.",
+     "fecha": "2018-06-28",
+     "fuente": "Idealista, con datos del Ministerio de Fomento",
+     "url": "https://www.idealista.com/news/node/766295",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Dato oficial citado a través de prensa; la promoción de vivienda protegida depende sobre todo de las comunidades, de distinto signo político."
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "resolucion_judicial",
+     "titulo": "Anulada la venta de 2.935 viviendas públicas de Madrid",
+     "hecho": "En 2013 el Gobierno madrileño de Ignacio González (PP) vendió 2.935 viviendas del IVIMA a Azora-Goldman Sachs por unos 201 millones. La justicia anuló la venta y el Tribunal Supremo rechazó los recursos de la Comunidad y de Azora.",
+     "fecha": "2020-03-11",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/madrid/supremo-confirma-viviendas-comunidad-madrid_1_1032476.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Procedimiento contencioso-administrativo, no penal: no hay condena a personas. La nulidad es firme según el artículo; el precio aparece como 201 y 210 millones en el mismo texto."
+    },
+    {
+     "id": "e7",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "Plan Vive de Madrid: 6.530 viviendas entregadas",
+     "hecho": "El Plan Vive de la Comunidad de Madrid (PP), de alquiler asequible sobre suelo público en concesión, había entregado 6.530 viviendas hasta septiembre de 2026. Prevé 16.500 en total.",
+     "fecha": "2026-09",
+     "fuente": "Comunidad de Madrid",
+     "url": "https://www.comunidad.madrid/plan-vive",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Fuente de parte: cifras del propio gobierno autonómico."
+    },
+    {
+     "id": "e8",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "El Gobierno retiró la Ley del Suelo de 2024; el PP no garantizó su abstención",
+     "hecho": "El 23-5-2024 el Gobierno retiró del orden del día su reforma de la Ley del Suelo, sin votarse, al no tener votos: Podemos, Junts y ERC habían presentado enmiendas a la totalidad y Sumar anunció su rechazo. El Gobierno necesitaba al menos la abstención del PP; Feijóo había dicho que no iba a «salvar» al Ejecutivo y que decidiría su voto tras consultar al partido.",
+     "fecha": "2024-05-23",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2024/05/23/el-gobierno-retira-la-ley-del-suelo-para-evitarse-una-segunda-derrota-parlamentaria-esta-semana/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El PP no llegó a votar. Retirar un texto no equivale a rechazar su objetivo; la FEMP, presidida por un alcalde del PP, había pedido la ley."
+    },
+    {
+     "id": "e9",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "El PP votó contra los decretos de vivienda de 2026",
+     "hecho": "El 2-10-2026 el Congreso derogó los dos decretos-ley de vivienda del Gobierno: el RDL 26/2026 por 178 votos en contra (PP, Vox, Junts y UPN) y 172 a favor, y el RDL 27/2026 por 184 en contra (PP, Vox, PNV, Junts, CC y UPN) y 166 a favor. Incluían, entre otras medidas, prórroga extraordinaria de contratos, tope del 2 % a la subida de rentas hasta 2027 y suspensión de desahucios de vulnerables hasta 2030. Feijóo los llamó «decretos artificiales, contradictorios entre sí» y pidió elecciones.",
+     "fecha": "2026-10-02",
+     "fuente": "Idealista (recuento y contenido); Artículo 14 (declaración de Feijóo)",
+     "url": "https://www.idealista.com/en/news/node/917257",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Recuentos y contenido según Idealista; la frase de Feijóo, en Artículo 14 (https://www.articulo14.es/politica/pp-vox-y-junts-tumban-los-dos-decretos-de-vivienda-y-asestan-una-dura-derrota-al-gobierno-20261002.html), que da 184-166 sin distinguir los dos decretos. El registro oficial de la votación no se localizó."
+    },
+    {
+     "id": "e10",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "En 2024 se terminaron 100.980 viviendas de obra nueva",
+     "hecho": "En 2024 se terminaron 100.980 viviendas de obra nueva y se iniciaron 136.187, los mayores registros en 12 y 14 años. Las calificaciones definitivas de vivienda protegida fueron 14.371.",
+     "fecha": "2025-07-04",
+     "fuente": "Ministerio de Vivienda (La Moncloa)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/vivienda-agenda-urbana/Paginas/2025/040725-vivienda-protegida-observatorio-suelo.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Serie del Ministerio de Vivienda; no es comparable con las 92.000 viviendas terminadas de 2025 del Banco de España (otra fuente y metodología)."
+    },
+    {
+     "id": "e11",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El PP registró en 2026 su propia ley urbanística",
+     "hecho": "El Grupo Popular registró el 6-2-2026 una proposición de ley de seguridad jurídica urbanística e impulso de la vivienda (122/000253). El Pleno del Congreso la tomó en consideración el 21-4-2026. Figura como caducada tras la disolución de las Cortes.",
+     "fecha": "2026-04-21",
+     "fuente": "Congreso de los Diputados (BOCG)",
+     "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-303-2.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leídos en copia local el BOCG serie B núm. 303-1 y 303-2 y la ficha de la iniciativa. Tomar en consideración no es aprobar; no se comprobó el resultado de la votación. Añadida en la ampliación del 24-11-2026 a partir de una pista de la edición Codex."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "pp-impuestos-1",
+   "promesa": "Bajar el IRPF a rentas medias y bajas y ajustarlo cada año a la inflación.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PP promete bajar el IRPF, subir los mínimos y deflactar la tarifa, sin dar tipos ni coste. En diciembre de 2011, recién llegado al Gobierno tras defender bajadas de impuestos, subió el IRPF y en 2012 el IVA; en 2015-2016 lo rebajó. Las comunidades que gobierna han bajado el tramo autonómico. No he encontrado ninguna estimación independiente del coste del plan de 2026.",
+   "antecedentes": "El 30-12-2011 el Gobierno de Rajoy aprobó un recargo en el IRPF para 2012 y 2013, prorrogado a 2014 (e1) y en julio de 2012 subió el IVA del 18 % al 21 % (e2). La Ley 26/2014 rebajó el IRPF en 2015 y 2016 (e4). En 2022, Madrid, Galicia (con Feijóo de presidente), Murcia y Andalucía bajaron el tramo autonómico (e5).",
+   "matiz": "Las subidas de 2011-2012 se aprobaron con un déficit de 2011 muy superior al previsto y bajo presión de los mercados; el Gobierno las presentó como temporales. Bajar el tramo autonómico es más fácil que bajar el estatal, que sostiene pensiones, deuda y defensa.",
+   "refutacion": "Para tumbar la promesa busqué el precedente de 2011-2012 (e1, e2, e3) y si el programa explica cómo se paga: no lo hace, y la prensa económica tampoco encontró memoria (e7). Para tumbar esa evidencia comprobé que el mismo Gobierno bajó el IRPF en 2015-2016 (e4), que las comunidades del PP lo han bajado de forma sostenida (e5) y que el PP lleva años pidiendo la deflactación, con una cifra propia de 3.200 millones para su plan de marzo de 2026 (e6). No encontré evaluación de AIReF, Banco de España o FEDEA sobre el plan fiscal del PP. La puntuación de datos queda en el punto medio por falta de evidencia, no por evidencia mixta.",
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "En 2011-2012 hizo lo contrario de lo defendido; en 2015-2016 y en las autonomías sí bajó el IRPF (e1, e2, e4, e5)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Desde 2015 su posición sobre el IRPF es constante en votos y gobiernos autonómicos; la excepción es 2011-2012 (e3, e5, e6)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Basta una ley ordinaria, pero el coste no está cifrado ni dice cómo se compensa (e7, e8)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Sin valoración independiente localizada; la AIReF proyecta deuda al alza a políticas constantes (e8)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Recargo en el IRPF aprobado el 30-12-2011",
+     "hecho": "El Real Decreto-ley 20/2011, de 30 de diciembre, creó un gravamen complementario en la cuota estatal del IRPF para 2012 y 2013; la Ley 22/2013 de Presupuestos lo prorrogó a 2014. Rajoy había sido investido el 20 de diciembre. La norma alega la desviación del déficit de 2011.",
+     "fecha": "2011-12-30",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-20638",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La escala del recargo (0,75 % a 7 %) consta en la prensa de la fecha (e3); el fragmento del BOE abierto solo recoge el preámbulo. Prórroga a 2014 según Garrigues (https://www.garrigues.com/es_ES/noticia/novedades-fiscales-de-la-ley-de-presupuestos-para-el-2014)."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Subida del IVA del 18 % al 21 % en 2012",
+     "hecho": "El Real Decreto-ley 20/2012, de 13 de julio, subió el tipo general del IVA del 18 % al 21 % y el reducido del 8 % al 10 %, con efecto desde el 1 de septiembre de 2012.",
+     "fecha": "2012-07-13",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9364",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "El Gobierno alegó un déficit dos puntos mayor",
+     "hecho": "El 30-12-2011 el Gobierno anunció que el déficit de 2011 sería del 8 %, dos puntos más de lo previsto, y dijo verse «obligado» a subir impuestos. Once días antes Rajoy había dicho en el Congreso que no tenía intención de subirlos.",
+     "fecha": "2011-12-30",
+     "fuente": "Público",
+     "url": "https://www.publico.es/actualidad/rajoy-incumple-palabra-sube-impuestos.html",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "El artículo no reproduce citas literales de campaña. No pude abrir el programa del PP de 2011."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Rebaja del IRPF en 2015 y 2016",
+     "hecho": "La Ley 26/2014 redujo los tramos del IRPF de siete a cinco, bajó los tipos marginales con una segunda rebaja en 2016 y elevó a 12.000 euros el umbral de tributación.",
+     "fecha": "2014-11-27",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Las comunidades del PP bajaron el IRPF en 2022",
+     "hecho": "Para 2022, Madrid bajó medio punto todos los tramos autonómicos (330 millones); Galicia, presidida por Feijóo, aprobó una rebaja para el 90 % de los contribuyentes (60 millones); Murcia y Andalucía redujeron tipos y ampliaron deducciones.",
+     "fecha": "2021-12-31",
+     "fuente": "El Español",
+     "url": "https://www.elespanol.com/espana/politica/20211231/ccaa-pp-bajan-impuestos-aliviar-inflacion-familias/638686429_0.amp.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cifras de ahorro facilitadas por los propios gobiernos autonómicos."
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "El PP cifró su deflactación en 3.200 millones",
+     "hecho": "El 9-3-2026 Feijóo propuso deflactar los tres primeros tramos del IRPF (10 %, 5 % y 3 %) y subir el mínimo personal de 5.500 a 6.150 euros. El PP estimó que devolvería unos 3.200 millones a las familias.",
+     "fecha": "2026-03-09",
+     "fuente": "El Español",
+     "url": "https://www.elespanol.com/espana/politica/20260309/plan-feijoo-crisis-iran-medidas-estructurales-rescaten-clase-media-deflactar-irpf/1003744162416_0.amp.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cifra del propio partido para un plan anterior y más limitado que el del programa."
+    },
+    {
+     "id": "e7",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "El programa no cifra el coste de sus rebajas",
+     "hecho": "El capítulo fiscal del programa (medidas 177-185) no da tipos, importes ni coste. Un repaso de sus propuestas económicas publicado el 19-11-2026 tampoco recoge memoria económica ni impacto en recaudación.",
+     "fecha": "2026-11-19",
+     "fuente": "Merca2 y programa del PP",
+     "url": "https://www.merca2.es/2026/11/19/propuestas-economicas-pp-2510463/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Es la constatación de una ausencia. El programa dice que la lucha contra el fraude y la auditoría del gasto financiarán las bajadas, sin cifras."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "AIReF: la deuda subiría al 123 % del PIB en 2050",
+     "hecho": "En mayo de 2026 la AIReF proyectó que, a políticas constantes, la deuda pública llegaría al 123 % del PIB en 2050 por el envejecimiento. El gasto bruto en pensiones promediaría el 14,6 % del PIB en 2022-2050.",
+     "fecha": "2026-05-29",
+     "fuente": "AIReF, recogido por Europa Press",
+     "url": "https://www.bolsamania.com/noticias/economia/economia--airef-ratifica-el-cumplimiento-de-la-regla-de-gasto-de-pensiones-pero-dice-que-no-garantiza-la-sostenibilidad--22574898.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No valora el plan del PP; da el margen fiscal de partida."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "pp-instituciones-1",
+   "promesa": "Que los jueces elijan directamente a los doce vocales judiciales del Consejo General del Poder Judicial.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PP promete que los jueces voten a los doce vocales judiciales del CGPJ. Lo llevaba en su programa de 2011 y, con mayoría absoluta, aprobó en 2013 una ley que mantuvo la elección de los veinte vocales por las Cortes. El Consejo estuvo con el mandato caducado de diciembre de 2018 a julio de 2024, con el PP en la oposición. En septiembre de 2026 su proposición de ley se rechazó por 170 votos a 175.",
+   "antecedentes": "El programa de 2011 decía que 12 de los 20 vocales serían elegidos «de entre y por Jueces y Magistrados» (e1). La Ley Orgánica 4/2013 estableció que los veinte los designan las Cortes (e2). En 2024 PP y PSOE renovaron el Consejo y encargaron al propio CGPJ una propuesta de reforma (e4), que en febrero de 2025 se saldó con dos textos sin mayoría (e5).",
+   "matiz": "Durante el bloqueo de 2018-2024 el PP alegó, entre otros motivos, que antes debía cambiarse el sistema de elección; el pacto de 2024 incluyó ese encargo. El Tribunal Constitucional admite tanto la elección parlamentaria como la elección por los jueces, de modo que es una opción política, no una obligación legal.",
+   "refutacion": "Para tumbar la promesa busqué qué hizo el PP cuando pudo aprobarla solo: en 2013 legisló lo contrario (e2), y los retrasos de 1996, 2008 y 2018-2024 se atribuyen a desacuerdos con el PP en la oposición, y el de 2001 al PSOE (e3). Para tumbar esa evidencia comprobé que desde 2024 ha actuado en la dirección de la promesa: lo pactó como encargo (e4), registró su ley y la votó en el Congreso (e6), y la Comisión Europea lo plantea como recomendación (e7). No pude abrir los informes sobre Estado de derecho de la Comisión ni los de GRECO; la referencia europea procede de una nota de agencia.",
+   "puntos": {
+    "historial": {
+     "nivel": 0,
+     "por": "Lo prometió en 2011 y con mayoría absoluta aprobó que las Cortes siguieran eligiendo a los veinte vocales (e1, e2)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Posición constante en votos desde 2024, tras legislar lo contrario en 2013 y retrasar la renovación más de cinco años (e2, e3, e6)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Necesita ley orgánica: 176 votos. En 2026 reunió 170 con Vox (e6)."
+    },
+    "datos": {
+     "nivel": 3,
+     "por": "La Comisión Europea lo recomienda, pero como opción y sin acuerdo en el propio CGPJ (e5, e7)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2011 ya lo prometía",
+     "hecho": "El programa del PP de 2011 proponía reformar la elección del CGPJ para que «12 de sus 20 miembros sean elegidos de entre y por Jueces y Magistrados» de todas las categorías.",
+     "fecha": "2011-11-15",
+     "fuente": "Legal Today (resumen de programas electorales)",
+     "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/que-programa-electoral-tienen-los-partidos-para-justicia-2011-11-15/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cita del programa recogida por un medio jurídico; no pude abrir el programa original."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La ley del PP de 2013 mantuvo la elección parlamentaria",
+     "hecho": "La Ley Orgánica 4/2013, aprobada con mayoría absoluta del PP, dispone en su artículo 567.1: «Los veinte Vocales del Consejo General del Poder Judicial serán designados por las Cortes Generales», diez por cada Cámara y por tres quintos.",
+     "fecha": "2013-06-28",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7061",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Renovaciones del CGPJ retrasadas en 1996, 2001, 2008 y 2018",
+     "hecho": "La renovación del CGPJ se retrasó ocho meses en 1996 (se renovó el 23-7-1996, con el PP ya en el Gobierno), un año y diez meses en 2008 y desde diciembre de 2018 hasta julio de 2024. Público atribuye esos tres retrasos a desacuerdos con el PP en la oposición; Maldita.es recoge además un bloqueo en 2001, que atribuye al PSOE.",
+     "fecha": "2022-06",
+     "fuente": "Público",
+     "url": "https://www.publico.es/politica/obsesion-pp-judicial-decadas-control-gobierno-jueces.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El retraso de 2018-2024 («cinco años y medio») lo confirma también El Independiente (e4). Para 1996 y 2008 solo abrí Público; la fecha de 1996 y el bloqueo de 2001 proceden de Maldita.es (https://maldita.es/malditahemeroteca/20240507/bloqueos-cgpj-pp-psoe-renovacion/), de la que solo pude leer el titular."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "Pacto PP-PSOE de 2024 para renovar el Consejo",
+     "hecho": "El 23-7-2024 el Congreso eligió diez vocales con 284 votos de PSOE, PP y Sumar, tras un bloqueo de cinco años y medio. El pacto dio seis meses al nuevo CGPJ para proponer una reforma del sistema de elección.",
+     "fecha": "2024-07-23",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2024/07/23/el-congreso-elige-diez-vocales-para-el-cgpj-tras-el-pacto-entre-psoe-y-pp/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "El CGPJ no logró una propuesta única",
+     "hecho": "El 5-2-2025 el CGPJ aprobó un informe con dos propuestas distintas; ninguna alcanzó los tres quintos. Se remitió al Gobierno y a las Cortes. Según la información, el Gobierno no ha impulsado desde entonces ninguna reforma.",
+     "fecha": "2026-09-02",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/politica/el-pp-registra-en-el-congreso-su-reforma-del-cgpj-coincidiendo-con-el-inicio-del-ano-judicial/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "El Congreso rechazó la reforma del PP por 170 a 175",
+     "hecho": "El 10-9-2026 el Congreso rechazó tomar en consideración la proposición de ley orgánica del PP para cambiar la elección de los vocales: 170 síes (PP, Vox y parte del Mixto) y 175 noes (PSOE, Sumar, ERC, Junts, Bildu, PNV y parte del Mixto).",
+     "fecha": "2026-09-10",
+     "fuente": "Congreso de los Diputados",
+     "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion196/20260910/Votacion015/VOT_20260910180631.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF oficial leído extrayendo el texto en local."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "Bruselas lo considera una recomendación, no una obligación",
+     "hecho": "El comisario europeo Didier Reynders dijo en 2024 que la reforma del sistema de elección es una «recomendación» y no una «obligación». El CGPJ consultó a GRECO y a la Comisión de Venecia sobre modelos europeos.",
+     "fecha": "2024-10-24",
+     "fuente": "Europa Press, en Iustel",
+     "url": "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1248868",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La reforma pactada en 2024 encargó un estudio, no cambió la elección",
+     "hecho": "La Ley Orgánica 3/2024, fruto del acuerdo entre PP y PSOE, incluyó una disposición adicional que da seis meses al Consejo General del Poder Judicial para estudiar los sistemas europeos y aprobar por tres quintos una propuesta de reforma de la elección de vocales, que debe remitir al Gobierno y a las Cortes. La ley no implantó por sí misma la elección por los jueces.",
+     "fecha": "2024-08-02",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16127",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído el preámbulo en copia local. El programa del PP de 2023 (medida 237, pág. 71 según Codex) ya prometía que los jueces eligieran a los doce vocales judiciales. Añadida en la ampliación del 24-11-2026 a partir de una pista de la edición Codex."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "pp-pensiones-1",
+   "promesa": "Subir las pensiones cada año con el IPC.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PP promete que las pensiones suban cada año con el IPC, algo que ya fija la ley desde 2021. Cuando gobernó, no compensó la inflación de 2012 y en 2013 sustituyó el IPC por un índice con una subida mínima del 0,25 %. En 2021 votó contra la ley que recuperó el IPC. En enero de 2026 votó contra un decreto amplio que incluía la subida y en febrero a favor cuando se tramitó sola.",
+   "antecedentes": "En el debate electoral de 2011 Rajoy prometió no congelar las pensiones (e3). En noviembre de 2012 su Gobierno no actualizó las pensiones con la inflación del año (e2) y la Ley 23/2013 creó el índice de revalorización con suelo del 0,25 % (e1). Los presupuestos de 2018 añadieron una subida excepcional (e8).",
+   "matiz": "El PP alegó en 2021 que la ley eliminaba el factor de sostenibilidad sin alternativa suficiente, no que rechazara subir las pensiones. En enero de 2026 votó contra un decreto que mezclaba la subida con otras medidas y pidió uno separado, que después apoyó. La reforma de 2013 se aprobó con el fondo de reserva en caída y bajo vigilancia europea.",
+   "refutacion": "Para tumbar la promesa busqué qué hizo el PP con las pensiones cuando gobernó (e1, e2) y cómo votó la ley vigente (e4). Para tumbar esa evidencia comprobé el motivo alegado en cada voto (e4, e6), que en febrero de 2026 la subida del 2,7 % salió con su apoyo (e5) y que su último presupuesto subió las pensiones por encima del 0,25 % (e8). La AIReF no dice que la subida con el IPC sea inviable, sino que cumplir la regla actual no garantiza la sostenibilidad (e7). Los tres votos (2021, enero y febrero de 2026) están comprobados en el registro nominal del Congreso. La cifra de la subida de 2018 (1,35 % adicional) consta en una nota de La Moncloa; no se localizó la disposición en el BOE.",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Con mayoría absoluta desligó las pensiones del IPC; rectificó en parte en 2018 (e1, e2, e8)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Votó contra la ley del IPC en 2021 y hoy la asume; sus votos de 2026 siguen la promesa cuando la subida va sola (e4, e5, e6)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Ya está en la ley; basta no cambiarla, pero el coste es relevante y creciente (e7, e9)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "La AIReF da por cumplida la regla de gasto y a la vez advierte de que no garantiza la sostenibilidad (e7)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La ley del PP de 2013 fijó un suelo del 0,25 %",
+     "hecho": "La Ley 23/2013 sustituyó la subida con el IPC por un índice de revalorización con fórmula propia. Garantizaba un mínimo del 0,25 % anual y un máximo del IPC más 0,50 puntos.",
+     "fecha": "2013-12-23",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-13617",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "En 2012 no se compensó la inflación",
+     "hecho": "El 30-11-2012 el Gobierno aprobó no actualizar las pensiones con el IPC adelantado (2,9 %) y subirlas en 2013 un 2 % hasta 1.000 euros y un 1 % el resto. Alegó el estado de las cuentas y el objetivo de déficit.",
+     "fecha": "2012-11-30",
+     "fuente": "La Moncloa (referencia del Consejo de Ministros)",
+     "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2012/301112-consejo.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "Rajoy prometió en 2011 no congelar las pensiones",
+     "hecho": "En el debate del 7-11-2011 Rajoy prometió que no congelaría las pensiones. En 2012 subieron un 1 %, por debajo de la inflación.",
+     "fecha": "2011-11-08",
+     "fuente": "Reuters, en Legal Today",
+     "url": "https://www.legaltoday.com/rincon-de-reuters/rubalcaba-presiona-a-rajoy-sobre-el-programa-oculto-del-pp-2011-11-08/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La crónica no recoge cita literal. La subida del 1 % en 2012 consta en el Real Decreto-ley 20/2011."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "El PP votó en 2021 contra la ley que recuperó el IPC",
+     "hecho": "El 2-12-2021 el Congreso aprobó el dictamen de la ley que vuelve a ligar las pensiones al IPC por 176 votos a favor, 148 en contra y 6 abstenciones. Los 85 diputados del PP presentes votaron en contra; su portavoz en el debate, Tomás Cabezón, criticó que se eliminara el factor de sostenibilidad sin alternativa.",
+     "fecha": "2021-12-02",
+     "fuente": "Congreso de los Diputados (votación nominal)",
+     "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion138/20211202/Votacion083/VOT_20230303115912.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF oficial leído (sesión 138, votación 83). El motivo alegado procede de la crónica de El Independiente: https://www.elindependiente.com/economia/2021/12/02/el-congreso-aprueba-la-primera-reforma-de-pensiones-que-las-vuelve-a-subir-con-el-ipc/amp/"
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "El PP votó a favor de la subida de 2026",
+     "hecho": "El 26-2-2026 el Congreso convalidó el Real Decreto-ley 3/2026, que sube las pensiones contributivas un 2,7 %, por 317 votos a favor y 33 en contra. Los 137 diputados del PP votaron a favor; los 33 votos en contra fueron de Vox.",
+     "fecha": "2026-02-26",
+     "fuente": "Congreso de los Diputados",
+     "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion164/20260226/Votacion023/VOT_20260226153402.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF oficial de la convalidación leído (sesión 164, votación 23). La tramitación como proyecto de ley (votación 24) salió por 349 a 0."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "En enero de 2026 votó contra el decreto amplio",
+     "hecho": "El 27-1-2026 el Congreso derogó, por 178 votos en contra y 171 a favor, el Real Decreto-ley 16/2025, que unía la subida de las pensiones con la prórroga de medidas sociales y tributarias. Votaron en contra PP (137), Vox (33) y Junts. El PP dijo que el Gobierno usaba a los pensionistas como «rehenes» y pidió un decreto solo de pensiones.",
+     "fecha": "2026-01-27",
+     "fuente": "Congreso de los Diputados (votación nominal) y El Independiente",
+     "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion156/20260127/Votacion001/VOT_20260127153132.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Recuento del PDF oficial (sesión 156, votación 1). Motivo alegado, en El Independiente: https://www.elindependiente.com/espana/2026/01/27/junts-echa-abajo-el-decreto-omnibus-y-acusa-a-sanchez-y-a-illa-de-incompetencia/amp/"
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "AIReF: se cumple la regla, la sostenibilidad no está garantizada",
+     "hecho": "En mayo de 2026 la AIReF dio por cumplida la regla de gasto en pensiones (13 % del PIB neto de media en 2022-2050, frente al tope del 13,3 %). Advirtió de que eso no garantiza la sostenibilidad y de que la deuda llegaría al 123 % del PIB en 2050.",
+     "fecha": "2026-05-29",
+     "fuente": "AIReF, recogido por Europa Press",
+     "url": "https://www.bolsamania.com/noticias/economia/economia--airef-ratifica-el-cumplimiento-de-la-regla-de-gasto-de-pensiones-pero-dice-que-no-garantiza-la-sostenibilidad--22574898.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e8",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Los presupuestos de 2018 añadieron una subida excepcional",
+     "hecho": "La Ley 6/2018 de Presupuestos, último presupuesto del PP, mantuvo la revalorización general del 0,25 % y añadió, según su preámbulo, «un incremento excepcional para las pensiones públicas para los años 2018 y 2019». La Moncloa (20-7-2018) cifra ese incremento en un 1,35 % adicional con efectos desde el 1 de enero y un 3 % adicional para las pensiones mínimas.",
+     "fecha": "2018-07-03",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-9268",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cifra de la subida adicional según una nota de La Moncloa de 20-7-2018: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/trabajo/paginas/2018/200718_pensiones.aspx"
+    },
+    {
+     "id": "e9",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La ley vigente ya liga las pensiones al IPC",
+     "hecho": "La Ley 21/2021 establece que las pensiones contributivas suben cada año según la inflación media de los doce meses previos a diciembre, y deroga el factor de sostenibilidad de 2013.",
+     "fecha": "2021-12-28",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-21652",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e10",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "En 2017: subida del 0,25 % con IPC del 2 %",
+     "hecho": "El Real Decreto 746/2016 aplicó para 2017 la revalorización mínima del 0,25 % prevista en la ley de 2013. El IPC medio de 2017 fue del 2,0 %, según el INE.",
+     "fecha": "2016-12-30",
+     "fuente": "BOE; INE (España en cifras 2018)",
+     "url": "https://www.boe.es/eli/es/rd/2016/12/30/746",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "IPC en https://www.ine.es/prodyser/espa_cifras/2018/22/. Ambos leídos en copia local. Concreta con un año real el efecto del suelo del 0,25 % que ya recoge e1. Añadida en la ampliación del 24-11-2026 a partir de una pista de la edición Codex."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "pp-inmigracion-1",
+   "promesa": "Prohibir por ley las regularizaciones masivas de inmigrantes.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PP promete prohibir en la Ley de Extranjería las regularizaciones masivas. Los gobiernos de Aznar aprobaron varias en 2000 y 2001, y en abril de 2024 el PP votó a favor de tramitar una iniciativa popular de regularización, con reservas expresas. En 2026 se opuso a la regularización aprobada por decreto. Una prohibición por ley impediría la vía del decreto, pero otra ley posterior podría levantarla. La regularización de 2026 cerró con cerca de 1,2 millones de solicitudes, frente a las 500.000 previstas (e6).",
+   "antecedentes": "Con Aznar se regularizó a varios cientos de miles de personas en 2000 y 2001 (e1). Tras la de 2005, con Zapatero, no hubo ninguna extraordinaria hasta 2026, tampoco con Rajoy (e1, e5). En 2024 el PP apoyó tramitar la iniciativa popular (e2) y en 2026 criticó el Real Decreto 316/2026 (e3, e4).",
+   "matiz": "Votar a favor de tramitar una iniciativa no es apoyar su contenido: el PP anunció entonces «grandes reservas» y que quería debatir también el retorno. Las regularizaciones de 2000-2001 se hicieron con otra ley, otro volumen de inmigración y antes de las reglas europeas actuales.",
+   "refutacion": "Para tumbar la promesa busqué si el PP hizo o apoyó regularizaciones: las hizo con Aznar (e1) y votó tramitar la de 2024 (e2). Para tumbar esa evidencia comprobé el motivo del voto de 2024 (e2), que desde 2005 ningún gobierno del PP ha regularizado de forma extraordinaria (e1, e5) y que en 2026 su oposición fue activa, incluido un recurso de la Comunidad de Madrid (e3). Las cifras de Aznar varían según la fuente: el total de 524.621 de elDiario.es no coincide con la suma de sus partidas (unas 458.000) y CIDOB habla de «más de 270.000» para 2000-2001; lo anoto en e1. No encontré evaluación independiente sobre el efecto de prohibirlas por ley; la AIReF sí estimó el efecto de la regularización de 2026 sobre las cotizaciones (e7).",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Sus gobiernos de 2000-2001 aprobaron las regularizaciones que ahora quiere prohibir; los de 2011-2018 no hicieron ninguna (e1)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Votó tramitar la iniciativa de 2024 con reservas y en 2026 se opuso de plano (e2, e3)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "La Ley de Extranjería es orgánica: hacen falta 176 votos, y una ley posterior podría deshacerlo (e4)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Sin evaluación independiente de la medida; los datos sobre efectos de regularizar son discutidos (e5, e6, e7)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Los gobiernos de Aznar regularizaron en 2000 y 2001",
+     "hecho": "Con Aznar se regularizó a 163.000 personas en 2000 (más 36.000 por revisión en 2001), a más de 20.000 ecuatorianos en 2001 y a 239.174 por arraigo ese mismo año. elDiario.es da un total de 524.621 para sus dos mandatos, pero las partidas que cita suman unas 458.000. La última anterior a 2026 fue la de 2005 (576.506).",
+     "fecha": "2026-01-27",
+     "fuente": "elDiario.es, con datos del BOE",
+     "url": "https://www.eldiario.es/desalambre/524-621-personas-aznar-576-506-zapatero-anteriores-regularizaciones-migrantes_1_12938538.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "CIDOB (e5) habla de «más de 270.000» regularizados en 2000-2001: las cifras difieren según qué procesos se cuenten. Que hubo regularizaciones con el PP lo confirman ambas fuentes."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "El PP votó en 2024 tramitar la iniciativa popular",
+     "hecho": "El 9-4-2024 el Congreso tomó en consideración la iniciativa legislativa popular de regularización con el voto de todos los grupos salvo Vox. La diputada del PP Sofía Acedo expresó «grandes reservas» por un posible «efecto llamada».",
+     "fecha": "2024-04-09",
+     "fuente": "RTVC",
+     "url": "https://rtvc.es/todo-el-congreso-menos-vox-apoya-tramitar-la-regularizacion-de-extranjeros/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Resultado oficial: 310 a favor y 33 en contra (Congreso, sesión 34, votación 1: https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion034/20240409/Votacion001/VOT_20240409210629.pdf). Votar la toma en consideración permite tramitar y enmendar el texto; no equivale a apoyar su contenido."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "En 2026 el PP se opuso y Madrid recurrió",
+     "hecho": "En mayo de 2026 el PP criticó que la regularización se aprobara sin voto en el Congreso ni informes de impacto y rechazó regularizar a personas con antecedentes policiales. La Comunidad de Madrid, Vox y tres asociaciones la recurrieron ante el Tribunal Supremo.",
+     "fecha": "2026-05-16",
+     "fuente": "SID-Universidad de Salamanca (reproduce noticia de agencia)",
+     "url": "https://sid-inico.usal.es/noticias/la-regularizacion-de-migrantes-cumple-un-mes-polemicas-politicas-recursos-judiciales-y-sin-foto-en-el-congreso/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El Tribunal Supremo rechazó en mayo de 2026 la suspensión cautelar (Euronews, 22-5-2026); no consta resolución sobre el fondo."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La regularización de 2026 se hizo por decreto",
+     "hecho": "El Consejo de Ministros aprobó el 14-4-2026 un real decreto de regularización extraordinaria, sin votación parlamentaria. Exige cinco meses de residencia antes del 1-1-2026 y carecer de antecedentes penales. Plazo: del 16 de abril al 30 de junio de 2026.",
+     "fecha": "2026-04-14",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/lang/en/gobierno/councilministers/paginas/2026/20260414-council-press-conference.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "Entre 500.000 y 840.000 personas en situación irregular",
+     "hecho": "CIDOB recoge dos estimaciones: unas 500.000 personas en situación irregular según el Gobierno y más de 840.000 a inicios de 2025 según Funcas. En 2025 se concedieron 394.000 autorizaciones por arraigo. La Comisión Europea expresó reservas sobre la regularización de 2026.",
+     "fecha": "2026",
+     "fuente": "CIDOB",
+     "url": "https://www.cidob.org/publicaciones/claves-para-entender-regularizacion-extraordinaria-espana",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "La regularización de 2026 cerró con unos 1,2 millones de solicitudes",
+     "hecho": "El plazo de la regularización extraordinaria terminó el 30-6-2026 con cerca de 1,2 millones de solicitudes, según la cifra que anunció Sánchez, frente a los 500.000 beneficiarios que el Gobierno estimó al aprobar el real decreto. Funcas calculaba 840.000 y la AIReF 762.646 personas en edad laboral.",
+     "fecha": "2026-07-01",
+     "fuente": "Artículo 14",
+     "url": "https://www.articulo14.es/economia/el-gobierno-tiro-a-la-baja-en-la-regularizacion-con-500-000-beneficiarios-aunque-internamente-manejaba-el-doble-20260701.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La cifra de 1,2 millones procede del Gobierno; las estimaciones de Funcas y AIReF figuran en el mismo artículo."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "AIReF: efecto casi nulo de la regularización sobre las cotizaciones",
+     "hecho": "En su informe de 29-5-2026 la AIReF estimó que la regularización extraordinaria tendría un efecto prácticamente nulo a largo plazo sobre las cotizaciones (0,067 puntos del PIB; 0,11 como máximo si los regularizados permanecen). Calculó unas 948.876 personas de 18 a 64 años afectadas y advirtió de una incertidumbre muy alta.",
+     "fecha": "2026-05-29",
+     "fuente": "AIReF, recogido por Democrata",
+     "url": "https://www.democrata.es/economia/airef-preve-un-efecto-casi-nulo-de-la-regularizacion-extraordinaria-en-las-cotizaciones/",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Valora el efecto de la regularización, no el de prohibirla. Documento de la AIReF (estudio de pensiones, recuadro 2) no abierto por error de certificado del sitio."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "pp-instituciones-2",
+   "promesa": "Endurecer el castigo de la corrupción: restablecer las penas de malversación y recuperar el dinero.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PP promete volver a las penas de malversación anteriores a 2022 y reforzar la recuperación de bienes. Se opuso a la rebaja de 2022 y la recurrió ante el Tribunal Constitucional, y en 2015 aprobó una ley que prohibió las donaciones de empresas a partidos. Tres sentencias declaran al partido responsable civil, no penal: Gürtel (firme desde 2020, 245.492 euros), Gürtel-Boadilla (2022, 204.198 euros) y la reforma de la sede pagada en parte con dinero no declarado (firme desde 2024). Un exministro del Interior del PP está pendiente de sentencia en el caso Kitchen, en el que el partido no está acusado.",
+   "antecedentes": "Cronología: en 2013 se publican los «papeles de Bárcenas»; en 2015, con mayoría absoluta, el PP aprueba la Ley Orgánica 3/2015 de control de las finanzas de los partidos (e6). El 24-5-2018 se notifica la sentencia de la Audiencia Nacional que declara al PP partícipe a título lucrativo en Gürtel (e2); el 1-6-2018 prospera la moción de censura contra Rajoy. El Supremo la confirma el 14-10-2020 (e1). La Audiencia Nacional dicta en 2021 la sentencia sobre la reforma de la sede, confirmada por el Supremo el 15-11-2024 (e7), y en 2022 la de Gürtel-Boadilla (e8). El juicio de Kitchen quedó visto para sentencia el 28-7-2026 (e3).",
+   "matiz": "El PP no ha sido condenado penalmente en ninguna de estas causas: el Supremo precisa que el partícipe a título lucrativo no es culpable, sino responsable civil que devuelve lo recibido, y en la causa de la sede responde solo de forma subsidiaria. La «caja B» no fue objeto de acusación en el juicio de Gürtel y el PP niega su existencia. El juicio de Kitchen no tiene sentencia y el partido no está acusado. Las reformas de 2015 llegaron después de estallar los casos Gürtel y Bárcenas, no antes.",
+   "refutacion": "Para tumbar la promesa busqué sentencias firmes que afecten al partido (e1, e2, e7, e8) y causas abiertas (e3). Para tumbar esa evidencia comprobé su alcance exacto: responsabilidad civil y no penal (e1, e7, e8), menciones a la «caja B» que el Supremo consideró en parte improcedentes aunque sin efecto en el fallo (e1), y ausencia de sentencia en Kitchen a 24-11-2026 (e3). También comprobé que en la materia concreta prometida, la malversación, el PP ha votado y recurrido en la misma dirección (e4, e5) y que legisló contra la financiación irregular (e6). No se verificó el estado de la directiva europea anticorrupción ni el de otras causas (por ejemplo, la que afecta al exministro Montoro); no se incluyen. No consta que el Tribunal Constitucional haya resuelto el recurso contra la reforma de 2022.",
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "Aprobó controles en 2015, pero tres sentencias lo declaran responsable civil por gastos pagados con fondos de la trama Gürtel o con dinero no declarado, por hechos de 1999-2008 (e1, e2, e6, e7, e8)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Votos y recursos coherentes sobre malversación; las sentencias sobre la financiación del propio partido van en sentido contrario (e1, e4, e7)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Requiere ley orgánica para reformar el Código Penal (e5)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "No encontré evaluación independiente sobre el efecto de las penas de malversación."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "resolucion_judicial",
+     "titulo": "Gürtel: el Supremo confirmó la responsabilidad civil del PP",
+     "hecho": "El 14-10-2020 el Tribunal Supremo confirmó la sentencia de la Audiencia Nacional de 2018 y la condena al PP como partícipe a título lucrativo por 133.628,48 euros (Majadahonda) y 111.864,32 euros (Pozuelo). La nota oficial precisa que estos partícipes «no son culpables sino responsables civiles». Hubo 29 condenados, con penas de hasta 51 años. La sentencia es firme.",
+     "fecha": "2020-10-14",
+     "fuente": "Tribunal Supremo (Poder Judicial)",
+     "url": "https://www.poderjudicial.es/cgpj/en/Judiciary/Supreme-Court/Pressroom/Press-Archive/El-Tribunal-Supremo-confirma-penas-de-hasta-51-anos-de-prision-para-los-procesados-en-el--caso-Gurtel-",
+     "estado_judicial": "responsable_civil_firme",
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Responsabilidad civil del partido, no penal (ECLI:ES:TS:2020:3191). El Supremo estimó en parte la queja del PP sobre las menciones a la caja B, sin efectos en el fallo. El estado «condenado_firme» se refiere a la firmeza de la sentencia; conviene mostrarlo como «responsable civil (sentencia firme)»."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "resolucion_judicial",
+     "titulo": "Audiencia Nacional 2018: partícipe a título lucrativo",
+     "hecho": "La sentencia de la Audiencia Nacional fechada el 17-5-2018 y notificada el 24-5-2018 declaró al PP partícipe a título lucrativo y le obligó a devolver 245.492,80 euros por gastos electorales en Majadahonda y Pozuelo pagados por la trama. Describió además una estructura financiera y contable paralela «existente al menos desde el año 1989».",
+     "fecha": "2018-05-24",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/politica/2018/05/24/el-tribunal-sentencia-que-el-pp-tenia-una-caja-b-desde-su-refundacion/amp/",
+     "estado_judicial": "responsable_civil_firme",
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Confirmada por el Supremo en 2020 (e1), que consideró en parte improcedentes las menciones a la caja B, sin efecto en el fallo. La caja B no era objeto de acusación en ese juicio; el PP niega su existencia. Responsabilidad civil, no penal."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "procedimiento_judicial",
+     "titulo": "Caso Kitchen: juicio visto para sentencia",
+     "hecho": "El juicio del caso Kitchen quedó visto para sentencia en la Audiencia Nacional el 28-7-2026, tras unos cuatro meses de vista. La Fiscalía pide 15 años de prisión para el exministro del Interior Jorge Fernández Díaz por una operación policial para obtener información de Bárcenas. El PP no está acusado.",
+     "fecha": "2026-07-28",
+     "fuente": "Ara",
+     "url": "https://es.ara.cat/politica/visto-sentencia-juicio-caso-kitchen-le-buscaba-policia-espanola-luis-barcenas_1_5810924.html",
+     "estado_judicial": "juicio",
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Sin sentencia a 24-11-2026 (búsqueda repetida ese día). Los acusados niegan los hechos. Petición fiscal comprobada en Ara, 30-6-2026: https://es.ara.cat/politica/fiscal-concluye-fernandez-diaz-lidero-kitchen-boicotear-gurtel-ratifica-15-anos-prision_1_5784938.html"
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "procedimiento_judicial",
+     "titulo": "El PP recurrió la rebaja de la malversación",
+     "hecho": "El 9-5-2023 el Tribunal Constitucional admitió el recurso del PP contra la reforma penal que derogó la sedición y modificó la malversación. El PP alegó defectos en la tramitación y en la redacción.",
+     "fecha": "2023-05-09",
+     "fuente": "El Debate",
+     "url": "https://www.eldebate.com/espana/20230509/constitucional-admite-tramite-recurso-pp-contra-sedicion-vox-contra-ley-trans_113411.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No consta sentencia del Tribunal Constitucional sobre este recurso a noviembre de 2026 (búsqueda sin resultado). No se abrió el registro de la votación de diciembre de 2022."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "Qué cambió la reforma de 2022",
+     "hecho": "La Ley Orgánica 14/2022 creó una malversación por uso temporal sin ánimo de lucro (6 meses a 3 años de prisión) y dejó sin prisión el desvío de fondos a otro fin público sin daño grave al servicio. La apropiación se mantiene entre 2 y 8 años.",
+     "fecha": "2022-12-22",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "En 2015 el PP prohibió las donaciones de empresas a partidos",
+     "hecho": "La Ley Orgánica 3/2015, aprobada con mayoría absoluta del PP, prohibió las donaciones de personas jurídicas a los partidos y la condonación de sus deudas por los bancos, y amplió la fiscalización del Tribunal de Cuentas.",
+     "fecha": "2015-03-30",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3441",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cronología: se aprobó en 2015, después de que el caso Bárcenas estallara en 2013."
+    },
+    {
+     "id": "e7",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "resolucion_judicial",
+     "titulo": "Sede del PP: responsable civil subsidiario (firme, 2024)",
+     "hecho": "El 15-11-2024 el Tribunal Supremo confirmó en lo sustancial la sentencia de la Audiencia Nacional de 2021 sobre la reforma de la sede del PP: parte de las obras se pagó «de forma opaca, con dinero negro». Condenó por fraude fiscal a dos administradores de la constructora y al extesorero Luis Bárcenas como cooperador (8 meses de prisión tras rebajar las penas por dilaciones). El PP responde como responsable civil subsidiario de la cuota defraudada.",
+     "fecha": "2024-11-15",
+     "fuente": "Tribunal Supremo (Poder Judicial)",
+     "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-el-delito-de-defraudacion-tributaria-en-el-caso--Papeles-de-Barcenas--y-reduce-las-penas-al-apreciar-dilaciones-indebidas",
+     "estado_judicial": "responsable_civil_firme",
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Añadida en revisión. La condena penal firme es a personas físicas; el partido responde solo civilmente y de forma subsidiaria (ECLI:ES:TS:2024:5577). La nota oficial no usa la expresión «caja B». El importe que la Audiencia Nacional fijó para el PP en 2021 (123.669 euros) procede de prensa y no se comprobó en la sentencia."
+    },
+    {
+     "id": "e8",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "resolucion_judicial",
+     "titulo": "Gürtel-Boadilla: 204.198 euros a título lucrativo",
+     "hecho": "En abril de 2022 la Audiencia Nacional condenó a 23 personas en la pieza Gürtel-Boadilla y declaró al PP responsable a título lucrativo por 204.198,64 euros que la trama gastó en su beneficio en precampañas y campañas municipales. El Supremo confirmó en noviembre de 2023 la condena al exalcalde; el PP no recurrió.",
+     "fecha": "2022-04-08",
+     "fuente": "Audiencia Nacional (Poder Judicial)",
+     "url": "https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/La-Audiencia-Nacional-condena-a-23-personas-en-la-pieza-Gurtel-Boadilla",
+     "estado_judicial": "responsable_civil_firme",
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Añadida en revisión. Responsabilidad civil, no penal. Que el PP no recurrió y la fecha del Supremo proceden de prensa (Onda Vasca/agencias, 22-11-2023), no de la sentencia."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "pp-igualdad-1",
+   "promesa": "Eliminar el cambio de sexo en el Registro Civil por simple declaración.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PP promete revisar la Ley Trans y suprimir la autodeterminación registral del sexo. Recurrió la ley ante el Tribunal Constitucional en 2023. En 2016, la Asamblea de Madrid, con el PP en el Gobierno regional, aprobó una ley impulsada por la oposición que reconocía la identidad de género sin informe médico; desde 2023 sus gobiernos en Madrid y la Comunidad Valenciana han restringido esas leyes, con un precepto madrileño anulado (sobre asociaciones LGTBI, no sobre autodeterminación) y varios valencianos suspendidos cautelarmente por invadir competencias. El mismo programa promete seguir luchando contra la LGTBIfobia.",
+   "antecedentes": "En 2005, 72 diputados del PP recurrieron el matrimonio entre personas del mismo sexo; el Tribunal Constitucional lo desestimó en 2012 (e5). La ley madrileña de 2016, impulsada por PSOE, Podemos y Ciudadanos, fijó que «en ningún caso» se exigiría informe psicológico o médico (e3). En 2023 el PP recurrió la Ley Trans estatal (e1) y en 2025, con Vox, modificó la ley trans valenciana (e4).",
+   "matiz": "La ley madrileña de 2016 regulaba el trato en el ámbito autonómico (sanidad, educación, administración), no el Registro Civil, que es competencia estatal. El recurso del PP no impugna toda la Ley Trans, sino artículos concretos sobre registro, menores e infracciones. Oponerse a la autodeterminación registral no equivale a oponerse a los derechos de las personas trans.",
+   "refutacion": "Para tumbar la promesa busqué si el PP había defendido antes lo que ahora quiere eliminar: la ley madrileña de 2016, impulsada por la oposición y aprobada con el PP en el Gobierno regional, prescindía de informes médicos (e3). Para tumbar esa evidencia comprobé el ámbito de aquella ley (autonómico, no registral) y que desde 2023 el PP actúa de forma constante en la dirección prometida: recurso (e1), reforma valenciana (e4) y reforma madrileña (e6). En sentido contrario, parte de esas reformas ha sido anulada o suspendida, aunque por motivos de competencia y no de fondo (e4, e6). Según El Debate (5-9-2026, fuente única), el recurso contra la Ley Trans sigue sin resolverse tras el aplazamiento de abril de 2025 (e2). No encontré datos oficiales verificados sobre cambios registrales desde 2023.",
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "En 2016 se aprobó en Madrid, con el PP en el Gobierno regional, una ley impulsada por la oposición que reconocía la identidad sin informes; desde 2023 sus gobiernos lo restringen, con preceptos suspendidos (e3, e4, e6)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Posición en 2016 no acreditada (ley impulsada por la oposición, voto del PP sin comprobar); desde 2023, constante (e1, e3, e4)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Basta una ley ordinaria y es competencia estatal; está pendiente lo que diga el Constitucional (e2, e7)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Sin datos oficiales verificados sobre el efecto de la norma; el Constitucional estaba dividido (e2)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "procedimiento_judicial",
+     "titulo": "El PP recurrió la Ley Trans en 2023",
+     "hecho": "En junio de 2023 el Tribunal Constitucional admitió el recurso de más de 50 diputados del PP contra la Ley 4/2023. Ese mismo día el partido iluminó su sede con los colores arcoíris y difundió mensajes por el Orgullo.",
+     "fecha": "2023-06-28",
+     "fuente": "Infobae",
+     "url": "https://www.infobae.com/espana/2023/06/28/el-tribunal-constitucional-admite-el-recurso-del-pp-contra-la-ley-trans-y-lgtbi-mientras-el-partido-reivindica-el-orgullo/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "procedimiento_judicial",
+     "titulo": "El Constitucional aplazó su sentencia en 2025",
+     "hecho": "En abril de 2025 el Tribunal Constitucional aplazó la sentencia: la ponencia avalaba lo esencial de la ley, pero la autodeterminación de género dividía a la mayoría. El PP impugna, entre otros, los artículos 43 y 44.3 (cambio registral y ausencia de informes) y el 19.2.",
+     "fecha": "2025-04-28",
+     "fuente": "Europa Press, en Menorca.info",
+     "url": "https://www.menorca.info/actualidad/nacional/2025/04/28/2375649/pospone-sentencia-sobre-ley-trans-irene-montero-ante-division-mayoria-progresista.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Según El Debate (5-9-2026; fuente única, sin confirmación del Tribunal Constitucional) el recurso sigue sin resolverse y la ley se aplica mientras tanto: https://www.eldebate.com/espana/20260905/gobierno-sigue-aplicando-ley-trans-aunque-mayoria-tc-considera-norma-inconstitucional_453963.html"
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "norma",
+     "titulo": "La ley madrileña de 2016 no exigía informes",
+     "hecho": "La Ley 2/2016 de la Comunidad de Madrid, impulsada por PSOE, Podemos y Ciudadanos y aprobada por la Asamblea con el PP en el Gobierno regional, define la identidad de género como vivencia que cada persona autodetermina y dice que «en ningún caso será requisito acreditar la identidad de género manifestada mediante informe psicológico o médico».",
+     "fecha": "2016-03-29",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2016-6728",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Ámbito autonómico: no regula el Registro Civil. En 2015 el Pleno rechazó la proposición del PP sobre transexualidad (elDiario.es, 19-11-2015, https://www.eldiario.es/politica/asamblea-de-madrid-transexualidad-pp-podemos-psoe-ciudadanos_1_2367763.amp.html). El voto del PP en la votación final no se ha podido comprobar; fuentes secundarias indican abstención."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "resolucion_judicial",
+     "titulo": "PP y Vox modificaron la ley trans valenciana en 2025",
+     "hecho": "PP y Vox modificaron la ley trans valenciana mediante la Ley 5/2025, de 30 de mayo. El Gobierno central la recurrió el 26-2-2026 y el Tribunal Constitucional suspendió cautelarmente varios artículos, sin pronunciarse aún sobre el fondo.",
+     "fecha": "2026-05-06",
+     "fuente": "Europa Press, en El Derecho",
+     "url": "https://elderecho.com/el-tc-admite-el-recurso-del-gobierno-y-suspende-varios-articulos-de-la-ley-trans-valenciana",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Suspensión cautelar automática al recurrir el Gobierno; no prejuzga el resultado."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "resolucion_judicial",
+     "titulo": "El recurso del PP contra el matrimonio igualitario fue desestimado",
+     "hecho": "El 30-9-2005, 72 diputados del Grupo Popular recurrieron la Ley 13/2005 del matrimonio entre personas del mismo sexo. La Sentencia 198/2012, de 6 de noviembre, desestimó el recurso, con cuatro votos particulares.",
+     "fecha": "2012-11-06",
+     "fuente": "Tribunal Constitucional",
+     "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/23106",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La ley siguió en vigor durante los gobiernos del PP de 2011-2018. Es un antecedente sobre derechos LGTBI, no sobre la Ley Trans."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "resolucion_judicial",
+     "titulo": "Anulada parte de la reforma LGTBI de Madrid de 2023",
+     "hecho": "El 9-4-2025 el Tribunal Constitucional anuló, por 11 votos a 1, un precepto de la reforma de 2023 de la ley LGTBI madrileña (el que impedía a las asociaciones LGTBI actuar como parte interesada en procedimientos sancionadores) por invadir competencias estatales. La reforma de la ley trans madrileña, que exige apoyo de salud mental para tratar a menores, seguía pendiente.",
+     "fecha": "2025-04-09",
+     "fuente": "El Español",
+     "url": "https://elespanol.com/espana/tribunales/20250409/tc-estima-recurso-pedro-sanchez-tumba-ley-lgtbi-ayuso-invadir-competencias/1003743706496_0.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "Qué dice hoy la Ley Trans",
+     "hecho": "La Ley 4/2023 permite a los mayores de 16 años cambiar la mención del sexo en el Registro Civil con una declaración ratificada a los tres meses. El artículo 44.3 prohíbe exigir informe médico o psicológico. Es una ley ordinaria.",
+     "fecha": "2023-02-28",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-5366",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e8",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "En 2022 Feijóo ya pidió retirar el proyecto de ley trans",
+     "hecho": "El 6-10-2022 el PP publicó que Feijóo y la Asociación contra el Borrado de las Mujeres pedían la retirada del proyecto de ley trans por suponer, a su juicio, «una involución para las mujeres y una desprotección para los menores».",
+     "fecha": "2022-10-06",
+     "fuente": "Partido Popular",
+     "url": "https://www.pp.es/actualidad/articulos/feijoo-asociacion-contra-borrado-las-mujeres-piden-retirada-ley-trans-porque/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído el titular y la fecha en copia local de la nota. Documenta la posición y los motivos alegados antes de aprobarse la ley. Añadida en la ampliación del 24-11-2026 a partir de una pista de la edición Codex."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "pp-sanidad-2",
+   "promesa": "Incorporar al menos 4.500 médicos más a la Atención Primaria.",
+   "ha_gobernado": "estatal",
+   "resumen": "El programa promete «al menos 4.500 médicos más» en Atención Primaria, en coordinación con las comunidades, sin plazo ni coste. La cifra coincide con el déficit de médicos de familia que estimó para 2023 el informe encargado por Sanidad (4.502), que lo eleva a 5.496 en 2029. Cuando el PP gobernó el Estado, las plazas MIR de Medicina de Familia bajaron de 1.860 (2012) a 1.654 (2015) y subieron a 1.810 en 2018. En 2026 quedaron 240 plazas de esa especialidad sin ocupar tras la adjudicación ordinaria.",
+   "antecedentes": "El programa de 2023 prometía 1.000 plazas formativas más de Medicina de Familia en 2024 y jubilación activa hasta los 72 años (e4); el PP no gobernó. En abril de 2025 registró una proposición no de ley con 1.000 plazas adicionales al año y ya citaba un déficit de 4.500 profesionales (e5). En 2026 la promesa pasa de plazas de formación a médicos incorporados.",
+   "matiz": "Quien contrata a los médicos de primaria son las comunidades autónomas, de todos los colores políticos; el Estado fija la oferta de formación de acuerdo con ellas. La caída de plazas MIR de 2012-2015 coincidió con la crisis y la oferta se acuerda con las comunidades. Formar a un médico de familia lleva cuatro años de residencia: plazas nuevas no son médicos disponibles en la legislatura.",
+   "refutacion": "Para tumbar la promesa busqué qué pasó con la formación de médicos de familia con el PP en el Gobierno (e3), si las plazas que ya existen se cubren (e6) y si el programa explica plazo y coste (e8): no lo hace. Para tumbar esa evidencia comprobé que la cifra prometida no es arbitraria, porque coincide con el déficit oficial (e1), que la oferta MIR ya crece y la del PP fue recuperándose desde 2016 (e2, e3) y que el partido lo viene pidiendo desde 2023 (e4, e5). No encontré datos comparables y verificados de contratación de médicos de familia por comunidades según quién gobierna; el resumen gráfico del Ministerio por comunidades no se pudo leer. El expediente de Codex acertaba en lo esencial (déficit modelizado, no vacantes) pero no aportaba historial de gobierno.",
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "Con el PP en el Gobierno las plazas MIR de Medicina de Familia cayeron un 11 % entre 2012 y 2015 y se recuperaron casi del todo en 2018 (e3)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Pide más médicos de familia desde 2023 con cifras parecidas; ha cambiado la unidad, de plazas de formación a médicos incorporados (e4, e5)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Depende de las comunidades, que son las que contratan, y el programa no explica plazo ni financiación (e2, e8)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "El déficit oficial respalda la magnitud, pero hay plazas que no se ocupan y el ratio de pacientes por médico apenas ha bajado en diez años (e1, e6, e7)."
+    }
+   },
+   "pista_codex": "ampliacion-b-pp-n220",
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "Sanidad estima un déficit de 4.502 médicos de familia",
+     "hecho": "El informe de necesidad de especialistas 2023-2035, elaborado por la Universidad de Las Palmas para el Ministerio de Sanidad, estima un déficit de 4.502 médicos de familia en 2023 y de 5.496 en 2029. A partir de 2030 prevé que se reduzca, hasta unos 2.100 en 2035. El 51,3 % de los médicos de familia tenía entre 50 y 65 años.",
+     "fecha": "2024-04",
+     "fuente": "Ministerio de Sanidad / EcoSalud (Universidad de Las Palmas de Gran Canaria)",
+     "url": "https://www.sanidad.gob.es/en/areas/profesionesSanitarias/profesiones/necesidadEspecialistas/docs/Oferta_y_necesidad_de_medicos_especialistas_en_Espana_2023-2035.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del PDF. Es una estimación de un modelo, no un recuento de vacantes."
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "dato_oficial",
+     "titulo": "La oferta MIR para 2027 es de 9.676 plazas",
+     "hecho": "La convocatoria de formación sanitaria especializada para 2027 ofrece 12.850 plazas, de ellas 9.676 de Medicina (un 4 % más). El Ministerio cifra el aumento total desde 2018 en un 53 %.",
+     "fecha": "2026-08-10",
+     "fuente": "Ministerio de Sanidad",
+     "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6972&metodo=detalle",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota del Ministerio leída en copia local. Son plazas de todas las especialidades, no solo de Medicina de Familia, y la residencia de esta dura cuatro años."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Las plazas MIR de Familia bajaron entre 2012 y 2015",
+     "hecho": "Las plazas MIR convocadas de Medicina Familiar y Comunitaria fueron 1.860 en 2012, 1.775 en 2013, 1.682 en 2014, 1.654 en 2015, 1.690 en 2016, 1.771 en 2017, 1.810 en 2018 y 1.914 en 2019. El PP gobernó el Estado de diciembre de 2011 a junio de 2018.",
+     "fecha": "2019-05-09",
+     "fuente": "Redacción Médica",
+     "url": "https://www.redaccionmedica.com/formacion/mir/20190509/familia-consigue-su-mejor-dato-de-peticiones-mir-los-ultimos-anos/124834_0.html",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Serie publicada por un medio sectorial; no se cotejó con las convocatorias del BOE. La oferta se acuerda con las comunidades autónomas."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "En 2023 prometía 1.000 plazas de formación más",
+     "hecho": "El programa del PP de 2023 comprometía «la incorporación de 1.000 plazas formativas más de medicina familiar a la oferta de 2024» y ampliar la jubilación activa de médicos de familia y pediatras hasta los 72 años.",
+     "fecha": "2023-07",
+     "fuente": "Partido Popular, programa electoral 2023 (pág. 43)",
+     "url": "https://www.h50.es/wp-content/uploads/2023/07/PROGRAMA-ELECTORAL-PP-PARTIDO-POPULAR-23-JULIO-2023.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia del PDF guardada en el archivo documental; es una copia del programa alojada fuera de la web del partido."
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "En 2025 pidió 1.000 plazas adicionales al año",
+     "hecho": "El 12-4-2025 el PP presentó en el Congreso y el Senado una proposición no de ley para crear 1.000 plazas formativas adicionales al año de Medicina de Familia. Cifraba el déficit en 4.500 profesionales, con datos del Ministerio.",
+     "fecha": "2025-04-12",
+     "fuente": "Redacción Médica",
+     "url": "https://www.redaccionmedica.com/politica/20250412/el-pp-propone-crear-plazas-adicionales-al-ano-de-medicina-familiar/242958_0.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se comprobó el resultado de la votación de la iniciativa."
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "En 2026 quedaron 240 plazas de Familia sin ocupar",
+     "hecho": "Sanidad abrió en junio de 2026 una adjudicación extraordinaria de 441 plazas MIR que no se cubrieron en la fase ordinaria. De ellas, 240 eran de Medicina Familiar y Comunitaria. 433 procedían de adjudicatarios que no se incorporaron.",
+     "fecha": "2026-06-16",
+     "fuente": "Qué!",
+     "url": "https://www.que.es/2026/06/16/repesca-mir-2026-sanidad-plazas/",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "La sociedad científica SEMFYC sostiene que la especialidad acabó cubriendo sus 2.544 plazas; no se pudo comprobar el resultado final de la adjudicación extraordinaria."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Pacientes por médico de familia: un 2 % menos en diez años",
+     "hecho": "Según la serie del Ministerio de Sanidad, entre 2014 y 2024 la población asignada a cada médico de familia bajó un 2 %, frente a un 16 % en pediatría y un 15 % en enfermería. En 2024 el 63 % de los médicos de familia tenía menos de 1.500 tarjetas sanitarias asignadas.",
+     "fecha": "2024",
+     "fuente": "Ministerio de Sanidad, Sistema de Información de Atención Primaria",
+     "url": "https://www.sanidad.gob.es/estadEstudios/estadisticas/estadisticas/estMinisterio/SIAP/evolutivo_SIAP/docs/SIAP_SNS.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Datos hasta 2024; el documento no indica en el texto leído su fecha de publicación. Las cifras por comunidad están en gráficos que no se pudieron leer."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "El programa no da calendario ni coste",
+     "hecho": "La información sobre las medidas sanitarias del programa recoge los 4.500 médicos, más formación especializada, un ámbito de negociación propio para los médicos y guardias más cortas. No incluye calendario ni coste. El proyecto de Estatuto Marco quedó paralizado al disolverse las Cortes.",
+     "fecha": "2026-11-07",
+     "fuente": "Redacción Médica",
+     "url": "https://www.redaccionmedica.com/politica/20261107/el-pp-promete-un-ambito-de-negociacion-propio-para-los-medicos-contrataciones-extra-en-primaria/364616_0.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Coincide con el texto del programa (medida 220, pág. 69), que tampoco fija plazo ni financiación."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "pp-energia-1",
+   "promesa": "Eliminar el calendario de cierre de las centrales nucleares y tramitar en cien días la prórroga de su vida útil.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PP promete anular el calendario de cierre de las cinco centrales y tramitar su prórroga en cien días, con el visto bueno del Consejo de Seguridad Nuclear. Desde 2023 lo ha defendido en su programa y en tres votaciones del Congreso. Cuando gobernaba, en 2017, denegó la renovación de Garoña pese al informe favorable del regulador. En agosto de 2026 el Gobierno actual ya prorrogó Almaraz hasta junio de 2030, a petición de sus dueñas, y mantiene 2035 como fecha final; para las demás centrales hace falta que las empresas lo pidan.",
+   "antecedentes": "El programa de 2023 ya proponía extender la vida útil «con el visto bueno del Consejo de Seguridad Nuclear» (e6). En 2025 el PP logró aprobar una proposición no de ley (171-164) y la toma en consideración de una ley propia (171-166), y perdió por un voto una enmienda para eliminar las fechas de cierre (e3, e4, e5). En el Gobierno, en 2012 reabrió la puerta a prorrogar Garoña y en 2017 denegó su renovación (e2, e9).",
+   "matiz": "El calendario de cierre no está en una ley: lo acordaron en 2019 el Gobierno, la empresa pública de residuos y las eléctricas, y cada prórroga la pide el titular de la central y la concede el Ministerio por orden, previo informe del regulador. Garoña llevaba parada desde 2012 y sus dos dueñas discrepaban sobre reabrirla; no es comparable a una central en marcha.",
+   "refutacion": "Para tumbar la promesa busqué qué hizo el PP con una prórroga cuando gobernaba: salió Garoña (e2). Para tumbar esa evidencia comprobé su contexto: el mismo Gobierno había cambiado dos veces las normas para permitir la continuidad (e9) y el ministro alegó falta de acuerdo entre las propietarias. Comprobé también si la promesa sigue teniendo objeto tras la prórroga de Almaraz: sí, porque el Gobierno mantiene el cierre de Ascó I y Cofrentes en 2030 y el final en 2035 (e1, e7). No pude verificar si las propietarias han pedido ya prórroga para otras centrales ni qué condiciones fiscales ponen; el verificador que lo analizaba (Newtral) no se pudo abrir. El expediente de Codex solo citaba el programa y la orden de Almaraz, sin historial.",
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "En el Gobierno cambió las normas para permitir prorrogar Garoña y luego denegó su renovación con informe favorable del regulador (e2, e9)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Lo defiende en el programa de 2023 y en tres votaciones de 2025; la excepción es la decisión de 2017 (e3, e4, e5, e6)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Basta una orden ministerial por central, pero la deben pedir las empresas y exige informe del regulador; cien días bastan para tramitar, no para resolver (e1, e7)."
+    },
+    "datos": {
+     "nivel": 3,
+     "por": "El regulador ya ha avalado prorrogar Almaraz y el análisis oficial prevé efectos limitados en renovables; faltan datos de coste y de las demás centrales (e1, e8)."
+    }
+   },
+   "pista_codex": "piloto-pp-energia-07",
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "El Gobierno prorrogó Almaraz hasta junio de 2030",
+     "hecho": "La Orden TED/864/2026, de 12 de agosto, renueva la autorización de Almaraz I y II hasta el 8-6-2030 (antes vencían el 1-11-2027 y el 31-10-2028). La pidieron sus titulares el 30-10-2025 y el Consejo de Seguridad Nuclear informó a favor el 16-7-2026. La orden mantiene 2035 como fecha de cese de todo el parque y estima que en 2030 la prórroga reduce un 1,4 % la generación renovable y un 7 % la de gas.",
+     "fecha": "2026-08-12",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17756",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "En 2017 el Gobierno del PP denegó renovar Garoña",
+     "hecho": "El 1-8-2017 el ministro de Energía, Álvaro Nadal, anunció que el Gobierno denegaba la renovación de Garoña hasta 2031. El Consejo de Seguridad Nuclear había informado a favor el 8-2-2017, con condiciones. Nadal alegó falta de certidumbre, oposición de la mayoría del Congreso y discrepancias entre las propietarias, Iberdrola y Endesa.",
+     "fecha": "2017-08-01",
+     "fuente": "Europa Press (Bolsamanía)",
+     "url": "https://www.bolsamania.com/noticias/empresas/economia--ampl-el-gobierno-cierra-garona-por-falta-de-certidumbre-politica-y-discrepancias-entre-los-accionistas--2797049.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Confirmado también en El Independiente (https://www.elindependiente.com/economia/2017/08/01/elgobierno-anuncia-el-cierre-definitivo-de-la-central-nuclear-de-garona/amp/). La central estaba parada desde diciembre de 2012."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "El Congreso pidió en 2025 prorrogar las nucleares",
+     "hecho": "El 12-2-2025 el Congreso aprobó una proposición no de ley del PP que insta a prorrogar la vida útil de las centrales: 171 votos a favor (PP, Vox, UPN), 164 en contra (PSOE, Sumar, PNV, Grupo Mixto) y 14 abstenciones (Junts, ERC).",
+     "fecha": "2025-02-12",
+     "fuente": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2025-02-12/congreso-prolongar-erc-junts/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Una proposición no de ley no obliga al Gobierno. No se abrió el registro oficial de la votación."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "El Congreso admitió a trámite la ley nuclear del PP",
+     "hecho": "El 17-6-2025 el Congreso tomó en consideración una proposición de ley del PP para revertir el calendario de cierre: 171 a favor, 166 en contra y 7 abstenciones (Junts).",
+     "fecha": "2025-06-17",
+     "fuente": "ESdiario",
+     "url": "https://www.esdiario.com/economia/250618/161410/congreso-da-luz-verde-ley-pp-prorrogar-nucleares.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Tomar en consideración no es aprobar. La ley no llegó a aprobarse antes de la disolución de las Cortes; no se comprobó en qué fase quedó."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "Rechazada por un voto la enmienda del PP",
+     "hecho": "El 13-11-2025 el Congreso rechazó por 171 votos a favor, 172 en contra y 7 abstenciones (Junts) una enmienda del PP a la ley de movilidad sostenible que eliminaba la fecha de cierre de Almaraz I y II, Ascó I y Cofrentes.",
+     "fecha": "2025-11-13",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2025/11/13/el-gobierno-ve-una-puerta-abierta-tras-la-ayuda-clave-de-junts-con-las-nucleares-pero-nogueras-enfria-la-euforia/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2023 ya lo incluía",
+     "hecho": "La medida 114 del programa de 2023 decía: «Propondremos, con el visto bueno del Consejo de Seguridad Nuclear, la extensión de la vida útil de las centrales nucleares existentes».",
+     "fecha": "2023-07",
+     "fuente": "Partido Popular, programa electoral 2023 (pág. 36)",
+     "url": "https://www.h50.es/wp-content/uploads/2023/07/PROGRAMA-ELECTORAL-PP-PARTIDO-POPULAR-23-JULIO-2023.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia del PDF guardada en el archivo documental; es una copia del programa alojada fuera de la web del partido."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "Las demás centrales mantienen su fecha de cierre",
+     "hecho": "Tras prorrogar Almaraz, el Ministerio para la Transición Ecológica señaló que no hay prórroga automática para las demás: Ascó I cerraría el 1-10-2030, Cofrentes el 30-11-2030, Ascó II en 2032 y Vandellós II y Trillo en 2035. Las propietarias tendrían que pedirla central por central.",
+     "fecha": "2026-08-22",
+     "fuente": "Qué!",
+     "url": "https://www.que.es/2026/08/22/prorroga-nucleares-espana/",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "El artículo no recoge que se haya pedido ya ninguna otra prórroga."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "Siete reactores producen cerca del 20 % de la electricidad",
+     "hecho": "Los siete reactores de las cinco centrales producen alrededor del 20 % de la electricidad. El calendario de cierre se fijó en 2019 entre el Gobierno y las eléctricas. Iberdrola reclama 324 millones por la subida del 30 % de la tasa de residuos aprobada en 2024.",
+     "fecha": "2025-04-06",
+     "fuente": "Infobae",
+     "url": "https://www.infobae.com/espana/2025/04/06/el-cierre-inminente-de-las-centrales-nucleares-en-espana-enciende-el-debate-politico-el-pp-propone-alargar-su-vida-util/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El peso exacto de la nuclear en 2025 no se comprobó en Red Eléctrica."
+    },
+    {
+     "id": "e9",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "En 2012 y 2014 el PP cambió las normas para Garoña",
+     "hecho": "En julio de 2012 el Gobierno del PP modificó la orden de cierre de Garoña de 2009 para permitir pedir una prórroga hasta 2019; la propietaria no la solicitó. El 21-2-2014 aprobó un real decreto que permite a una central parada por motivos económicos pedir de nuevo la renovación en el plazo de un año.",
+     "fecha": "2017-08-01",
+     "fuente": "Público (cronología)",
+     "url": "https://www.publico.es/economia/cronologia-garona-nuclear-mas-antigua.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cronología de prensa; no se abrieron las normas en el BOE."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "pp-educacion-1",
+   "promesa": "Escuela infantil de 0 a 3 años gratuita al final de la legislatura, pagada a medias por el Estado y las comunidades.",
+   "ha_gobernado": "autonomico",
+   "resumen": "El PP promete que la etapa de 0 a 3 años sea gratuita para todas las familias que la pidan al acabar la legislatura, con el Estado pagando la mitad de cada plaza y las comunidades la otra mitad. Ya lo prometió en 2023 y en 2024 lo cifró en 2.000 millones para cada parte. Galicia, gobernada por el PP, la tiene gratuita en todos los centros desde 2022. La tasa de escolarización de 0 a 2 años era del 48,3 % en 2023-2024 y un estudio encargado por el Instituto de Estudios Fiscales estima el coste total de un sistema universal entre 5.400 y 7.500 millones.",
+   "antecedentes": "El programa de 2023 decía que la educación de 0 a 3 años sería «universal y gratuita» y cofinanciada por Estado y comunidades (e2). En septiembre de 2024 Feijóo anunció una ley de conciliación con esa gratuidad y un reparto de 2.000 millones del Estado y 2.000 de las comunidades (e3). No se pudo comprobar qué fue de esa ley en el Congreso.",
+   "matiz": "La promesa es de gratuidad, en centros públicos o concertados, no de plazas públicas nuevas: con la mitad de los niños escolarizados, que sea gratis no asegura por sí solo que haya plaza. La mitad autonómica depende de diecisiete gobiernos de distinto signo. Las cifras de Galicia y Andalucía proceden de sus propios gobiernos.",
+   "refutacion": "Para tumbar la promesa busqué qué han hecho las comunidades del PP y si hay casos en contra: Galicia la ha implantado con fondos propios (e1) y Andalucía devolvió 112 millones europeos destinados a crear plazas públicas (e4). Para tumbar esto último recogí el motivo que alegó la Junta: quería dedicar ese dinero a la gratuidad, no a plazas nuevas, lo que encaja con el modelo que el PP promete. No encontré una votación o decisión del PP directamente contraria a la gratuidad; lo que juega en contra es de viabilidad y datos (e5, e6). Quedó sin comprobar la supresión del plan estatal de plazas de 0 a 3 años en 2012 y el recorrido de la ley de 2024, por agotarse las búsquedas. El expediente de Codex solo contenía el programa y la ley educativa, sin historial.",
+   "puntos": {
+    "historial": {
+     "nivel": 3,
+     "por": "Galicia la aplica en todos los centros desde 2022 con fondos propios; Andalucía la tenía al 50 % en 2024 y renunció a fondos para plazas públicas (e1, e4)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Misma promesa en 2023, 2024 y 2026, con el mismo reparto al 50 % (e2, e3)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Necesita el acuerdo y la mitad del dinero de las comunidades; el programa no cifra el coste (e3, e7)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Menos de la mitad de los niños está escolarizada y las estimaciones de coste van de 2.900 a 7.500 millones según qué se cuente (e5, e6)."
+    }
+   },
+   "pista_codex": "nacional-pp-n163",
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "Galicia: 0-3 gratuita en todos los centros desde 2022",
+     "hecho": "La Xunta de Galicia (PP) inició en 2025-2026 el cuarto curso con atención educativa de 0 a 3 años gratuita en todos los centros: autonómicos, municipales, de iniciativa social y privados. Declara 65 millones de fondos propios, más de 32.000 familias beneficiarias y una tasa de escolarización cercana al 65 %.",
+     "fecha": "2025",
+     "fuente": "Xunta de Galicia",
+     "url": "https://www.xunta.gal/notas-de-prensa/-/nova/016300/xunta-abre-nuevo-curso-sus-escuelas-infantiles-0-3-anos-que-nuevo-gratuito-todos",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Fuente de parte: cifras del propio gobierno autonómico. La gratuidad se implantó cuando Feijóo presidía la Xunta."
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2023 prometía lo mismo",
+     "hecho": "La medida 146 del programa de 2023 decía: «La educación de 0 a 3 años será universal y gratuita y estará cofinanciada por el Estado y las Comunidades Autónomas». No fijaba plazo ni porcentaje.",
+     "fecha": "2023-07",
+     "fuente": "Partido Popular, programa electoral 2023 (pág. 48)",
+     "url": "https://www.h50.es/wp-content/uploads/2023/07/PROGRAMA-ELECTORAL-PP-PARTIDO-POPULAR-23-JULIO-2023.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia del PDF guardada en el archivo documental; es una copia del programa alojada fuera de la web del partido."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "En 2024 Feijóo lo cifró en 4.000 millones",
+     "hecho": "El 16-9-2024 Feijóo anunció una ley de conciliación con la gratuidad de 0 a 3 años como «pilar esencial», financiada al 50 % entre Estado y comunidades: 2.000 millones de los Presupuestos del Estado y 2.000 de las autonomías.",
+     "fecha": "2024-09-16",
+     "fuente": "Valencia Plaza",
+     "url": "https://valenciaplaza.com/valenciaplaza/noticia28048",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El programa de 2026 mantiene el reparto pero no repite la cifra. Según elDiario.es, aquella ley no garantizaba plazas públicas nuevas y preveía ayudas a familias que no escolaricen (https://www.eldiario.es/sociedad/plan-pp-conciliar-deducciones-fiscales-escuelas-infantiles-privadas_129_11697850.amp.html)."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Andalucía devolvió 112 millones para plazas públicas",
+     "hecho": "La Junta de Andalucía (PP) devolvió en 2024 unos 112 millones de fondos europeos destinados a crear plazas públicas de 0 a 3 años. Alegó que quería usarlos para ampliar la gratuidad, que ya tenía más de 34.000 plazas disponibles y una escolarización del 58 %, y que la mitad de las familias ya no pagaba, con el objetivo del 100 % en 2025-2026.",
+     "fecha": "2024-09-11",
+     "fuente": "Qué! (versión de la Junta)",
+     "url": "https://www.que.es/2024/09/11/la-junta-subraya-que-exigio-destinar/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "elDiario.es cifra la devolución en 119 millones (enlace en e3). La nota del Ministerio de Educación sobre el reparto de esos fondos no se pudo abrir."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Escolarizado el 48,3 % de los niños de 0 a 2 años",
+     "hecho": "La tasa de escolarización de 0 a 2 años fue del 48,3 % en el curso 2023-2024, la más alta de la serie. El alumnado de primer ciclo de infantil creció en 12.957 niños respecto al curso anterior.",
+     "fecha": "2024-06-28",
+     "fuente": "Ministerio de Educación (La Moncloa)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/educacion-fp-deportes/paginas/2024/280624-escolarizacion-0a2anos-y-fp-record-.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El dato de 2024-2025 (49,2 % según el avance del Ministerio) no se pudo abrir."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "Un estudio estima el coste entre 5.400 y 7.500 millones",
+     "hecho": "Un estudio de Cristina Castellanos y Ana Carolina Perondi (UNED), encargado por el Instituto de Estudios Fiscales, calcula que una educación de 0 a 3 años gratuita y universal costaría entre 5.400 y 7.500 millones al año, entre 2.900 y 4.900 más que el gasto de entonces. Estima beneficios de entre 5.700 y 10.100 millones.",
+     "fecha": "2021-06-29",
+     "fuente": "Aprendemas (reseña del estudio de la UNED)",
+     "url": "https://www.aprendemas.com/es/blog/mundo-educativo/un-estudio-de-la-uned-analiza-si-la-educacion-gratuita-universal-seria-rentable-107980",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída la reseña, no el estudio original. Parte de supuestos propios (permisos parentales iguales, cobertura universal) y de precios de 2021."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "dato_oficial",
+     "titulo": "El Gobierno actual destina 175 millones en dos años",
+     "hecho": "El 25-3-2026 la ministra de Educación anunció un programa con las comunidades, dotado con 175 millones en dos años, para que las familias con menos recursos accedan sin coste a la etapa de 0 a 3 años.",
+     "fecha": "2026-03-25",
+     "fuente": "Ministerio de Educación (La Moncloa)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/educacion-fp-deportes/paginas/2026/250326-tolon-escolarizacion-cero-a-tres-anos.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Sirve de referencia de la escala actual de la aportación estatal frente a los 2.000 millones que el PP manejó en 2024."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "pp-empleo-1",
+   "promesa": "Los nuevos autónomos no pagarán cuota el primer año, ni el segundo si ganan menos del salario mínimo.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PP promete cuota cero a la Seguridad Social para los nuevos autónomos durante un año, y dos si no llegan al salario mínimo. Es la misma estructura que la cuota reducida vigente desde 2023 (80 euros al mes), llevada a cero. El PP creó la tarifa plana cuando gobernaba (2013) y la amplió en 2017, y Madrid ya paga esa cuota a sus nuevos autónomos. La AIReF concluyó que la tarifa plana fomenta las altas, pero que al acabar la ayuda la supervivencia de los negocios se iguala a la de quienes no la tuvieron.",
+   "antecedentes": "El Gobierno del PP aprobó en 2013 reducciones del 80 % para jóvenes autónomos y en 2017 fijó la tarifa plana de 50 euros durante doce meses (e1, e2). El programa de 2023 prometía «tarifa 0» el primer año y el plan de autónomos de noviembre de 2025 añadió el segundo año (e7). En 2022 el PP apoyó el decreto que fijó la cuota reducida actual (e5).",
+   "matiz": "La diferencia real con la ley vigente es pasar de 80 euros al mes a cero: unos 960 euros al año por autónomo. El programa no dice cuánto cuesta ni cómo se compensa a la Seguridad Social. Las ayudas de «cuota cero» de las comunidades son subvenciones que devuelven la cuota ya pagada, no una exención.",
+   "refutacion": "Para tumbar la promesa busqué incumplimientos del PP con los autónomos cuando gobernó y votos contrarios a rebajas de cuota: no encontré ninguno verificable sobre la cuota de inicio; lo que hay va en la misma dirección (e1, e2, e5, e6). Quedó sin comprobar, por agotarse las búsquedas, la subida de la base mínima de los autónomos societarios aprobada en diciembre de 2013. Para no dar por buena la medida sin más, busqué evaluaciones: la AIReF matiza su eficacia (e3). No existe expediente de Codex sobre esta promesa; el más cercano trata la cotización de empresas con plantillas estables y de él se aprovechó el estudio de la AIReF.",
+   "puntos": {
+    "historial": {
+     "nivel": 3,
+     "por": "En el Gobierno creó la tarifa plana en 2013 y la amplió en 2017; Madrid cubre el 100 % de la cuota del primer año (e1, e2, e6)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Lo propone desde 2023 y apoyó el decreto de 2022; el segundo año se añadió en 2025 (e5, e7)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Basta una ley ordinaria o un decreto-ley, pero supone menos ingresos para la Seguridad Social y el programa no los cifra (e3, e4)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "La AIReF ve más altas de autónomos, pero no más supervivencia una vez termina la ayuda (e3)."
+    }
+   },
+   "pista_codex": "ninguna (se usó el estudio de la AIReF archivado en ampliacion-d-pp-n174)",
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "En 2013 el Gobierno del PP rebajó la cuota a los jóvenes",
+     "hecho": "El Real Decreto-ley 4/2013, de 22 de febrero, estableció para los nuevos autónomos menores de 30 años una reducción del 80 % de la cuota durante seis meses, del 50 % otros seis y del 30 % después, hasta un máximo de 30 meses.",
+     "fecha": "2013-02-22",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2030",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Según la AIReF (e3), en septiembre de 2013 se extendió a los mayores de 30 años y en 2015 pasó a ser una cuota fija de 50 euros."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La ley de 2017 amplió la tarifa plana a doce meses",
+     "hecho": "La Ley 6/2017, de 24 de octubre, de Reformas Urgentes del Trabajo Autónomo, fijó una cuota de 50 euros al mes durante doce meses para las altas iniciales o tras dos años sin estar de alta. Antes eran seis meses.",
+     "fecha": "2017-10-24",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12207",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Aprobada con el PP en el Gobierno; no se comprobó quién la propuso ni el resultado de la votación."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "AIReF: más altas, pero la supervivencia se iguala",
+     "hecho": "La AIReF evaluó la tarifa plana en 2020: costó 3.500 millones entre 2013 y 2018 y unos 600 millones en 2018, con 600.000 beneficiarios. Concluye que cumple el objetivo de fomentar el trabajo autónomo, sobre todo en personas con formación media-alta, y que «al finalizar la supervivencia de los beneficiarios converge a la de los no beneficiarios». Propone ir a cotizar por ingresos y, mientras, mantenerla con más control.",
+     "fecha": "2020-10",
+     "fuente": "AIReF, evaluación de incentivos a la contratación y al trabajo autónomo",
+     "url": "https://www.airef.es/wp-content/uploads/2020/10/INCENTIVOS/PDF-Web-Incentivos-a-la-contratacio%CC%81n-2.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del PDF (ficha resumen y apartado 4)."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "Ley vigente: 80 euros al mes, uno o dos años",
+     "hecho": "El Real Decreto-ley 13/2022 fija para los nuevos autónomos una cuota reducida de 80 euros al mes entre 2023 y 2025 durante doce meses, prorrogable otros doce si los rendimientos netos son inferiores al salario mínimo anual. Desde 2026 la cuantía la fija la ley de presupuestos.",
+     "fecha": "2022-07-26",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12482",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La promesa del PP reproduce esta estructura con cuota cero. Sin presupuestos nuevos, no se comprobó en fuente oficial la cuantía aplicada en 2026."
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "El PP apoyó el decreto de autónomos de 2022",
+     "hecho": "El 25-8-2022 el Congreso convalidó el Real Decreto-ley 13/2022 por 260 votos a favor, 64 en contra y 25 abstenciones. El PP anunció su voto a favor y pidió tramitarlo como ley; Vox y Ciudadanos lo rechazaron.",
+     "fecha": "2022-08-25",
+     "fuente": "Valencia Plaza (Europa Press)",
+     "url": "https://valenciaplaza.com/valenciaplaza/el-congreso-convalida-el-nuevo-sistema-de-cotizacion-por-ingresos-reales-para-autonomos",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El artículo recoge las posiciones anunciadas en el debate, no el desglose oficial del voto."
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "Madrid paga la cuota del primer año a 19.000 autónomos",
+     "hecho": "La Comunidad de Madrid (PP) declara que su «Tarifa Cero» cubre el 100 % de las cotizaciones del primer año de actividad, ampliable a un segundo, y que beneficia a 19.000 autónomos. Cifra en 37 millones sus ayudas a autónomos en 2026.",
+     "fecha": "2026-09-30",
+     "fuente": "Comunidad de Madrid",
+     "url": "https://www.comunidad.madrid/noticias/2026/09/30/comunidad-madrid-invierte-143-millones-euros-legislatura-apoyar-autonomos",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Fuente de parte. Es una subvención que reembolsa la cuota, no una exención."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "«Tarifa 0» en el programa de 2023 y el plan de 2025",
+     "hecho": "El programa de 2023 decía: «Aprobaremos la tarifa 0 para nuevos autónomos durante el primer año». El plan de autónomos del PP de noviembre de 2025 la formula como exención el primer año, «ampliable al segundo» en función de los ingresos.",
+     "fecha": "2025-11-05",
+     "fuente": "Partido Popular (programa 2023, pág. 18, y Plan de Autónomos)",
+     "url": "https://www.pp.es/storage/2026/01/2025-11-05-Plan-de-autonomos.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Plan leído en el PDF descargado de la web del partido; la fecha se toma del nombre del archivo. El programa de 2023, en copia local (https://www.h50.es/wp-content/uploads/2023/07/PROGRAMA-ELECTORAL-PP-PARTIDO-POPULAR-23-JULIO-2023.pdf)."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "Enero de 2026: el PP votó contra el decreto que congelaba las cuotas",
+     "hecho": "El 27-1-2026 el Congreso derogó por 178 votos en contra y 171 a favor el Real Decreto-ley 16/2025, que entre otras muchas medidas mantenía en 2026 las cuotas de autónomos de 2025. Votaron en contra PP (137), Vox (33) y Junts (7).",
+     "fecha": "2026-01-27",
+     "fuente": "Congreso de los Diputados, registro de votaciones",
+     "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion156/20260127/Votacion001/VOT_20260127153132.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El decreto unía la subida de las pensiones, medidas sociales y tributarias; el voto no fue específico sobre las cuotas. Contenido del decreto según elDiario.es (https://www.eldiario.es/economia/desahucios-salario-minimo-cuotas-autonomos-son-medidas-decaen-rechazo-congreso_1_12937277.html). Añadida por indicación de la auditoría de equidad: el mismo hecho figura en el contraste equivalente de Vox."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "pp-seguridad-1",
+   "promesa": "Una ley para que el propietario recupere su vivienda ocupada en 48 horas, por orden judicial.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PP promete una ley para desalojar en 48 horas con orden judicial, anular el empadronamiento del ocupante y liberar al dueño de pagar suministros e impuestos. Ha presentado leyes en ese sentido en 2022, 2024 y 2026: el Senado aprobó una en 2024 que quedó parada en el Congreso y otra caducó al disolverse las Cortes. Con el PP en el Gobierno se aprobó en 2018 un procedimiento civil exprés. Los juzgados tardaban en 2023 unos doce meses de media en primera instancia en estos casos, y las denuncias fueron 14.875 en 2025.",
+   "antecedentes": "El programa de 2023 prometía desalojos «en un plazo máximo de 24 horas» (e1); el de 2026 habla de 48 horas por orden judicial. El Congreso rechazó tramitar la ley del PP en noviembre de 2022 (e4). El Senado aprobó otra en febrero de 2024, que acumuló 54 prórrogas del plazo de enmiendas en el Congreso (e2). Una tercera se tomó en consideración en mayo de 2026 y caducó en octubre (e3).",
+   "matiz": "Las cifras de Interior suman allanamiento de morada (la casa donde se vive) y usurpación (inmuebles vacíos), que tienen respuestas legales distintas; la mayoría de los plazos largos corresponden a la vía civil. Que una ley fije 48 horas no acorta por sí solo los tiempos si los juzgados no tienen medios: tras la ley exprés de 2018 la duración media aumentó.",
+   "refutacion": "Para tumbar la promesa busqué si el PP hizo algo parecido cuando gobernó y si los plazos legales se cumplen: apoyó la ley de 2018 (e5), pero los tiempos reales se triplicaron después (e7). Para tumbar esa objeción comprobé que el aumento coincide con la pandemia y con otras normas, que el dato es de 2023 y que desde abril de 2025 estos delitos van por juicio rápido, con apoyo del PP a esa enmienda (e6); no hay datos posteriores verificados. También comprobé si el cambio de 24 a 48 horas es una rebaja: es un cambio de formulación entre programas (e1). No hay expediente de Codex sobre esta promesa. La caducidad de la ley de 2026 solo consta en una fuente no oficial (e3).",
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "Con el PP en el Gobierno se aprobó el procedimiento exprés de 2018, pero no un plazo de 48 horas, y los tiempos reales crecieron después (e5, e7)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Leyes presentadas en 2022, 2024 y 2026 en la misma dirección; el plazo prometido pasó de 24 a 48 horas (e1, e2, e3, e4)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Es competencia estatal y cabe en una ley; endurecer penas exige ley orgánica y el plazo real depende de los medios de los juzgados (e6, e7)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Las denuncias bajan y los procedimientos duraban doce meses de media en primera instancia en 2023; no hay evaluación del juicio rápido de 2025 (e7, e8)."
+    }
+   },
+   "pista_codex": "ninguna",
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "En 2023 el plazo prometido era de 24 horas",
+     "hecho": "El programa de 2023 prometía un paquete «anti-okupación» para que los desalojos se produjeran «en un plazo máximo de 24 horas», sin cargas tributarias para las viviendas ocupadas y sin empadronamiento de los ocupantes.",
+     "fecha": "2023-07",
+     "fuente": "Partido Popular, programa electoral 2023 (pág. 78)",
+     "url": "https://www.h50.es/wp-content/uploads/2023/07/PROGRAMA-ELECTORAL-PP-PARTIDO-POPULAR-23-JULIO-2023.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia del PDF guardada en el archivo documental; es una copia del programa alojada fuera de la web del partido."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "El Senado aprobó la ley del PP; el Congreso no la tramitó",
+     "hecho": "El Senado aprobó en febrero de 2024 la ley antiocupación del PP por 147 votos a favor, 104 en contra y 9 abstenciones, con apoyo de Junts y PNV. En junio de 2025 la Mesa del Congreso había prorrogado 54 veces el plazo de enmiendas. Preveía 24 horas para el desalojo voluntario y 48 para el forzoso.",
+     "fecha": "2025-06-22",
+     "fuente": "Vozpópuli",
+     "url": "https://www.vozpopuli.com/economia/ganan-los-okupas-armengol-secuestra-con-54-prorrogas-el-plan-de-choque-del-pp.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El titular del medio es valorativo; se usan solo las cifras. No se abrió el registro oficial del Senado."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "La ley del PP de 2026 caducó con la disolución",
+     "hecho": "Una proposición de ley del Grupo Popular, que preveía el desalojo en 24 horas ordenado por el juez de instrucción, fue tomada en consideración el 19-5-2026 por 171 votos a favor, 164 en contra y 11 abstenciones. Caducó el 6-10-2026 al disolverse las Cortes, igual que el texto llegado del Senado en 2024.",
+     "fecha": "2026-10-08",
+     "fuente": "Selectra",
+     "url": "https://selectra.es/alarmas/noticias/okupacion-2026-ley-caducada-cortes-disueltas",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Publicación de una empresa comparadora, no un medio ni un registro oficial. No se localizó el expediente en la web del Congreso."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "El Congreso rechazó tramitar la ley del PP en 2022",
+     "hecho": "El 29-11-2022 el Congreso rechazó admitir a trámite la ley antiocupación del PP. Votaron en contra PSOE, Unidas Podemos y sus socios; a favor, Ciudadanos, Vox, PDeCAT, Foro y PRC; el PNV se abstuvo. El PSOE remitió el asunto a sus enmiendas a la ley de eficiencia de la Justicia.",
+     "fecha": "2022-11-29",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2022/11/29/psoe-unidas-podemos-y-sus-socios-rechazan-que-el-congreso-tramite-la-ley-antiokupas-del-pp/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El artículo no da el recuento de votos."
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "En 2018 se aprobó el desahucio exprés con el voto del PP",
+     "hecho": "La Ley 5/2018 creó un procedimiento civil para que particulares, entidades sin ánimo de lucro y administraciones recuperen una vivienda ocupada: si el ocupante no aporta título en cinco días, el juez ordena la entrega inmediata. La propuso el PDeCAT y en la Comisión de Justicia, el 25-4-2018, votaron a favor PP, Ciudadanos, PNV y PDeCAT, y en contra PSOE, Unidos Podemos y ERC.",
+     "fecha": "2018-06-11",
+     "fuente": "BOE; Idealista (votación en comisión)",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7833",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Votación según Idealista (https://www.idealista.com/news/node/765334). La ley se publicó el 12-6-2018, diez días después del cambio de Gobierno."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "votacion",
+     "titulo": "Desde 2025 estos delitos van por juicio rápido",
+     "hecho": "El 14-11-2024 el Congreso aprobó una enmienda del PNV que incluye el allanamiento de morada y la usurpación entre los delitos que se tramitan por juicio rápido. La apoyaron PP, Junts, EH Bildu, UPN y Coalición Canaria, con la abstención de Vox y el rechazo de los partidos del Gobierno. El PP votó en contra del conjunto de la ley.",
+     "fecha": "2024-11-14",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/politicas/el-congreso-aprueba-juicios-rapidos-por-allanamiento-y-usurpacion-pese-al-rechazo-del-gobierno/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La norma es la Ley Orgánica 1/2025, en vigor desde abril de 2025 según varias fuentes; no se abrió el BOE. EH Bildu dijo después que su voto fue un error."
+    },
+    {
+     "id": "e7",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "Los juzgados tardaban doce meses de media en 2023",
+     "hecho": "Según datos del Consejo General del Poder Judicial, los procedimientos por ocupación ilegal duraron en 2023 una media de 12 meses en primera instancia (10,6 en 2022 y 4,9 en 2018) y 11,2 meses más en apelación: 23,2 meses en total.",
+     "fecha": "2024-07-03",
+     "fuente": "Idealista, con datos del CGPJ",
+     "url": "https://www.idealista.com/en/news/node/817900",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Dato oficial citado a través de prensa; no hay cifras verificadas de 2024 ni 2025, posteriores al juicio rápido. Se refiere a la vía civil."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "14.875 denuncias en 2025, un 9,4 % menos",
+     "hecho": "Los hechos conocidos por allanamiento y usurpación fueron 14.875 en 2025, frente a 16.426 en 2024 (un 9,4 % menos). Las estadísticas oficiales no distinguen entre los dos delitos.",
+     "fecha": "2026-04-29",
+     "fuente": "El Español, con datos del Ministerio del Interior",
+     "url": "https://www.elespanol.com/eldigitalcastillalamancha/region/20260429/semana-denuncian-okupaciones-castilla-la-mancha-toledo-lidera-ranking-mitad/1003744227060_0.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Dato nacional citado en una información regional; no se abrió el portal estadístico de Interior."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "pp-territorio-1",
+   "promesa": "Un nuevo modelo de financiación autonómica acordado entre todas las comunidades, sin regímenes singulares ni pactos bilaterales.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PP promete un nuevo sistema de financiación pactado en los foros multilaterales, sin regímenes singulares, con más recursos para todas las comunidades y un fondo transitorio pagado por el Estado. El sistema vigente está pendiente de revisión desde 2014 y el Gobierno de Rajoy no lo reformó. En 2001, con Aznar, sí se aprobó un modelo. Desde 2024 las comunidades del PP rechazan negociar por separado, pero el partido no ha presentado un modelo con cifras, y FEDEA muestra que una reforma favorece a unas comunidades del PP y hace perder posición a otras.",
+   "antecedentes": "El Gobierno del PP encargó en 2017 un informe de expertos y en agosto de ese año Rajoy aplazó otra vez la reforma, que no llegó a aprobar (e1). Feijóo se comprometió en 2022 a presentar su propuesta si ganaba las elecciones (e7). En septiembre de 2024 y enero de 2026 los presidentes autonómicos del PP firmaron declaraciones de principios (e3, e4). El 4-9-2026 las comunidades del PP votaron contra el modelo del Gobierno (e5).",
+   "matiz": "Que no se reformara entre 2014 y 2018 no es solo atribuible al Gobierno central: Rajoy exigía unanimidad y las comunidades, de todos los partidos, discrepaban. La reforma tampoco se ha aprobado desde 2018. El régimen foral vasco y navarro no forma parte del sistema común y la promesa no lo toca.",
+   "refutacion": "Para tumbar la promesa busqué qué hizo el PP con la financiación cuando gobernó (e1) y si sus comunidades tienen una posición única: FEDEA muestra intereses opuestos entre ellas (e6) y sus declaraciones no fijan criterios de reparto (e4). Para tumbar esa evidencia comprobé que el PP sí cerró un modelo en 2001 (e2), que sus presidentes han mantenido el rechazo a la vía bilateral con matices menores (e3) y que el bloqueo de 2017 se debió en parte a la división entre comunidades de todos los colores (e1). No pude confirmar en el texto legal que el acuerdo de 2001 fuera unánime, ni el estado de la ley del Gobierno tras el Consejo de septiembre de 2026. No hay expediente de Codex sobre esta promesa.",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Con el sistema pendiente de revisión desde 2014, el Gobierno del PP no lo reformó hasta 2018; el antecedente favorable es el modelo de 2001 (e1, e2)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Rechazo sostenido a los pactos bilaterales desde 2024, con matices de Andalucía y la Comunidad Valenciana; no hay modelo propio con cifras (e3, e4, e5)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Exige ley orgánica, acuerdo con las comunidades y dinero del Estado que el programa no cuantifica (e5, e6)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "FEDEA ve mejoras de equidad posibles, pero avisa del coste para el Estado y de que unas comunidades ganan y otras pierden posición (e6)."
+    }
+   },
+   "pista_codex": "ninguna",
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Rajoy aplazó en 2017 una reforma pendiente desde 2014",
+     "hecho": "El 7-8-2017 Rajoy dio un nuevo plazo de un año para reformar la financiación autonómica, pendiente desde 2014, y defendió que debía aprobarse por unanimidad. La comisión de expertos creada ese año no logró consenso; Madrid y Canarias formularon votos particulares contra una quita de deuda. El Gobierno del PP terminó en junio de 2018 sin aprobarla.",
+     "fecha": "2017-08-07",
+     "fuente": "Valencia Plaza",
+     "url": "https://valenciaplaza.com/rajoy-se-escuda-en-la-division-entre-comunidades-para-retrasar-otro-ano-la-reforma-de-la-financiacion",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El titular del medio es valorativo; se usan los hechos. Las comunidades que reclamaban la reforma eran de distinto signo político."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "En 2001 un Gobierno del PP sí aprobó un nuevo modelo",
+     "hecho": "La Ley 21/2001 recoge que el Consejo de Política Fiscal y Financiera aprobó el 27-7-2001, a propuesta del Gobierno, un nuevo sistema de financiación autonómica, que las Cortes convirtieron en ley en diciembre de ese año.",
+     "fecha": "2001-12-27",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/eli/es/l/2001/12/27/21",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Documentos del Ministerio de Hacienda indican que el acuerdo fue unánime; el texto de la ley leído no lo dice."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Los presidentes del PP pactaron negociar solo entre todos",
+     "hecho": "El 6-9-2024 los presidentes autonómicos del PP acordaron tratar la financiación solo en foros multilaterales. Días después Carlos Mazón dijo que hablaría con Sánchez si le llamaba, aunque veía inviable una negociación bilateral, y Juan Manuel Moreno aceptó reunirse si se le convocaba «con criterio y rigor».",
+     "fecha": "2024-09-10",
+     "fuente": "Ara",
+     "url": "https://es.ara.cat/politica/presidentes-valenciano-andaluz-desautorizan-feijoo-quieren-hablar-financiacion-sanchez_1_5136796.amp.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El titular habla de desautorización; el texto recoge que ambos rechazaban cerrar acuerdos bilaterales."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "La Declaración de Zaragoza no incluye cifras ni reparto",
+     "hecho": "El 18-1-2026 Feijóo y los dirigentes autonómicos del PP firmaron la Declaración de Zaragoza: pide tener en cuenta el coste real de los servicios, un fondo transitorio, reforzar los fondos de garantía y compensación y dar más peso a la despoblación. No incluye cifras ni criterios de reparto cerrados.",
+     "fecha": "2026-01-19",
+     "fuente": "Ara",
+     "url": "https://es.ara.cat/politica/fejoo-cierra-filas-varones-nueva-financiacion-espanol-singular_1_5621446.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se abrió el texto íntegro de la declaración."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "dato_oficial",
+     "titulo": "El Gobierno aprobó su modelo con trece comunidades en contra",
+     "hecho": "El 4-9-2026 el Consejo de Política Fiscal y Financiera aprobó el modelo del Gobierno: 20.975 millones más para las comunidades y cesión del IRPF del 50 % al 55 % y del IVA del 50 % al 56,5 %. Lo rechazaron trece comunidades, entre ellas Castilla-La Mancha y Asturias (PSOE); Madrid no asistió. El siguiente paso era una ley que debía aprobar el Congreso.",
+     "fecha": "2026-09-04",
+     "fuente": "Ministerio de Hacienda; Artículo 14 (votación)",
+     "url": "https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2026/20260904-NP-CPFF-DIRECTO.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Recuento de comunidades según Artículo 14 (https://www.articulo14.es/politica/castilla-la-mancha-y-asturias-ambas-del-psoe-ratifican-su-rechazo-al-plan-de-financiacion-autonomica-aprobado-por-el-gobierno-20260904.html). En el Consejo el Estado tiene la mitad de los votos."
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "FEDEA: unas comunidades ganan y otras pierden posición",
+     "hecho": "FEDEA (Ángel de la Fuente) analizó en febrero de 2026 la propuesta del Gobierno: sube la financiación por habitante ajustado en Cataluña (507 euros), Comunidad Valenciana (496), Murcia (468), Baleares (450) y Madrid (409), y baja el índice relativo de Cantabria, La Rioja, Extremadura, Castilla y León y Galicia. Considera que dar 20.000 millones más a las autonomías «no es una buena idea» por la situación financiera del Estado y recomienda un acuerdo multilateral.",
+     "fecha": "2026-02-21",
+     "fuente": "FEDEA, recogido por Alicante Plaza",
+     "url": "https://alicanteplaza.es/alicanteplaza/espana/fedea-sostiene-que-la-administracion-central-sale-mas-perjudicada-que-las-ccaa-con-el-nuevo-sistema-de-financiacion",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída la reseña, no el informe. Se refiere a la propuesta del Gobierno, pero las comunidades que ganan y pierden están casi todas gobernadas por el PP, y el programa del PP también promete más recursos para el conjunto."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "Feijóo se comprometió en 2022 a presentar su propuesta",
+     "hecho": "El 16-12-2022 Feijóo se comprometió en València a presentar su reforma de la financiación tras las elecciones generales si las ganaba. No detalló criterios ni cifras y dijo que la Comunidad Valenciana y Murcia son las peor financiadas.",
+     "fecha": "2022-12-16",
+     "fuente": "Valencia Plaza (Europa Press)",
+     "url": "https://valenciaplaza.com/valenciaplaza/feijoosecomprometeapresentarsupropuestadefinanciacionautonomicasigobierna",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "propuesta_id": "pp-exterior-1",
+   "promesa": "Aprobar una ley que planifique y financie la defensa a varios años, con los compromisos internacionales respaldados por las Cortes.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PP promete una ley de programación y financiación de la defensa y que todo compromiso internacional pase por las Cortes. El programa no fija qué porcentaje del PIB gastará; el de 2023 comprometía el 2 %. Cuando gobernó, el gasto se quedó en el 0,92 % del PIB en 2014 y pagó programas de armamento con decretos-ley que el Tribunal Constitucional anuló en 2016. Desde 2025 reclama que el aumento del gasto se vote en el Congreso. La AIReF avisa de que España no cumplirá las reglas fiscales desde 2027 ni con la cláusula que excluye parte del gasto en defensa.",
+   "antecedentes": "El programa de 2023 prometía cumplir el 2 % del PIB y «compromisos de inversión plurianuales» (e3). En junio de 2025 Feijóo dijo que el PP se compromete con los objetivos que plantee la OTAN, sin dar cifra propia (e5), y en noviembre de 2025 el PP registró una ley para obligar a votar en las Cortes los créditos de defensa (e4). En el Gobierno (2011-2018) no aprobó una ley de programación.",
+   "matiz": "La promesa es de método (planificar por ley y con voto parlamentario), no de cantidad: puede cumplirse sin aclarar cuánto se gastará. El gasto en defensa también fue bajo y con créditos extraordinarios en gobiernos de otro signo, antes y después; el compromiso de la OTAN del 2 % data de 2014 y tenía como horizonte 2024.",
+   "refutacion": "Para tumbar la promesa busqué cómo financió el PP la defensa cuando gobernó: con decretos-ley anulados por el Constitucional y un gasto del 0,92 % del PIB (e1, e2). Para tumbar esa evidencia comprobé que la sentencia no revisó los pagos ya hechos, que la práctica de créditos extraordinarios es, según el Real Instituto Elcano, recurrente y no exclusiva de un partido, y que el PP reclama desde 2025 lo contrario de lo que hizo: voto parlamentario (e4). Busqué también si el PP se ha comprometido con el 3,5 % o el 5 % acordados en La Haya: no encontré una cifra propia (e5, e8). Quedó sin verificar la serie anual 2011-2018 en datos de la OTAN. No hay expediente de Codex sobre esta promesa.",
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "En el Gobierno no aprobó una ley de programación, el gasto fue del 0,92 % del PIB en 2014 y financió armamento con decretos-ley anulados por el Constitucional (e1, e2)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Pide desde 2025 que el gasto se vote en las Cortes y mantiene la idea de inversión plurianual; ha dejado de citar el 2 % y no fija cifra (e3, e4, e5, e8)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Basta una ley ordinaria, pero compromete gasto relevante durante años y necesita mayoría parlamentaria (e6, e7)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "El gasto ya alcanza el 2 % del PIB, pero la AIReF ve incumplimiento de las reglas fiscales desde 2027 (e6, e7)."
+    }
+   },
+   "pista_codex": "ninguna",
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "resolucion_judicial",
+     "titulo": "El Constitucional anuló en 2016 el decreto de armamento",
+     "hecho": "La sentencia 126/2016, de 7 de julio, declaró inconstitucional y nulo el artículo del Real Decreto-ley 10/2014 que concedía un crédito extraordinario de unos 883,7 millones para programas especiales de armamento. El tribunal reprochó «el recurso sistemático al decreto-ley como forma jurídica de vehicular créditos extraordinarios». No revisó los pagos ya firmes.",
+     "fecha": "2016-07-07",
+     "fuente": "Tribunal Constitucional",
+     "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/25031",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Recurso de diputados del PSOE, La Izquierda Plural y UPyD. Es control de constitucionalidad de una norma, no un procedimiento contra personas."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "informe_independiente",
+     "titulo": "En 2014 el gasto en defensa fue del 0,92 % del PIB",
+     "hecho": "Según el Real Instituto Elcano, el gasto en defensa fue de 9.508 millones en 2014, el 0,92 % del PIB, y entre 2014 y 2022 los aumentos no fueron progresivos hacia el 2 %. Describe como prácticas recurrentes la «ingeniería presupuestaria» y la dependencia de créditos extraordinarios. En 2024 el gasto fue del 1,28 %.",
+     "fecha": "2025-02-11",
+     "fuente": "Real Instituto Elcano (Félix Arteaga)",
+     "url": "https://www.realinstitutoelcano.org/comentarios/el-gasto-de-defensa-en-espana-mas-alla-del-2-del-pib/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El periodo 2014-2022 abarca gobiernos del PP (hasta junio de 2018) y del PSOE."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2023 comprometía el 2 % del PIB",
+     "hecho": "El programa de 2023 decía: «Cumpliremos el compromiso adquirido por los aliados de destinar un 2% del PIB nacional en seguridad y defensa» y prometía «compromisos de inversión plurianuales». El de 2026 anuncia una ley de programación y no cita ningún porcentaje.",
+     "fecha": "2023-07",
+     "fuente": "Partido Popular, programa electoral 2023 (pág. 99)",
+     "url": "https://www.h50.es/wp-content/uploads/2023/07/PROGRAMA-ELECTORAL-PP-PARTIDO-POPULAR-23-JULIO-2023.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia del PDF guardada en el archivo documental; es una copia del programa alojada fuera de la web del partido."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El PP registró una ley para votar los créditos de defensa",
+     "hecho": "El 21-11-2025 el PP registró en el Congreso una proposición de ley que obliga al Gobierno a tramitar como proyecto de ley los créditos extraordinarios de defensa y prohíbe transferir crédito entre ministerios mientras no haya presupuestos nuevos. El Gobierno había aprobado en 2025 un aumento de 10.471 millones sin votación del Congreso.",
+     "fecha": "2025-11-21",
+     "fuente": "Europa Press, publicado en La Nación",
+     "url": "https://www.lanacion.com.ar/agencias/el-pp-lleva-al-congreso-una-ley-para-obligar-al-gobierno-a-someter-a-votacion-todo-aumento-de-gasto-nid21112025",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se comprobó la tramitación posterior de la iniciativa."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "Feijóo: compromiso con los objetivos de la OTAN, sin cifra",
+     "hecho": "El 23-6-2025, antes de la cumbre de La Haya, Feijóo dijo: «Nos comprometemos a requisitos y objetivos que plantee la OTAN» y que España debía pasar «del 1,2% al 2,1%». No dio una cifra propia de gasto para un Gobierno del PP.",
+     "fecha": "2025-06-23",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/feijoo-reconoce-otan-da-flexibilidad-espana-aumentar-gasto-militar-margen-aliados_1_12406829.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "En La Haya los aliados fijaron un objetivo del 5 % para 2035; el Gobierno sostiene que cumple sus objetivos de capacidades con el 2,1 %."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "La OTAN estima que España llegó al 2 % en 2025",
+     "hecho": "Según la estimación de la OTAN publicada el 28-8-2025, España destinó a defensa el 2 % del PIB en 2025: 33.123 millones, un 43 % más que los 22.693 millones de 2024. Es la primera vez que alcanza el objetivo fijado en 2014.",
+     "fecha": "2025-08-28",
+     "fuente": "Público, con datos de la OTAN",
+     "url": "https://www.publico.es/internacional/europa/otan-estima-espana-llegado-2-gasto-pib-defensa.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Estimación; otras fuentes dan cifras algo distintas para 2025."
+    },
+    {
+     "id": "e7",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "AIReF: España incumplirá las reglas fiscales desde 2027",
+     "hecho": "La AIReF advirtió el 14-5-2026 de que España no cumplirá las reglas fiscales europeas a partir de 2027 ni aplicando la cláusula de escape por gasto en defensa, y de que haría falta un ajuste de 0,9 puntos de PIB hasta 2028. Prevé un déficit del 2,6 % del PIB en 2026.",
+     "fecha": "2026-05-14",
+     "fuente": "AIReF, recogido por El Español",
+     "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20260514/airef-rebaja-prevision-pib-avisa-inconsistencias-previsiones-gobierno/1003744245623_0.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Afecta a cualquier Gobierno que mantenga o aumente el gasto en defensa; limita el margen para una ley que comprometa inversión a varios años."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "La ley anunciada no fija porcentaje, plazo ni coste",
+     "hecho": "El PP anunció que su programa incluiría una ley de programación y financiación de la defensa, con prioridad para drones, sistemas antidrones, defensa antiaérea y munición. La información no recoge porcentaje del PIB, plazo ni importe.",
+     "fecha": "2026-11-07",
+     "fuente": "Vozpópuli",
+     "url": "https://www.vozpopuli.com/defensa/el-pp-aprobara-una-ley-de-programacion-de-la-defensa-y-dara-prioridad-a-drones-antidrones-defensa-antiaerea-y-municion.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Coincide con el texto del programa (medida 52, pág. 26)."
+    }
+   ]
+  }
+ ]
+}

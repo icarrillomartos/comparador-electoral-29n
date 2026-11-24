@@ -1,0 +1,616 @@
+{
+ "partido": "compromis",
+ "programa": {
+  "titulo": "Programa Compromís – Front Valencià (Corts Generals 2026)",
+  "url": "https://frontvalencia.org/programa-compromis-front-valencia.pdf",
+  "paginas": 57,
+  "fecha": "2026"
+ },
+ "propuestas": [
+  {
+   "id": "compromis-vivienda-1",
+   "tema": "vivienda",
+   "titulo": "Prohibir la compra de vivienda a fondos especulativos",
+   "resumen": "Prohibir que sociedades especulativas y fondos buitre compren viviendas en el País Valenciano, incluso mediante sociedades interpuestas.",
+   "cita": "Prohibirem que societats especulatives i fons voltor puguen comprar habitatges al nostre País",
+   "pagina": 5,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-vivienda-2",
+   "tema": "vivienda",
+   "titulo": "1% del PIB anual para vivienda pública y protegida",
+   "resumen": "Destinar cada año el 1% del PIB a comprar viviendas o promover vivienda protegida, con comunidades, ayuntamientos y entidades sin ánimo especulativo.",
+   "cita": "Destinarem l’ 1% del PIB anual a programes d’adquisició d’habitatges o de promoció d’habitatge protegit",
+   "pagina": 5,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-vivienda-3",
+   "tema": "vivienda",
+   "titulo": "Ley de expropiación a grandes fondos tenedores",
+   "resumen": "Aprobar una ley para expropiar vivienda de grandes tenedores, empezando por quienes tienen más de 1.000 viviendas y bajando hasta 50 inmuebles.",
+   "cita": "Aprovarem una nova Llei d’Expropiació de Grans Fons i Societat Tenidores per a ampliar el parc públic d’habitatge",
+   "pagina": 5,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-impuestos-1",
+   "tema": "impuestos",
+   "titulo": "Deflactar el IRPF por debajo de 30.000 euros",
+   "resumen": "Ajustar el IRPF a la inflación para rentas inferiores a 30.000 euros.",
+   "cita": "Deflactarem l’IRPF en les rendes inferiors a 30.000€ per tal d’ajustar-lo a la inflació.",
+   "pagina": 17,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-impuestos-2",
+   "tema": "impuestos",
+   "titulo": "Ampliar el impuesto a las grandes fortunas",
+   "resumen": "Mantener y ampliar el impuesto a las grandes fortunas, acercándolo a la tasa Zucman de tributación progresiva del patrimonio.",
+   "cita": "Mantindrem i ampliarem l’Impost a les Grans Fortunes per a aproximar-la a propostes internacionals de tributació progressiva al patrimoni com la taxa Zucman.",
+   "pagina": 17,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-impuestos-3",
+   "tema": "impuestos",
+   "titulo": "Impuesto sobre el beneficio de empresas oligopolísticas",
+   "resumen": "Crear un impuesto específico sobre los beneficios de las empresas oligopolísticas.",
+   "cita": "Crearem un impost sobre el benefici de les empreses oligopolístiques.",
+   "pagina": 17,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-empleo-1",
+   "tema": "empleo",
+   "titulo": "Jornada de cuatro días y 32 horas",
+   "resumen": "Reducir la jornada laboral a cuatro días y 32 horas semanales sin bajar el sueldo.",
+   "cita": "Reduirem la jornada laboral a quatre dies (trenta-dues hores) setmanals, sense disminució del sou.",
+   "pagina": 7,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-empleo-2",
+   "tema": "empleo",
+   "titulo": "Salario mínimo del 60% del salario medio por ley",
+   "resumen": "Fijar por ley que el SMI llegue al 60% del salario medio, sin que la subida absorba complementos.",
+   "cita": "Garantirem per llei que l’SMI arribe al 60% del salari mitjà",
+   "pagina": 7,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-empleo-3",
+   "tema": "empleo",
+   "titulo": "Recuperar el despido de 45 días por año",
+   "resumen": "Modificar la normativa de despidos para recuperar los salarios de tramitación y la indemnización de 45 días por año trabajado.",
+   "cita": "la indemnització de 45 dies per any treballat",
+   "pagina": 7,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-pensiones-1",
+   "tema": "pensiones",
+   "titulo": "Volver a jubilarse a los 65 años",
+   "resumen": "Devolver la edad de jubilación a los 65 años.",
+   "cita": "Retornarem l'edat de jubilació als 65 anys.",
+   "pagina": 8,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-pensiones-2",
+   "tema": "pensiones",
+   "titulo": "Eliminar el tope de la base máxima de cotización",
+   "resumen": "Acabar con el tope a la base máxima de cotización para que las nóminas más altas coticen íntegramente.",
+   "cita": "Acabarem amb el topall a la base màxima de cotització",
+   "pagina": 8,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-pensiones-3",
+   "tema": "pensiones",
+   "titulo": "Garantizar constitucionalmente la revalorización",
+   "resumen": "Garantizar en la Constitución la revalorización de las pensiones conforme al coste de la vida.",
+   "cita": "garantint constitucionalment la seua revaloració conforme al cost de la vida.",
+   "pagina": 8,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-sanidad-1",
+   "tema": "sanidad",
+   "titulo": "Derogar la ley que permite la gestión privada",
+   "resumen": "Derogar la Ley 15/1997 para impedir la mercantilización y la privatización de la gestión sanitaria pública.",
+   "cita": "impedirem la mercantilització de l’atenció sanitària i la privatització de la gestió dels serveis públics a través de la derogació de la Llei 15/1997.",
+   "pagina": 9,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-sanidad-2",
+   "tema": "sanidad",
+   "titulo": "Suprimir el copago farmacéutico de pensionistas",
+   "resumen": "Eliminar el copago farmacéutico de los pensionistas y hacer más progresivo el de los demás.",
+   "cita": "Suprimirem el copagament farmacèutic de pensionistes",
+   "pagina": 9,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-sanidad-3",
+   "tema": "sanidad",
+   "titulo": "Ampliar el catálogo: odontología, óptica y podología",
+   "resumen": "Incluir en el catálogo del Sistema Nacional de Salud oftalmología, podología, nutrición, odontología y estomatología.",
+   "cita": "Inclourem en el catàleg del Sistema Nacional de Salut les especialitats i prestacions d’oftalmologia, podologia, nutrició, odontologia i estomatologia.",
+   "pagina": 9,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-educacion-1",
+   "tema": "educacion",
+   "titulo": "Gasto educativo del 7% del PIB",
+   "resumen": "Avanzar hacia una inversión educativa estatal equivalente al 7% del PIB, con más transferencias a las comunidades.",
+   "cita": "per tal d’avançar cap a una inversió educativa equivalent al 7% del PIB estatal.",
+   "pagina": 10,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-educacion-2",
+   "tema": "educacion",
+   "titulo": "Comedor escolar gratuito y universal",
+   "resumen": "Reformar la Ley Orgánica de Educación para que el comedor escolar sea un servicio esencial, gratuito y universal.",
+   "cita": "Reformarem la Llei Orgànica d’Educació perquè el menjador escolar siga reconegut com a part dels programes educatius essencials",
+   "pagina": 10,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-educacion-3",
+   "tema": "educacion",
+   "titulo": "Concertada realmente subsidiaria de la pública",
+   "resumen": "Modificar la normativa básica de conciertos para que la red concertada sea subsidiaria de la pública.",
+   "cita": "Modificarem la normativa bàsica de concerts educatius perquè la xarxa concertada siga realment subsidiària de la pública.",
+   "pagina": 10,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-inmigracion-1",
+   "tema": "inmigracion",
+   "titulo": "Eliminar los CIE",
+   "resumen": "Exigir la eliminación de los Centros de Internamiento de Extranjeros.",
+   "cita": "Exigirem l’eliminació dels CIES.",
+   "pagina": 56,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-inmigracion-2",
+   "tema": "inmigracion",
+   "titulo": "Vías de regularización de personas migrantes",
+   "resumen": "Impulsar vías de regularización y reformas que faciliten la documentación y el permiso de trabajo.",
+   "cita": "Impulsarem vies de regularització i reformes que faciliten la documentació i autorització de treball",
+   "pagina": 56,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-inmigracion-3",
+   "tema": "inmigracion",
+   "titulo": "Empadronamiento obligatorio para todas las personas",
+   "resumen": "Obligar a los ayuntamientos a empadronar a todas las personas, sea cual sea su situación administrativa.",
+   "cita": "Farem obligatori per als ajuntaments l'empadronament a totes les persones independentment de la seua situació administrativa.",
+   "pagina": 56,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-seguridad-1",
+   "tema": "seguridad",
+   "titulo": "Derogar la Ley mordaza",
+   "resumen": "Derogar la Ley de Protección de la Seguridad Ciudadana.",
+   "cita": "Derogarem la Llei de Protecció de la Seguretat Ciutadana, coneguda com a llei mordassa.",
+   "pagina": 38,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-seguridad-2",
+   "tema": "seguridad",
+   "titulo": "Abolir las balas de goma",
+   "resumen": "Prohibir el uso de balas de goma.",
+   "cita": "Abolirem l’ús de les bales de goma.",
+   "pagina": 38,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-seguridad-3",
+   "tema": "seguridad",
+   "titulo": "Prohibir las identificaciones policiales por perfil étnico",
+   "resumen": "Definir legalmente la identificación policial discriminatoria por perfil étnico y prohibirla por ley.",
+   "cita": "Implementarem l’obligació de definir legalment què constitueix una identificació policial discriminatòria basada en el perfil ètnic",
+   "pagina": 45,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-igualdad-1",
+   "tema": "igualdad",
+   "titulo": "Tipificar como delito las terapias de conversión",
+   "resumen": "Tipificar específicamente las terapias de conversión como delito, con protección y reparación para víctimas menores.",
+   "cita": "Tipificarem específicament les teràpies de conversió com a delicte",
+   "pagina": 49,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-igualdad-2",
+   "tema": "igualdad",
+   "titulo": "Reforzar la prohibición de la gestación subrogada",
+   "resumen": "Reforzar la prohibición de los contratos de gestación por sustitución y sancionar la publicidad e intermediación lucrativa.",
+   "cita": "Reforçarem la prohibició dels contractes de gestació per substitució",
+   "pagina": 47,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-igualdad-3",
+   "tema": "igualdad",
+   "titulo": "Revisar los protocolos de riesgo en violencia machista",
+   "resumen": "Revisar los protocolos de valoración del riesgo y protección de víctimas, con auditorías externas de los casos en que fallaron.",
+   "cita": "Revisarem de manera integral els protocols de valoració del risc i de protecció de les víctimes",
+   "pagina": 47,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-energia-1",
+   "tema": "energia",
+   "titulo": "Sacar el impuesto eléctrico de la factura",
+   "resumen": "Quitar de la factura el impuesto eléctrico y los cargos de política energética y financiarlos vía Presupuestos Generales del Estado.",
+   "cita": "Traurem de la factura l’impost elèctric i els càrrecs de política energètica i els finançarem via Pressupostos Generals de l’Estat",
+   "pagina": 26,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-energia-2",
+   "tema": "energia",
+   "titulo": "Mantener el calendario de cierre nuclear",
+   "resumen": "No aceptar nuevas prórrogas del cierre de las centrales nucleares y plan de reindustrialización verde para la comarca.",
+   "cita": "Mantindrem el calendari de tancament de les centrals nuclears i no acceptarem cap nova pròrroga",
+   "pagina": 27,
+   "concrecion": {
+    "cifra": false,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-energia-3",
+   "tema": "energia",
+   "titulo": "Red Eléctrica 100% pública",
+   "resumen": "Alcanzar el 100% de titularidad pública de Red Eléctrica.",
+   "cita": "Assolirem el 100 % de titularitat pública de Red Eléctrica",
+   "pagina": 27,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-instituciones-1",
+   "tema": "corrupcion",
+   "titulo": "Oficina antifraude estatal",
+   "resumen": "Crear una oficina antifraude que persiga cualquier ilegalidad en la administración pública y prevenga el delito.",
+   "cita": "Crearem una oficina antifrau que perseguisca qualsevol tipus d'il·legalitat en l'àmbit de l'administració pública",
+   "pagina": 36,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "tema_anterior": "instituciones"
+  },
+  {
+   "id": "compromis-instituciones-2",
+   "tema": "corrupcion",
+   "titulo": "Protección legal a denunciantes de corrupción",
+   "resumen": "Garantizar por ley el anonimato y la protección de denunciantes, con un buzón ciudadano anónimo.",
+   "cita": "Garantirem l'anonimat i protecció de les persones denunciants de casos de corrupció per llei",
+   "pagina": 36,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "tema_anterior": "instituciones"
+  },
+  {
+   "id": "compromis-instituciones-3",
+   "tema": "instituciones",
+   "titulo": "Fiscal General ratificado por el Congreso",
+   "resumen": "Hacer que la elección del Fiscal General del Estado sea ratificada por el Congreso.",
+   "cita": "Farem que l’elecció del Fiscal General de l'Estat es ratifique pel Congrés.",
+   "pagina": 37,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-territorio-1",
+   "tema": "territorio",
+   "titulo": "Concierto económico o recaudación directa",
+   "resumen": "Apostar por un concierto económico o, en su defecto, un sistema donde la Generalitat Valenciana recaude la mayor parte de los tributos.",
+   "cita": "Apostarem per un concert econòmic responsable o, en el seu defecte, per un sistema de finançament on la Generalitat Valenciana recapte directament la major part dels tributs.",
+   "pagina": 50,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-territorio-2",
+   "tema": "territorio",
+   "titulo": "Condonar la deuda histórica valenciana",
+   "resumen": "Exigir la condonación de la deuda histórica de la Generalitat Valenciana, que atribuye a la infrafinanciación (78% de la deuda pública total).",
+   "cita": "Exigirem la condonació del deute històric de la Generalitat Valenciana fruit de l'infrafinançament cronificat (un 78% del deute públic en total).",
+   "pagina": 50,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-territorio-3",
+   "tema": "territorio",
+   "titulo": "Plan de modernización de Rodalies valencianas",
+   "resumen": "Ejecutar un plan de cercanías con 1.500 millones de inversión y 58 trenes nuevos, con calendario verificable.",
+   "cita": "Executarem un pla de modernització de rodalia al País Valencià amb una inversió prevista de 1.500 milions d’euros, i la incorporació de 58 trens nous",
+   "pagina": 50,
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": true,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-exterior-1",
+   "tema": "exterior",
+   "titulo": "Unión Europea de la Defensa que sustituya a la OTAN",
+   "resumen": "Construir una Unión Europea de la Defensa que pueda sustituir el marco de la OTAN.",
+   "cita": "Treballarem per la construcció d'una Unió Europea de la Defensa que puga substituir el marc de l'OTAN",
+   "pagina": 54,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-exterior-2",
+   "tema": "exterior",
+   "titulo": "Romper relaciones con Israel",
+   "resumen": "Romper relaciones diplomáticas y comerciales con países que no garanticen los derechos humanos y practiquen genocidios, citando a Israel.",
+   "cita": "Trencarem relacions diplomàtiques i comercials amb països que no garantisquen els drets humans i que practiquen genocidis com és el cas de l’Estat d’Israel.",
+   "pagina": 55,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-exterior-3",
+   "tema": "exterior",
+   "titulo": "0,7% para cooperación blindado por ley",
+   "resumen": "Garantizar el 0,7% para cooperación al desarrollo, blindado por ley.",
+   "cita": "garantint el 0,7% per a la cooperació blindat per llei.",
+   "pagina": 56,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "compromis-corrupcion-1",
+   "tema": "corrupcion",
+   "titulo": "Control ciudadano en las mesas de adjudicación de contratos",
+   "resumen": "Crearían una figura de control ciudadano en las mesas que adjudican contratos de regulación armonizada, donde podrían estar entidades sociales y ciudadanos que observen el proceso y presenten denuncia ante el organismo de control. No fijan plazo.",
+   "cita": "Crearem una figura de control ciutadà a les meses d'adjudicació de contractes de regulació harmonitzada",
+   "pagina": 36,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-corrupcion-2",
+   "tema": "corrupcion",
+   "titulo": "Regular la actividad de los lobbies",
+   "resumen": "Llevarían al Estado la regulación de la actividad de los lobbies, con transparencia sobre la participación de los grupos de interés en las políticas públicas y en los proyectos normativos. No fijan plazo.",
+   "cita": "Traslladarem a l'Estat la regulació de l'activitat dels lobbys, garantint la transparència en la participació dels grups d'interès en l'adopció de polítiques públiques",
+   "pagina": 33,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-corrupcion-3",
+   "tema": "corrupcion",
+   "titulo": "Publicar las declaraciones completas de bienes de altos cargos",
+   "resumen": "Exigirían publicar las declaraciones completas de bienes y actividades de los altos cargos, y no solo un extracto como ahora. No fijan plazo.",
+   "cita": "Exigirem la publicació de les declaracions de béns i activitats completes de les i els alts càrrecs; no només un extracte, com ocorre en l'actualitat",
+   "pagina": 33,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "compromis-corrupcion-4",
+   "tema": "corrupcion",
+   "titulo": "Reformar la oficina que supervisa la contratación pública",
+   "resumen": "Reformarían la Oficina Independiente de Regulación y Supervisión de la Contratación para garantizar su independencia, con presidencia y vocalías nombradas por el Congreso. No fijan plazo.",
+   "cita": "Reformarem la Oficina Independiente de Regulación y Supervisión de la Contratación perquè garantisca la independència real i l’eficiència administrativa",
+   "pagina": 36,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  }
+ ],
+ "nota": "Programa en valenciano; títulos y resúmenes en castellano, citas en el idioma original. Fecha de publicación no consta en el texto. Sin propuestas concretas sobre ocupación de viviendas ni sobre seguridad ciudadana más allá de derogar la Ley mordaza y las bolas de goma."
+}

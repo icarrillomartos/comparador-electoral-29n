@@ -1,0 +1,161 @@
+{
+ "aplicados": [
+  {
+   "donde": "b10/dato_actual",
+   "cambio": "datos de 2022 como «último informe» → informe de 2025 publicado el 18-11-2026"
+  },
+  {
+   "donde": "b10/matiz",
+   "cambio": "«Según el último informe oficial abierto (datos hasta 2022), la mitad d» → «Según el informe de 2025 (publicado el 18-11-2026), el 47,1 % de los p»"
+  },
+  {
+   "donde": "b10/puntos.datos.por",
+   "cambio": "«Solo se han abierto cifras oficiales hasta 2022 (e4).» → cifras hasta 2025 (e4, e6); nivel sin cambiar"
+  },
+  {
+   "donde": "b10/que_paso",
+   "cambio": "«El Congreso la aprobó el 17-12-2020 por 198 votos a favor, 138 en cont» → «El Congreso la aprobó el 17-12-2020 por 198 votos a favor, 138 en cont»"
+  },
+  {
+   "donde": "b10/e3",
+   "cambio": "añadida la votación definitiva de 18-3-2021 (202-141-2) con su fuente en nota"
+  },
+  {
+   "donde": "b10/e6",
+   "cambio": "añadida evidencia 'Informe anual 2025 de la prestación de ayuda para morir'"
+  },
+  {
+   "donde": "b09/dato_actual",
+   "cambio": "«El objetivo europeo y el del programa es bajar del 10 %» → objetivo UE 9 %, programa 10 %"
+  },
+  {
+   "donde": "b09/puntos.datos.por",
+   "cambio": "«casi tres puntos» → 2,8 (programa) y 3,8 (UE); nivel sin cambiar"
+  },
+  {
+   "donde": "b03/e5",
+   "cambio": "añadida evidencia 'Real decreto de marzo de 2026 sobre el acceso universal'"
+  },
+  {
+   "donde": "b03/dato_actual",
+   "cambio": "solo RDL 7/2018 y proyecto de 2024 → añade el real decreto de 10-3-2026 y el estado paralizado de la ley"
+  },
+  {
+   "donde": "b03/que_paso y matiz",
+   "cambio": "añadida la mención al real decreto de 10-3-2026"
+  },
+  {
+   "donde": "b02/e9",
+   "cambio": "añadida evidencia 'Ley 2/2023 de protección del informante'"
+  },
+  {
+   "donde": "b02/e10",
+   "cambio": "añadida evidencia 'Plan Estatal de Lucha contra la Corrupción de 2025'"
+  },
+  {
+   "donde": "b02/e11",
+   "cambio": "añadida evidencia 'El Gobierno remite al Congreso la Ley Orgánica de Integridad Pública'"
+  },
+  {
+   "donde": "b02/que_paso",
+   "cambio": "normas de prevención sin enlazar → citadas con Ley 2/2023, y el proyecto de integridad remitido el 28-7-2026 (e9-e11)"
+  },
+  {
+   "donde": "b02/dato_actual",
+   "cambio": "amparo de García Ortiz «pendiente en junio» → pendiente a 15-11-2026, aplazado tras el 29N, indulto en tramitación (fuente única)"
+  },
+  {
+   "donde": "b05/e5",
+   "cambio": "añadida evidencia 'El Supremo limita el rechazo en frontera para quien llega a nado'"
+  },
+  {
+   "donde": "b05/dato_actual",
+   "cambio": "«a noviembre de 2026» con fuente de 30-6-2026 → fecha de la fuente y sentencia del Supremo de 2026"
+  },
+  {
+   "donde": "b11/cita",
+   "cambio": "frase de denuncia (DS 126, pág. 22) → compromiso con el concurso (transcripción 17-7-2018, pág. 39), literal y abierta"
+  },
+  {
+   "donde": "b11/que_paso",
+   "cambio": "«El concurso público no llegó a decidir la dirección: en marzo de 2021 » → «El concurso público se celebró (95 candidatos y 20 considerados idóneo»"
+  },
+  {
+   "donde": "b11/e6",
+   "cambio": "añadida evidencia 'El Comité de Expertos evaluó a 95 candidatos'"
+  },
+  {
+   "donde": "b11/e7",
+   "cambio": "añadida evidencia 'Solo 4 de los 10 consejeros de 2021 pasaron el corte'"
+  },
+  {
+   "donde": "b08/que_paso",
+   "cambio": "«dijo en televisión que publicarla sería una de sus primeras medidas» → «dijo en televisión que publicarla sería su segunda medida»"
+  },
+  {
+   "donde": "b08/dato_actual",
+   "cambio": "fuente Maldita 2020 → BOE (Ley 11/2021) y redacción de que no consta publicación"
+  },
+  {
+   "donde": "b01/e4",
+   "cambio": "la nota indica la url de Maldita donde consta la frase de noviembre de 2018"
+  }
+ ],
+ "no_aplicados": [
+  {
+   "donde": "b09/promesa_2026",
+   "motivo": "Se propone en estados_a_decidir; no se cambia."
+  },
+  {
+   "donde": "b08/cita",
+   "motivo": "El compromiso de publicar la lista solo consta en Maldita (verificador, mayo de 2015 en laSexta Noche); no abrí el vídeo ni otra fuente primaria con la frase. Se deja la cita de renuncia con su aclaración en cita_fuente."
+  },
+  {
+   "donde": "b06/dato_actual y matiz",
+   "motivo": "Confianza baja: la nota de Seguridad Social (403) no se abrió y el informe de la AIReF no se abrió, solo la nota de Moncloa."
+  },
+  {
+   "donde": "b07/promesa_2026",
+   "motivo": "Confianza baja; se deja a criterio del editor."
+  }
+ ],
+ "niveles_a_decidir": [
+  {
+   "donde": "b02/puntos.coherencia",
+   "nivel_actual": 2,
+   "nivel_propuesto": 2,
+   "motivo": "Con las nuevas evidencias a favor (e9-e11) el nivel 2 sigue siendo coherente; se deja para revisión del editor.",
+   "confianza": "baja"
+  },
+  {
+   "donde": "b07/puntos.viabilidad",
+   "nivel_actual": 4,
+   "nivel_propuesto": 3,
+   "motivo": "La viabilidad de la resignificación no se deduce de la exhumación ya hecha; el concurso del proyecto fue recurrido en 2025 ante el tribunal de contratación.",
+   "confianza": "baja"
+  }
+ ],
+ "estados_a_decidir": [
+  {
+   "donde": "b09/promesa_2026",
+   "estado_actual": "promesa_2026 = abandono escolar temprano <10 % (medida 160, pág. 52)",
+   "estado_propuesto": "null",
+   "motivo": "No es el mismo asunto que sustituir la LOMCE y reducir la segregación. En psoe.txt no hay ninguna medida sobre la ley educativa ni la segregación (la 157 es 0-3 años, la 159 Estatuto del Docente, la 162 educación inclusiva, la 176 becas); ninguna trata el mismo asunto.",
+   "confianza": "media"
+  },
+  {
+   "donde": "b03/estado",
+   "estado_actual": "cumplido",
+   "estado_propuesto": "cumplido (o parcial si se mide el acceso efectivo)",
+   "motivo": "El derecho se restituyó por ley en 2018, pero el procedimiento homogéneo llegó con el real decreto de 10-3-2026 y la ley de 2024 está paralizada.",
+   "confianza": "media"
+  },
+  {
+   "donde": "b01/estado",
+   "estado_actual": "parcial",
+   "estado_propuesto": "cumplido",
+   "motivo": "El compromiso no fijaba fecha; se convocaron elecciones el 4-3-2019 (RD 129/2019). Lo no cumplido fue la declaración posterior de votar en 2020.",
+   "confianza": "baja"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "ambito": "frenteamplio",
+ "revisadas_con_enlace": 10,
+ "no_se_pudieron_abrir": [
+  "frenteamplio-exterior-1/e1 (PDF de la OTAN en binario, cifras no leídas)",
+  "frenteamplio-sanidad-1/e7 (PDF del Ministerio ilegible; cifra 2023 no reabierta)",
+  "frenteamplio-sanidad-1/e5 (solo sumario de la referencia del Consejo de Ministros)",
+  "frenteamplio-empleo-1/e3 (Diario de Sesiones no reabierto)",
+  "frenteamplio-vivienda-1/e9 y empleo-1/e7 (Newtral 403; OKdiario no reabierto)",
+  "resto de evidencias no reabiertas por límite de tiempo: empleo e1,e2,e6,e8,e9; vivienda e1,e3,e5,e6,e7,e9; impuestos e2,e3,e4,e5,e7,e8,e9; sanidad e1,e3,e4,e6,e8; igualdad e1,e2,e3,e4,e6,e7,e9; inmigracion e2-e8; exterior e3-e9"
+ ],
+ "comprobadas_ok": [
+  "empleo e4 (BOE resolución 14-4-2026), empleo e5 (RD 126/2026: 1.221 €), vivienda e2 y e4 (cifras Barcelona), vivienda e8 (STC 79/2024: fallo coincide), impuestos e6 (183-165-1, RDL 10/2024), sanidad e2 (30,4 %, 60.058.000 €), igualdad e5 (19 semanas), inmigracion e1 (RD 316/2026), exterior e2 (10.471 M€, 33.123 M€, discrepancia con Sumar)"
+ ],
+ "hallazgos": [
+  {
+   "donde": "frenteamplio-igualdad-1/e8",
+   "tipo": "clasificacion",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "La evidencia presenta la Ley de Familias como proyecto «impulsado por el Ministerio de Derechos Sociales (Sumar)». El texto aprobado en febrero de 2024 es el que elaboró la anterior ministra, Ione Belarra (Podemos, partido que no forma parte del Frente Amplio); Bustinduy (Sumar) lo presentó manteniendo esa redacción. Cargar su caída a «sus partidos» sin esta aclaración atribuye a Sumar/IU/comunes un texto de Podemos. La fecha exacta es 27-2-2024.",
+   "comprobado_en": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-gobierno-aprueba-ley-de-familias-de-belarra-pero-abierto-a-modificaciones-como-mantener-familias-numerosas-2024-02-28/",
+   "que_dice_la_fuente": "El Consejo de Ministros aprobó el proyecto el 27-2-2024; el texto mantiene la redacción original de Ione Belarra; Bustinduy lo presentó y agradeció a Belarra su impulso en la legislatura anterior.",
+   "correccion": "Reescribir el hecho: «El proyecto de Ley de Familias, aprobado por el Consejo de Ministros el 27-2-2024 con el texto elaborado por la anterior ministra de Derechos Sociales (Podemos) y presentado por Pablo Bustinduy (Sumar), acumuló más de 50 prórrogas... y caducó con la disolución». Añadir la misma aclaración en resumen/antecedentes o rebajar su peso en historial (2 -> sigue 2, pero sin atribuirlo solo a Sumar)."
+  },
+  {
+   "donde": "frenteamplio-igualdad-1/matiz",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "baja",
+   "confianza": "alta",
+   "problema": "El matiz dice que la ampliación de 2025 se aprobó «dos días antes de la sentencia». El Consejo de Ministros la aprobó el 29-7-2025 (tres días antes del 1-8-2025); dos días es la distancia desde la publicación en el BOE (30-7).",
+   "comprobado_en": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-15741",
+   "que_dice_la_fuente": "Real Decreto-ley aprobado el 29-7-2025 y publicado en el BOE el 30-7-2025; en vigor el 31-7-2025.",
+   "correccion": "«se aprobó el 29-7-2025, tres días antes de la sentencia (publicado en el BOE dos días antes)»."
+  },
+  {
+   "donde": "frenteamplio-inmigracion-1/falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Falta el hecho que más condiciona la atribución del historial: la regularización de 2026 se pactó entre el Gobierno (PSOE) y Podemos el 26-1-2026; la prensa solo menciona a Sumar de forma tangencial (prefería un decreto sin convalidación) y no a IU. El resumen («el Gobierno del que formaba parte Sumar aprobó...») y el nivel de historial 2 se leen como mérito del espacio, y el matiz solo dice que «no consta» la autoría. Debe constar que el pacto fue con un partido ajeno al Frente Amplio.",
+   "comprobado_en": "https://www.elindependiente.com/espana/2026/01/26/el-gobierno-pacta-con-podemos-una-regularizacion-extraordinaria-de-migrantes-que-acrediten-cinco-meses-de-residencia/amp/",
+   "que_dice_la_fuente": "El Gobierno y Podemos alcanzaron el acuerdo (información de fuentes de Podemos); Sumar solo aparece como inclinado a que se aprobara por decreto sin validación parlamentaria; IU no aparece.",
+   "correccion": "{\"sentido\": \"contexto\", \"componente\": \"historial\", \"tipo\": \"prensa\", \"titulo\": \"El Gobierno pactó la regularización con Podemos en enero de 2026\", \"hecho\": \"El 26-1-2026 el Gobierno y Podemos anunciaron un acuerdo para una regularización extraordinaria por real decreto, sin convalidación en el Congreso. El Consejo de Ministros aprobó la tramitación urgente el 27-1-2026. La crónica cita a Sumar solo como partidario de la vía del decreto y no menciona a IU. Podemos no forma parte del Frente Amplio.\", \"fecha\": \"2026-01-26\", \"fuente\": \"El Independiente\", \"url\": \"https://www.elindependiente.com/espana/2026/01/26/el-gobierno-pacta-con-podemos-una-regularizacion-extraordinaria-de-migrantes-que-acrediten-cinco-meses-de-residencia/amp/\", \"estado_judicial\": null, \"fuente_unica\": true}"
+  },
+  {
+   "donde": "frenteamplio-sanidad-1/e7",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "Dato desfasado: el propio Ministerio publicó el 13-5-2026 la Estadística de Gasto Sanitario Público de 2024 (101.739 M€, 6,4 % del PIB, +4,2 % sobre 2023; comunidades 93,6 %). La nota de e7 dice que no se abrió 2024 y usa 2023 (6,5 %) como último dato; resumen, refutacion y puntos.datos repiten esa cifra. La distancia al 8 % sigue, pero el porcentaje baja una décima.",
+   "comprobado_en": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6908",
+   "que_dice_la_fuente": "El gasto sanitario público alcanzó los 101.739 millones de euros en 2024, un 6,4 % del PIB; las CCAA gestionan el 93,6 %; nota del 13-5-2026.",
+   "correccion": "Actualizar e7 (titulo: «Gasto sanitario público: 6,4 % del PIB en 2024»; hecho con 101.739 M€, 6,4 %, +4,2 % interanual, 93,6 % CCAA; mantener serie 2019-2023 como contexto) y las menciones en resumen, refutacion y puntos.datos."
+  },
+  {
+   "donde": "frenteamplio-impuestos-1/refutacion y puntos.datos",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Se afirma que no se localizó ninguna estimación independiente de recaudación para España. Existe la del EU Tax Observatory (Zucman): 5.200 M€ en España con un 3 % sobre patrimonios de más de 100 millones (3.300 M€ al 2 %). No es idéntica a la promesa (umbral 50 millones, tipo sobre el exceso) y proviene del equipo del propio Zucman, pero es la única cifra pública y debe constar con esas reservas.",
+   "comprobado_en": "https://www.elsaltodiario.com/fiscalidad/impuesto-millonarios-europeos-podria-recaudar-120000-millones-europa-5200-espana",
+   "que_dice_la_fuente": "Impuesto mínimo del 2 % o 3 % a fortunas de más de 100 millones: España 3.300 M€ (2 %) y 5.200 M€ (3 %); estimación del European Tax Observatory (EuTax), publicada 17-3-2025.",
+   "correccion": "{\"sentido\": \"apoya\", \"componente\": \"datos\", \"tipo\": \"informe_independiente\", \"titulo\": \"EU Tax Observatory estima 5.200 M€ en España con un mínimo del 3 % sobre más de 100 M€\", \"hecho\": \"El European Tax Observatory (dirigido por Gabriel Zucman) estima que un impuesto mínimo del 3 % a patrimonios de más de 100 millones recaudaría unos 5.200 M€ en España (3.300 M€ con el 2 %). El umbral es el doble del de la promesa (50 millones) y no es una estimación de AIReF u otro organismo ajeno a quien propone la tasa.\", \"fecha\": \"2025-03-17\", \"fuente\": \"El Salto (con datos del EU Tax Observatory)\", \"url\": \"https://www.elsaltodiario.com/fiscalidad/impuesto-millonarios-europeos-podria-recaudar-120000-millones-europa-5200-espana\", \"estado_judicial\": null, \"fuente_unica\": false}  Abrir también el informe original en taxobservatory.eu antes de publicar."
+  },
+  {
+   "donde": "frenteamplio-exterior-1/falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Falta un voto de coherencia documentado: el 20-3-2025 Sumar votó en bloque en el Congreso contra el aumento del gasto militar y contra el fondo europeo de defensa (y a favor de salir de la OTAN, posición de IU) en una moción del BNG, frente al voto distinto del PSOE. Apoya la coherencia de la promesa y matiza e5 (permanencia en el Gobierno). Además la prensa recoge que en octubre de 2022 Unidas Podemos aceptó con reparos el aumento de Defensa del Presupuesto 2023 (El Español, 4-10-2022; no abierto por mí, confianza baja), un antecedente en contra para IU/comunes en el Gobierno.",
+   "comprobado_en": "https://www.articulo14.es/politica/psoe-y-sumar-consuman-su-ruptura-y-votan-distinto-sobre-defensa-20250320.html",
+   "que_dice_la_fuente": "Sumar votó sin libertad de voto a favor de salir de la OTAN, contra el plan de 800.000 M€ de defensa de la UE y contra aumentar el gasto militar; PSOE votó distinto; la moción no era vinculante y los puntos de Sumar no prosperaron.",
+   "correccion": "{\"sentido\": \"apoya\", \"componente\": \"coherencia\", \"tipo\": \"votacion\", \"titulo\": \"Sumar votó contra el aumento del gasto militar en el Congreso (20-3-2025)\", \"hecho\": \"El 20-3-2025 el Pleno debatió una moción no vinculante del BNG. Sumar votó en bloque contra el aumento del gasto en defensa y contra el plan de defensa de la UE, y a favor de salir de la OTAN; el PSOE votó de forma distinta. Los puntos apoyados por Sumar no se aprobaron.\", \"fecha\": \"2025-03-20\", \"fuente\": \"Artículo14\", \"url\": \"https://www.articulo14.es/politica/psoe-y-sumar-consuman-su-ruptura-y-votan-distinto-sobre-defensa-20250320.html\", \"estado_judicial\": null, \"fuente_unica\": false} Verificar en el registro de votaciones del Congreso. Nota: la frase del antecedente «no pide salir de la OTAN» se refiere al programa 2026; conviene precisar que parte del espacio (IU) votó a favor de salir en 2025."
+  },
+  {
+   "donde": "frenteamplio-empleo-1/e5 y resumen",
+   "tipo": "contexto",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "La cifra 735 € (2018) -> 1.221 € (2026) se presenta como logro del historial del espacio, pero el salto a 900 € para 2019 (+22,3 %) lo aprobó el Gobierno del PSOE en diciembre de 2018, antes de que IU/comunes entraran en el Gobierno (enero de 2020); la comparación debería partir de 2019/2020 para medir lo hecho con ministerio propio (Trabajo, Díaz). El 75 % acumulado de Moncloa incluye ese tramo previo.",
+   "comprobado_en": "https://www.lamoncloa.gob.es/consejodeministros/Paginas/enlaces/211218-enlacesmi.aspx",
+   "que_dice_la_fuente": "Aprobada la subida a 900 euros mensuales del SMI para 2019 (Real Decreto 1462/2018, BOE-A-2018-17773; +22,3 % sobre 2018). El RD 231/2020 fijó el SMI de 2020. (Comprobado vía resultados de búsqueda; no abrí el BOE.)",
+   "correccion": "Añadir a e5: «La subida de 735 a 900 € (2019) la aprobó el Gobierno del PSOE (RD 1462/2018) antes de la entrada de IU/comunes en el Gobierno; de 900 € (2019) a 1.221 € (2026) es un 35,7 %». Cálculo propio a revisar: 1.221/900."
+  },
+  {
+   "donde": "frenteamplio-empleo-1/e6 y puntos.coherencia",
+   "tipo": "clasificacion",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "La contradicción entre la reforma laboral de 2021 y «derogar las dos reformas» se apoya solo en el programa de Podemos de 2019. Podemos no está en el Frente Amplio y no se aporta ninguna posición documentada de IU, comunes o Sumar sobre derogar la reforma de 2012. Como evidencia que baja la coherencia del Frente Amplio, no cumple el mismo listón de atribución que se exige al resto; la nota lo reconoce pero el nivel 3 de coherencia se sustenta en ella. No he podido abrir un programa de IU o comunes de 2019.",
+   "comprobado_en": "No abierto (ver e6.nota: https://podemos.info/wp-content/uploads/2019/10/Podemos_programa_generales_10N.pdf)",
+   "que_dice_la_fuente": "La propia e6 dice que la derogación figuraba en el programa de Podemos 10N-2019 (candidatura Unidas Podemos). No hay cita de IU/comunes.",
+   "correccion": "Sustituir o completar e6 con el programa de IU/Sumar sobre la reforma laboral, o cambiar el sentido a «contexto» y no usarla en la justificación de puntos.coherencia hasta documentar la posición de IU/comunes."
+  },
+  {
+   "donde": "frenteamplio-vivienda-1/antecedentes",
+   "tipo": "redaccion",
+   "gravedad": "baja",
+   "confianza": "baja",
+   "problema": "El antecedente «Unidas Podemos, ERC y Bildu pactaron con el PSOE la Ley 12/2023» y la mención del programa de Unidas Podemos 2019 se incluyen entre antecedentes del Frente Amplio sin decir que Podemos no forma parte ni qué parte corresponde a IU y comunes (a diferencia de otros contrastes, que lo explican). No he abierto fuente propia sobre el reparto del pacto.",
+   "comprobado_en": "No abierto",
+   "que_dice_la_fuente": "n/d",
+   "correccion": "Añadir «(Podemos, hoy fuera del Frente Amplio; IU y comunes iban en esa candidatura)» o retirar la frase."
+  }
+ ],
+ "valoracion_general": "Los hechos abiertos coinciden con las fuentes y las atribuciones a IU, comunes y Sumar están bien explicadas en general, con tres excepciones: la Ley de Familias (texto de Belarra/Podemos presentado como de Sumar), la regularización (pactada con Podemos, no mencionado) y la reforma laboral (contradicción apoyada solo en un programa de Podemos). Lo más flojo es la cobertura de datos: gasto sanitario 2024 ya publicado y estimación de EU Tax Observatory no recogidos. Los niveles me parecen defendibles; el historial de empleo (1) y de exterior (1) dependen de que Sumar no controlaba Hacienda ni Defensa, lo cual el contenido ya señala. La cifra del 9,3 % en vivienda, que el propio contraste marca como no deducible del ritmo del programa, queda sin aclarar y conviene no presentarla como alcanzable."
+}

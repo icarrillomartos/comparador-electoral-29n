@@ -1,0 +1,92 @@
+{
+  "ambito": "vox",
+  "revisadas_con_enlace": 12,
+  "no_se_pudieron_abrir": [
+    "vox-vivienda-1/e2 (PDF del pacto de Extremadura: texto codificado, no legible con las herramientas; tampoco vox-impuestos-1/e4, vox-inmigracion-3/e1 ni vox-instituciones-2/e8, que citan el mismo PDF)",
+    "vox-vivienda-1/e7 (PDF del Banco de España: no legible; una búsqueda solo confirma de forma indirecta los 225.000 y no pude confirmar los 375.000)",
+    "vox-vivienda-1/e1, e4, e6, e8; vox-impuestos-1/e1, e2, e3, e6; vox-inmigracion-2/e1, e4, e8, e9; vox-inmigracion-3/e2, e3, e6-e9; vox-instituciones-2/e1, e2, e4-e6; vox-igualdad-1/e1-e3, e5-e9; vox-territorio-1/e2-e5: no revisadas en esta pasada (limite de tiempo), no significa que esten mal"
+  ],
+  "hallazgos": [
+    {
+      "donde": "vox-inmigracion-3/refutacion y vox-inmigracion-3/puntos.historial",
+      "tipo": "falta_evidencia",
+      "gravedad": "alta",
+      "confianza": "media",
+      "problema": "La refutación dice que no hay ninguna norma autonómica en vigor que aplique la prioridad nacional. En julio de 2026 PP y Vox incluyeron en las Corts Valencianes, vía enmiendas a la ley de presupuestos / medidas fiscales de 2026, la prioridad nacional (arraigo) en vivienda pública y Renta Valenciana de Inclusión, con exclusión de irregulares de prestaciones estructurales. Es el único caso en que Vox consigue una norma con rango de ley, y no está en el contraste. Vox no está en el Consell valenciano: es socio parlamentario necesario.",
+      "comprobado_en": "https://www.moncloa.com/2026/07/26/consell-excluye-inmigrantes-renta-inclusion-3405779/ y https://www.elsaltodiario.com/pais-valenciano/vox-cuela-primera-vez-prioridad-nacional-ayudas-sociales-del-pais-valencia",
+      "que_dice_la_fuente": "Moncloa (26-7-2026): enmienda conjunta PP-Vox a la ley de acompañamiento que exige 3 años de empadronamiento continuado (antes 15 meses) o 10 en los últimos 30 para la RVI y excluye a irregulares salvo urgencia vital; no confirma la entrada en vigor ni el voto final. El Salto (15-7-2026): el PP votó en comisión todas las enmiendas de Vox; vivienda pública, RVI y ayudas a personas sin hogar. Una búsqueda devolvió además un registro del DOGV (Ley 4/2026, de 22 de julio, publicada el 10-8-2026) que no pude abrir.",
+      "correccion": "Añadir evidencia: {sentido: 'apoya', componente: 'historial', tipo: 'norma', titulo: 'Comunidad Valenciana 2026: prioridad nacional en la RVI', hecho: 'En julio de 2026 PP y Vox pactaron en las Corts Valencianes, mediante enmiendas a la ley de presupuestos y medidas fiscales de 2026, exigir arraigo (3 años de empadronamiento continuado o 10 en los últimos 30) para la Renta Valenciana de Inclusión y excluir a los irregulares de prestaciones estructurales salvo urgencia vital. Vox no forma parte del Consell. Se anunciaron recursos de inconstitucionalidad.', fecha: '2026-07', fuente: 'DOGV / El Salto / Moncloa', url: <DOGV de la Ley 4/2026 una vez confirmada>, estado_judicial: null, fuente_unica: false}. Antes de publicar, confirmar en el DOGV si la ley está publicada y en vigor y corregir la frase 'No encontré ninguna norma autonómica ya en vigor'. Si se confirma, la frase de e7 sobre Aragón y el nivel historial 2 siguen siendo defendibles."
+    },
+    {
+      "donde": "vox-impuestos-1/puntos.historial (y vox-impuestos-1/antecedentes)",
+      "tipo": "falta_evidencia",
+      "gravedad": "alta",
+      "confianza": "media",
+      "problema": "El historial de impuestos se puntúa solo con los pactos de 2026 (e4, e5), que son compromisos sin ejecutar. Se omite lo que Vox consiguió con poder real en 2023-2024, cuando estaba en cinco gobiernos autonómicos: rebajas ya aprobadas o pactadas en Aragón y Extremadura. Cualquier lector que busque qué hizo Vox con poder fiscal autonómico encontrará eso primero.",
+      "comprobado_en": "https://es.ara.cat/politica/blanquear-franquismo-toros-lengua-impronta-vox-gobiernos_1_5086702.html",
+      "que_dice_la_fuente": "Ara (12-7-2024): en Aragón el mínimo exento de Patrimonio sube de 400.000 a 700.000 euros y se bonifica el 99% de Sucesiones a hijos y cónyuges; en Extremadura se eliminan Patrimonio, el impuesto de matriculación de vehículos de alta gama y el impuesto a grandes tenedores de vivienda.",
+      "correccion": "Añadir evidencia: {sentido: 'apoya', componente: 'historial', tipo: 'prensa', titulo: 'Gobiernos 2023-24: rebajas de Patrimonio y Sucesiones', hecho: 'Con Vox en los gobiernos de Aragón y Extremadura (2023-2024) se subió el mínimo exento de Patrimonio en Aragón de 400.000 a 700.000 euros, se bonificó el 99% de Sucesiones a hijos y cónyuges y se eliminaron en Extremadura Patrimonio y el impuesto a grandes tenedores de vivienda. Son tributos autonómicos y no consta qué parte atribuye cada partido; la consejería de Hacienda era del PP.', fecha: '2024-07-12', fuente: 'Ara', url: 'https://es.ara.cat/politica/blanquear-franquismo-toros-lengua-impronta-vox-gobiernos_1_5086702.html', estado_judicial: null, fuente_unica: true}; contrastar con DOE/BOA (leyes de medidas fiscales de Extremadura y Aragón) para fuente primaria. Revisar el 'por' de historial: aclarar que se puntúa por lo ejecutado en 2023-24 y lo pactado en 2026. El nivel 2 sigue siendo defendible, pero el 'por' debe citar ambas cosas."
+    },
+    {
+      "donde": "vox-inmigracion-2/e3",
+      "tipo": "hecho_incorrecto",
+      "gravedad": "media",
+      "confianza": "alta",
+      "problema": "La evidencia dice que la UE 'aprobó el 1-6-2026' el reglamento de retornos y que España 'fue el único Estado que votó en contra'. El 1-6-2026 fue solo el acuerdo provisional Consejo-Parlamento; el voto en contra de España fue en el Consejo de Interior de diciembre de 2025 (mandato negociador). La aprobación llegó después: Parlamento Europeo el 17-6-2026 y Consejo el 1-10-2026. La nota admite que no se comprobó en el DOUE. También el plazo de detención se cita como 'hasta dos años' y otras fuentes hablan de más.",
+      "comprobado_en": "https://www.elespanol.com/mundo/europa/20260601/ue-aprueba-norma-acelerar-deportaciones-migrantes-espana-tercer-pais-peores-resultados/1003744268653_0.html y https://es.euronews.com/2026/10/09/ue-aprueba-nuevo-reglamento-retorno-entre-fuertes-criticas-ong-los-centros-terceros-paises",
+      "que_dice_la_fuente": "El Español (1-6-2026): acuerdo final entre Presidencia del Consejo y Parlamento ese día, con la aprobación formal pendiente; España fue el único país que votó en contra en el Consejo de Interior de diciembre de 2025 y se esperaba que repitiese; detención hasta dos años prorrogable por seis meses. Euronews (9-10-2026): los ministros de Interior dieron la aprobación final el 1 de octubre en Luxemburgo; no dice cómo votó España; habla de detención superior a 24 meses para quien suponga un riesgo.",
+      "correccion": "hecho: 'La UE alcanzó el 1-6-2026 un acuerdo provisional sobre un reglamento de retornos; el Parlamento Europeo lo aprobó el 17-6-2026 y el Consejo dio su visto bueno final el 1-10-2026. Permite centros de retorno en terceros países y detención prolongada (hasta dos años según las crónicas del acuerdo, con posibilidad de más en casos de riesgo). España fue el único Estado que votó en contra del mandato del Consejo en diciembre de 2025; no consta su voto final.' fecha: '2026-10-01'. Cambiar fuente_unica a false si se añade Euronews y buscar el DOUE. En resumen sustituir 'pactado en junio de 2026' por 'aprobado definitivamente en octubre de 2026'."
+    },
+    {
+      "donde": "vox-igualdad-1/historial (evidencias) y vox-igualdad-1/puntos.historial",
+      "tipo": "falta_evidencia",
+      "gravedad": "media",
+      "confianza": "media",
+      "problema": "El historial sobre violencia de género solo recoge la ley intrafamiliar de Castilla y León que no se aprobó. Falta lo que Vox sí consiguió o gestionó con poder: en el pacto de Andalucía de 2026 Vox asume la Consejería de Justicia, de la que dependen las unidades de valoración integral de violencia de género; y los pactos de 2026 eliminan referencias a 'violencia estructural contra las mujeres'. Tampoco se dice que el poder real de esa consejería es limitado (las unidades están blindadas por ley estatal), que es justo la distinción pedida entre lo que hizo y lo que no dependía de él.",
+      "comprobado_en": "https://www.eldiario.es/andalucia/moreno-cede-vox-servicio-valorar-victimas-violencia-genero-abascal-pedian-depurar-sesgo-ideologico_1_13424553.html y https://www.eldiario.es/politica/recortes-desregulacion-prioridad-nacional-medidas-vox-comunidades-anticipan-planes-si-llega-gobierno_1_13552492.html",
+      "que_dice_la_fuente": "elDiario.es (3-8-2026): Vox obtiene la Consejería de Justicia, que organiza las unidades de valoración integral de violencia de género; podría cambiar protocolos o recortar presupuesto, pero no suprimirlas porque las protege una ley estatal; Vox no dijo qué hará. elDiario.es (pactos 2026): los pactos eliminan referencias a 'violencia estructural contra las mujeres'. Ara (12-7-2024): en 2023-24 PP y Vox no cambiaron la legislación y la ley intrafamiliar quedó aparcada.",
+      "correccion": "Añadir evidencia: {sentido: 'contexto', componente: 'historial', tipo: 'prensa', titulo: 'Andalucía 2026: Vox gestiona las unidades de valoración', hecho: 'En el acuerdo de gobierno PP-Vox de Andalucía de 2026 Vox asume la Consejería de Justicia, que organiza las unidades de valoración integral de violencia de género. La consejería puede modificar protocolos o presupuesto, pero no suprimir las unidades, protegidas por ley estatal. A fecha de publicación Vox no ha detallado sus planes.', fecha: '2026-08-03', fuente: 'elDiario.es', url: 'https://www.eldiario.es/andalucia/moreno-cede-vox-servicio-valorar-victimas-violencia-genero-abascal-pedian-depurar-sesgo-ideologico_1_13424553.html', estado_judicial: null, fuente_unica: false (hay otras cabeceras: Moncloa, El Español)}. Mantener nivel 1 de historial."
+    },
+    {
+      "donde": "vox-vivienda-1/evidencias (falta)",
+      "tipo": "falta_evidencia",
+      "gravedad": "media",
+      "confianza": "media",
+      "problema": "Falta un hecho relevante sobre coherencia y viabilidad: el 18-2-2026 el Congreso aprobó una moción del PP que pide bajar el IVA de la primera vivienda del 10% al 4% (no al 0%), con el apoyo de Vox, y la prensa registra además que el Congreso rechazó una iniciativa de Vox de IVA cero con abstención de PP y UPN. Ambos datos matizan que el tipo cero choca con el propio PP y que Vox votó a favor de la versión intermedia.",
+      "comprobado_en": "https://forbes.es/economia/876435/el-congreso-pide-al-gobierno-bajar-el-iva-de-la-primera-vivienda-al-4-pese-al-no-de-psoe-y-sumar/",
+      "que_dice_la_fuente": "Forbes España: el pleno del 18-2-2026 aprobó una moción del PP que pide bajar el IVA de adquisición de la primera vivienda del 10% al 4%; apoyaron Vox, Junts y UPN; se abstuvieron PNV, CC y BNG; votaron en contra PSOE y Sumar. No da recuentos. La segunda afirmación (rechazo de la iniciativa de IVA cero de Vox con abstención de PP y UPN) procede de un titular de Idealista que solo vi en un buscador y no pude abrir ni fechar.",
+      "correccion": "Añadir evidencia: {sentido: 'contexto', componente: 'coherencia', tipo: 'votacion', titulo: 'El Congreso pide IVA del 4% en la primera vivienda', hecho: 'El 18-2-2026 el Congreso aprobó una moción del PP que insta al Gobierno a bajar el IVA de la primera vivienda del 10% al 4%. Votaron a favor PP, Vox, Junts y UPN; se abstuvieron PNV, CC y BNG; en contra PSOE y Sumar. Es una petición al Gobierno, no una ley.', fecha: '2026-02-18', fuente: 'Forbes España / Congreso (votación nominal, por localizar)', url: 'https://forbes.es/economia/876435/el-congreso-pide-al-gobierno-bajar-el-iva-de-la-primera-vivienda-al-4-pese-al-no-de-psoe-y-sumar/', estado_judicial: null, fuente_unica: true}. Localizar el PDF nominal en congreso.es y, si se confirma, la fecha y resultado de la iniciativa de IVA cero para completar e5."
+    },
+    {
+      "donde": "vox-vivienda-1/historial (falta Murcia 2023-24)",
+      "tipo": "falta_evidencia",
+      "gravedad": "baja",
+      "confianza": "baja",
+      "problema": "En 2023-24 Vox tuvo en Murcia la Consejería de Fomento, que en esa comunidad incluye vivienda, y en Castilla y León, Aragón y Extremadura carteras de Agricultura, Empleo, Cultura o Bienestar Social. El contraste solo mira los pactos de 2026 y no dice qué hizo (o no pudo hacer) esa consejería en vivienda. La frase del matiz 'Vox nunca ha tenido la consejería de Hacienda' es coherente con las carteras que vi (ninguna era Hacienda), pero no la comprobé en una lista oficial. Sin esa comprobación el contraste no distingue entre lo que dependía de Vox y lo que no.",
+      "comprobado_en": "Solo un resumen de búsqueda web (Newtral 12-7-2024 devolvió 403; no abrí ninguna ficha oficial)",
+      "que_dice_la_fuente": "Resumen de búsqueda: Murcia, Vox con Fomento y Seguridad/Interior; Castilla y León, Cultura, Empleo y Agricultura; Aragón, Bienestar Social y Familia y Agricultura; Extremadura, un consejero con cartera sin detallar.",
+      "correccion": "Buscar en el BORM y en la web de la Comunidad de Murcia la estructura de la Consejería de Fomento en 2023-24 y qué medidas de vivienda aprobó (si alguna). Si no hay ninguna, añadir una evidencia de contexto que lo diga. Sin esa comprobación no cambiar niveles."
+    },
+    {
+      "donde": "vox-instituciones-2/e7",
+      "tipo": "hecho_incorrecto",
+      "gravedad": "baja",
+      "confianza": "media",
+      "problema": "La nota afirma que la sentencia a favor de CCOO 'quedó firme al no recurrirla la Junta, según el mismo medio'. El artículo de elDiario.es que abrí no lo dice: solo habla de una segunda condena tras la de CCOO y enlaza un titular distinto. La firmeza no está acreditada en la fuente citada.",
+      "comprobado_en": "https://www.eldiario.es/castilla-y-leon/politica/nueva-sentencia-tsj-junta-castilla-leon-recortes-vox-ugt-ilegales_1_12138554.html",
+      "que_dice_la_fuente": "El TSJ reconoce el derecho de UGT a la subvención nominativa de 2023 por 1.237.702 euros (la Junta debe 743.000 tras restar 494.000); el fundamento es el art. 16.1 de la Ley 8/2008; el recorte lo hizo la consejería de Mariano Veganzones (Vox) en 2022. Sobre CCOO: 'segunda condena', sin decir si es firme.",
+      "correccion": "nota: 'Sentencia conocida por una sola crónica (elDiario.es, 17-3-2025); no da número ni confirma si es firme. La de CCOO se cita como anterior; no consta en esta crónica que quedara firme.' Y atenuar en resumen y antecedentes cualquier mención a firmeza. Localizar ambas sentencias en CENDOJ."
+    },
+    {
+      "donde": "vox-inmigracion-3/e5 y vox-inmigracion-2/e7",
+      "tipo": "contexto",
+      "gravedad": "baja",
+      "confianza": "alta",
+      "problema": "El PDF oficial del Congreso titula la votación del 22-4-2026 'moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre cuáles van a ser las prioridades del Gobierno en el desarrollo de las políticas públicas lo que queda de legislatura' (33 síes, 310 noes, PP 135 en contra). Los textos la describen como moción de prioridad nacional (inm-3/e5) y como moción que incluía repatriar y derogar la regularización (inm-2/e7); ese contenido procede solo de la prensa (Artículo 14, El Español), no del registro de votaciones.",
+      "comprobado_en": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion174/20260422/Votacion013/VOT_20260422151946.pdf",
+      "que_dice_la_fuente": "Título oficial como arriba; totales 343 presentes, 33 sí, 310 no, 0 abstenciones.",
+      "correccion": "En ambas notas añadir: 'El registro oficial titula la moción como sobre las prioridades del Gobierno en lo que queda de legislatura; su contenido sobre repatriaciones y prioridad nacional procede de la prensa; texto original en el BOCG.' Localizar el BOCG de la moción para convertir el contenido en dato primario."
+    }
+  ],
+  "valoracion_general": "Los recuentos de votaciones que comprobé en el registro del Congreso (2020, dic. 2024, sep. 2025, abr. y jun. 2026) coinciden con lo escrito y el material judicial del Supremo sobre la multa de 862.496 euros está bien recogido. Lo más flojo es el historial con poder real: se apoya casi solo en los pactos de 2026 (compromisos sin ejecutar) y deja fuera lo hecho con poder en 2023-24 (rebajas de Patrimonio y Sucesiones en Aragón y Extremadura, carteras que Vox gestionó) y lo ya aprobado en Valencia en 2026 sobre prioridad nacional, con lo que el texto afirma que no hay ninguna norma autonómica cuando hay indicios de una. Tampoco distingue de forma sistemática entre carteras que Vox dirigió y áreas que dependían del PP. Ningún porcentaje me parece mal fundado, pero el historial de impuestos e inmigración-3 deben revisarse antes de publicar."
+}

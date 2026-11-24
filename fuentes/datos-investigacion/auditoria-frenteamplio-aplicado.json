@@ -1,0 +1,88 @@
+{
+ "aplicados": [
+  {
+   "donde": "igualdad-1/e8",
+   "cambio": "«impulsado por Derechos Sociales (Sumar)» → texto de Belarra (Podemos) presentado por Bustinduy (Sumar), fecha 27-2-2024"
+  },
+  {
+   "donde": "igualdad-1/matiz",
+   "cambio": "«dos días antes» → «el 29-7-2025, tres días antes» de la sentencia"
+  },
+  {
+   "donde": "inmigracion-1/e9",
+   "cambio": "evidencia añadida: El Gobierno pactó la regularización con Podemos en enero de 2026"
+  },
+  {
+   "donde": "inmigracion-1/resumen",
+   "cambio": "añade que el decreto se pactó con Podemos (nueva evidencia)"
+  },
+  {
+   "donde": "sanidad-1/e7",
+   "cambio": "6,5 % del PIB en 2023 → 6,4 % en 2024 (101.739 M€), url y fuente actualizadas"
+  },
+  {
+   "donde": "sanidad-1/resumen",
+   "cambio": "6,5 % (2023) → 6,4 % (2024)"
+  },
+  {
+   "donde": "sanidad-1/matiz",
+   "cambio": "93,2 % → 93,6 %"
+  },
+  {
+   "donde": "sanidad-1/refutacion",
+   "cambio": "serie hasta 2024"
+  },
+  {
+   "donde": "sanidad-1/refutacion",
+   "cambio": "quita «no abrí 2024», añade 2024"
+  },
+  {
+   "donde": "sanidad-1/puntos.datos.por",
+   "cambio": "6,5 % 2023 → 6,4 % 2024"
+  },
+  {
+   "donde": "impuestos-1/e10",
+   "cambio": "evidencia añadida: EU Tax Observatory estima 5.200 M€ en España con un mínimo del 3 % sobre más de 100 M€"
+  },
+  {
+   "donde": "impuestos-1/resumen",
+   "cambio": "«ninguna estimación» → estimación EU Tax Observatory con reservas"
+  },
+  {
+   "donde": "impuestos-1/refutacion",
+   "cambio": "EU Tax Observatory ya no figura como no verificado"
+  },
+  {
+   "donde": "impuestos-1/puntos.datos.por",
+   "cambio": "«ninguna estimación» → cita e10"
+  },
+  {
+   "donde": "exterior-1/e10",
+   "cambio": "evidencia añadida: Sumar votó contra el aumento del gasto militar en el Congreso (20-3-2025)"
+  },
+  {
+   "donde": "exterior-1/resumen",
+   "cambio": "añade voto de 20-3-2025"
+  }
+ ],
+ "no_aplicados": [
+  {
+   "donde": "empleo-1/e5 y resumen (SMI 2018-2019)",
+   "motivo": "No abrí el BOE ni Moncloa del RD 1462/2018; solo resultados de búsqueda."
+  },
+  {
+   "donde": "empleo-1/e6 y puntos.coherencia",
+   "motivo": "Sin URL abierta de un programa de IU/comunes; queda como pendiente para el editor."
+  },
+  {
+   "donde": "vivienda-1/antecedentes",
+   "motivo": "Confianza baja y sin fuente abierta."
+  },
+  {
+   "donde": "exterior-1/antecedentes (Presupuestos 2023, El Español 4-10-2022)",
+   "motivo": "Confianza baja, URL no abierta."
+  }
+ ],
+ "niveles_a_decidir": [],
+ "estados_a_decidir": []
+}

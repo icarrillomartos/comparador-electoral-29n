@@ -1,0 +1,1419 @@
+{
+ "partido": "salf",
+ "propuestas_nuevas": [],
+ "contrastes_nuevos": [
+  {
+   "propuesta_id": "salf-empleo-1",
+   "pista_codex": "ninguna",
+   "promesa": "Ningún autónomo volverá a pagar cuota a la Seguridad Social: cuota cero, total y permanente.",
+   "ha_gobernado": "nunca",
+   "resumen": "SALF promete eliminar por completo la cuota de autónomos y cifra el coste en unos 12.000 millones al año, «lo que hoy recauda el RETA». La cifra encaja con los datos oficiales: los regímenes especiales, donde el de autónomos es el principal, ingresaron 12.668 millones en 2024. El partido nunca ha gobernado y la medida no aparece en sus mensajes de 2024 ni de 2025. La ley vigente liga las prestaciones a lo cotizado y el programa no explica qué pensión generaría quien no pague cuota; la Seguridad Social cerró 2025 con un déficit de 7.387 millones pese a recibir 47.815 millones del Estado.",
+   "antecedentes": "En las europeas de 2024 SALF no tenía programa escrito y El Debate no recogía ninguna medida sobre autónomos. En el acto de Vistalegre del 12 de octubre de 2025 Alvise Pérez habló de IRPF, vivienda y tamaño del Estado, sin mencionar la cuota de autónomos. La cuota cero aparece por primera vez en el contrato electoral de noviembre de 2026. El partido no ha tenido ocasión de votar ninguna norma de Seguridad Social en España.",
+   "matiz": "El coste que da el programa es realista y la medida es competencia del Estado: no es una cifra inflada ni una promesa jurídicamente imposible. La duda no es si puede aprobarse, sino cómo se pagan las pensiones y las bajas de los autónomos si dejan de cotizar, algo que el programa no detalla.",
+   "refutacion": "Para tumbar la promesa se comprobó qué ingresa hoy el sistema y qué pasa con los derechos. Los regímenes especiales aportaron 12.668 millones en 2024 (e2) y el RETA 8.064 millones solo hasta agosto de 2025 (e3); la Seguridad Social ya tiene déficit y depende de transferencias del Estado (e5), y la AIReF avisa de que cumplir la regla de gasto no garantiza la sostenibilidad (e6). La ley calcula las prestaciones sobre las bases cotizadas y solo cuenta las cotizaciones efectivamente realizadas (e4): sin cuota, hay que reescribir cómo se genera el derecho. El propio programa dice en la página 12 que nadie paga cuota y en la 21 que cada autónomo «cotiza por lo que gana» y elige su base (e1). Para tumbar esas objeciones: la cifra de coste del programa coincide con la recaudación oficial (e2, e3), la Seguridad Social es competencia estatal y basta una ley (e7), ya existen ayudas autonómicas que devuelven la cuota a los nuevos autónomos durante uno o dos años (e8) y el programa condiciona toda rebaja a un ahorro previo certificado. Ese precedente es limitado: la comunidad paga la cuota en lugar del autónomo, no la suprime. No se halló ningún informe de AIReF, Banco de España o FEDEA sobre una cuota cero general, ni ninguna declaración anterior de SALF a favor o en contra.",
+   "puntos": {
+    "historial": {
+     "nivel": null,
+     "por": "Nunca han tenido poder sobre cotizaciones ni Seguridad Social (e10)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "La medida no figura en sus mensajes de 2024 ni de 2025 (e9) y el programa combina «ningún autónomo vuelve a pagar cuota» con «cotiza por lo que ganas» sin explicar cómo encajan (e1). No se halló ningún voto o declaración en contra."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Es competencia estatal y basta una ley ordinaria (e7), pero exige redefinir cómo generan derechos los autónomos (e4) y cuesta unos 12.000 millones al año (e2), que el programa fía a un ahorro autonómico que el Estado no controla (e1)."
+    },
+    "datos": {
+     "nivel": 1,
+     "por": "La cifra de coste es correcta (e2, e3), pero el sistema ya cierra con déficit y transferencias del Estado (e5) y la AIReF no da por garantizada su sostenibilidad (e6); ningún organismo independiente ha evaluado la medida."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa promete cuota cero y también cotizar según ingresos",
+     "hecho": "La página 12 dice: «Cuota cero, total y para siempre: ningún autónomo vuelve a pagar cuota», con un coste de unos 12.000 millones al año, «lo que hoy recauda el RETA». La página 21 añade: «Autónomos: cotiza por lo que ganas, elige lo que cobrarás. Libertad de base de cotización. Quien quiera más pensión, cotiza más». El texto no dice qué pensión, baja o cese de actividad tendría quien no cotice.",
+     "fecha": "2026-11",
+     "fuente": "Se Acabó La Fiesta, Contrato electoral 29N (págs. 12, 16 y 21)",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado en el PDF oficial descargado (texto-programas/salf.txt); la web del partido bloquea la comprobación automática de la URL."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Los regímenes especiales ingresaron 12.668 millones en 2024",
+     "hecho": "Según la ejecución presupuestaria de la Seguridad Social a 31 de diciembre de 2024, las cotizaciones sumaron 165.574 millones; los regímenes especiales (Autónomos, Mar y Minería del Carbón) aportaron 12.668 millones. El coste de unos 12.000 millones que da el programa es coherente con esa recaudación.",
+     "fecha": "2025-03-31",
+     "fuente": "Ministerio de Inclusión, Seguridad Social y Migraciones (nota en La Moncloa)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2025/310325-resumen-ejecucion-presupuesto-dic-2024.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La nota no desglosa el RETA dentro de los regímenes especiales; es, con diferencia, el mayor de los tres."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "El RETA recaudó 8.064 millones hasta agosto de 2025",
+     "hecho": "El Debate, con datos del informe mensual «Estados agregados del Sistema de la Seguridad Social», cifra en 8.064 millones las cotizaciones del régimen de autónomos entre enero y agosto de 2025, un 0,1 % menos que un año antes. Proyectado a doce meses, ronda los 12.000 millones que cita el programa.",
+     "fecha": "2025-10-15",
+     "fuente": "El Debate (datos del Ministerio de Inclusión)",
+     "url": "https://www.eldebate.com/economia/20251015/mei-crece-325-recaudacion-autonomos-baja-01_344273.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La proyección anual es un cálculo propio (8.064 × 12 / 8). No se abrió el informe original del Ministerio."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La ley liga las prestaciones del autónomo a lo que cotiza",
+     "hecho": "La Ley General de la Seguridad Social establece que los autónomos «cotizarán en función de los rendimientos anuales obtenidos» (art. 308.1), que para los periodos de cotización solo cuentan «las cotizaciones efectivamente realizadas» (art. 165.2) y que sus prestaciones se calculan sobre las bases de cotización acreditadas (art. 318). Suprimir la cuota exige reformar esta ley y definir cómo se generan la pensión y las bajas.",
+     "fecha": "2015-10-30",
+     "fuente": "BOE, Real Decreto Legislativo 8/2015 (texto consolidado)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "La Seguridad Social cerró 2025 con 7.387 millones de déficit",
+     "hecho": "En 2025 la Seguridad Social ingresó 176.918 millones por cotizaciones, recibió 47.815 millones en transferencias del Estado y cerró con un déficit de 7.387 millones (0,4 % del PIB). El gasto en pensiones contributivas fue de 182.526 millones, un 5,7 % más. Sin los cerca de 12.000 millones de los autónomos, y sin otra fuente, el déficit rondaría los 19.000 millones.",
+     "fecha": "2026-03-31",
+     "fuente": "Ministerio de Inclusión, Seguridad Social y Migraciones (nota en La Moncloa)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/310326-seguridad-social-deficit-pib.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La última frase es un cálculo propio (7.387 + 12.000), no una cifra oficial. El programa prevé cubrirlo con el ahorro general de su tabla «Cómo se paga»."
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "La AIReF: cumplir la regla de gasto no garantiza la sostenibilidad",
+     "hecho": "El 29 de mayo de 2026 la AIReF concluyó que España cumple la regla de gasto en pensiones (gasto neto medio del 13 % del PIB en 2022-2050, frente a un límite del 13,3 %), pero que eso no garantiza la sostenibilidad: prevé una deuda pública del 123 % del PIB en 2050 y dijo que la regla «no es adecuada y tiene problemas de diseño».",
+     "fecha": "2026-05-29",
+     "fuente": "El Independiente (informe de la AIReF)",
+     "url": "https://www.elindependiente.com/economia/2026/05/29/nuevo-reves-de-la-airef-al-gobierno-cumplir-su-regla-de-gasto-en-pensiones-no-garantiza-la-sostenibilidad/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se abrió el documento original de la AIReF; las cifras y citas son las que recoge el diario. El informe no evalúa la cuota cero."
+    },
+    {
+     "id": "e7",
+     "sentido": "apoya",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La Seguridad Social es competencia exclusiva del Estado",
+     "hecho": "El artículo 149.1.17.ª de la Constitución reserva al Estado la legislación básica y el régimen económico de la Seguridad Social. La cotización de los autónomos está regulada en una norma con rango de ley ordinaria (art. 308 de la Ley General de la Seguridad Social), que las Cortes pueden cambiar por mayoría simple.",
+     "fecha": "1978-12-29",
+     "fuente": "BOE, Constitución Española",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "La «cuota cero» autonómica devuelve la cuota, no la suprime",
+     "hecho": "Madrid, Cantabria y Extremadura mantienen en 2026 ayudas de «cuota cero» para nuevos autónomos (Andalucía y Galicia tienen la convocatoria cerrada). Duran 12 meses, ampliables a 24, y funcionan así: el autónomo paga la tarifa plana estatal de 80 euros y la comunidad se la reembolsa. La Seguridad Social sigue cobrando.",
+     "fecha": "2026-11-03",
+     "fuente": "Infoautónomos",
+     "url": "https://www.infoautonomos.com/seguridad-social/cuota-cero-autonomos/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Portal especializado, no fuente oficial; página actualizada el 3-11-2026."
+    },
+    {
+     "id": "e9",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Los autónomos no aparecen en sus mensajes de 2024 ni de 2025",
+     "hecho": "El Debate resumía en junio de 2024 los «cuatro pilares» de SALF (corrupción, reforma política, libertades y reducción del Estado), sin medidas sobre autónomos y sin programa escrito. La crónica de El Independiente del acto de Vistalegre del 12 de octubre de 2025 recoge propuestas de IRPF, vivienda, inmigración y Estado, y ninguna sobre la cuota de autónomos.",
+     "fecha": "2025-10-12",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El artículo de 2024 es https://www.eldebate.com/espana/20240609/quien-alvise-perez-cual-programa-electoral-acabo-fiesta-cns_203773.html (abierto y comprobado). Que dos crónicas no lo mencionen no prueba que nunca lo dijera."
+    },
+    {
+     "id": "e10",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Sin escaños en Aragón ni en Castilla y León en 2026",
+     "hecho": "El 15 de marzo de 2026 SALF obtuvo el 1,40 % de los votos en Castilla y León (algo más de 17.000) y ningún escaño. elDiario.es lo describe como su segundo intento autonómico sin representación, tras el de Aragón. El partido no ha gestionado ningún gobierno ni ha tenido diputados nacionales o autonómicos.",
+     "fecha": "2026-03-15",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/partido-alvise-naufraga-castilla-leon-encadena-segundo-fracaso-autonomico_1_13063589.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nuestro archivo recoge además las andaluzas del 17-5-2026, también sin escaño (fuente no reabierta en esta ampliación)."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "salf-pensiones-1",
+   "pista_codex": "ninguna",
+   "promesa": "Llevarán a la Constitución la subida anual de las pensiones con el IPC y la prohibición de recortar las que ya se cobran.",
+   "ha_gobernado": "nunca",
+   "resumen": "SALF promete dar rango constitucional a la revalorización con el IPC y a la prohibición de recortes para quien ya cobra pensión. La subida con el IPC ya está en la ley desde 2021; lo nuevo sería que una mayoría futura no pudiera cambiarla, como ocurrió en 2013. Hace falta una reforma constitucional con tres quintos del Congreso y del Senado: el PSOE ha prometido lo mismo en esta campaña y el líder del PP no aceptó pactarlo. El partido nunca ha gobernado; en 2025 su líder decía que las pensiones «se pagan con deudas» y el mismo programa desvía cotizaciones a cuentas individuales y suprime la cuota de autónomos.",
+   "antecedentes": "SALF no tenía programa escrito en 2024 y El Debate no recogía entonces ninguna medida sobre pensiones. En Vistalegre, el 12 de octubre de 2025, Alvise Pérez criticó la sostenibilidad del sistema y dijo que las pensiones se pagan con deudas, sin proponer nada concreto. El blindaje constitucional aparece en el contrato electoral de noviembre de 2026, junto a una cuenta individual obligatoria para menores de 45 años. El partido no ha votado ninguna norma de pensiones en España.",
+   "matiz": "Blindar las pensiones actuales y cambiar el sistema para los jóvenes no son, por sí mismos, incompatibles: es un modelo mixto que existe en otros países. Lo que el programa no cuadra es de dónde sale el dinero de la transición mientras se garantiza por Constitución un gasto que crece.",
+   "refutacion": "Para tumbar la promesa se miró qué exige y si las cuentas la sostienen. Hace falta reformar la Constitución por el artículo 167, con tres quintos de cada cámara (e2); en el debate del 19 de noviembre de 2026 Feijóo no aceptó la reforma que le propuso Sánchez (e6). La AIReF sostiene que cumplir la regla de gasto no garantiza la sostenibilidad y prevé una deuda del 123 % del PIB en 2050 (e7), y el gasto en pensiones contributivas creció un 5,7 % en 2025 con el sistema en déficit (e8). El mismo programa resta ingresos al sistema: 2 % del salario a cuentas individuales, con 6.000 millones al año de transición, y cuota cero de autónomos (e1). Para tumbar esas objeciones: la subida con el IPC ya es ley vigente y se está pagando, de modo que el blindaje no añade gasto nuevo respecto a hoy (e3); la historia muestra que una ley ordinaria no basta, porque en 2013 otra mayoría sustituyó el IPC por un índice con mínimo del 0,25 % (e4); y el PSOE ha prometido la misma reforma, lo que acerca los tres quintos si hubiera acuerdo (e5). No se halló ninguna declaración de SALF contraria a subir las pensiones con el IPC; sí una crítica general a la sostenibilidad en 2025 (e9). No se localizó ningún informe independiente sobre el efecto de constitucionalizar la revalorización.",
+   "puntos": {
+    "historial": {
+     "nivel": null,
+     "por": "Nunca han tenido poder sobre pensiones (e10)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "En 2025 su líder decía que las pensiones se pagan con deudas, sin medidas (e9); en 2026 promete blindarlas mientras el mismo programa desvía cotizaciones y suprime la cuota de autónomos (e1). No hay votos ni declaraciones contra la subida con el IPC."
+    },
+    "viabilidad": {
+     "nivel": 1,
+     "por": "Exige reforma constitucional con tres quintos de Congreso y Senado (e2). El PSOE propone lo mismo (e5), pero el PP no aceptó pactarlo (e6)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Lo que se quiere blindar ya rige por ley y se cumple (e3, e8), pero la AIReF no da por garantizada la sostenibilidad del gasto (e7) y no hay evaluación independiente de la medida."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El mismo capítulo blinda las pensiones y desvía cotizaciones",
+     "hecho": "El programa promete «Revalorización con el IPC y prohibición de recortes, con rango constitucional». En las mismas páginas propone que los menores de 45 años lleven el 2 % del salario a una cuenta individual (transición de unos 6.000 millones al año hasta 2030), jubilación sin penalización con 40 años cotizados y pensión mínima de 1.000 euros (2.000 millones). En la página 12 suprime la cuota de autónomos (12.000 millones).",
+     "fecha": "2026-11",
+     "fuente": "Se Acabó La Fiesta, Contrato electoral 29N (págs. 12, 20 y 21)",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado en el PDF oficial descargado (texto-programas/salf.txt); la web del partido bloquea la comprobación automática de la URL."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "Cambiar el artículo 50 exige tres quintos de cada cámara",
+     "hecho": "El artículo 50 de la Constitución obliga a garantizar «pensiones adecuadas y periódicamente actualizadas», sin citar el IPC. Añadirlo requiere la reforma del artículo 167: tres quintos del Congreso y del Senado, con referéndum solo si lo pide una décima parte de una cámara. No exige disolver las Cortes.",
+     "fecha": "1978-12-29",
+     "fuente": "BOE, Constitución Española",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "norma",
+     "titulo": "La subida con el IPC ya está en la ley",
+     "hecho": "El artículo 58 de la Ley General de la Seguridad Social dispone que las pensiones contributivas «se revalorizarán al comienzo de cada año» según la media del IPC de los doce meses previos a diciembre, y que no bajan si ese valor es negativo. El blindaje no añade gasto respecto a la norma vigente: cambia su rango.",
+     "fecha": "2015-10-30",
+     "fuente": "BOE, Real Decreto Legislativo 8/2015 (texto consolidado, art. 58)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "En 2013 una ley sustituyó el IPC por un 0,25 %",
+     "hecho": "La Ley 23/2013 implantó desde el 1 de enero de 2014 un índice de revalorización ligado a ingresos y gastos del sistema, con una subida mínima del 0,25 % y un máximo del IPC más 0,50 puntos. Sustituyó la referencia al IPC vigente desde 1997. Muestra que una garantía con rango de ley puede cambiarla otra mayoría parlamentaria.",
+     "fecha": "2013-12-23",
+     "fuente": "BOE, Ley 23/2013",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13617",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "El PSOE promete la misma reforma constitucional",
+     "hecho": "En un mitin en Gijón el 26 de octubre de 2026, Pedro Sánchez dijo: «En la próxima legislatura reformaremos la Constitución para blindar las pensiones y su revalorización conforme al IPC». El diario recuerda que harían falta unos 210 diputados y también tres quintos del Senado.",
+     "fecha": "2026-10-26",
+     "fuente": "ESdiario",
+     "url": "https://www.esdiario.com/nacional/261026/201346/sanchez-pensiones-constitucion-ipc-ley-pp-reforma.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "Feijóo no aceptó pactar el blindaje constitucional",
+     "hecho": "En el debate de la Academia de la Televisión, Sánchez propuso a Feijóo: «pactemos una reforma constitucional para que en la próxima legislatura tengamos un blindaje constitucional». Feijóo no aceptó y le reprochó plantear un cambio de la Constitución cuando «no tiene votos ni para aprobar los Presupuestos». Ambos dijeron que mantendrán la subida con el IPC.",
+     "fecha": "2026-11-19",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/economia/ampliacion-sanchez-desafia-a-feijoo-a-blindar-en-la-constitucion-la-subida-de-pensiones-con-el-ipc/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El artículo no recoge ninguna reacción de SALF."
+    },
+    {
+     "id": "e7",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "La AIReF no da por garantizada la sostenibilidad",
+     "hecho": "El 29 de mayo de 2026 la AIReF avaló que España cumple la regla de gasto en pensiones (gasto bruto medio del 14,6 % del PIB y neto del 13 % en 2022-2050), pero advirtió de que eso no garantiza la sostenibilidad y de que la deuda pública subirá al 123 % del PIB en 2050: «puede cumplirse la regla, aunque aumente la deuda».",
+     "fecha": "2026-05-29",
+     "fuente": "El Independiente (informe de la AIReF)",
+     "url": "https://www.elindependiente.com/economia/2026/05/29/nuevo-reves-de-la-airef-al-gobierno-cumplir-su-regla-de-gasto-en-pensiones-no-garantiza-la-sostenibilidad/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se abrió el documento original de la AIReF. El programa de SALF cita una subida del 13 % al 17 % del PIB en 2050 «si nadie hace nada»; no se localizó la fuente de ese 17 %."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Las pensiones contributivas costaron 182.526 millones en 2025",
+     "hecho": "El gasto en pensiones contributivas creció un 5,7 % en 2025, hasta 182.526 millones. La Seguridad Social recibió 47.815 millones en transferencias del Estado (un 11 % más) y cerró con un déficit de 7.387 millones, el 0,4 % del PIB, el menor desde 2011.",
+     "fecha": "2026-03-31",
+     "fuente": "Ministerio de Inclusión, Seguridad Social y Migraciones (nota en La Moncloa)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/310326-seguridad-social-deficit-pib.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e9",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "En 2025 criticó que las pensiones se pagan con deudas, sin medidas",
+     "hecho": "Según la crónica de El Independiente del acto de Vistalegre del 12 de octubre de 2025, Alvise Pérez criticó la sostenibilidad del sistema de pensiones y dijo que se pagan con deudas, sin proponer ninguna medida concreta. El blindaje constitucional y la cuenta individual aparecen en el programa de 2026.",
+     "fecha": "2025-10-12",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e10",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Sin escaños en Aragón ni en Castilla y León en 2026",
+     "hecho": "El 15 de marzo de 2026 SALF obtuvo el 1,40 % de los votos en Castilla y León (algo más de 17.000) y ningún escaño. elDiario.es lo describe como su segundo intento autonómico sin representación, tras el de Aragón. El partido no ha gestionado ningún gobierno ni ha tenido diputados nacionales o autonómicos.",
+     "fecha": "2026-03-15",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/partido-alvise-naufraga-castilla-leon-encadena-segundo-fracaso-autonomico_1_13063589.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nuestro archivo recoge además las andaluzas del 17-5-2026, también sin escaño (fuente no reabierta en esta ampliación)."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "salf-sanidad-1",
+   "pista_codex": "ninguna (el expediente ampliacion-o-salf-t0064 trata otra medida, la cita en 48 horas; solo sirvió para localizar la Ley 16/2003)",
+   "promesa": "Nadie esperará más de 60 días para operarse, 30 para el especialista ni 7 para una prueba prioritaria; si se supera el plazo, el paciente elegirá centro, público o privado, y pagará la sanidad pública.",
+   "ha_gobernado": "nunca",
+   "resumen": "SALF promete plazos máximos de 60 días para cirugía, 30 para el especialista y 7 para pruebas prioritarias, con derivación pagada si se superan, por unos 1.500 millones al año. Las cifras de partida del programa son las oficiales: 853.740 pacientes y 122 días de media a diciembre de 2025. El partido nunca ha gestionado sanidad. Los plazos los fijan hoy las comunidades autónomas dentro de un marco estatal de 180 días para cinco operaciones; Madrid ya tiene una media de 50 días, mientras Andalucía, con garantía legal y derivación a la privada desde 2001, registra 173.",
+   "antecedentes": "SALF no tenía programa escrito en 2024 y la sanidad no figuraba entre sus ejes. En Vistalegre, el 12 de octubre de 2025, Alvise Pérez criticó las listas de espera y dijo «esta mierda la vamos a cambiar», sin detallar medidas. Los plazos de 60, 30 y 7 días aparecen en el contrato electoral de noviembre de 2026. El partido no ha gobernado ninguna comunidad ni ha votado normas sanitarias.",
+   "matiz": "Un tiempo medio no es un tiempo máximo: que Madrid tenga 50 días de media no significa que nadie espere más de 60. Y que una garantía legal se incumpla en algunas comunidades no prueba que sea inútil: sin ella las esperas podrían ser mayores.",
+   "refutacion": "Para tumbar la promesa se compararon los plazos prometidos con los datos y con quién decide. A 31 de diciembre de 2025 la espera media para operarse era de 121-122 días, el 21,6 % de los pacientes llevaba más de seis meses y en consultas la media era de 102 días, con un 61,5 % por encima de 60 (e2, e3). Los tiempos máximos los concreta cada comunidad dentro de criterios acordados en el Consejo Interterritorial (e5), y el decreto estatal solo garantiza 180 días para cinco operaciones, sin fijar consecuencia si se supera (e6). Andalucía tiene desde 2001 una garantía de 180 días con derecho a centro privado pagado por la Junta y aun así 64.302 pacientes superaban los seis meses (e7). Para tumbar esas objeciones: el Estado puede bajar el máximo común por real decreto, porque ya lo ha fijado así (e6); Madrid, País Vasco y Galicia están cerca o por debajo de 60 días de media, lo que indica que el objetivo no es inalcanzable (e4); y la preocupación por las listas consta en su discurso desde 2025 (e8). No se encontró ninguna evaluación independiente del coste de 1.500 millones ni de cuántas operaciones habría que derivar: en 2025 hubo 2,29 millones de intervenciones programadas (e3).",
+   "puntos": {
+    "historial": {
+     "nivel": null,
+     "por": "Nunca han gestionado sanidad en ningún nivel (e9)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Critican las listas de espera al menos desde octubre de 2025 (e8); las medidas concretas son de 2026 y no se halló ninguna posición contraria."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "El Estado puede fijar un máximo común por real decreto (e6), pero la gestión y los plazos concretos son de las comunidades (e5) y el coste de 1.500 millones no tiene financiación propia (e1)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "La espera media duplica el plazo prometido y una garantía legal con derivación no ha evitado esperas largas en Andalucía (e3, e7); en sentido contrario, Madrid, País Vasco y Galicia rondan o bajan de 60 días de media (e4)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "documento_partido",
+     "titulo": "El programa fija 60, 30 y 7 días y 1.500 millones",
+     "hecho": "El contrato electoral promete «60 días para cirugía, 30 para especialista, 7 para pruebas prioritarias. Superado el plazo, eliges centro, público o privado, y lo paga la sanidad pública», con un coste de unos 1.500 millones al año. No dice con qué norma se impondría a las comunidades autónomas ni cómo se calcula el coste.",
+     "fecha": "2026-11",
+     "fuente": "Se Acabó La Fiesta, Contrato electoral 29N (pág. 22)",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado en el PDF oficial descargado (texto-programas/salf.txt); la web del partido bloquea la comprobación automática de la URL."
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "853.740 pacientes y 122 días: la cifra del programa es la oficial",
+     "hecho": "El Ministerio de Sanidad rectificó los datos de diciembre de 2025 tras corregir Castilla-La Mancha los suyos: 853.740 pacientes en lista de espera quirúrgica y 122 días de espera media, cuatro menos que un año antes. Son las cifras que cita el programa de SALF.",
+     "fecha": "2026-04",
+     "fuente": "Ministerio de Sanidad, SISLE-SNS, nota informativa de rectificación",
+     "url": "https://www.sanidad.gob.es/eu/estadEstudios/estadisticas/inforRecopilaciones/docs/Nota_Aclaratoria_Rectificacion_Dic_2025.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y leído. La nota no lleva fecha visible; el informe se difundió en abril de 2026."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Uno de cada cinco pacientes lleva más de seis meses esperando",
+     "hecho": "A 31 de diciembre de 2025, el 21,6 % de los pacientes en lista quirúrgica (184.715) llevaba más de seis meses. En consultas externas la espera media era de 102 días y el 61,5 % de las citas superaba los 60 días. En 2025 se hicieron 2.289.682 intervenciones programadas desde la lista. Los plazos prometidos son la mitad o menos de las medias actuales.",
+     "fecha": "2025-12-31",
+     "fuente": "Ministerio de Sanidad, SISLE-SNS, situación a 31-12-2025",
+     "url": "https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/docs/LISTAS%5FPUBLICACION%5FDic%5F2025.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y leído completo. Es la versión inicial del informe (853.509 pacientes y 121 días); la nota de rectificación del Ministerio eleva el total a 853.740 y la media a 122 días, sin cambiar el resto de indicadores citados."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Madrid, País Vasco y Galicia rondan los 60 días de media",
+     "hecho": "En la misma estadística, la espera quirúrgica media era de 50 días en Madrid (0,8 % de pacientes con más de seis meses), 64 en el País Vasco y 73 en Galicia. En el otro extremo, 173 días en Andalucía (32,2 % con más de seis meses) y 142 en Cataluña (32 %). Los datos los aporta cada comunidad.",
+     "fecha": "2025-12-31",
+     "fuente": "Ministerio de Sanidad, SISLE-SNS, situación a 31-12-2025",
+     "url": "https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/docs/LISTAS%5FPUBLICACION%5FDic%5F2025.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y leído completo. Es la versión inicial del informe (853.509 pacientes y 121 días); la nota de rectificación del Ministerio eleva el total a 853.740 y la media a 122 días, sin cambiar el resto de indicadores citados. El propio informe advierte de que la fidelidad de los datos es responsabilidad de cada comunidad."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "Los tiempos máximos los define cada comunidad autónoma",
+     "hecho": "La Ley 16/2003 reconoce el derecho a recibir asistencia «en un tiempo máximo» (art. 4) y dispone que el Consejo Interterritorial acuerde los criterios marco, que se aprueban por real decreto, y que cada comunidad defina sus tiempos máximos dentro de ese marco (art. 25). Un plazo único de 60 días necesita ese acuerdo o cambiar la ley.",
+     "fecha": "2003-05-28",
+     "fuente": "BOE, Ley 16/2003 de cohesión y calidad del Sistema Nacional de Salud",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-10715",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "El marco estatal vigente: 180 días para cinco operaciones",
+     "hecho": "El Real Decreto 1039/2011 fija un máximo de 180 días naturales para cirugía cardiaca valvular y coronaria, cataratas y prótesis de cadera y de rodilla. Las comunidades concretan sus garantías sin exceder ese tope (arts. 3 y 4). El texto prevé que se ofrezcan alternativas al paciente, pero no establece una consecuencia concreta si se supera el plazo.",
+     "fecha": "2011-07-15",
+     "fuente": "BOE, Real Decreto 1039/2011",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-14190",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El precedente muestra que el Estado puede fijar un máximo común por real decreto; también que hoy solo cubre cinco procedimientos."
+    },
+    {
+     "id": "e7",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "norma",
+     "titulo": "Andalucía garantiza 180 días y centro privado desde 2001",
+     "hecho": "El decreto andaluz de garantía de plazo de respuesta quirúrgica (Decreto 209/2001) fija un máximo de 180 días y, si se supera, permite al paciente operarse en un centro privado con cargo a la Junta, que paga también desplazamiento y dietas de un acompañante. A 31 de diciembre de 2025 Andalucía tenía 64.302 pacientes con más de seis meses de espera, el 32,2 % de su lista.",
+     "fecha": "2001-09-18",
+     "fuente": "Junta de Andalucía, referencia del Consejo de Gobierno",
+     "url": "https://www.juntadeandalucia.es/consejo/1950901.htm",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La nota de la Junta no lleva fecha; el número y la fecha del decreto proceden del buscador y no se abrieron en el BOJA. El dato de 2025 es del SISLE (e3, e4)."
+    },
+    {
+     "id": "e8",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "En 2025 ya criticaba las listas de espera",
+     "hecho": "En el acto de Vistalegre del 12 de octubre de 2025, Alvise Pérez criticó las listas de espera sanitarias y dijo «esta mierda la vamos a cambiar», sin detallar medidas, según El Independiente. También criticó que se dé preferencia a personas traídas por ONG.",
+     "fecha": "2025-10-12",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e9",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Sin escaños en Aragón ni en Castilla y León en 2026",
+     "hecho": "El 15 de marzo de 2026 SALF obtuvo el 1,40 % de los votos en Castilla y León (algo más de 17.000) y ningún escaño. elDiario.es lo describe como su segundo intento autonómico sin representación, tras el de Aragón. El partido no ha gestionado ningún gobierno ni ha tenido diputados nacionales o autonómicos.",
+     "fecha": "2026-03-15",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/partido-alvise-naufraga-castilla-leon-encadena-segundo-fracaso-autonomico_1_13063589.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nuestro archivo recoge además las andaluzas del 17-5-2026, también sin escaño (fuente no reabierta en esta ampliación)."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "salf-educacion-1",
+   "pista_codex": "ampliacion-b-salf-t0096",
+   "promesa": "Aprobarán una ley educativa por dos tercios que no pueda cambiarse sin esa mayoría, pensada para 20 años, con contenidos comunes, evaluaciones externas y una selectividad única y en castellano.",
+   "ha_gobernado": "nunca",
+   "resumen": "SALF promete una ley educativa «para 20 años», aprobada por dos tercios y que no pueda cambiarse sin la misma mayoría, con selectividad única y en castellano. El partido nunca ha gobernado y la educación no figuraba en sus mensajes de 2024 ni de 2025. La Constitución fija que las leyes orgánicas se modifican por mayoría absoluta, así que una ley no puede atar a las Cortes futuras: el blindaje exige reforma constitucional. El Estado sí puede fijar por norma básica las características de la selectividad; hoy la organizan comunidades y universidades y se puede hacer en lengua cooficial.",
+   "antecedentes": "SALF no tenía programa escrito en 2024 y El Debate no recogía entonces medidas educativas; tampoco aparecen en la crónica de Vistalegre de octubre de 2025. La ley para 20 años y la selectividad única figuran por primera vez en el contrato electoral de 2026. El partido no ha votado ninguna ley educativa. El último intento de pacto educativo en el Congreso se rompió en marzo de 2018, cuando el PSOE abandonó la subcomisión por la financiación.",
+   "matiz": "Que el blindaje jurídico exija reformar la Constitución no impide un pacto político amplio que dure: la estabilidad puede lograrse por acuerdo aunque no pueda imponerse por ley. Y defender una prueba única no equivale a estar contra las lenguas cooficiales; el programa, eso sí, la quiere solo «en castellano».",
+   "refutacion": "Para tumbar la promesa se comprobó si una ley puede blindarse. El artículo 81.2 de la Constitución dice que aprobar, modificar o derogar una ley orgánica exige mayoría absoluta del Congreso: una ley no puede subir ese listón para el futuro, de modo que el blindaje pide reforma constitucional (e2). Los «Contenidos mínimos comunes al 100 %» chocan con el reparto actual, en el que el Estado fija el 50 o el 60 % del horario (e3), y la selectividad la organizan comunidades y universidades, con derecho a examinarse en lengua cooficial (e4). El último intento de pacto amplio en el Congreso, en 2018, se rompió por la financiación (e6). Para tumbar esas objeciones: nada impide aprobar una ley por dos tercios si hay acuerdo; el Estado tiene competencia sobre las normas básicas y sobre las características de la prueba de acceso, que ya comparte estructura, duración y cálculo de nota en toda España (e4, e5); y los resultados de PISA 2025 respaldan el diagnóstico del programa (e7). No se halló ningún organismo independiente que vincule la mayoría de aprobación de una ley con mejores resultados, ni declaraciones previas de SALF sobre educación (e8).",
+   "puntos": {
+    "historial": {
+     "nivel": null,
+     "por": "Nunca han tenido poder sobre educación (e9)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "No se han encontrado posiciones contrarias, pero tampoco antecedentes: la educación no aparece en sus mensajes de 2024 ni de 2025 (e8)."
+    },
+    "viabilidad": {
+     "nivel": 1,
+     "por": "El blindaje por dos tercios exige reforma constitucional, porque las leyes orgánicas se cambian por mayoría absoluta (e2); la selectividad única sí cabe por ley y real decreto estatales (e5), aunque suprime la opción de lengua cooficial hoy vigente (e4)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "PISA 2025 confirma la caída que cita el programa (e7), pero no hay evidencia de que una ley blindada mejore resultados y el último intento de pacto fracasó (e6)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "documento_partido",
+     "titulo": "El programa pide dos tercios para aprobarla y para cambiarla",
+     "hecho": "El contrato electoral dice: «Una ley para 20 años. Aprobada por dos tercios y blindada: no se cambia sin la misma mayoría. Contenidos mínimos comunes al 100 %, evaluaciones externas al final de cada etapa y selectividad única y en castellano en toda España». No menciona una reforma constitucional ni da coste.",
+     "fecha": "2026-11",
+     "fuente": "Se Acabó La Fiesta, Contrato electoral 29N (pág. 33)",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado en el PDF oficial descargado (texto-programas/salf.txt); la web del partido bloquea la comprobación automática de la URL."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "Las leyes orgánicas se cambian por mayoría absoluta",
+     "hecho": "El artículo 81.2 de la Constitución establece que «la aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta del Congreso». Una ley no puede exigir dos tercios a las Cortes futuras. Para imponer esa mayoría habría que reformar la Constitución, lo que por el artículo 167 requiere tres quintos de cada cámara.",
+     "fecha": "1978-12-29",
+     "fuente": "BOE, Constitución Española",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "El Estado fija hoy el 50-60 % del horario escolar",
+     "hecho": "La Ley Orgánica de Educación dispone que el Gobierno fija las enseñanzas mínimas, que ocupan el 50 % del horario en las comunidades con lengua cooficial y el 60 % en el resto; el currículo lo completan las administraciones educativas autonómicas (art. 6). Unos contenidos comunes «al 100 %» exigen cambiar ese reparto por ley orgánica.",
+     "fecha": "2006-05-03",
+     "fuente": "BOE, Ley Orgánica 2/2006 de Educación (texto consolidado)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL. El programa no aclara si «al 100 %» se refiere a todo el currículo o a que los mínimos sean idénticos en toda España."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La selectividad la organizan comunidades y universidades",
+     "hecho": "El Real Decreto 534/2024 fija una estructura común (ejercicios de 90 minutos, 60 % nota de Bachillerato y 40 % prueba), pero la prueba la organizan las administraciones educativas y las universidades públicas (art. 17). Donde hay lengua cooficial se añade un quinto ejercicio y el alumnado puede elegir lengua en el resto (arts. 12 y 13.8). Una prueba única solo en castellano elimina esa opción.",
+     "fecha": "2024-06-11",
+     "fuente": "BOE, Real Decreto 534/2024",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-11858",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "El Gobierno fija las características básicas de la prueba",
+     "hecho": "El artículo 38.3 de la Ley Orgánica de Educación atribuye al Gobierno, previa consulta a las comunidades, establecer «las características básicas de la prueba de acceso a la universidad». El artículo 149.1.30.ª de la Constitución reserva al Estado las normas básicas en educación. Unificar más la prueba es posible con normas estatales.",
+     "fecha": "2006-05-03",
+     "fuente": "BOE, Ley Orgánica 2/2006 de Educación (texto consolidado)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL."
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "El último pacto educativo se rompió en 2018",
+     "hecho": "El 6 de marzo de 2018 el PSOE abandonó la subcomisión del Congreso para el pacto educativo al considerar insuficiente la propuesta de financiación del PP (5.000 millones hasta 2025); exigía un gasto superior al 5 % del PIB. Ciudadanos le acusó de querer «reventar» el pacto.",
+     "fecha": "2018-03-06",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/politica/2018/03/06/pacto-educativo-se-rompe-tras-levantarse-psoe-la-mesa-negociacion/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se comprobó en fuente primaria con qué mayoría se aprobaron las leyes educativas de 2013 y 2020."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "PISA 2025: 457 en matemáticas, 451 en lectura y 477 en ciencias",
+     "hecho": "Según el Ministerio de Educación, España obtuvo en PISA 2025 457 puntos en matemáticas, 451 en lectura y 477 en ciencias, por debajo de las medias de la OCDE (463, 461 y 482). En 2022 había obtenido 473, 474 y 485: las caídas de 16, 23 y 8 puntos que cita el programa coinciden.",
+     "fecha": "2026-09-08",
+     "fuente": "Ministerio de Educación, FP y Deportes (nota en La Moncloa)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/educacion-fp-deportes/paginas/2026/080926-informe-pisa-2025.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La nota da las puntuaciones de 2025; las de 2022 son las oficiales de PISA 2022 y no se reabrieron (la web de la OCDE bloqueó la consulta). La media de la OCDE también bajó."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "La educación no aparece en sus mensajes de 2024 ni de 2025",
+     "hecho": "El Debate resumía en junio de 2024 las propuestas de SALF en cuatro pilares, sin educación y sin programa escrito. La crónica de El Independiente del acto de Vistalegre del 12 de octubre de 2025 tampoco recoge ninguna medida educativa.",
+     "fecha": "2025-10-12",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El artículo de 2024 es https://www.eldebate.com/espana/20240609/quien-alvise-perez-cual-programa-electoral-acabo-fiesta-cns_203773.html (abierto y comprobado). Que dos crónicas no lo mencionen no prueba que nunca lo dijera."
+    },
+    {
+     "id": "e9",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Sin escaños en Aragón ni en Castilla y León en 2026",
+     "hecho": "El 15 de marzo de 2026 SALF obtuvo el 1,40 % de los votos en Castilla y León (algo más de 17.000) y ningún escaño. elDiario.es lo describe como su segundo intento autonómico sin representación, tras el de Aragón. El partido no ha gestionado ningún gobierno ni ha tenido diputados nacionales o autonómicos.",
+     "fecha": "2026-03-15",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/partido-alvise-naufraga-castilla-leon-encadena-segundo-fracaso-autonomico_1_13063589.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nuestro archivo recoge además las andaluzas del 17-5-2026, también sin escaño (fuente no reabierta en esta ampliación)."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "salf-corrupcion-1",
+   "pista_codex": "ampliacion-k-salf-t0019 (convocatoria de plazas de fiscal); el resto, investigación propia",
+   "promesa": "La Fiscalía Anticorrupción pasará de 29 a 100 fiscales, con peritos y auditores propios y un presupuesto fijado por ley.",
+   "ha_gobernado": "nunca",
+   "resumen": "SALF promete más que triplicar la Fiscalía Anticorrupción, de 29 a 100 fiscales, con unidad propia de peritos y presupuesto por ley, dentro de un fondo de 400 millones. La cifra de partida es correcta según la plantilla oficial. El partido nunca ha gobernado; la corrupción es su eje desde 2024. Las plantillas se fijan por real decreto, de modo que la medida depende del Gobierno; el decreto aprobado para 2027 crea 200 plazas de fiscal en toda España y una sola en Anticorrupción. En marzo de 2026 Alvise Pérez se abstuvo en el Parlamento Europeo en la votación de la directiva europea contra la corrupción.",
+   "antecedentes": "En junio de 2024 El Debate describía la lucha contra la corrupción como la «medida estrella» de SALF, sin programa escrito ni mención a fiscales. En Vistalegre, en octubre de 2025, Alvise Pérez pidió que los delitos de corrupción no prescriban; la crónica no recoge propuestas sobre fiscales o jueces. La cifra de 100 fiscales aparece en el contrato electoral de 2026. En el Parlamento Europeo, único órgano donde tiene escaño, se abstuvo el 26 de marzo de 2026 en la directiva anticorrupción.",
+   "matiz": "Que la Fiscalía Anticorrupción investigue la financiación del propio partido no contradice la promesa de reforzarla ni prueba nada contra su líder: está investigado, no condenado. Una abstención tampoco equivale a estar a favor de la corrupción: no se ha encontrado el motivo que alegó.",
+   "refutacion": "Para tumbar la promesa se comprobó la cifra, el instrumento y la conducta del partido. La plantilla oficial confirma los 29 fiscales (e2), pero el ritmo real es muy distinto: el decreto de 2027 añade una plaza a Anticorrupción dentro de una ampliación general de 200 (e3), y cada año se convocan 200 plazas de acceso para toda la carrera (e6). El «Presupuesto propio por ley» no cabe en el estatuto actual, que integra las partidas del Ministerio Fiscal en la sección del ministerio (e5). En el único parlamento donde vota, Alvise Pérez se abstuvo en la directiva anticorrupción, que salió por 581 votos a favor, 21 en contra y 42 abstenciones (e9), y la fiscalía que promete reforzar asumió en 2024 la investigación sobre la financiación de SALF (e10). Para tumbar esas objeciones: la medida solo necesita un real decreto y una ley ordinaria (e4, e5); la Comisión Europea y la memoria de la Fiscalía respaldan que faltan medios para los casos de corrupción (e7, e8); la corrupción es el eje del partido desde 2024 (e11); y una abstención no es un voto en contra. La memoria de la Fiscalía atribuye los retrasos también a la falta de magistrados y salas, de modo que más fiscales no bastan por sí solos (e8). No se localizó explicación pública de la abstención ni desglose de los 120 millones.",
+   "puntos": {
+    "historial": {
+     "nivel": null,
+     "por": "Nunca han tenido poder sobre la plantilla fiscal (e12)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "La corrupción es su eje desde 2024 (e11), pero en la única votación sobre una norma anticorrupción en la que ha participado, la directiva europea de 2026, Alvise Pérez se abstuvo (e9). La investigación abierta no se computa como culpabilidad (e10)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Basta un real decreto para la plantilla (e4) y una ley ordinaria para el presupuesto propio (e5), es competencia estatal y el coste es reducido; cubrir 71 plazas nuevas supera con mucho el ritmo anual de creación (e3, e6)."
+    },
+    "datos": {
+     "nivel": 3,
+     "por": "La cifra de 29 fiscales es correcta (e2) y la Comisión Europea y la Fiscalía señalan falta de medios (e7, e8); no hay estudio que fije en 100 la plantilla necesaria y los retrasos dependen también de jueces y salas (e8)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "documento_partido",
+     "titulo": "El programa: de 29 a 100 fiscales y 120 millones",
+     "hecho": "El contrato electoral afirma que la Fiscalía Anticorrupción «tiene 29 fiscales y 31 funcionarios para toda España; la Antidroga, 15» y promete que «Anticorrupción pasa a 100 fiscales con unidad propia de peritos y auditores; Antidroga, a 40», con «Presupuesto propio por ley, fuera del alcance del ministro». Coste: unos 120 millones al año, dentro de un fondo de 400 millones. No da plazo.",
+     "fecha": "2026-11",
+     "fuente": "Se Acabó La Fiesta, Contrato electoral 29N (pág. 27)",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado en el PDF oficial descargado (texto-programas/salf.txt); la web del partido bloquea la comprobación automática de la URL."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "norma",
+     "titulo": "La plantilla oficial confirma los 29 fiscales de Anticorrupción",
+     "hecho": "El proyecto de real decreto de plantilla del Ministerio Fiscal para 2027 crea una plaza en la Fiscalía contra la Corrupción y la Criminalidad Organizada y recoge en su anexo un fiscal jefe, un teniente fiscal y 28 fiscales: 30 plazas con la nueva, 29 hoy. Para la Fiscalía Antidroga el anexo suma 19 plazas con la nueva, no las 15 que cita el programa. La plantilla total del Ministerio Fiscal será de 3.204 plazas.",
+     "fecha": "2026-10-09",
+     "fuente": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, proyecto de real decreto",
+     "url": "https://www.mjusticia.gob.es/es/AreaTematica/ActividadLegislativa/Documents/20261009,%20DGESPJ,%20RD%20plantilla%20MF%202027.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y leído. Se interpreta que el anexo refleja la plantilla resultante, incluida la plaza nueva. La diferencia en Antidroga puede deberse al criterio de cómputo; no se aclaró."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "El Gobierno crea 200 plazas de fiscal para 2027, una en Anticorrupción",
+     "hecho": "El Consejo de Ministros aprobó el 13 de noviembre de 2026 dos reales decretos que crean 500 plazas de jueces y 200 de fiscales para 2027, «una ampliación del 7,8 % de la planta judicial y del 6,6 % de la del Ministerio Fiscal». Según el proyecto, de esas 200 plazas una va a Anticorrupción y una a Antidroga, con efectos del 31 de diciembre de 2027. La promesa de SALF supone 71 plazas más solo en Anticorrupción.",
+     "fecha": "2026-11-13",
+     "fuente": "La Moncloa, referencia del Consejo de Ministros",
+     "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261113-refencia-rueda-de-prensa-ministros.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El reparto por fiscalías procede del proyecto (e2); no se abrió el texto final publicado en el BOE."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "Las plantillas de las fiscalías se fijan por real decreto",
+     "hecho": "El Estatuto Orgánico del Ministerio Fiscal dispone que las plantillas de las fiscalías «se fijarán [...] por Real Decreto, a propuesta del Ministro de Justicia», con los límites del presupuesto (art. 18.5), y que a las fiscalías especiales se les pueden adscribir unidades de Policía Judicial y otros profesionales y expertos (art. 19). Ampliar Anticorrupción depende del Gobierno, sin necesidad de ley.",
+     "fecha": "1981-12-30",
+     "fuente": "BOE, Ley 50/1981, Estatuto Orgánico del Ministerio Fiscal",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL. El apartado exacto del artículo 19 sobre unidades adscritas se comprobó a través de WebFetch."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "El presupuesto del Ministerio Fiscal va dentro del ministerio",
+     "hecho": "El artículo 72 del Estatuto establece que los Presupuestos Generales del Estado contemplarán, «dentro de la Sección que corresponda», las partidas del Ministerio Fiscal «adecuadamente singularizadas», a propuesta del Fiscal General. Un presupuesto propio fijado por ley y fuera del ministerio exige reformar este estatuto, que es una ley ordinaria.",
+     "fecha": "1981-12-30",
+     "fuente": "BOE, Ley 50/1981, Estatuto Orgánico del Ministerio Fiscal",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-837",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "En 2026 se convocaron 200 plazas de acceso a la carrera fiscal",
+     "hecho": "La convocatoria de 4 de junio de 2026 ofrece 375 plazas de alumnos de la Escuela Judicial y 200 del Centro de Estudios Jurídicos «para su posterior ingreso en la Carrera Fiscal». Son plazas de formación para todas las fiscalías de España, no fiscales ya disponibles. Las plazas que el proyecto de plantilla asigna a Anticorrupción son de segunda categoría.",
+     "fecha": "2026-06-04",
+     "fuente": "BOE, Acuerdo de la Comisión de Selección (BOE-A-2026-12918)",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12918",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL."
+    },
+    {
+     "id": "e7",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "La Comisión Europea pide fiscales especializados y con medios",
+     "hecho": "El Informe sobre el Estado de Derecho 2026 afirma que, ante casos de corrupción cada vez más complejos, «los fiscales y el poder judicial deben estar suficientemente especializados y dotados de recursos suficientes», y anota que en España «se crearon nuevos puestos de jueces y fiscales para reforzar la sustanciación de los asuntos de corrupción». Añade que el 69 % de los europeos cree que la corrupción de alto nivel no se persigue lo bastante.",
+     "fecha": "2026-07-17",
+     "fuente": "Comisión Europea, COM(2026) 900 final",
+     "url": "https://data.consilium.europa.eu/doc/document/ST-11674-2026-INIT/es/pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y leído (comunicación general; no se pudo abrir el capítulo específico de España, que devolvió error 403). El informe no cuantifica cuántos fiscales necesita España."
+    },
+    {
+     "id": "e8",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "La Fiscalía atribuye los retrasos a la falta de medios humanos",
+     "hecho": "Según Vozpópuli, la memoria de la Fiscalía presentada en septiembre de 2026 atribuye las dilaciones en las grandes causas de corrupción a la «insuficiencia de los recursos disponibles, especialmente de carácter humano», cita la «falta de magistrados» y de salas de vistas, y recoge procedimientos con más de siete años entre el escrito de acusación y el juicio.",
+     "fecha": "2026-09-10",
+     "fuente": "Vozpópuli (memoria de la Fiscalía General del Estado)",
+     "url": "https://www.vozpopuli.com/tribunales/peramato-denuncia-que-la-lentitud-de-la-justicia-complica-y-ralentiza-la-lucha-contra-la-corrupcion-politica.html",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "No se abrió la memoria original. El cuello de botella descrito incluye a los tribunales, no solo a la Fiscalía."
+    },
+    {
+     "id": "e9",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "votacion",
+     "titulo": "Alvise Pérez se abstuvo en la directiva europea anticorrupción",
+     "hecho": "El 26 de marzo de 2026 el Parlamento Europeo aprobó la directiva de lucha contra la corrupción, primer marco penal común de la UE, por 581 votos a favor, 21 en contra y 42 abstenciones. El registro nominal recoge a Alvise Pérez (no inscrito, SALF) como abstención. Nora Junco y Diego Solier, elegidos en su lista y hoy en el grupo ECR, votaron a favor; los eurodiputados de Vox, en contra.",
+     "fecha": "2026-03-26",
+     "fuente": "HowTheyVote.eu (registro de votaciones nominales del Parlamento Europeo)",
+     "url": "https://howtheyvote.eu/votes/189232",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Voto individual comprobado en los datos de la votación (https://howtheyvote.eu/api/votes/189232); los totales coinciden con la nota oficial del Parlamento (https://www.europarl.europa.eu/news/en/press-room/20260323IPR38831/parliament-greenlights-eu-anti-corruption-rules). No se abrió el acta oficial del Parlamento. No se halló explicación pública de la abstención."
+    },
+    {
+     "id": "e10",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "procedimiento_judicial",
+     "titulo": "Anticorrupción investiga la financiación de SALF",
+     "hecho": "En noviembre de 2024 la Fiscalía Anticorrupción asumió la investigación sobre la presunta financiación ilegal de SALF, por 100.000 euros que un empresario dijo haber entregado a Alvise Pérez en la campaña europea de 2024. El 19 de mayo de 2026 el Parlamento Europeo levantó su inmunidad para que el Supremo siga investigando. No consta procesamiento ni condena.",
+     "fecha": "2024-11-15",
+     "fuente": "Europa Press en Menorca.info",
+     "url": "https://www.menorca.info/actualidad/nacional/2024/11/15/2276233/anticorrupcion-asume-causa-investiga-presunta-financiacion-ilegal-alvise-perez.html",
+     "estado_judicial": "investigado",
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El levantamiento de la inmunidad procede de Ara, 20-5-2026 (https://en.ara.cat/politics/the-european-parliament-withdraws-immunity-from-alvise-perez-for-the-investigation-into-illegal-financing-of-his-party_25_5741720.html), abierto y comprobado. Es contexto: no acredita ningún delito ni contradice la promesa."
+    },
+    {
+     "id": "e11",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "La corrupción es su eje desde 2024",
+     "hecho": "En junio de 2024 El Debate describía la lucha contra la corrupción como «su medida estrella y con la que fundamenta la existencia de su partido», aunque sin programa escrito. En octubre de 2025, en Vistalegre, Alvise Pérez propuso reformar el Código Penal para que los delitos de corrupción no prescriban.",
+     "fecha": "2024-06-09",
+     "fuente": "El Debate",
+     "url": "https://www.eldebate.com/espana/20240609/quien-alvise-perez-cual-programa-electoral-acabo-fiesta-cns_203773.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El dato de 2025 procede de El Independiente (https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/), abierto y comprobado. Ninguna de las dos crónicas recoge propuestas sobre fiscales."
+    },
+    {
+     "id": "e12",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Sin escaños en Aragón ni en Castilla y León en 2026",
+     "hecho": "El 15 de marzo de 2026 SALF obtuvo el 1,40 % de los votos en Castilla y León (algo más de 17.000) y ningún escaño. elDiario.es lo describe como su segundo intento autonómico sin representación, tras el de Aragón. El partido no ha gestionado ningún gobierno ni ha tenido diputados nacionales o autonómicos.",
+     "fecha": "2026-03-15",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/partido-alvise-naufraga-castilla-leon-encadena-segundo-fracaso-autonomico_1_13063589.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nuestro archivo recoge además las andaluzas del 17-5-2026, también sin escaño (fuente no reabierta en esta ampliación)."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "salf-territorio-2",
+   "pista_codex": "territorial-salf-irpf (tabla de financiación y ley de la AIReF); el resto, investigación propia",
+   "promesa": "Recortarán 57.000 millones al año de gasto autonómico por duplicidades y suprimirán las diputaciones provinciales.",
+   "ha_gobernado": "nunca",
+   "resumen": "SALF calcula 57.000 millones al año de «sobrecoste autonómico», comparando cada comunidad con las tres más eficientes, y con ese ahorro paga casi dos tercios de su programa. El partido nunca ha gobernado; defiende reducir el Estado desde 2024, sin cifras hasta ahora. La cantidad equivale al 22,6 % de todo el gasto de las comunidades en 2025 y el programa no la desglosa. Las comunidades tienen autonomía financiera reconocida en la Constitución y suprimir las diputaciones exige reformarla. Un estudio de 2010 con el mismo método, de una fundación ligada a UPyD, daba 26.108 millones.",
+   "antecedentes": "En junio de 2024 El Debate recogía entre los pilares de SALF «una reducción significativa del aparato estatal», sin cifras ni programa escrito. En Vistalegre, en octubre de 2025, Alvise Pérez habló de reducir el tamaño del Estado con inteligencia artificial y eliminar cargos políticos; la crónica no menciona autonomías ni diputaciones. Los 57.000 millones aparecen en el contrato electoral de 2026. El partido no ha gestionado ningún presupuesto.",
+   "matiz": "Que el ahorro dependa de las comunidades no significa que no existan duplicidades ni margen de eficiencia: las diferencias de gasto por habitante entre comunidades son reales. Lo que no está acreditado es la cifra, ni que el Estado pueda imponerla. El programa incluye una salvaguarda: ninguna rebaja entra en vigor sin su ahorro certificado.",
+   "refutacion": "Para tumbar la promesa se midió la cifra contra el gasto real y contra quién decide. Las comunidades gastaron 252.286 millones en 2025, de modo que 57.000 millones son el 22,6 % del total (e2); el programa no dice de qué servicios ni de qué comunidades salen (e1) y a la vez añade gasto en competencias autonómicas, como 5.500 millones en sueldos sanitarios y 2.500 en docentes (e6). La Constitución garantiza la autonomía financiera de las comunidades (e4) y encomienda el gobierno de las provincias a las diputaciones u otras corporaciones representativas (e5). Para tumbar esas objeciones: el método de compararse con las tres comunidades más eficientes no es nuevo y un estudio de 2010 lo usó, aunque con un resultado de 26.108 millones, menos de la mitad (e3); el programa condiciona las rebajas a un ahorro certificado por la AIReF (e7), si bien la ley de la AIReF no prevé hoy esa función (e8); y la reducción del Estado está en el discurso del partido desde 2024 (e9). No se halló ningún informe de AIReF, Banco de España, FEDEA o Tribunal de Cuentas que cifre las duplicidades autonómicas en una cantidad parecida, ni el cálculo detallado de SALF.",
+   "puntos": {
+    "historial": {
+     "nivel": null,
+     "por": "Nunca han gestionado un presupuesto público (e10)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Defienden reducir el Estado desde 2024 (e9); la cifra y el foco en las autonomías son de 2026, y el mismo programa añade gasto en competencias autonómicas (e6)."
+    },
+    "viabilidad": {
+     "nivel": 1,
+     "por": "El recorte recae en presupuestos que aprueban las comunidades, con autonomía financiera constitucional (e4), y suprimir las diputaciones exige reforma de la Constitución con tres quintos (e5)."
+    },
+    "datos": {
+     "nivel": 1,
+     "por": "La cifra equivale al 22,6 % de todo el gasto autonómico (e2), no está desglosada (e1) y el único cálculo comparable localizado daba menos de la mitad en 2010 (e3); ningún organismo independiente la respalda."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "documento_partido",
+     "titulo": "57.000 de los 88.500 millones de ahorro salen de las autonomías",
+     "hecho": "La tabla «Cómo se paga» atribuye 57.000 millones al año al «Sobrecoste autonómico por duplicidades y redundancias (cada comunidad comparada con las tres más eficientes)», el 64 % de los 88.500 millones de ahorro e ingresos previstos. Suma 1.500 millones por la «Supresión de las diputaciones provinciales». No detalla servicios, comunidades ni calendario.",
+     "fecha": "2026-11",
+     "fuente": "Se Acabó La Fiesta, Contrato electoral 29N (pág. 16)",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado en el PDF oficial descargado (texto-programas/salf.txt); la web del partido bloquea la comprobación automática de la URL."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "Las comunidades gastaron 252.286 millones en 2025",
+     "hecho": "Según FEDEA, con datos de contabilidad nacional, el gasto no financiero neto de las comunidades autónomas fue de 252.286 millones en 2025 (14,95 % del PIB): 216.848 de gasto corriente, 27.951 de capital y 7.487 de intereses. Cerraron con un déficit de 6.650 millones. Un recorte de 57.000 millones equivale al 22,6 % de ese gasto.",
+     "fecha": "2026-06",
+     "fuente": "FEDEA, «Las finanzas autonómicas en 2025 y entre 2003 y 2025» (Ángel de la Fuente)",
+     "url": "https://documentos.fedea.net/pubs/eee/2026/eee2026-21.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y leído (cuadro 1). El porcentaje es un cálculo propio (57.000 / 252.286). El informe no analiza duplicidades."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "Un estudio de 2010 con el mismo método daba 26.108 millones",
+     "hecho": "El estudio «El coste del Estado Autonómico», de la Fundación Progreso y Democracia, vinculada a UPyD, estimó en 2010 un ahorro de 26.108 millones (2,6 % del PIB) si todas las comunidades igualaran a las tres más eficientes en gasto corriente y de personal. Es el mismo método que describe SALF, con menos de la mitad de la cifra y quince años antes.",
+     "fecha": "2010-04-21",
+     "fuente": "Libertad Digital (editorial sobre el estudio)",
+     "url": "https://www.libertaddigital.com/opinion/2010-04-21/editorial-el-insostenible-despilfarro-autonomico-5120361/",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "No se abrió el estudio original, solo la reseña. Es un estudio de una fundación de partido, no de un organismo independiente, y las cifras no están actualizadas por inflación."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La Constitución da autonomía financiera a las comunidades",
+     "hecho": "El artículo 156.1 de la Constitución establece que las comunidades autónomas «gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias». Sus presupuestos los aprueban sus parlamentos. El Estado puede cambiar la financiación o las reglas de estabilidad, pero no decidir partida a partida el gasto de cada comunidad.",
+     "fecha": "1978-12-29",
+     "fuente": "BOE, Constitución Española",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "Suprimir las diputaciones exige reformar la Constitución",
+     "hecho": "El artículo 141.2 de la Constitución encomienda el gobierno de las provincias a «Diputaciones u otras Corporaciones de carácter representativo». Eliminar ese nivel de gobierno requiere reformar la Constitución por el artículo 167: tres quintos del Congreso y del Senado.",
+     "fecha": "1978-12-29",
+     "fuente": "BOE, Constitución Española",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL. El artículo permite sustituir las diputaciones por otra corporación representativa sin reforma, pero no dejar la provincia sin gobierno propio."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El mismo programa añade gasto en competencias autonómicas",
+     "hecho": "El contrato electoral prevé subir un 20 % el sueldo de los médicos y un 10 % el del resto de sanitarios (unos 5.500 millones al año, a cargo de una central de compras), un 10 % el de los profesores (2.500 millones) y garantizar plazos máximos de espera (1.500 millones). Sanidad y educación las gestionan y pagan las comunidades autónomas.",
+     "fecha": "2026-11",
+     "fuente": "Se Acabó La Fiesta, Contrato electoral 29N (págs. 22 y 33)",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado en el PDF oficial descargado (texto-programas/salf.txt); la web del partido bloquea la comprobación automática de la URL."
+    },
+    {
+     "id": "e7",
+     "sentido": "apoya",
+     "componente": "viabilidad",
+     "tipo": "documento_partido",
+     "titulo": "Ninguna rebaja sin ahorro certificado, según el programa",
+     "hecho": "El programa fija una «Regla de oro»: «Ninguna bajada entra en vigor sin ahorro estructural certificado por la AIReF» y «nada entra en vigor sin su ahorro certificado». Si el recorte autonómico no se logra, las rebajas de impuestos quedarían aplazadas en lugar de financiarse con deuda.",
+     "fecha": "2026-11",
+     "fuente": "Se Acabó La Fiesta, Contrato electoral 29N (págs. 13 y 16)",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado en el PDF oficial descargado (texto-programas/salf.txt); la web del partido bloquea la comprobación automática de la URL."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La ley de la AIReF no prevé certificar ahorros",
+     "hecho": "La Ley Orgánica 6/2013 dispone que los informes de la AIReF «serán los previstos en esta Ley», que emite opiniones por iniciativa propia y que hace estudios a petición del Gobierno y de otros órganos (art. 5). No contempla certificar un ahorro como condición para que entre en vigor una rebaja fiscal: haría falta cambiar la ley o encargarle estudios caso a caso.",
+     "fecha": "2013-11-14",
+     "fuente": "BOE, Ley Orgánica 6/2013 de creación de la AIReF",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-11935",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL."
+    },
+    {
+     "id": "e9",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Reducir el Estado está en su discurso desde 2024",
+     "hecho": "En junio de 2024 El Debate recogía que SALF «propone una reducción significativa del aparato estatal». En Vistalegre, el 12 de octubre de 2025, Alvise Pérez propuso reducir el tamaño del Estado con inteligencia artificial, eliminando burocracia y cargos políticos, y prohibir la financiación pública de los partidos. Ninguna de las dos crónicas menciona autonomías, diputaciones ni cifras de ahorro.",
+     "fecha": "2025-10-12",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El artículo de 2024 es https://www.eldebate.com/espana/20240609/quien-alvise-perez-cual-programa-electoral-acabo-fiesta-cns_203773.html (abierto y comprobado)."
+    },
+    {
+     "id": "e10",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Sin escaños en Aragón ni en Castilla y León en 2026",
+     "hecho": "El 15 de marzo de 2026 SALF obtuvo el 1,40 % de los votos en Castilla y León (algo más de 17.000) y ningún escaño. elDiario.es lo describe como su segundo intento autonómico sin representación, tras el de Aragón. El partido no ha gestionado ningún gobierno ni ha tenido diputados nacionales o autonómicos.",
+     "fecha": "2026-03-15",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/partido-alvise-naufraga-castilla-leon-encadena-segundo-fracaso-autonomico_1_13063589.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nuestro archivo recoge además las andaluzas del 17-5-2026, también sin escaño (fuente no reabierta en esta ampliación)."
+    }
+   ]
+  },
+  {
+   "propuesta_id": "salf-energia-1",
+   "pista_codex": "ampliacion-f-salf-vivienda-01 (copia de la Directiva 2022/542); el resto, investigación propia",
+   "promesa": "El IVA de la luz bajará del 21 al 4 % y el del agua del 10 al 4 %, de forma permanente, y se suprimirá el impuesto a la producción eléctrica.",
+   "ha_gobernado": "nunca",
+   "resumen": "SALF promete un IVA permanente del 4 % para la luz y el agua y suprimir el impuesto del 7 % a la producción eléctrica, por unos 2.600 millones al año. El partido nunca ha gobernado y la medida no aparece en sus mensajes anteriores. La directiva europea del IVA permite bajar la luz hasta el 5 %, no hasta el 4 %; para el agua sí admite un tipo inferior. España ya aplicó el 5 % en 2022 y el 10 % en 2026, siempre de forma temporal. El impuesto a la producción eléctrica ya tiene fecha de desaparición en el BOE: 3,5 % en 2027 y 0 % desde 2028.",
+   "antecedentes": "SALF no tenía programa escrito en 2024 y ni El Debate entonces ni la crónica de Vistalegre de octubre de 2025 recogen propuestas sobre la luz o el IVA. La medida aparece en el contrato electoral de 2026. Los gobiernos de Pedro Sánchez bajaron el IVA de la luz al 10 % en 2021 y al 5 % en 2022, lo devolvieron al 21 % en 2025 y lo rebajaron de nuevo al 10 % entre marzo y mayo de 2026 por la crisis de Oriente Medio.",
+   "matiz": "La diferencia entre el 4 % prometido y el 5 % que permite la directiva es de un punto: el grueso de la rebaja es jurídicamente posible. Y que una parte de la promesa, el fin del impuesto a la producción, ya esté aprobada no la invalida, aunque reduce lo que quedaría por hacer.",
+   "refutacion": "Para tumbar la promesa se comprobó el límite europeo y el coste. La Directiva 2022/542 fija en el 5 % el mínimo de los tipos reducidos y solo admite tipos inferiores para los puntos 1 a 6 y 10 quater del anexo III; la electricidad es el punto 22 (e2). La rebaja temporal al 10 % para los hogares costaba 539,1 millones según Hacienda para poco más de tres meses, y la suspensión del impuesto a la producción otros 450 (e4): una rebaja permanente al 4 % para todos los consumidores, sumada a la del agua, difícilmente cabe en 2.600 millones, aunque esta comparación es una extrapolación propia. El Banco de España concluyó en 2023 que ayudas dirigidas a los hogares vulnerables darían una protección similar con menos coste (e7). Para tumbar esas objeciones: el Estado ya bajó la luz al 5 % por decreto-ley en 2022, lo que demuestra que casi toda la rebaja cabe en el derecho europeo (e3); el agua figura entre los suministros básicos que admiten un tipo inferior al 5 % (e2); el impuesto a la producción ya tiene fijado un tipo del 0 % desde 2028, de modo que esa parte no añade coste nuevo (e5); y el Banco de España reconoce que la rebaja del IVA de la luz ahorra proporcionalmente más a las rentas bajas (e7). No se halló ninguna estimación independiente del coste de la medida ni posición previa de SALF sobre ella (e8).",
+   "puntos": {
+    "historial": {
+     "nivel": null,
+     "por": "Nunca han tenido poder sobre impuestos (e9)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "No se han encontrado posiciones contrarias, pero tampoco antecedentes: la medida no figura en sus mensajes de 2024 ni de 2025 (e8)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Basta una ley ordinaria y la luz ya estuvo al 5 % (e3), el agua admite el 4 % (e2) y el impuesto a la producción ya tiene fecha de fin (e5); el 4 % para la luz, tal como está escrito, queda por debajo del mínimo que fija la directiva (e2)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "No hay evaluación independiente del coste; la referencia oficial de 2026 sugiere que 2.600 millones se quedan cortos (e4) y el Banco de España prefiere ayudas focalizadas, aunque admite que la rebaja beneficia más a las rentas bajas (e7)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "documento_partido",
+     "titulo": "El programa: luz y agua al 4 % por 2.600 millones",
+     "hecho": "El contrato electoral promete «Luz y agua al 4 % de IVA para siempre. La luz, del 21 al 4 %; el agua, del 10 al 4 %. Y fuera el impuesto a la producción eléctrica que va directo a tu factura», con un coste de unos 2.600 millones al año. No distingue hogares de empresas ni cita la directiva europea del IVA.",
+     "fecha": "2026-11",
+     "fuente": "Se Acabó La Fiesta, Contrato electoral 29N (pág. 13)",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado en el PDF oficial descargado (texto-programas/salf.txt); la web del partido bloquea la comprobación automática de la URL."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La directiva fija un IVA mínimo del 5 % para la luz",
+     "hecho": "La Directiva (UE) 2022/542 establece que los tipos reducidos no pueden ser inferiores al 5 % y que un tipo por debajo de ese mínimo solo cabe en los puntos 1 a 6 y 10 quater del anexo III (art. 98). El suministro de electricidad es el punto 22. El agua sí figura entre las necesidades básicas que admiten un tipo inferior al 5 % (considerando 6).",
+     "fecha": "2022-04-05",
+     "fuente": "Directiva (UE) 2022/542 del Consejo (publicación en el BOE)",
+     "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2022-80541",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL. El artículo 98.2.b) deja abierta una vía para los Estados que ya tenían tipos inferiores el 1-1-2021 y para quienes quieran igualarlos (art. 105 bis); no se comprobó si algún Estado aplicaba entonces menos del 5 % a la electricidad."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "En 2022 el IVA de la luz ya bajó al 5 %",
+     "hecho": "El Real Decreto-ley 11/2022 rebajó el IVA de la electricidad al 5 % hasta el 31 de diciembre de 2022 y prorrogó la suspensión del impuesto sobre el valor de la producción eléctrica. Su preámbulo recuerda que el tipo anterior, del 10 %, era el mínimo permitido por la norma europea en ese momento. La medida fue temporal y limitada a consumidores domésticos.",
+     "fecha": "2022-06-25",
+     "fuente": "BOE, Real Decreto-ley 11/2022",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10557",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado en el preámbulo; no se leyó el articulado completo con las condiciones de potencia y precio."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Hacienda cifró en 539 millones bajar la luz al 10 %",
+     "hecho": "El 20 de marzo de 2026 el Gobierno rebajó el IVA de la luz al 10 % para contratos de hasta 10 kW, con vigencia prevista hasta el 30 de junio, y suspendió el impuesto a la producción eléctrica. Hacienda cifró el coste en 539,1 millones por el IVA y 450 millones por ese impuesto. El programa de SALF calcula 2.600 millones al año por bajarla al 4 % para todos, de forma permanente, junto al agua y la supresión del impuesto.",
+     "fecha": "2026-03-20",
+     "fuente": "Ministerio de Hacienda, nota de prensa",
+     "url": "https://www.hacienda.gob.es/es-es/prensa/noticias/paginas/2026/20260320-np-respuesta-guerra-iran.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La comparación entre ambas cifras es orientativa: periodos, precios y consumidores cubiertos son distintos. Según el Real Decreto-ley 18/2026, la rebaja no llegó a aplicarse en junio."
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "El impuesto a la producción eléctrica ya tiene fecha de fin",
+     "hecho": "El Real Decreto-ley 18/2026, de 29 de junio, modificó la Ley 15/2012: el impuesto sobre el valor de la producción de la energía eléctrica se exigirá al 3,5 % en 2027 y «al tipo del 0 por ciento» desde el 1 de enero de 2028, «con vigencia indefinida». Esa parte de la promesa ya figura en la ley vigente.",
+     "fecha": "2026-06-29",
+     "fuente": "BOE, Ley 15/2012 (texto consolidado, art. 8)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-15649",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Texto consolidado actualizado el 30-9-2026. No se localizó en el BOE la nota de convalidación del decreto-ley por el Congreso. El tipo ordinario era del 7 % (AEAT, informe de recaudación 2025)."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "En septiembre de 2026 la rebaja volvió, condicionada a los precios",
+     "hecho": "El 29 de septiembre de 2026 el Gobierno aprobó bajar el IVA de la luz al 10 % y el impuesto especial de electricidad del 5,1 al 0,5 % hasta el 31 de diciembre, solo si el IPC de la electricidad de septiembre superaba en un 15 % al de un año antes, para potencias inferiores a 10 kW y beneficiarios del bono social.",
+     "fecha": "2026-09-29",
+     "fuente": "Ministerio de Hacienda, nota de prensa",
+     "url": "https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2026/20260929-NP-CM-medidas-fiscales.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se comprobó si la condición de precios llegó a cumplirse."
+    },
+    {
+     "id": "e7",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "El Banco de España: ayudas focalizadas protegen igual con menos coste",
+     "hecho": "Un análisis del Banco de España de febrero de 2023 concluye que la mayoría de las medidas fiscales contra la crisis energética fueron generalizadas y que ayudas dirigidas a los hogares vulnerables podrían dar una protección similar «con un menor coste presupuestario y evitando distorsiones en las señales de precios». También estima que las rebajas del IVA de la electricidad y el gas suponen «un mayor ahorro como porcentaje de su gasto total para los hogares de renta baja».",
+     "fecha": "2023-02-22",
+     "fuente": "Banco de España, Boletín Económico 2023/T1, artículo 15 (E. García-Miralles)",
+     "url": "https://www.bde.es/wbe/es/publicaciones/analisis-economico-investigacion/boletin-economico/2023-t1-articulo-15--medidas-apoyo-frente-crisis-energetica-y-al-repunte-inflacion-analisis-coste-y-efectos-distribucionales-algunas-actuaciones-desplegadas-segun-su-grado-focalizacion.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Se leyó la página de resumen del artículo; el PDF completo, con las cifras de coste, no pudo abrirse. Evalúa las rebajas temporales de 2021-2022, no una rebaja permanente."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "La luz no aparece en sus mensajes de 2024 ni 2025",
+     "hecho": "El Debate resumía en junio de 2024 los pilares de SALF sin ninguna medida sobre energía o impuestos. La crónica de El Independiente del acto de Vistalegre del 12 de octubre de 2025 recoge rebajas del IRPF, pero nada sobre el precio de la luz, el IVA o la energía.",
+     "fecha": "2025-10-12",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El artículo de 2024 es https://www.eldebate.com/espana/20240609/quien-alvise-perez-cual-programa-electoral-acabo-fiesta-cns_203773.html (abierto y comprobado). Que dos crónicas no lo mencionen no prueba que nunca lo dijera."
+    },
+    {
+     "id": "e9",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Sin escaños en Aragón ni en Castilla y León en 2026",
+     "hecho": "El 15 de marzo de 2026 SALF obtuvo el 1,40 % de los votos en Castilla y León (algo más de 17.000) y ningún escaño. elDiario.es lo describe como su segundo intento autonómico sin representación, tras el de Aragón. El partido no ha gestionado ningún gobierno ni ha tenido diputados nacionales o autonómicos.",
+     "fecha": "2026-03-15",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/politica/partido-alvise-naufraga-castilla-leon-encadena-segundo-fracaso-autonomico_1_13063589.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nuestro archivo recoge además las andaluzas del 17-5-2026, también sin escaño (fuente no reabierta en esta ampliación)."
+    }
+   ]
+  }
+ ],
+ "evidencias_para_existentes": [
+  {
+   "propuesta_id": "salf-inmigracion-1",
+   "cambia_nivel": null,
+   "evidencia": {
+    "id": "e8",
+    "sentido": "contexto",
+    "componente": "datos",
+    "tipo": "dato_oficial",
+    "titulo": "En 2025 la UE ejecutó 135.460 retornos sobre 491.950 órdenes",
+    "hecho": "Según Eurostat, en 2025 se dictaron en la UE 491.950 órdenes de abandonar el territorio (un 5,8 % más que en 2024) y 135.460 personas fueron retornadas a un tercer país (un 20,9 % más). Los países con más retornos fueron Alemania (29.295), Francia (14.940) y Suecia (11.250). La nota no da cifras de España.",
+    "fecha": "2026-05-12",
+    "fuente": "Eurostat",
+    "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260512-1",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Dato anual cerrado, más reciente que el trimestral de e4. Órdenes y retornos de un mismo año no son la misma cohorte: la proporción (27,5 %) es orientativa. Pista Codex: territorial-salf-retorno."
+   }
+  },
+  {
+   "propuesta_id": "salf-vivienda-1",
+   "cambia_nivel": null,
+   "evidencia": {
+    "id": "e7",
+    "sentido": "contexto",
+    "componente": "datos",
+    "tipo": "dato_oficial",
+    "titulo": "IVA e ITP son alternativos: ninguna compra paga los dos",
+    "hecho": "La Agencia Tributaria explica que quien compra una vivienda nueva al promotor paga IVA (10 % con carácter general; 4 % si es de protección oficial de régimen especial o de promoción pública) y quien compra una usada paga el ITP a la comunidad autónoma. Son impuestos alternativos: la rebaja del ITP y la del IVA que promete el programa nunca se suman en una misma compra.",
+    "fecha": "2026",
+    "fuente": "Agencia Tributaria",
+    "url": "https://sede.agenciatributaria.gob.es/Sede/iva/iva-operaciones-inmobiliarias/compro-vivienda-tengo-que-pagar-itp.html",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Página informativa sin fecha, consultada el 24-11-2026. Completa e5: en vivienda usada la rebaja depende íntegramente de un impuesto autonómico (e2). Pista Codex: ampliacion-f-salf-vivienda-01."
+   }
+  },
+  {
+   "propuesta_id": "salf-impuestos-1",
+   "cambia_nivel": null,
+   "evidencia": {
+    "id": "e7",
+    "sentido": "contexto",
+    "componente": "viabilidad",
+    "tipo": "norma",
+    "titulo": "La ley de la AIReF no prevé certificar ahorros",
+    "hecho": "La Ley Orgánica 6/2013 dispone que los informes de la AIReF «serán los previstos en esta Ley», que emite opiniones por iniciativa propia y que hace estudios a petición del Gobierno y de otros órganos (art. 5). No contempla certificar un ahorro como condición para que entre en vigor una rebaja fiscal: la «regla de oro» del programa exige cambiar esa ley o encargar estudios caso a caso.",
+    "fecha": "2013-11-14",
+    "fuente": "BOE, Ley Orgánica 6/2013 de creación de la AIReF",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-11935",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Leído en la copia local del documento del BOE (archivo documental de Codex), misma URL. Matiza e5: la salvaguarda existe en el programa, pero su instrumento aún no existe en la ley. Pista Codex: territorial-salf-irpf."
+   }
+  },
+  {
+   "propuesta_id": "salf-instituciones-2",
+   "cambia_nivel": null,
+   "evidencia": {
+    "id": "e14",
+    "sentido": "contradice",
+    "componente": "coherencia",
+    "tipo": "votacion",
+    "titulo": "Alvise Pérez se abstuvo en la directiva europea anticorrupción",
+    "hecho": "El 26 de marzo de 2026 el Parlamento Europeo aprobó la directiva de lucha contra la corrupción, que armoniza delitos y penas y obliga a tener normas de transparencia de la financiación política, por 581 votos a favor, 21 en contra y 42 abstenciones. El registro nominal recoge a Alvise Pérez (no inscrito, SALF) como abstención. Los otros dos eurodiputados elegidos en su lista votaron a favor.",
+    "fecha": "2026-03-26",
+    "fuente": "HowTheyVote.eu (registro de votaciones nominales del Parlamento Europeo)",
+    "url": "https://howtheyvote.eu/votes/189232",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Voto individual comprobado en https://howtheyvote.eu/api/votes/189232; totales y contenido, en la nota oficial del Parlamento (https://www.europarl.europa.eu/news/en/press-room/20260323IPR38831/parliament-greenlights-eu-anti-corruption-rules). No se abrió el acta oficial ni se halló explicación de la abstención. Es la única votación sobre una norma anticorrupción localizada. Pista Codex: ninguna (investigación propia)."
+   }
+  },
+  {
+   "propuesta_id": "salf-instituciones-2",
+   "cambia_nivel": null,
+   "evidencia": {
+    "id": "e15",
+    "sentido": "contexto",
+    "componente": "coherencia",
+    "tipo": "procedimiento_judicial",
+    "titulo": "El Parlamento Europeo levantó la inmunidad en la causa de financiación",
+    "hecho": "El pleno del Parlamento Europeo votó el 19 de mayo de 2026 levantar la inmunidad de Alvise Pérez para que el Tribunal Supremo pueda seguir investigando la presunta financiación ilegal de su partido y un presunto delito electoral. No consta procesamiento ni condena.",
+    "fecha": "2026-05-19",
+    "fuente": "Ara",
+    "url": "https://en.ara.cat/politics/the-european-parliament-withdraws-immunity-from-alvise-perez-for-the-investigation-into-illegal-financing-of-his-party_25_5741720.html",
+    "estado_judicial": "investigado",
+    "fuente_unica": true,
+    "verificado": true,
+    "nota": "Completa e4, que se quedaba en el aval de la comisión del 5-5-2026. El artículo, del 20-5-2026, dice que la votación fue «este martes». Una sola fuente abierta. Pista Codex: ninguna (investigación propia)."
+   }
+  }
+ ],
+ "correcciones": [
+  {
+   "propuesta_id": "salf-instituciones-2",
+   "campo": "evidencias.e4 / antecedentes",
+   "dice": "La secuencia de la causa de financiación termina en el aval de la comisión de Asuntos Jurídicos del 5 de mayo de 2026.",
+   "deberia_decir": "Añadir que el pleno del Parlamento Europeo levantó la inmunidad el 19 de mayo de 2026 (no es un error, es un dato desactualizado).",
+   "fuente": "https://en.ara.cat/politics/the-european-parliament-withdraws-immunity-from-alvise-perez-for-the-investigation-into-illegal-financing-of-his-party_25_5741720.html"
+  }
+ ],
+ "descartado": [
+  {
+   "expediente": "ampliacion-b-salf-t0059",
+   "motivo": "Central única de compras sanitarias (salf-sanidad-2): no elegida; en sanidad se priorizó la promesa de plazos de espera, con más efecto directo y datos oficiales. No se verificó la cifra de la AIReF sobre Aragón (6,1 %)."
+  },
+  {
+   "expediente": "ampliacion-b-salf-t0068",
+   "motivo": "Psicología en 15 días: la propuesta no está en nuestro archivo y es una medida menor frente a las elegidas."
+  },
+  {
+   "expediente": "ampliacion-b-salf-t0045",
+   "motivo": "Pruebas de edad a menores: inmigración ya tiene contraste (expulsiones) y la propuesta no está en nuestro archivo."
+  },
+  {
+   "expediente": "ampliacion-d-salf-t0052",
+   "motivo": "Mochila del 1,53 % (salf-empleo-2): en empleo se eligió la cuota cero de autónomos, de mayor coste y alcance. El expediente solo aporta la web del Gobierno austriaco, que no se abrió."
+  },
+  {
+   "expediente": "ampliacion-f-salf-t0004",
+   "motivo": "Suelo público y 100.000 viviendas: variante de la promesa de vivienda ya contrastada (salf-vivienda-1)."
+  },
+  {
+   "expediente": "ampliacion-i-salf-t0013",
+   "motivo": "Registro público de reincidentes sexuales: seguridad ya tiene contraste y la propuesta no está en nuestro archivo."
+  },
+  {
+   "expediente": "ampliacion-i-salf-t0016",
+   "motivo": "Plan Estrecho: seguridad ya tiene contraste. El expediente apunta que el programa atribuye a narcolanchas cuatro muertes de guardias civiles de las que dos fueron una colisión entre patrulleras; no se verificó."
+  },
+  {
+   "expediente": "ampliacion-j-salf-t0100",
+   "motivo": "Aprendizaje remunerado desde los 15: en educación se eligió la ley para 20 años, con mejor base primaria."
+  },
+  {
+   "expediente": "ampliacion-j-salf-t0104",
+   "motivo": "Beca de 2.000 euros para FP: medida menor; el expediente se limita a una comprobación aritmética."
+  },
+  {
+   "expediente": "ampliacion-k-salf-t0019",
+   "motivo": "Justicia en 72 horas: usada solo como pista para la convocatoria de plazas de fiscal (corrupción); la promesa en sí pertenece a seguridad, que ya tiene contraste."
+  },
+  {
+   "expediente": "ampliacion-o-salf-t0064",
+   "motivo": "Cita médica en 48 horas: la propuesta no está en nuestro archivo; en sanidad se contrastó la de plazos máximos de espera."
+  },
+  {
+   "expediente": "territorial-salf-retorno",
+   "motivo": "Misma promesa que salf-inmigracion-1, ya contrastada: solo se aprovecha el dato anual de Eurostat (tarea B)."
+  },
+  {
+   "expediente": "territorial-salf-irpf",
+   "motivo": "Misma promesa que salf-impuestos-1, ya contrastada: se aprovecha la ley de la AIReF (tarea B) y sirve de pista para salf-territorio-2. No se verificó la afirmación sobre el mínimo personal de 5.550 euros (Ley 35/2006)."
+  },
+  {
+   "expediente": "ampliacion-f-salf-vivienda-01",
+   "motivo": "Misma promesa que salf-vivienda-1: solo se aprovecha la página de la Agencia Tributaria (tarea B). El Informe Anual 2025 del Banco de España citado no se abrió."
+  },
+  {
+   "expediente": "ampliacion-b-salf-t0096",
+   "motivo": "Usado como pista en salf-educacion-1; sus conclusiones no se copian."
+  }
+ ]
+}

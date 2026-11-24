@@ -1,0 +1,177 @@
+{
+ "aplicados": [
+  {
+   "donde": "podemos-vivienda-1/resumen",
+   "cambio": "atribución: «Cuando estuvo en el Gobierno pactó una ley» → decisión del Gobierno de coalición, cartera de Transportes"
+  },
+  {
+   "donde": "podemos-vivienda-1/resumen",
+   "cambio": "rango 0,7%-4,9% mezclado → cifras con su periodo y ámbito, y +1% del total catalán"
+  },
+  {
+   "donde": "podemos-vivienda-1/puntos.historial",
+   "cambio": "por de historial: «logró» → decisión del Gobierno de coalición (nivel sin tocar)"
+  },
+  {
+   "donde": "podemos-vivienda-1/e3/titulo",
+   "cambio": "e3: título «no ha subido» → matizado con el +1% total"
+  },
+  {
+   "donde": "podemos-vivienda-1/e3/hecho",
+   "cambio": "e3: añadido +1% total, +2,4% m² Barcelona y cifras de la nota de marzo de 2025"
+  },
+  {
+   "donde": "podemos-vivienda-1/e3/nota",
+   "cambio": "e3: nota con la fuente primaria de 3,7%"
+  },
+  {
+   "donde": "podemos-impuestos-2/resumen",
+   "cambio": "atribución: «impulsó» → aprobó el Gobierno de coalición"
+  },
+  {
+   "donde": "podemos-impuestos-2/e1/titulo",
+   "cambio": "e1: título atribuía la creación a Podemos → Gobierno de coalición"
+  },
+  {
+   "donde": "podemos-impuestos-2/antecedentes",
+   "cambio": "antecedentes: la propuesta de 2024 era temporal"
+  },
+  {
+   "donde": "podemos-impuestos-2/e7/hecho",
+   "cambio": "e7: añadido que era temporal y el 75% adicional"
+  },
+  {
+   "donde": "podemos-impuestos-2/puntos.coherencia",
+   "cambio": "por coherencia: matizada la temporalidad de 2024 y e8 (nivel sin tocar)"
+  },
+  {
+   "donde": "podemos-empleo-1/resumen",
+   "cambio": "atribución: SMI 2020-2023 descrito como decisión del Gobierno de coalición, cartera de Trabajo"
+  },
+  {
+   "donde": "podemos-empleo-1/e1/hecho",
+   "cambio": "e1: atribución neutral"
+  },
+  {
+   "donde": "podemos-empleo-1/e11/hecho",
+   "cambio": "e11: aclarado que las cifras salen del informe sobre pensiones"
+  },
+  {
+   "donde": "podemos-empleo-1/e11/hecho",
+   "cambio": "e11: añadido «negativo, pero moderado» y compensación por cotizaciones"
+  },
+  {
+   "donde": "podemos-empleo-1/puntos.datos",
+   "cambio": "por datos: matiz AIReF (nivel sin tocar)"
+  },
+  {
+   "donde": "podemos-igualdad-2/e12",
+   "cambio": "evidencia sobre quejas internas de Monedero eliminada → sin relación con la promesa; quedan 11 evidencias con ambos sentidos"
+  },
+  {
+   "donde": "podemos-igualdad-2/matiz",
+   "cambio": "matiz: frase sobre Monedero eliminada"
+  },
+  {
+   "donde": "podemos-igualdad-2/refutacion",
+   "cambio": "punto 3 sobre Monedero/Complutense eliminado y puntos renumerados"
+  },
+  {
+   "donde": "podemos-igualdad-2/puntos.coherencia",
+   "cambio": "por coherencia: referencia a Monedero eliminada"
+  },
+  {
+   "donde": "podemos-igualdad-2/resumen",
+   "cambio": "resumen: fecha de entrada en vigor (LO 1/2025, DF 38.ª)"
+  },
+  {
+   "donde": "podemos-energia-1/e7/hecho",
+   "cambio": "e7: art. 8.b completo"
+  },
+  {
+   "donde": "podemos-energia-1/e7/nota",
+   "cambio": "e7: dispensa 4.2 no aplica a Repsol"
+  },
+  {
+   "donde": "podemos-energia-1/refutacion",
+   "cambio": "refutación: sustituida «la CNMV puede dispensar»"
+  },
+  {
+   "donde": "podemos-exterior-1/e7/titulo",
+   "cambio": "e7: título corregido (era un referéndum)"
+  },
+  {
+   "donde": "podemos-exterior-1/resumen",
+   "cambio": "atribución: gasto y destructores = Gobierno de coalición; voto probado solo en Presupuestos 2023"
+  },
+  {
+   "donde": "podemos-exterior-1/resumen",
+   "cambio": "resumen: «llevó la salida» → moción de referéndum"
+  },
+  {
+   "donde": "podemos-exterior-1/antecedentes",
+   "cambio": "antecedentes: Presupuestos 2021-2023 → solo 2023 (probado)"
+  },
+  {
+   "donde": "podemos-exterior-1/matiz",
+   "cambio": "matiz: atribución al Gobierno de coalición"
+  },
+  {
+   "donde": "podemos-exterior-1/puntos.historial",
+   "cambio": "por historial: atribución (nivel sin tocar)"
+  },
+  {
+   "donde": "podemos-exterior-1/e5/titulo",
+   "cambio": "e5: título neutral"
+  }
+ ],
+ "no_aplicados": [
+  {
+   "donde": "podemos-energia-1/e5 y e4",
+   "motivo": "Confianza baja: no se pudo leer el cuerpo de los BOCG; queda como pendiente aclarar si el veto del Gobierno y el texto de e4 son el mismo expediente (122/000236)."
+  },
+  {
+   "donde": "evidencias redundantes o poco pertinentes (vivienda e7, e11, e12; impuestos e3, e10; empleo e5, e8, e12; instituciones e2, e12; energía e11; exterior e1, e2, e12)",
+   "motivo": "Cada una sostiene afirmaciones del resumen, antecedentes o refutación para las que no queda otra evidencia equivalente; retirarlas exigiría reescribir esos textos. Se deja a criterio del editor."
+  },
+  {
+   "donde": "podemos-exterior-1/e3, e7, e9 y podemos-empleo-1/e11 (cifras)",
+   "motivo": "No se pudieron contrastar con el original (PDF ilegibles o sin Diario de Sesiones); no hay cambio que aplicar, solo la verificación pendiente."
+  },
+  {
+   "donde": "podemos-vivienda-1/e2 (fuente_primaria 4,9%)",
+   "motivo": "La URL ya es la nota oficial de Moncloa que dice 4,9%; no se sustituye. La discrepancia con la nota de marzo de 2025 (3,7%) se recoge en e3."
+  }
+ ],
+ "niveles_a_decidir": [
+  {
+   "donde": "podemos-empleo-1/puntos.historial",
+   "nivel_actual": 3,
+   "nivel_propuesto": 2,
+   "motivo": "El SMI 2020-2023 lo fijó el Gobierno a propuesta de Trabajo (no de Podemos) y no se alcanzaron los 1.200 euros que Podemos pedía; con el criterio único solo cuenta lo que dependía de sus ministerios o votó.",
+   "confianza": "media"
+  },
+  {
+   "donde": "podemos-exterior-1/puntos.historial",
+   "nivel_actual": 1,
+   "nivel_propuesto": null,
+   "motivo": "El aumento del gasto y los destructores fueron decisiones del Gobierno, no de ministerios de Podemos, y la salida de la OTAN no estaba prometida; solo consta su voto a los Presupuestos de 2023 (con rechazo verbal).",
+   "confianza": "media"
+  },
+  {
+   "donde": "podemos-vivienda-1/puntos.historial",
+   "nivel_actual": 2,
+   "nivel_propuesto": null,
+   "motivo": "La Ley 12/2023 fue tramitada por Transportes (no de Podemos); no se ha comprobado el voto de Podemos en su aprobación. Alternativa: mantener 2 si el editor considera la ley como decisión de la coalición.",
+   "confianza": "baja"
+  },
+  {
+   "donde": "podemos-impuestos-2/puntos.coherencia",
+   "nivel_actual": 4,
+   "nivel_propuesto": 3,
+   "motivo": "La propuesta de 2024 era temporal (hasta 2025, permanencia opcional) y la recuperación del rescate prometida en 2019 no entró en el pacto de coalición.",
+   "confianza": "media"
+  }
+ ],
+ "estados_a_decidir": []
+}

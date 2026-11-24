@@ -1,0 +1,162 @@
+{
+ "ambito": "salf",
+ "revisadas_con_enlace": 26,
+ "no_se_pudieron_abrir": [
+  "salf-vivienda-1/e3 (EUR-Lex devuelve página vacía; solo corroborado por búsqueda: máximo siete puntos del anexo III y vivienda como punto 10)",
+  "salf-instituciones-2/e3 (Deia, HTTP 406; Ara sí abierta)",
+  "salf-instituciones-4/e1 (Vozpópuli no abierto)",
+  "salf-instituciones-4 Newtral 14-5-2025 (HTTP 403, solo extracto de buscador)",
+  "salf-inmigracion-1/e5 acta nominal del Parlamento Europeo (voto de Alvise no localizado)",
+  "salf-vivienda-1/e2, e5 contenido ley 22/2009 no reabierto",
+  "salf-impuestos-1/e2",
+  "salf-instituciones-2/e5, e6, e4(SWI; verificada la audiencia por EFE Verifica)"
+ ],
+ "hallazgos": [
+  {
+   "donde": "salf-instituciones-4/resumen, refutacion, puntos.historial, e4",
+   "tipo": "falta_evidencia",
+   "gravedad": "alta",
+   "confianza": "alta",
+   "problema": "El contraste afirma que no consta ninguna entrega posterior a octubre de 2025 y puntúa historial 1 'por falta de datos'. Existe una donación posterior y verificable por el receptor: 25.000 euros en octubre de 2026 a ELAdos (de un total de 50.000, el resto previsto para enero), a donde fue a parar el dinero que rechazó la Fundación de Huérfanos. Alvise declara además haber donado 'cerca de 170.000 euros' (cifra propia, sin verificación independiente).",
+   "comprobado_en": "https://theobjective.com/espana/politica/2026-11-18/alvise-dona-sueldo-ela-sabate/",
+   "que_dice_la_fuente": "50.000 euros en dos plazos de 25.000 (el primero en octubre de 2026, el segundo previsto en enero) a ELAdos, la asociación de Jordi Sabaté, que lo hizo público en un tuit el 24-10-2026 sin nombrar al donante; Alvise dijo en la presentación del programa que había dado 'cerca de 170.000 euros' en dos años; el artículo no cita auditoría ni desglose.",
+   "correccion": {
+    "evidencia_nueva": {
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Donación de 25.000 euros a ELAdos en octubre de 2026",
+     "hecho": "The Objective informa el 18-11-2026 de que Alvise Pérez ha donado 25.000 euros de un total de 50.000 (segundo plazo previsto en enero) a ELAdos, asociación de Jordi Sabaté, que lo comunicó el 24-10-2026. Es el dinero que había rechazado la Fundación de Huérfanos de la Policía. Alvise afirma haber donado cerca de 170.000 euros desde que es eurodiputado; no hay verificación independiente ni desglose.",
+     "fecha": "2026-11-18",
+     "fuente": "The Objective",
+     "url": "https://theobjective.com/espana/politica/2026-11-18/alvise-dona-sueldo-ela-sabate/",
+     "estado_judicial": null,
+     "fuente_unica": false
+    },
+    "resumen": "Sustituir 'No se ha encontrado prueba de más entregas' por: consta una entrega de 25.000 euros en octubre de 2026 (ELAdos); el total declarado por él (170.000 euros) no está verificado. Quitar de la refutación 'dos búsquedas más no encontraron ... donación aceptada ... posterior a octubre de 2025'.",
+    "puntos.historial": "Reconsiderar a nivel 2: con un sueldo neto de 8.088 euros/mes, 170.000 euros serían del orden de tres cuartas partes del neto acumulado, pero solo hay dos sorteos y 25.000 euros comprobables por un tercero; el nivel 1 se apoyaba en 'falta de datos', que ya no es cierta."
+   }
+  },
+  {
+   "donde": "salf-instituciones-4/e3",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "La evidencia dice 'segundo sorteo anunciado el 1 de octubre de 2024' y 'segunda ganadora, de Avilés'. La fuente no lo dice: informa de que ha hecho el sorteo en dos ocasiones (sin fechas) y de que el 1-10 subió un vídeo llamando a una mujer de Avilés que 'supuestamente' ganó el sueldo. No la llama segunda ganadora ni da fecha de los sorteos.",
+   "comprobado_en": "https://www.moncloa.com/2024/10/03/alvise-perez-sueldo-cryptospain-2910061/",
+   "que_dice_la_fuente": "'ha realizado el sorteo en dos ocasiones' (sin fechas); vídeo del 1-10-2024 llamando a una mujer de Avilés, que 'supuestamente' habría ganado el sueldo; mensaje de 17-6-2024 por Sigmal a Romillo: usar el sorteo 'vía tu empresa para que quien sea lo cobre sin pagar impuestos', con la nota de que 'es arriesgado'.",
+   "correccion": "Titulo: 'Dos sorteos hechos a 3 de octubre de 2024'. Hecho: 'Según Moncloa.com, a 3-10-2024 Alvise Pérez había sorteado su sueldo en dos ocasiones; el 1 de octubre publicó un vídeo llamando a una mujer de Avilés que supuestamente ganó. El mismo medio publicó mensajes de 17-6-2024 en los que proponía a Álvaro Romillo canalizar el sorteo por una de sus empresas.' Corregir también antecedentes ('segundo sorteo anunciado el 1 de octubre'). Además, e2 (Ara, 28-8-2024) habla de un ganador asturiano y e3 de una mujer de Avilés (Asturias): conviene aclarar si son sorteos distintos."
+  },
+  {
+   "donde": "salf-instituciones-2/e9",
+   "tipo": "fuente_primaria",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "La evidencia se apoya en elDiario.es (enlace corto) y reconoce no haber abierto el informe. El informe oficial está en el Congreso. Confirma lo esencial (SALF no presentó contabilidad; propuesta de no adjudicación; aprobado 26-6-2025) pero NO contiene la cifra de 962.350,26 euros: esa cifra es de elDiario, no del informe.",
+   "comprobado_en": "https://www.congreso.es/docu/inf_fiscTC/LegXV/251-167.pdf",
+   "que_dice_la_fuente": "Informe nº 1.628, aprobado por el Pleno el 26-6-2025: 'La agrupación de electores \"Se Acabó la Fiesta\" (SALF) no ha presentado la contabilidad electoral, en contra de lo dispuesto en el artículo 133.1 de la LOREG'; el plazo 'concluyó el 12 de octubre de 2024'; IV.1 propuesta de no adjudicación de las subvenciones. No aparece la cifra 962.350,26.",
+   "correccion": "Cambiar url a https://www.congreso.es/docu/inf_fiscTC/LegXV/251-167.pdf, fuente 'Tribunal de Cuentas, Informe 1.628 (Congreso)', tipo informe_independiente, y atribuir la cifra de 962.350,26 euros a elDiario.es (30-8-2025), no al informe. Añadir que el plazo legal terminó el 12-10-2024."
+  },
+  {
+   "donde": "salf-instituciones-2/e1 (estado_judicial)",
+   "tipo": "judicial",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "Un solo valor 'investigado' cubre cinco causas abiertas y una sexta (falsa prueba covid de Illa) que ha sido sobreseída el 5-11-2026 por falta de indicios de falsificación y de que conociera la falsedad; el auto es recurrible, por lo que su estado es 'archivado' (no firme), no 'investigado'. El resto de datos de e1 coinciden con la fuente (quinto suplicatorio por provocación a desórdenes públicos, 5-11-2026, magistrada Lamela; hechos de 6-10 febrero 2024, anteriores a su escaño).",
+   "comprobado_en": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-pide-un-quinto-suplicatorio-contra--Alvise--Perez-por-delito-de-provocacion-a-desordenes-publicos",
+   "que_dice_la_fuente": "Quinto suplicatorio por provocación a desórdenes públicos (Telegram, 6-10 febrero 2024); en auto distinto, el magistrado Javier Hernández sobresee la causa por falsedad e injurias: no hay indicios suficientes; queda la vía civil. Democrata (https://www.democrata.es/tribunales/el-supremo-archiva-la-causa-contra-alvise-por-la-pcr-falsa-de-illa-al-no-ver-indicios-suficientes/): recurrible ante el instructor o la Sala.",
+   "correccion": "Separar el estado por causa en el hecho: financiación ilegal y delito electoral (suplicatorio concedido 19-5-2026), acoso a la fiscal (concedido 28-4-2026), acoso/revelación de secretos a dos eurodiputados (recibido por el Parlamento el 15-6-2026, sin resolución encontrada), coacciones al alcalde de Algeciras (pedido 21-7-2026, pendiente) y provocación a desórdenes públicos (pedido 5-11-2026): todas 'investigado'; falsa prueba covid de Illa: 'archivado' (sobreseimiento no firme, 5-11-2026). Añadir que el primer suplicatorio (fiscal) se pidió en julio de 2025."
+  },
+  {
+   "donde": "salf-instituciones-2/resumen y e1",
+   "tipo": "contexto",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "La promesa es sobre aforamientos y corrupción. De las cinco causas abiertas solo la de financiación ilegal/delito electoral tiene relación con corrupción o transparencia. Las otras (acoso a una fiscal, acoso a dos eurodiputados, coacciones a un alcalde, provocación a desórdenes públicos) no son delitos de corrupción; su relación con la promesa es solo que el fuero ante el Supremo es el que ahora disfruta el líder. El resumen las presenta en bloque ('cinco suplicatorios') dentro de un contraste anticorrupción.",
+   "comprobado_en": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-instructor-del-Tribunal-Supremo-eleva-suplicatorio-a-la-Eurocamara-para-suspender-la-inmunidad-del-eurodiputado--Alvise--Perez-en-la-causa-por-presuntas-coacciones-al-alcalde-de-Algeciras",
+   "que_dice_la_fuente": "Coacción (art. 172.1 CP) o amenazas condicionales (art. 169.1) por mensajes de Telegram entre octubre de 2024 y diciembre de 2025 que pedían la dimisión del alcalde; instructor Antonio del Moral; cuarto suplicatorio (21-7-2026).",
+   "correccion": "En resumen y e1 indicar qué causa guarda relación con la promesa (financiación, e2) y que las otras cuatro investigan presuntos delitos de acoso, coacciones y desórdenes, no de corrupción; justificar su presencia solo como ejemplo de fuero/inmunidad (o reducir e1 a ese papel). En matiz, 'los hechos son en su mayoría anteriores a su escaño' es cierto solo en 3 de 5: acoso a eurodiputados (2025) y Algeciras (oct 2024-dic 2025) se solapan con el mandato; precisar."
+  },
+  {
+   "donde": "salf-instituciones-2/e2",
+   "tipo": "contexto",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "Falta un dato del auto que figura en la misma nota del CGPJ y que matiza el relato: Alvise declaró que gastó en torno al 50 % del dinero en gastos del partido (viajes, comidas) y que era el pago de una charla en el hipódromo de Madrid; el instructor la califica de 'poco verosímil'. Se recoge lo segundo pero no lo primero, que es parte de su versión.",
+   "comprobado_en": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-instructor-del-Tribunal-Supremo-solicita-el-suplicatorio-de--Alvise--Perez-al-Parlamento-Europeo-en-la-causa-por-delito-electoral-y-financiacion-ilegal-de-su-partido",
+   "que_dice_la_fuente": "Delitos provisionales: financiación ilegal de partidos (art. 304 bis.1 CP) y delito electoral (art. 149.1 LOREG); el empresario denunciante dice que el dinero se entregó en efectivo en una mochila; Pérez declaró que era pago de una conferencia y que gastó en torno al 50 % en gastos del partido; instructor Julián Sánchez Melgar; suplicatorio el 14-10-2025.",
+   "correccion": "Añadir en e2: 'Según el auto, Pérez declaró que había gastado en torno al 50 % en gastos del partido (viajes, comidas). Delitos calificados provisionalmente: financiación ilegal de partidos (art. 304 bis.1 CP) y delito electoral (art. 149.1 LOREG).'"
+  },
+  {
+   "donde": "salf-instituciones-2/e3",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "El hecho da 676 euros 'según EFE', pero la fuente enlazada (Ara) dice 'aproximadamente 600 euros' y no menciona la cifra de 676 ni 'dietas de estancia'; no se pudo abrir Deia (HTTP 406). La sanción (31-3-2025, retirada de dos dietas por no declarar todos sus ingresos) sí coincide.",
+   "comprobado_en": "https://en.ara.cat/politics/the-european-parliament-sanctions-alvise-perez-salf-for-not-declaring-all-his-income_25_5333838.html",
+   "que_dice_la_fuente": "'the European Parliament withdrew two of his allowances, the equivalent of approximately 600 euros'; sanctioned for not having declared all of his income; no response from him in the article.",
+   "correccion": "Poner 'unos 600 euros' (Ara) o enlazar la fuente que dé los 676 euros. Añadir fuente primaria de la decisión de la presidenta si se localiza."
+  },
+  {
+   "donde": "salf-inmigracion-1/antecedentes y e6",
+   "tipo": "redaccion",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Antecedentes dice 'en 2025 presentó una enmienda en total y faltó a un tercio de las sesiones'. El Debate da la enmienda como dato de 2025 pero no fija periodo para el 33,2 % de ausencias ni para las 23 intervenciones; atribuirlas a 2025 no está sostenido. Además, la fuente atribuye también que 'ningún grupo le admitió' tras perder la inmunidad.",
+   "comprobado_en": "https://www.eldebate.com/espana/20260504/asi-ganan-sueldo-135000-euros-eurodiputados-1600-enmiendas-mendia-unica-alvise_413007_amp.html",
+   "que_dice_la_fuente": "'una única enmienda a lo largo de 2025'; 'ha faltado a un tercio de las sesiones (33,2 %)' sin periodo; 23 intervenciones, media española 34,3, sin año; puesto 714 de 720 (Burson) sin año.",
+   "correccion": "Reescribir: 'En 2025 presentó una enmienda; según El Debate (4-5-2026) ha faltado a un tercio de las sesiones (33,2 %, periodo no indicado) y ha intervenido 23 veces en el pleno'. Mantener fuente_unica true."
+  },
+  {
+   "donde": "salf-inmigracion-1/e5 y antecedentes",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "baja",
+   "problema": "Falta el voto de Alvise Pérez en el reglamento de retorno, que es el hecho de historial parlamentario más pertinente. Hubo dos votaciones: 26-3-2026 (posición del Parlamento, 389 a favor, 206 en contra, 32 abstenciones) y 17-6-2026 (definitiva, 418-218-30). No pude abrir el acta de votaciones nominales (PV RCV) ni encontrar su voto en prensa; se deja como laguna, no como hallazgo cerrado. El resto de e5 (17-6-2026, 418/218/30, 24 meses, centros en terceros países; Consejo 1-10-2026 con España única en contra) coincide con las fuentes.",
+   "comprobado_en": "https://www.publico.es/internacional/europa/parlamento-europeo-aprueba-reglamento-deportacion-migrantes-terceros-paises.html",
+   "que_dice_la_fuente": "26-3-2026: 389 votos a favor, 206 en contra y 32 abstenciones (posición del Parlamento antes del primer trílogo); no menciona a Alvise ni a SALF. El Salto (17-6-2026): 418-218-30, internamiento hasta 24 meses (30 en casos concretos). Euronews 1-10-2026: España, único Estado en contra.",
+   "correccion": "Antes de publicar, consultar el acta nominal https://www.europarl.europa.eu/doceo/document/PV-10-2026-06-17-RCV_ES.html (no abierta por mí) y añadir una evidencia 'votacion' con su voto y el del 26-3-2026. Si no se localiza, dejar la frase 'no se ha podido comprobar su voto' y no usar 'actividad escasa' como argumento de coherencia."
+  },
+  {
+   "donde": "salf-impuestos-1/e3 y antecedentes",
+   "tipo": "contexto",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "Se presenta como cambio de cifra 'de 30.000 a 35.000 euros' (y 'trece meses después') dos medidas distintas: en 2025, tipo 0 % de IRPF para quien cobre menos de 30.000 euros; en 2026, mínimo exento de 35.000 euros para todos con reducción gradual hasta 50.000. No son comparables cifra a cifra. Tampoco se menciona en promesa/resumen la reducción gradual hasta 50.000 euros que figura en la misma propuesta.",
+   "comprobado_en": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/",
+   "que_dice_la_fuente": "'Propone un 0% de IRPF para quien cobre menos de 30.000 euros' y rebajar medio punto por hijo. Programa 2026 (pág. 12): 'Mínimo exento de 35.000 euros (hoy, 5.550), con reducción gradual hasta 50.000 para que ganar un euro más nunca cueste dinero'.",
+   "correccion": "Reformular e3: 'En 2025 proponía un 0 % de IRPF para quien ganara menos de 30.000 euros; en 2026 propone un mínimo exento de 35.000 euros para todos, con reducción gradual hasta 50.000. Son diseños distintos de la misma idea.' Añadir a resumen la reducción gradual hasta 50.000. Revisar coherencia 3 (cambio de diseño, no contradicción)."
+  },
+  {
+   "donde": "salf-impuestos-1/e4 y puntos.viabilidad",
+   "tipo": "clasificacion",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "e4 trata otra propuesta (exigir tres quintos para subir impuestos, pág. 13), no la rebaja del IRPF. El propio hecho admite que la rebaja se aprueba por ley ordinaria, pero 'por' de viabilidad lo usa como razón de la nota ('la regla de los tres quintos exige reformar la Constitución'), lo que mezcla promesas.",
+   "comprobado_en": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+   "que_dice_la_fuente": "El programa (pág. 13): 'Toda subida de impuestos exigirá tres quintos del Congreso (reforma constitucional)'. Es medida distinta de 'Nadie paga IRPF por los primeros 35.000 euros'.",
+   "correccion": "Quitar e4 de este contraste (o dejarlo como contexto sin peso) y sustituir en puntos.viabilidad la frase por: 'La rebaja se aprueba por ley ordinaria, pero depende de ahorros autonómicos no controlados por el Estado (e1, e2) y reduce ingresos cedidos a las comunidades.'"
+  },
+  {
+   "donde": "salf-vivienda-1/e5",
+   "tipo": "contexto",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "El cálculo (IVA 10 % + AJD ≈ 1 %, 'una décima parte') solo contempla vivienda nueva. La promesa es para toda primera vivienda y el programa cita ITP, que es el impuesto de la vivienda usada y varía por comunidad. No se informa de ese caso, lo que sesga el contraste en 'datos' hacia 'no llega al 35 %'. Además la evidencia es un cálculo propio marcado como 'contradice'.",
+   "comprobado_en": "https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740",
+   "que_dice_la_fuente": "Ley 37/1992, art. 91: 10 % general para entrega de viviendas y 4 % para VPO de régimen especial; el ITP no figura en esa ley (lo fijan las comunidades, Ley 22/2009).",
+   "correccion": "Añadir en e5 que para vivienda usada el impuesto es el ITP autonómico (no el IVA), con tipos distintos por comunidad (dato por buscar en la Agencia Tributaria o normativa autonómica), y presentarlo como 'contexto' con la nota 'cálculo propio'."
+  },
+  {
+   "donde": "salf-vivienda-1/refutacion; salf-impuestos-1/refutacion; salf-instituciones-4/refutacion",
+   "tipo": "redaccion",
+   "gravedad": "baja",
+   "confianza": "alta",
+   "problema": "Los textos de cara al lector incluyen comentarios de proceso que no son contenido: 'el presupuesto de búsquedas se agotó', 'las direcciones probadas devolvieron error', 'Revisión de 24-11-2026: ...', 'PDF ilegible para la herramienta'.",
+   "comprobado_en": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+   "que_dice_la_fuente": "(Aplica a la redacción interna del JSON; no a una fuente.)",
+   "correccion": "Mover esas frases a 'nota' interna o sustituirlas por 'No se halló informe independiente sobre esta medida'."
+  }
+ ],
+ "valoracion_general": "Los asuntos judiciales de Alvise Pérez están en general bien recogidos y fechados: confirmo el quinto suplicatorio (5-11-2026), las dos concesiones (28-4 y 19-5-2026) y que ninguna causa ha pasado de investigación; el fallo es que el estado se resume en un solo valor y que cuatro de las cinco causas no son de corrupción. Lo más flojo es el contraste del sueldo (salf-instituciones-4): su base negativa ('sin pruebas de más entregas') quedó desfasada por la donación de octubre de 2026 y el nivel de historial 1 es provisional y no sostenido. El bloque no tiene historial de gobierno y apenas actividad parlamentaria comprobable: no se pudo localizar ningún voto nominal de Alvise en el Parlamento Europeo (ni sobre el reglamento de retorno), de modo que 'coherencia' descansa en discursos y en datos de actividad con periodos poco precisos. Los niveles de viabilidad y datos se deducen razonablemente de las evidencias; el único ajuste de un nivel entero que propongo es historial en instituciones-4."
+}

@@ -1,0 +1,95 @@
+{
+ "aplicados": [
+  {
+   "donde": "pp-vivienda-1/e9",
+   "cambio": "hecho: una sola cifra 184-166 para los dos decretos → recuento separado (178-172 y 184-166), partidos y contenido; url Idealista"
+  },
+  {
+   "donde": "pp-vivienda-1/e8 y antecedentes y puntos.coherencia.por",
+   "cambio": "«El PP no apoyó / rechazó la Ley del Suelo» → retirada antes de votar; el PP no garantizó su abstención; quitada la afirmación sobre una reforma propia no comprobada"
+  },
+  {
+   "donde": "pp-vivienda-1/e10",
+   "cambio": "«viviendas libres» → «obra nueva»; aviso de no comparabilidad con las 92.000 de 2025"
+  },
+  {
+   "donde": "pp-vivienda-1/e1.nota",
+   "cambio": "dato de mano de obra «no se localizó» → comprobado en el artículo"
+  },
+  {
+   "donde": "pp-impuestos-1/e1 y antecedentes",
+   "cambio": "recargo «2012 y 2013» → prorrogado a 2014 (Ley 22/2013)"
+  },
+  {
+   "donde": "pp-instituciones-1/e3 y refutacion",
+   "cambio": "«en los tres casos el PP estaba en la oposición» → 1996 se renovó con el PP ya gobernando; añadido 2001 (PSOE)"
+  },
+  {
+   "donde": "pp-pensiones-1/e8 y refutacion",
+   "cambio": "«no se localizó la cifra» → 1,35 % adicional y 3 % en mínimas (La Moncloa); url BOE se mantiene"
+  },
+  {
+   "donde": "pp-inmigracion-1/e1 y refutacion",
+   "cambio": "total 524.621 «de prensa» → señalado que no cuadra con sus partidas (≈458.000)"
+  },
+  {
+   "donde": "pp-inmigracion-1 (e6, e7 nuevas, resumen, refutacion)",
+   "cambio": "añadidas solicitudes 2026 (1,2 millones) y estimación de la AIReF; «sin evaluación independiente» matizado"
+  },
+  {
+   "donde": "pp-igualdad-1/e3, resumen, antecedentes, refutacion, puntos.historial.por y coherencia.por",
+   "cambio": "ley madrileña de 2016 «del PP» → impulsada por PSOE, Podemos y Cs con el PP en el Gobierno regional; voto del PP sin comprobar"
+  },
+  {
+   "donde": "pp-igualdad-1/e6 y resumen",
+   "cambio": "«preceptos anulados» → precisado que el anulado en Madrid trata de asociaciones LGTBI, no de autodeterminación"
+  },
+  {
+   "donde": "pp-igualdad-1/e2.nota y refutacion",
+   "cambio": "«no pude confirmar si hubo sentencia» → sin resolver a 5-9-2026 según El Debate (fuente única)"
+  }
+ ],
+ "no_aplicados": [
+  {
+   "donde": "pp-impuestos-1/e8 y pp-pensiones-1/e7",
+   "motivo": "fuente_primaria AIReF: la URL de airef.es dio error de certificado y no pude abrirla; se mantiene Bolsamania/Europa Press."
+  },
+  {
+   "donde": "pp-inmigracion-1/e1 (contexto Ley 4/2000)",
+   "motivo": "La URL de respaldo (Eurofound) devolvió error 429; no abierta."
+  },
+  {
+   "donde": "pp-instituciones-2 (falta evidencia ORGA, RD 948/2015)",
+   "motivo": "Solo conocida por resultados de búsqueda; no abrí el BOE."
+  },
+  {
+   "donde": "pp-igualdad-1/e3 sentido",
+   "motivo": "Se mantiene «contradice» aunque la ley fue impulsada por la oposición; si se confirma la abstención del PP, el editor debería valorar pasarlo a «contexto» (quedaría sin evidencia que contradiga)."
+  },
+  {
+   "donde": "pp-impuestos-1/e8 componente",
+   "motivo": "Hallazgo de confianza baja (relevancia); no aplicado."
+  },
+  {
+   "donde": "pp-instituciones-2/e3, e6, e8",
+   "motivo": "Sin hallazgo; no tocadas."
+  }
+ ],
+ "niveles_a_decidir": [
+  {
+   "donde": "pp-igualdad-1/puntos.coherencia",
+   "nivel_actual": 2,
+   "nivel_propuesto": 3,
+   "motivo": "La ley madrileña de 2016 la impulsó la oposición y el PP no la promovió (su propia proposición fue rechazada); si se confirma la abstención, no hay cambio de posición documentado.",
+   "confianza": "baja"
+  },
+  {
+   "donde": "pp-igualdad-1/puntos.historial",
+   "nivel_actual": 2,
+   "nivel_propuesto": 2,
+   "motivo": "Sin cambio propuesto, pero e3 ya no demuestra que el PP aprobara la autodeterminación en Madrid; el editor debe revisar si el 2 sigue justificado.",
+   "confianza": "baja"
+  }
+ ],
+ "estados_a_decidir": []
+}

@@ -1,0 +1,64 @@
+{
+ "aplicados": [
+  {
+   "donde": "vox-inmigracion-3/e10",
+   "cambio": "sin evidencia de Valencia → nueva evidencia de la prioridad nacional pactada en las Corts Valencianes (julio 2026); refutacion, resumen y por del historial ajustados"
+  },
+  {
+   "donde": "vox-impuestos-1/e7, e8",
+   "cambio": "historial solo con pactos de 2026 → añadidas rebajas de 2023-24 (Extremadura con BOE, verificado; Aragón con prensa, verificado false y fuente_unica true); resumen y por del historial ajustados"
+  },
+  {
+   "donde": "vox-inmigracion-2/e3",
+   "cambio": "«La UE aprobó el 1-6-2026» y España único voto en contra → acuerdo provisional 1-6, Parlamento 17-6, Consejo 1-10-2026; el voto en contra de España fue en diciembre de 2025; fuente_unica false; resumen coherente"
+  },
+  {
+   "donde": "vox-igualdad-1/e10",
+   "cambio": "historial sin Andalucía → nueva evidencia de contexto y frase en el resumen sobre lo que Vox gestiona y lo que no puede cambiar"
+  },
+  {
+   "donde": "vox-vivienda-1/e9",
+   "cambio": "sin el voto de 2026 sobre IVA → nueva evidencia de contexto (moción del PP para IVA del 4%, apoyada por Vox) y frase en el resumen"
+  },
+  {
+   "donde": "vox-vivienda-1/e1/nota",
+   "cambio": "quitado el comentario de proceso «El editor debería contrastarlo con un fiscalista»"
+  },
+  {
+   "donde": "vox-instituciones-2/e7",
+   "cambio": "firmeza de la sentencia de CCOO afirmada → la crónica no confirma que fuera firme; refutacion sin comentarios de proceso"
+  },
+  {
+   "donde": "vox-inmigracion-3/e5 y vox-inmigracion-2/e7",
+   "cambio": "sin aclarar el título oficial de la moción del 22-4-2026 → nota con el título oficial y aviso de que el contenido procede de prensa"
+  },
+  {
+   "donde": "vox-impuestos-1/refutacion y vox-igualdad-1/refutacion",
+   "cambio": "quitada la frase «(límite de búsquedas)»; lo no verificado sigue dicho de forma neutra"
+  }
+ ],
+ "no_aplicados": [
+  {
+   "donde": "vox-vivienda-1 (Murcia, Fomento 2023-24)",
+   "motivo": "Confianza baja y sin URL abierta: pendiente de revisar el BORM; no se añade nada."
+  },
+  {
+   "donde": "vox-vivienda-1 (iniciativa de IVA cero rechazada con abstención de PP y UPN)",
+   "motivo": "Solo vi el titular de Idealista en un buscador; sin fecha ni URL abierta, no se añade."
+  },
+  {
+   "donde": "vox-vivienda-1/e7 (déficit del Banco de España)",
+   "motivo": "No pude abrir el informe; no se modifica."
+  }
+ ],
+ "niveles_a_decidir": [
+  {
+   "donde": "vox-impuestos-1/puntos.historial",
+   "nivel_actual": 2,
+   "nivel_propuesto": 2,
+   "motivo": "Se mantiene el 2; las rebajas de 2023-24 (BOE de Extremadura; Aragón solo prensa) se hicieron con Hacienda en manos del PP y no consta el papel concreto de Vox, así que no justifican subir el nivel.",
+   "confianza": "media"
+  }
+ ],
+ "estados_a_decidir": []
+}

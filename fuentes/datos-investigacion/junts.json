@@ -1,0 +1,639 @@
+{
+ "partido": "junts",
+ "programa": {
+  "titulo": "Programa electoral 29N. Eleccions generals · 29 de novembre de 2026 (Junts per Catalunya)",
+  "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf",
+  "paginas": 90,
+  "fecha": "2026-11-18"
+ },
+ "propuestas": [
+  {
+   "id": "junts-vivienda-1",
+   "tema": "vivienda",
+   "titulo": "Prohibir hasta 2028 que fondos y bancos compren vivienda",
+   "resumen": "Prohibir hasta 2028 que entidades financieras, sus inmobiliarias, fondos de inversión y gestoras de activos compren viviendas.",
+   "cita": "Prohibir fins al 2028 que les entitats financeres i les seves immobiliàries, els fons d’inversió i les entitats de gestió d’actius comprin habitatges.",
+   "pagina": 17,
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-vivienda-2",
+   "tema": "vivienda",
+   "titulo": "Deducción del 15% en el IRPF por alquiler",
+   "resumen": "Recuperar la deducción del 15% en el IRPF por alquiler de la vivienda habitual y por las cuotas de hipoteca.",
+   "cita": "Recuperar la deducció del 15% a l’IRPF pel lloguer de l’habitatge habitual.",
+   "pagina": 17,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-vivienda-3",
+   "tema": "vivienda",
+   "titulo": "Pagar al pequeño propietario el alquiler de vulnerables",
+   "resumen": "Si un inquilino vulnerable no paga, la Administración abona la deuda completa al propietario en dos meses con fondos del Estado.",
+   "cita": "Quan un llogater vulnerable no pugui pagar el lloguer, l’Administració ha d’abonar la totalitat del deute al propietari en un termini màxim de dos mesos, amb fons de l’Estat.",
+   "pagina": 17,
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": true,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-impuestos-1",
+   "tema": "impuestos",
+   "titulo": "Eliminar el impuesto de sucesiones y donaciones",
+   "resumen": "Suprimir el impuesto de sucesiones y donaciones.",
+   "cita": "Eliminar l’impost de successions i donacions.",
+   "pagina": 68,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-impuestos-2",
+   "tema": "impuestos",
+   "titulo": "Deflactar el IRPF y subir los mínimos personales",
+   "resumen": "Deflactar el IRPF, rebajar los primeros tramos y actualizar cada año los mínimos personales y familiares según la inflación.",
+   "cita": "Deflactar l’IRPF, rebaixar els primers trams, augmentar els mínims personals i familiars",
+   "pagina": 68,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-impuestos-3",
+   "tema": "impuestos",
+   "titulo": "Rebajar antes el impuesto de sociedades a pymes",
+   "resumen": "Acelerar la rebaja del impuesto de sociedades para pymes, microempresas y cooperativas.",
+   "cita": "Accelerar la rebaixa de societats per a pimes, microempreses i cooperatives.",
+   "pagina": 69,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-empleo-1",
+   "tema": "empleo",
+   "titulo": "Salario mínimo catalán hacia el 60% del salario medio",
+   "resumen": "Impulsar un salario mínimo propio de Cataluña que avance hacia el 60% del salario medio catalán, con diálogo social.",
+   "cita": "Impulsar un salari mínim català que avanci progressivament cap al 60% del salari mitjà català",
+   "pagina": 70,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-empleo-2",
+   "tema": "empleo",
+   "titulo": "Ampliar el límite de horas extraordinarias",
+   "resumen": "Ampliar el límite de horas extra, voluntarias, registradas y remuneradas, y mejorar su tratamiento fiscal.",
+   "cita": "Ampliar el límit d’hores extraordinàries perquè qui ho vulgui pugui treballar més i cobrar més",
+   "pagina": 70,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-empleo-3",
+   "tema": "empleo",
+   "titulo": "Frenar las subidas de cuotas de autónomos",
+   "resumen": "Frenar las subidas indiscriminadas de cuotas de autónomos y adecuar la cotización a los rendimientos reales.",
+   "cita": "Frenar les pujades indiscriminades de quotes dels autònoms i adequar la cotització als rendiments reals",
+   "pagina": 69,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-pensiones-1",
+   "tema": "pensiones",
+   "titulo": "Pensiones según el coste de la vida de Cataluña",
+   "resumen": "Garantizar pensiones públicas según el coste de la vida de Cataluña.",
+   "cita": "Garantir pensions públiques segons el cost de la vida de Catalunya.",
+   "pagina": 70,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-pensiones-2",
+   "tema": "pensiones",
+   "titulo": "Quitar penalizaciones a quien cotizó 40 años",
+   "resumen": "Eliminar con carácter retroactivo las penalizaciones por jubilación anticipada de quienes tienen 40 o más años cotizados.",
+   "cita": "Eliminar amb caràcter retroactiu les penalitzacions per jubilació anticipada de les persones amb 40 anys o més cotitzats.",
+   "pagina": 70,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-pensiones-3",
+   "tema": "pensiones",
+   "titulo": "Traspasar la Seguridad Social a Cataluña",
+   "resumen": "Traspasar las competencias de Seguridad Social a Cataluña, con los recursos necesarios para mantener las prestaciones.",
+   "cita": "Traspassar les competències de la Seguretat Social a Catalunya",
+   "pagina": 70,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-sanidad-1",
+   "tema": "sanidad",
+   "titulo": "Gasto sanitario del 8% del PIB y 25% a primaria",
+   "resumen": "Reclamar financiación sanitaria plurianual para acercarse al 8% del PIB en gasto público y destinar el 25% del presupuesto de salud a atención primaria.",
+   "cita": "avançar cap als estàndards europeus del 8 % del PIB en despesa sanitària pública i destinar el 25 % del pressupost de salut a l’atenció primària",
+   "pagina": 51,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-sanidad-2",
+   "tema": "sanidad",
+   "titulo": "Suprimir el distrito universitario único",
+   "resumen": "Eliminar de inmediato el distrito universitario único para que los jóvenes formados en Cataluña puedan trabajar en el sistema catalán.",
+   "cita": "Exigirem l’eliminació immediata del districte universitari únic de l’Estat espanyol",
+   "pagina": 51,
+   "concrecion": {
+    "cifra": false,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-sanidad-3",
+   "tema": "sanidad",
+   "titulo": "Traspasar los hospitales estatales",
+   "resumen": "Reclamar el traspaso de la titularidad de inmuebles sanitarios estatales como Vall d’Hebron, Bellvitge o Arnau de Vilanova.",
+   "cita": "Reclamarem el traspàs a la Generalitat de la titularitat dels immobles sanitaris estatals",
+   "pagina": 51,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-educacion-1",
+   "tema": "educacion",
+   "titulo": "Financiación estatal de la educación de 0 a 3 años",
+   "resumen": "La educación de 0 a 3 años debe tener financiación pública estatal.",
+   "cita": "L’educació dels infants de 0 a 3 anys ha de tenir finançament públic estatal.",
+   "pagina": 54,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": true,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-educacion-2",
+   "tema": "educacion",
+   "titulo": "Gratuidad universal de 16 a 18 años",
+   "resumen": "Universalizar la gratuidad de la enseñanza postobligatoria (16-18 años) en el Servicio de Educación de Cataluña.",
+   "cita": "Cal universalitzar la gratuïtat de l’ensenyament postobligatori (16-18 anys) a tot el Servei d’Educació de Catalunya.",
+   "pagina": 54,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-educacion-3",
+   "tema": "educacion",
+   "titulo": "Inversión universitaria del 0,4% al 0,6% del PIB",
+   "resumen": "Subir la inversión en universidades del 0,40% al 0,6% del PIB en cinco años.",
+   "cita": "La inversió en universitats, que avui representa el 0,40 % del PIB, s’ha d’incrementar fins al 0,6 % del PIB en cinc anys",
+   "pagina": 54,
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-inmigracion-1",
+   "tema": "inmigracion",
+   "titulo": "Delegar la inmigración en la Generalitat",
+   "resumen": "Aprobar la ley de delegación de competencias en inmigración, rechazada el 23 de septiembre de 2025 por 173 votos a favor y 177 en contra.",
+   "cita": "Aprovar la llei de delegació de competències en immigració a la Generalitat",
+   "pagina": 48,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-inmigracion-2",
+   "tema": "inmigracion",
+   "titulo": "Oponerse a regularizaciones masivas por decreto",
+   "resumen": "Oponerse a regularizaciones masivas por decreto sin planificación laboral ni integración lingüística y apoyar el expediente abierto por la Comisión Europea.",
+   "cita": "Oposar-nos a les regularitzacions massives aprovades per decret, sense planificació laboral ni integració lingüística",
+   "pagina": 48,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-inmigracion-3",
+   "tema": "inmigracion",
+   "titulo": "Prohibir niqab y burka en el espacio público",
+   "resumen": "Prohibir en el espacio público las prendas que cubren total o sustancialmente el rostro, como niqab y burka. La prohibición no afecta al hiyab.",
+   "cita": "Prohibir a l’espai públic les peces que cobreixen totalment o substancialment el rostre i impedeixen identificar la persona, com el niqab i el burca",
+   "pagina": 48,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-seguridad-1",
+   "tema": "seguridad",
+   "titulo": "Desalojar ocupaciones ilegales en 48 horas",
+   "resumen": "Desalojar las ocupaciones ilegales en un máximo de 48 horas mediante juicio inmediato, con atención pública a personas vulnerables.",
+   "cita": "Desnonar les ocupacions il·legals en un màxim de 48 hores, mitjançant un judici immediat",
+   "pagina": 17,
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-seguridad-2",
+   "tema": "seguridad",
+   "titulo": "Llegar a 26.800 agentes de los Mossos en 2032",
+   "resumen": "Delegar en los Mossos el control de acceso a Schengen en puertos y aeropuertos y llegar a 26.800 agentes en 2032.",
+   "cita": "arribar fins a 26.800 agents el 2032.",
+   "pagina": 49,
+   "concrecion": {
+    "cifra": true,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-seguridad-3",
+   "tema": "seguridad",
+   "titulo": "Derogar la Ley de seguridad ciudadana",
+   "resumen": "Derogar la Ley orgánica de protección de la seguridad ciudadana y reformar la ley de fuerzas y cuerpos de seguridad.",
+   "cita": "Derogar la Llei orgànica de protecció de la seguretat ciutadana",
+   "pagina": 23,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-igualdad-1",
+   "tema": "igualdad",
+   "titulo": "Reforma para la igualdad salarial",
+   "resumen": "Reforma legislativa con auditorías retributivas y transparencia salarial: mismo sueldo por trabajos de igual valor.",
+   "cita": "Impulsar una reforma legislativa per reforçar la igualtat salarial i la transparència retributiva.",
+   "pagina": 33,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-igualdad-2",
+   "tema": "igualdad",
+   "titulo": "Tipificar las terapias de conversión",
+   "resumen": "Recuperar la ley orgánica que tipifica como delito las terapias de conversión, aprobada por el Congreso el 25 de junio de 2026 y caducada en el Senado.",
+   "cita": "Recuperar i aprovar la llei orgànica que tipifica com a delicte les teràpies de conversió",
+   "pagina": 36,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-igualdad-3",
+   "tema": "igualdad",
+   "titulo": "Prueba preconstituida para víctimas de violencia machista",
+   "resumen": "Permitir que la declaración de la víctima se haga como prueba preconstituida para que no tenga que repetirla.",
+   "cita": "La declaració de la víctima s’ha de poder fer com a prova preconstituïda quan la llei ho permeti",
+   "pagina": 33,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-energia-1",
+   "tema": "energia",
+   "titulo": "Ampliar el autoconsumo de 5 a 100 km",
+   "resumen": "Ampliar de 5 km a 100 km el radio del autoconsumo para facilitar proyectos renovables.",
+   "cita": "Estendre l’opció de l’autoconsum ampliant l’actual limitació als 5 km a 100 km",
+   "pagina": 77,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-energia-2",
+   "tema": "energia",
+   "titulo": "IVA de la luz y el gas natural al 10%",
+   "resumen": "Reducir al 10% el IVA de la luz y el gas natural, garantizando que la rebaja llegue a la factura.",
+   "cita": "Reduir al 10% l’IVA de la llum i el gas natural",
+   "pagina": 69,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-energia-3",
+   "tema": "energia",
+   "titulo": "Territorializar los objetivos del PNIEC",
+   "resumen": "Reorientar los objetivos del PNIEC por territorios para equilibrar la generación renovable.",
+   "cita": "Reorientar els objectius del PNIEC",
+   "pagina": 77,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-instituciones-1",
+   "tema": "instituciones",
+   "titulo": "Suprimir la Audiencia Nacional",
+   "resumen": "Suprimir la Audiencia Nacional y redistribuir sus competencias entre los órganos judiciales territoriales y materiales.",
+   "cita": "Suprimir l’Audiència Nacional",
+   "pagina": 14,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-instituciones-2",
+   "tema": "instituciones",
+   "titulo": "Fin de la prórroga indefinida del CGPJ",
+   "resumen": "Modificar la LOPJ para que los vocales del CGPJ cesen al acabar su mandato, sin prórroga indefinida.",
+   "cita": "Modificar la LOPJ perquè els vocals del Consell General del Poder Judicial cessin efectivament quan finalitza el seu mandat",
+   "pagina": 14,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-instituciones-3",
+   "tema": "instituciones",
+   "titulo": "Suprimir aforamientos y puertas giratorias",
+   "resumen": "Suprimir privilegios procesales como el aforamiento y las puertas giratorias entre judicatura y política.",
+   "cita": "Suprimir privilegis processals com l’aforament i les portes giratòries entre la judicatura i la política",
+   "pagina": 14,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-territorio-1",
+   "tema": "territorio",
+   "titulo": "Concierto económico con ley específica",
+   "resumen": "Desplegar el concierto económico con una ley específica fuera del régimen común y dotar a la Agencia Tributaria de Cataluña de recursos.",
+   "cita": "Desplegar el concert econòmic amb una llei específica fora del règim comú",
+   "pagina": 68,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-territorio-2",
+   "tema": "territorio",
+   "titulo": "Condonar el 100% del FLA",
+   "resumen": "Exigir la condonación del 100% de la deuda de la Generalitat con el Fondo de Liquidez Autonómico.",
+   "cita": "Exigir la condonació del 100% del deute de la Generalitat amb el Fons de Liquiditat Autonòmic (FLA).",
+   "pagina": 68,
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-territorio-3",
+   "tema": "territorio",
+   "titulo": "Garantizar el derecho de autodeterminación",
+   "resumen": "Garantizar el derecho de Cataluña a la autodeterminación por todos los medios democráticos necesarios.",
+   "cita": "Garantir el dret de Catalunya a la seva autodeterminació emprant tots els mitjans democràtics necessaris.",
+   "pagina": 13,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-exterior-1",
+   "tema": "exterior",
+   "titulo": "Apoyo plurianual a Ucrania",
+   "resumen": "Compromiso plurianual de apoyo humanitario, financiero y militar a Ucrania con control parlamentario, y aplicar sanciones a Rusia.",
+   "cita": "Promourem un compromís pluriennal de suport humanitari, financer i militar a Ucraïna, amb control parlamentari",
+   "pagina": 27,
+   "concrecion": {
+    "cifra": false,
+    "plazo": true,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-exterior-2",
+   "tema": "exterior",
+   "titulo": "Defensa europea complementaria de la OTAN",
+   "resumen": "Una defensa europea más integrada, complementaria de la OTAN, con capacidades, financiación y control democrático.",
+   "cita": "Una defensa europea més integrada, complementària de l’OTAN, amb capacitats, finançament i control democràtic.",
+   "pagina": 28,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-exterior-3",
+   "tema": "exterior",
+   "titulo": "Paz entre Israel y Palestina con dos estados",
+   "resumen": "Promover una paz entre israelíes y palestinos basada en dos estados, reconocimiento mutuo y garantías de seguridad.",
+   "cita": "Promourem una pau entre israelians i palestins basada en dos estats, reconeixement mutu i garanties de seguretat.",
+   "pagina": 28,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "url": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf"
+  },
+  {
+   "id": "junts-corrupcion-1",
+   "tema": "corrupcion",
+   "titulo": "Reformar la malversación según estándares europeos",
+   "resumen": "Reformarían el delito de malversación para adecuarlo a los estándares europeos sobre corrupción. El programa no detalla el cambio de penas ni el plazo.",
+   "cita": "Reformar el delicte de malversació d’acord amb els estàndards europeus sobre corrupció",
+   "pagina": 13,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  },
+  {
+   "id": "junts-corrupcion-2",
+   "tema": "corrupcion",
+   "titulo": "Regular los lobbies con registro y declaración de clientes",
+   "resumen": "Obligarían a los lobbistas profesionales y a las grandes consultoras a registrarse y a declarar información financiera y clientes, con un registro público; las cargas se simplificarían para actores no profesionales. No fijan plazo.",
+   "cita": "Sotmetre els lobbistes professionals i les grans consultores a obligacions reforçades de registre, informació financera, declaració de clients i transparència",
+   "pagina": 30,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   }
+  },
+  {
+   "id": "junts-corrupcion-3",
+   "tema": "corrupcion",
+   "titulo": "Frenar las puertas giratorias de altos cargos del Estado",
+   "resumen": "Reformarían el régimen de incompatibilidades de los altos cargos del Estado para eliminar su paso a grandes corporaciones de sectores regulados (energía, telecomunicaciones, banca). No fijan plazo.",
+   "cita": "Reformar el règim d’incompatibilitats dels alts càrrecs de l’Estat per eliminar la porta giratòria cap a grans corporacions en sectors regulats",
+   "pagina": 31,
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   }
+  }
+ ],
+ "nota": "Programa oficial publicado por Junts per Catalunya (PDF de 90 páginas, titulado «Catalunya al centre» según la prensa; metadatos del PDF: creado el 18-11-2026), localizado y leído el 24-11-2026 en tualcentre.cat. Un agregador secundario (antesdevotar.org) indicaba en su resumen que Junts no había publicado programa; el PDF oficial lo desmiente. Títulos y resúmenes en castellano, citas en catalán. El texto se extrajo del PDF para comprobar las citas; página = página del PDF."
+}

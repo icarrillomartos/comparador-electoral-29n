@@ -1,0 +1,1730 @@
+{
+ "compromisos_nuevos": [
+  {
+   "id": "b24",
+   "tema": "instituciones",
+   "titulo": "Acabar con los aforamientos",
+   "compromiso": "Proponer una reforma de la Constitución para suprimir los aforamientos, que según dijo podía entrar en vigor en 60 días desde el inicio de su tramitación en el Congreso.",
+   "cita": "Y en consecuencia quiero anunciarles que el Gobierno va a proponer a la Cámara una reforma de la Constitución para acabar con los aforamientos. Si todos actuamos con altura de miras esta reforma de la Constitucion entrara en vigor en tan solo 60 días desde que se inicie su tramitación en el Congreso de los Diputados.",
+   "cita_fecha": "2018-09-17",
+   "cita_fuente": "La Moncloa, transcripción de la intervención en el acto «Avanzamos», Casa de América (cien días de Gobierno)",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2018/prsp20181709.aspx",
+   "cita_verificada": true,
+   "estado": "incumplido",
+   "que_paso": "El Consejo de Ministros pidió una propuesta al Consejo de Estado el 21-9-2018, aprobó el anteproyecto el 30-11-2018 y envió el proyecto al Congreso el 18-1-2019. El texto no suprimía los aforamientos: los limitaba a los delitos cometidos en el ejercicio del cargo y solo para diputados, senadores y miembros del Gobierno. El Boletín de las Cortes lo publicó el 25-1-2019 y caducó al disolverse las Cortes en marzo de 2019. El acuerdo de coalición de 30-12-2019 repitió el compromiso. Desde entonces el Gobierno no ha vuelto a registrar la reforma.",
+   "dato_actual": {
+    "texto": "A 24-11-2026 los artículos 71.3 y 102.1 de la Constitución no han cambiado: las causas contra diputados, senadores y miembros del Gobierno siguen correspondiendo a la Sala de lo Penal del Tribunal Supremo, sea cual sea el delito.",
+    "fuente": "BOE, Constitución Española (texto consolidado)",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "verificado": true
+   },
+   "matiz": "Lo que dependía del Gobierno: presentar la reforma, y la presentó cuatro meses después del anuncio. Lo que no dependía de él: aprobarla exige tres quintos del Congreso y del Senado (artículo 167), es decir, el voto del PP. El plazo de 60 días lo condicionó a que «todos» actuaran «con altura de miras» y lo contó desde el inicio de la tramitación. En contra: el proyecto era más limitado que el anuncio («acabar con», «suprimir»), caducó a los dos meses por el adelanto electoral que decidió el propio presidente y no se volvió a presentar en las dos legislaturas siguientes. Los aforamientos autonómicos dependen de cada estatuto.",
+   "promesa_2026": {
+    "texto": "Suprimir los aforamientos de los cargos públicos para los delitos que no tengan que ver con su cargo.",
+    "cita": "Suprimir los aforamientos de los cargos públicos para los delitos ajenos al ejercicio de su cargo.",
+    "pagina": 90
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Lo anunció en 2018, envió un proyecto en enero de 2019 que caducó en marzo y no lo ha vuelto a registrar en siete años (e2,e3,e4,e5)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Anunció «acabar con» los aforamientos y el proyecto solo los limitaba; el compromiso figura en 2019 y en 2026, sin iniciativas entre medias (e1,e2,e5,e6)."
+    },
+    "viabilidad": {
+     "nivel": 1,
+     "por": "Es una reforma constitucional: necesita tres quintos de cada Cámara, una mayoría que el PSOE no ha tenido con sus socios (e4)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "No hay datos que midan el objetivo; el texto constitucional sigue igual que en 2018 (e4)."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El anuncio de los cien días de Gobierno",
+     "hecho": "El 17-9-2018 Sánchez anunció que el Gobierno propondría «una reforma de la Constitución para acabar con los aforamientos» y dijo que, «si todos actuamos con altura de miras», entraría en vigor «en tan solo 60 días» desde el inicio de su tramitación.",
+     "fecha": "2018-09-17",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2018/prsp20181709.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita comprobada también en copia local."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "El Gobierno envió el proyecto al Congreso en enero de 2019",
+     "hecho": "El Consejo de Ministros aprobó el 18-1-2019 remitir a las Cortes la reforma de los artículos 71.3 y 102.1. Añadía la expresión «en el ejercicio de las funciones propias de su cargo»: el Supremo solo conocería de los delitos cometidos en el ejercicio del cargo.",
+     "fecha": "2019-01-18",
+     "fuente": "La Moncloa, Consejo de Ministros",
+     "url": "https://www.lamoncloa.gob.es/consejodeministros/Paginas/enlaces/180119-enlaceaforamientos.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota oficial del Consejo de Ministros."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "El proyecto en el Boletín de las Cortes",
+     "hecho": "El proyecto 102/000001 se publicó el 25-1-2019 con plazo de enmiendas hasta el 18-2-2019. Su exposición de motivos dice que limita los aforamientos a los delitos cometidos «en el ejercicio directo de sus funciones y durante el período de su mandato» y que pretendía ser «el primer paso» de una revisión más amplia.",
+     "fecha": "2019-01-25",
+     "fuente": "Congreso de los Diputados, BOCG serie A núm. 39-1",
+     "url": "https://www.congreso.es/public_oficiales/L12/CONG/BOCG/A/BOCG-12-A-39-1.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y texto extraído en esta ronda."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La Constitución sigue igual",
+     "hecho": "El artículo 71.3 mantiene que «en las causas contra Diputados y Senadores será competente la Sala de lo Penal del Tribunal Supremo» y el 102.1 hace lo mismo con el presidente y los ministros. El artículo 167 exige tres quintos de cada Cámara para reformarlos.",
+     "fecha": "2026-11-24",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Texto consolidado; comprobado también en copia local."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "verificador",
+     "titulo": "La reforma caducó y no se volvió a registrar",
+     "hecho": "Maldita recoge que el anteproyecto se aprobó el 30-11-2018, que el texto se registró en el Congreso en enero de 2019 y que caducó el 27-3-2019 por el adelanto electoral. Añade que tras las elecciones el Gobierno no volvió a registrarlo.",
+     "fecha": "2025-05-22",
+     "fuente": "Maldita.es",
+     "url": "https://maldita.es/malditahemeroteca/20250522/psoe-aforamientos-sanchez-2018/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Newtral publicó el 23-5-2025 una pieza en el mismo sentido (https://www.newtral.es/aforamiento-pedro-sanchez-gallardo/20250523/), que devolvió error 403 y no se pudo abrir."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de coalición de 2019 lo repitió",
+     "hecho": "El punto 2.11.7 dice: «Reformaremos la Constitución para limitar los aforamientos políticos, limitándolos al ejercicio de la función por parte del cargo público».",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos, pág. 22 del PDF",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y texto extraído en esta ronda; cita comprobada."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 vuelve a prometerlo",
+     "hecho": "La medida 373 propone «suprimir los aforamientos de los cargos públicos para los delitos ajenos al ejercicio de su cargo». No nombra la reforma constitucional ni da plazo.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 2026, pág. 90",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cita comprobada en el texto local del programa (psoe.txt); el PDF de psoe.es no se abrió en esta ronda."
+    }
+   ]
+  },
+  {
+   "id": "b25",
+   "tema": "impuestos",
+   "titulo": "Que las grandes empresas paguen al menos un 15 %",
+   "compromiso": "Proponer al Congreso que el tipo efectivo del impuesto de sociedades de las grandes corporaciones se acerque al nominal y no baje en ningún caso del 15 %.",
+   "cita": "Así que, lo que vamos a proponer a la Cámara es que el tipo efectivo de las grandes corporaciones se acerque al tipo nominal y en ningún caso sea inferior al 15%.",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "La Moncloa, transcripción de la comparecencia en el Pleno del Congreso",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "cita_verificada": true,
+   "estado": "parcial",
+   "que_paso": "El acuerdo de coalición de 30-12-2019 repitió el compromiso. Los Presupuestos de 2022 (Ley 22/2021) crearon una tributación mínima: desde el 1-1-2022 la cuota de las empresas que facturan 20 millones o más, y de todos los grupos que consolidan, no puede bajar del 15 % de la base imponible (18 % para banca e hidrocarburos). La Ley 7/2024 añadió el impuesto complementario pactado en la OCDE: un 15 % mínimo por país para los grupos con 750 millones o más de cifra de negocios, aplicable a los ejercicios iniciados desde el 31-12-2023.",
+   "dato_actual": {
+    "texto": "En 2023, último año publicado, 171 multinacionales de matriz española declararon un tipo efectivo mundial del 21,7 % (18,3 % en 2018). 63 de ellas (el 37 %) estaban por debajo del 15 %, con una media del 5,0 %. La Agencia Tributaria advierte de que esta estadística sobreestima los tipos. Son datos anteriores al impuesto complementario.",
+    "fuente": "Agencia Tributaria, Estadística País por País 2023",
+    "url": "https://sede.agenciatributaria.gob.es/static_files/Sede/Tema/Estadisticas/Estadisticas_impuesto/Sociedades/Informepais/Documentacion/NOTACBC2023.pdf",
+    "verificado": true
+   },
+   "matiz": "El mínimo existe en la ley, pero se calcula sobre la base imponible (lo que queda tras exenciones y ajustes), no sobre el beneficio contable, que es lo que suele entenderse por tipo efectivo: una empresa puede cumplir el 15 % legal y pagar menos sobre lo que gana. La cita de 2018 no precisó sobre qué magnitud se medía. El primer mínimo llegó tres años y medio después del anuncio. La estadística de la Agencia Tributaria mide impuestos pagados en todo el mundo, no solo en España, y no sigue siempre a los mismos grupos (122 en 2018, 171 en 2023). Aún no hay datos oficiales del efecto del impuesto complementario.",
+   "promesa_2026": {
+    "texto": "Apoyar en la OCDE y en la ONU que los grandes grupos multinacionales paguen un mínimo efectivo, sobre todo en la economía digital.",
+    "cita": "Apoyar de forma activa los trabajos de la OCDE y las Naciones Unidas para reforzar la tributación mínima efectiva de los grandes grupos multinacionales, especialmente en la economía digital.",
+    "pagina": 107
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "Creó un mínimo del 15 % en 2022 y el impuesto complementario en 2024, pero sobre la base imponible y con el 37 % de las multinacionales por debajo del 15 % en 2023 (e2,e3,e4)."
+    },
+    "coherencia": {
+     "nivel": 4,
+     "por": "Lo defendió en 2018, lo pactó en 2019, lo legisló en 2021 y 2024 y lo mantiene en 2026 (e1,e2,e3,e5,e6)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "La promesa de 2026 depende de acuerdos en la OCDE y la ONU, no solo de una ley española (e6)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "El tipo mundial declarado subió del 18,3 % al 21,7 %, pero 63 grupos pagaban de media un 5 %; no hay datos posteriores al nuevo impuesto (e4)."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El compromiso de julio de 2018",
+     "hecho": "Sánchez dijo en el Congreso que propondría que el tipo efectivo de las grandes corporaciones «se acerque al tipo nominal y en ningún caso sea inferior al 15%». Lo justificó en que las pymes tenían tipos efectivos superiores a los de los grandes grupos.",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita comprobada también en copia local."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "Tributación mínima del 15 % desde 2022",
+     "hecho": "La Agencia Tributaria explica que, para los periodos iniciados desde el 1-1-2022, la cuota líquida no puede ser inferior al 15 % de la base imponible en empresas con 20 millones o más de cifra de negocios y en grupos que consolidan. Para banca e hidrocarburos es el 18 %.",
+     "fecha": "2026-11-24",
+     "fuente": "Agencia Tributaria",
+     "url": "https://sede.agenciatributaria.gob.es/Sede/impuesto-sobre-sociedades/cuota-integra-cuota-liquida-tributacion-minima/existe-tributacion-minima-impuesto-sobre-sociedades.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La norma de origen es el artículo 61 de la Ley 22/2021 (https://www.boe.es/buscar/act.php?id=BOE-A-2021-21653); de esa página solo se pudo leer el preámbulo, que describe la medida en los mismos términos."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Ley 7/2024: impuesto complementario del 15 %",
+     "hecho": "La Ley 7/2024, de 20 de diciembre (BOE del 21), crea el impuesto complementario para grupos con 750 millones o más de cifra de negocios. Grava la diferencia hasta un 15 % en cada país y se aplica a los periodos iniciados desde el 31-12-2023.",
+     "fecha": "2024-12-20",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-26694",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "El 37 % de las multinacionales, por debajo del 15 % en 2023",
+     "hecho": "De 171 multinacionales de matriz española, 63 declararon un tipo efectivo inferior al 15 % (media del 5,0 %); 29 pagaron menos del 5 % (media del 1,7 %). El tipo mundial del conjunto fue del 21,7 %, frente al 18,3 % de 2018. La Agencia Tributaria avisa de que estos tipos «siempre se sobreestiman».",
+     "fecha": "2023",
+     "fuente": "Agencia Tributaria, Estadística País por País 2023",
+     "url": "https://sede.agenciatributaria.gob.es/static_files/Sede/Tema/Estadisticas/Estadisticas_impuesto/Sociedades/Informepais/Documentacion/NOTACBC2023.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y texto extraído en esta ronda. Mide impuesto pagado en todo el mundo sobre el beneficio declarado por país, no la cuota española."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de coalición de 2019 fijó el 15 % y el 18 %",
+     "hecho": "El punto 10.2 dice que el impuesto «se reformará garantizando una tributación mínima del 15% de las grandes corporaciones, que se ampliaría hasta el 18% para las entidades financieras y empresas de hidrocarburos».",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos, pág. 45 del PDF",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y texto extraído en esta ronda; cita comprobada."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 lo lleva al plano internacional",
+     "hecho": "La medida 458 propone apoyar los trabajos de la OCDE y la ONU «para reforzar la tributación mínima efectiva de los grandes grupos multinacionales». No promete cambios en el impuesto español.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 2026, pág. 107",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cita comprobada en el texto local del programa (psoe.txt); el PDF de psoe.es no se abrió en esta ronda."
+    }
+   ]
+  },
+  {
+   "id": "b26",
+   "tema": "impuestos",
+   "titulo": "Que la industria pese el 20 % del PIB en 2020",
+   "compromiso": "Asumir como propio el objetivo de la Comisión Europea de que la industria represente el 20 % del PIB de España en 2020.",
+   "cita": "El nuevo Gobierno, por otro lado, comparte el objetivo fijado por la Comisión Europea de que la industria represente el 20% del PIB en el año 2020 en nuestro país. Y fruto de este compromiso, la política industrial debe girar en torno a la transformación digital y la internacionalización.",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "La Moncloa, transcripción de la comparecencia en el Pleno del Congreso",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "cita_verificada": true,
+   "estado": "incumplido",
+   "que_paso": "El peso de la industria en el PIB no se acercó al 20 % ni en 2020 ni después. Era del 14,2 % en 2018 y del 14,5 % en 2020, año en que el PIB cayó por la pandemia. Subió al 15,9 % en 2022 y bajó al 14,0 % en 2025 (dato provisional), por debajo del punto de partida. La industria manufacturera sola pasó del 10,8 % al 10,6 %. El acuerdo de coalición de 2019 ya no dio cifra: habló de «incrementar la aportación de la industria al PIB».",
+   "dato_actual": {
+    "texto": "La industria (sin construcción) aportó el 14,0 % del PIB en 2025 (provisional), frente al 14,2 % de 2018 y al 14,5 % de 2020. La manufactura, el 10,6 %.",
+    "fuente": "Eurostat, cuentas nacionales por rama de actividad (nama_10_a10), actualizado el 11-11-2026",
+    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_a10?format=JSON&geo=ES&unit=PC_GDP&nace_r2=B-E&nace_r2=C&na_item=B1G&sinceTimePeriod=2016",
+    "verificado": true
+   },
+   "matiz": "El 20 % era un objetivo europeo anterior a este Gobierno y se formuló con dos años de margen: partiendo del 14 %, exigía un salto que ningún gran país de la UE ha dado en ese plazo. El peso de la industria depende sobre todo de decisiones de empresas y de precios, no de un decreto, y 2020 fue el año de la pandemia. Aun así, Sánchez lo llamó «compromiso» y lo fechó. El dato mide porcentaje del PIB: la industria puede producir más y perder peso si otros sectores crecen más deprisa. No se abrió el documento original de la Comisión Europea que fijó el objetivo.",
+   "promesa_2026": {
+    "texto": "Que la industria gane peso en el PIB, sin cifra ni fecha.",
+    "cita": "Nuestra ambición es que la industria gane peso en el PIB y que España se consolide como polo europeo de innovación y producción tecnológica.",
+    "pagina": 13
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 0,
+     "por": "Asumió el 20 % para 2020; el peso fue del 14,5 % ese año y del 14,0 % en 2025, menos que en 2018 (e1,e2)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Mantiene el objetivo de ganar peso industrial en 2019 y 2026, pero retiró la cifra y la fecha (e3,e4)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "No depende de una norma: requiere inversión privada y fondos que el programa no cuantifica (e4)."
+    },
+    "datos": {
+     "nivel": 1,
+     "por": "La serie de Eurostat no muestra avance en ocho años: 14,2 % en 2018 y 14,0 % en 2025 (e2)."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El objetivo asumido en julio de 2018",
+     "hecho": "Sánchez dijo que su Gobierno compartía «el objetivo fijado por la Comisión Europea de que la industria represente el 20% del PIB en el año 2020» y lo llamó «compromiso».",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita comprobada también en copia local."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Peso de la industria: 14,2 % en 2018 y 14,0 % en 2025",
+     "hecho": "Valor añadido de la industria sin construcción sobre el PIB de España: 14,4 % (2017), 14,2 % (2018), 14,1 % (2019), 14,5 % (2020), 15,0 % (2021), 15,9 % (2022), 14,7 % (2023), 14,2 % (2024) y 14,0 % (2025); los dos últimos, provisionales. Manufactura: 10,8 % en 2018 y 10,6 % en 2025.",
+     "fecha": "2026-11-11",
+     "fuente": "Eurostat",
+     "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_a10?format=JSON&geo=ES&unit=PC_GDP&nace_r2=B-E&nace_r2=C&na_item=B1G&sinceTimePeriod=2016",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Consulta directa a la API de Eurostat. El INE publica la misma serie en la Contabilidad Nacional (https://ine.es/prensa/cna_pa_2020.pdf), cuyas tablas no se pudieron leer."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "En 2019 el objetivo ya no tenía cifra",
+     "hecho": "El punto 4.9 del acuerdo de coalición promete un Plan de Desarrollo Industrial con horizonte 2030, «contribuyendo a incrementar la aportación de la industria al PIB». No menciona el 20 %.",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos, pág. 29 del PDF",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y texto extraído en esta ronda; cita comprobada."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026: ganar peso, sin cifra",
+     "hecho": "El programa dice: «Nuestra ambición es que la industria gane peso en el PIB». No fija porcentaje, plazo ni dotación para ese fin concreto.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 2026, pág. 13",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cita comprobada en el texto local del programa (psoe.txt); el PDF de psoe.es no se abrió en esta ronda."
+    }
+   ]
+  },
+  {
+   "id": "b27",
+   "tema": "energia",
+   "titulo": "Aprobar una ley de cambio climático",
+   "compromiso": "Aprobar una Ley de Cambio Climático y Transición Energética como primera prioridad normativa «para este mandato».",
+   "cita": "Así que nos marcamos tres grandes prioridades normativas para este mandato. En primer lugar, aprobar una Ley de Cambio Climático y Transición Energética.",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "La Moncloa, transcripción de la comparecencia en el Pleno del Congreso",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "cita_verificada": true,
+   "estado": "cumplido",
+   "que_paso": "El mandato de 2018 terminó con la disolución de las Cortes en marzo de 2019 sin que la ley llegara al Congreso. El Consejo de Ministros envió el proyecto el 19-5-2020 y la Ley 7/2021, de 20 de mayo, se publicó el 21-5-2021: casi tres años después del anuncio y en la legislatura siguiente. Fija para 2030 una reducción de emisiones de al menos el 23 % respecto a 1990, un 42 % de renovables en el consumo final y un 74 % en la generación eléctrica, y la neutralidad climática antes de 2050.",
+   "dato_actual": {
+    "texto": "Avance oficial de 2025: 270,74 millones de toneladas de CO2 equivalente, un 1,1 % más que en 2024 y un 4,8 % menos que en 1990. La ley exige al menos un 23 % menos que en 1990 para 2030. El 56 % de la electricidad fue renovable.",
+    "fuente": "Ministerio para la Transición Ecológica, Avance del Inventario de Emisiones de GEI 2025",
+    "url": "https://www.miteco.gob.es/content/dam/miteco/es/calidad-y-evaluacion-ambiental/temas/sistema-espanol-de-inventario-sei-/Nota-Avance-GEI-2025.pdf",
+    "verificado": true
+   },
+   "matiz": "«Cumplido» mide que la ley existe, no que se alcancen sus metas ni que llegara a tiempo: dijo «para este mandato» y se aprobó en el siguiente, con otra mayoría. En julio de 2018 citó 338 millones de toneladas emitidas en 2017; en 2025 fueron 270,74, pero subieron respecto a 2024 y quedan lejos del objetivo legal de 2030. La caída no puede atribuirse solo a la ley: influyen el cierre del carbón, los precios y la pandemia. El dato de 2025 es un avance provisional.",
+   "promesa_2026": {
+    "texto": "Aprobar otra ley, la de adaptación al cambio climático, y reforzar el plan nacional de adaptación.",
+    "cita": "Aprobar una Ley de Adaptación al Cambio Climático y reforzar la ejecución del Plan Nacional de Adaptación con más recursos y mecanismos de seguimiento.",
+    "pagina": 67
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 3,
+     "por": "Aprobó la ley prometida, pero en 2021 y no en el mandato de 2018; las emisiones de 2025 están un 4,8 % por debajo de 1990 frente al 23 % legal para 2030 (e2,e3,e4)."
+    },
+    "coherencia": {
+     "nivel": 4,
+     "por": "Mantiene la misma línea desde 2018: proyecto en 2020, ley en 2021 y nueva ley de adaptación en el programa de 2026 (e1,e2,e3,e5)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Basta una ley ordinaria, pero necesita socios parlamentarios y recursos que el programa no cuantifica (e5)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Las emisiones bajaron desde 2017, pero repuntaron en 2025 y el objetivo de 2030 queda lejos (e4)."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "Prioridad normativa «para este mandato»",
+     "hecho": "Sánchez fijó tres prioridades normativas «para este mandato»; la primera, «aprobar una Ley de Cambio Climático y Transición Energética». Citó 338 millones de toneladas de CO2 emitidas en 2017.",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita comprobada también en copia local."
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "El proyecto llegó a las Cortes en mayo de 2020",
+     "hecho": "El Consejo de Ministros remitió el 19-5-2020 a las Cortes «el primer proyecto» de Ley de Cambio Climático y Transición Energética. Proponía reducir las emisiones un 20 % en 2030 respecto a 1990.",
+     "fecha": "2020-05-19",
+     "fuente": "La Moncloa, Consejo de Ministros",
+     "url": "https://www.lamoncloa.gob.es/consejodeministros/Paginas/enlaces/190520-enlace-clima.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Nota oficial del Gobierno."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Ley 7/2021, de cambio climático y transición energética",
+     "hecho": "Publicada en el BOE el 21-5-2021 y en vigor desde el 22-5-2021. El artículo 3 fija para 2030 una reducción de emisiones de «al menos, un 23 %» respecto a 1990, un 42 % de renovables en el consumo final y un 74 % en la generación eléctrica; la neutralidad climática, «antes de 2050».",
+     "fecha": "2021-05-20",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-8447",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Emisiones de 2025: suben un 1,1 % y están un 4,8 % bajo 1990",
+     "hecho": "El avance oficial estima 270,74 millones de toneladas de CO2 equivalente en 2025, un 1,1 % más que en 2024. El nivel es un 4,8 % inferior al de 1990. El transporte supone el 34,2 % del total. La generación eléctrica emitió un 5,5 % más por el mayor uso de ciclos combinados tras el apagón del 28-4-2025.",
+     "fecha": "2026-07",
+     "fuente": "Ministerio para la Transición Ecológica",
+     "url": "https://www.miteco.gob.es/content/dam/miteco/es/calidad-y-evaluacion-ambiental/temas/sistema-espanol-de-inventario-sei-/Nota-Avance-GEI-2025.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y texto extraído en esta ronda. Dato provisional; la fecha de publicación es aproximada."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "En 2026 promete una ley de adaptación",
+     "hecho": "La medida 253 propone «aprobar una Ley de Adaptación al Cambio Climático». El programa presenta como hecho haber aprobado «la primera Ley de Cambio Climático».",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 2026, págs. 63 y 67",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cita comprobada en el texto local del programa (psoe.txt); el PDF de psoe.es no se abrió en esta ronda."
+    }
+   ]
+  },
+  {
+   "id": "b28",
+   "tema": "energia",
+   "titulo": "Quitar las trabas al autoconsumo eléctrico",
+   "compromiso": "Apostar por el autoconsumo energético y eliminar las trabas y barreras que lo frenaban.",
+   "cita": "Y ubicar, también, a la sociedad civil en el centro de su labor en este ámbito, apostando por medidas como el autoconsumo energético. Queremos eliminar trabas, barreras ante una revolución, que entendemos, que puede ser ciudadana, que democratizará nuestro sistema energético y convertirá a los ciudadanos, empresas e instituciones en agentes del cambio, en esa transición energética.",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "La Moncloa, transcripción de la comparecencia en el Pleno del Congreso",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "cita_verificada": true,
+   "estado": "cumplido",
+   "que_paso": "El Real Decreto-ley 15/2018, de 5 de octubre, aprobado 80 días después, declaró la energía autoconsumida de origen renovable «exenta de todo tipo de cargos y peajes» (el llamado «impuesto al sol»), reconoció el autoconsumo compartido y simplificó los trámites. El Real Decreto 244/2019, de 5 de abril, lo desarrolló: compensación simplificada de la energía sobrante en la factura para instalaciones de hasta 100 kW y exención de permisos de acceso para las de hasta 15 kW en suelo urbanizado.",
+   "dato_actual": {
+    "texto": "A 31-12-2025 había 10.915 MW de autoconsumo instalados en España, de los que 8.856 MW eran solares fotovoltaicos (datos provisionales). Red Eléctrica publica la serie desde 2021; no ofrece una cifra homogénea de 2018.",
+    "fuente": "Red Eléctrica de España, Informe del sistema eléctrico",
+    "url": "https://www.sistemaelectrico-ree.es/es/informe-del-sistema-electrico/autoconsumo/potencia-instalada-de-autoconsumo",
+    "verificado": true
+   },
+   "matiz": "La cita de 2018 no nombró el «impuesto al sol» ni dio plazo; habló de eliminar trabas. El decreto de octubre de 2018 dice en su preámbulo que asume el contenido de una proposición de ley sobre autoconsumo presentada por la mayoría de los grupos del Congreso: el cambio tenía un apoyo más amplio que el del Gobierno. El crecimiento posterior también se debe a la caída del precio de los paneles, a la subida de la luz de 2021-2022 y a las ayudas europeas. «Cumplido» no significa que no queden barreras: los permisos y la conexión dependen de distribuidoras, comunidades y ayuntamientos.",
+   "promesa_2026": {
+    "texto": "Extender el autoconsumo y la eficiencia energética a viviendas, edificios públicos, pymes e industrias.",
+    "cita": "Extender el autoconsumo y la eficiencia energética en viviendas, edificios públicos, pymes e industrias, trasladando los beneficios de las energías renovables a hogares, empresas y administraciones públicas.",
+    "pagina": 65
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 4,
+     "por": "Eliminó los cargos al autoconsumo por decreto-ley a los 80 días y lo desarrolló en 2019 (e2,e3)."
+    },
+    "coherencia": {
+     "nivel": 4,
+     "por": "Misma dirección en 2018, en el acuerdo de 2019 y en el programa de 2026 (e1,e5,e6)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Las normas son estatales, pero la tramitación de cada instalación depende de distribuidoras, comunidades y ayuntamientos, y el programa no cuantifica ayudas (e3,e6)."
+    },
+    "datos": {
+     "nivel": 3,
+     "por": "Hay 10.915 MW instalados a cierre de 2025; falta una serie oficial homogénea desde 2018 para medir el efecto (e4)."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El compromiso de julio de 2018",
+     "hecho": "Sánchez dijo que su Gobierno apostaba «por medidas como el autoconsumo energético» y añadió: «Queremos eliminar trabas, barreras». No dio plazo ni nombró ninguna norma.",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita comprobada también en copia local."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Real Decreto-ley 15/2018: autoconsumo sin cargos",
+     "hecho": "Publicado el 6-10-2018. Su artículo 18 establece que la energía autoconsumida de origen renovable, cogeneración o residuos «estará exenta de todo tipo de cargos y peajes». El preámbulo reconoce el derecho al autoconsumo compartido y dice que el título II «asume el contenido de la Proposición de Ley sobre autoconsumo presentada por la mayoría de los grupos políticos del Congreso».",
+     "fecha": "2018-10-05",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-13593",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta (preámbulo); el artículo 18 se comprobó en copia local del BOE porque la lectura en línea se cortaba antes."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Real Decreto 244/2019: compensación de excedentes",
+     "hecho": "Publicado el 6-4-2019. Regula el autoconsumo colectivo y la compensación simplificada de excedentes para instalaciones renovables de hasta 100 kW, y exime de permisos de acceso y conexión a las de hasta 15 kW en suelo urbanizado.",
+     "fecha": "2019-04-05",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "10.915 MW de autoconsumo a cierre de 2025",
+     "hecho": "A 31-12-2025 la potencia instalada de autoconsumo era de 10.915 MW: 8.856 MW fotovoltaicos y 1.571 MW de cogeneración. Andalucía (2.006 MW), Cataluña (1.947 MW) y la Comunidad Valenciana (1.530 MW) suman algo más de la mitad. Datos provisionales a enero de 2026.",
+     "fecha": "2026-01",
+     "fuente": "Red Eléctrica de España",
+     "url": "https://www.sistemaelectrico-ree.es/es/informe-del-sistema-electrico/autoconsumo/potencia-instalada-de-autoconsumo",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La página ofrece años de 2021 a 2025; no da el dato de 2018, por lo que no se cuantifica el aumento."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de coalición de 2019 mantuvo la línea",
+     "hecho": "El punto 3.5 promete regular el autoconsumo compartido, simplificar los trámites «para autoconsumir sin cargos» y fijar una retribución de la energía vertida a la red no inferior al precio del mercado mayorista.",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos, pág. 24 del PDF",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y texto extraído en esta ronda; cita comprobada."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 promete extenderlo",
+     "hecho": "La medida 236 propone «extender el autoconsumo y la eficiencia energética en viviendas, edificios públicos, pymes e industrias». No da cifras de potencia ni de ayudas.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 2026, pág. 65",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cita comprobada en el texto local del programa (psoe.txt); el PDF de psoe.es no se abrió en esta ronda."
+    }
+   ]
+  },
+  {
+   "id": "b29",
+   "tema": "igualdad",
+   "titulo": "Igualar los permisos de madres y padres",
+   "compromiso": "Promover medidas que reduzcan la diferencia de protección entre hombres y mujeres en conciliación, permisos y excedencias.",
+   "cita": "En tercer lugar, promover las medidas que reequilibren la brecha de protección entre hombres y mujeres en materia de conciliación, de permisos y de excedencias.",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "La Moncloa, transcripción de la comparecencia en el Pleno del Congreso",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "cita_verificada": true,
+   "estado": "cumplido",
+   "que_paso": "El Real Decreto-ley 6/2019, de 1 de marzo, igualó por etapas el permiso del otro progenitor con el de la madre: 8 semanas en 2019, 12 en 2020 y 16 desde 2021, iguales para ambos. El Real Decreto-ley 9/2025, de 29 de julio, lo amplió a 19 semanas por progenitor (32 en familias monoparentales), con dos de ellas utilizables hasta que el menor cumpla ocho años. En 2025 pidieron la prestación más padres (282.811) que madres (241.903) y la duración media fue de 111 días, con tres días de diferencia entre hombres y mujeres.",
+   "dato_actual": {
+    "texto": "En 2025 la Seguridad Social tramitó 524.714 prestaciones por nacimiento y cuidado de menor: 241.903 del primer progenitor y 282.811 del segundo. El gasto fue de 3.880,8 millones de euros. De las 54.639 excedencias por cuidado, el 83,1 % las pidieron mujeres.",
+    "fuente": "Ministerio de Inclusión, Seguridad Social y Migraciones, nota de 30-1-2026",
+    "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/300126-prestacion-nacimiento-cuidado-menor.aspx",
+    "verificado": true
+   },
+   "matiz": "La cita de 2018 no dio cifras ni plazo: las 16 semanas aparecen en el decreto de marzo de 2019 y en el acuerdo de coalición de diciembre de 2019. El permiso retribuido es hoy igual para ambos progenitores, pero la otra mitad de la frase, las excedencias, apenas ha cambiado: las siguen pidiendo mujeres en el 83,1 % de los casos, y no se cobran. Además, el 1-8-2025 el Tribunal de Justicia de la UE condenó a España a pagar 6,83 millones por no trasponer a tiempo la directiva de conciliación de 2019; el decreto de julio de 2025 cita esa directiva y su permiso parental retribuido.",
+   "promesa_2026": {
+    "texto": "Pagar al 100 % cuatro semanas del permiso parental para cuidar de hijos menores de ocho años.",
+    "cita": "Impulsar la corresponsabilidad en los cuidados mediante una prestación de la Seguridad Social que cubra cuatro semanas del permiso parental para el cuidado de hijos menores de ocho años con el 100 % de la base reguladora",
+    "pagina": 40
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 4,
+     "por": "Igualó los permisos en 16 semanas en 2021 y los subió a 19 en 2025; hoy los usan más padres que madres (e2,e3,e4)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Línea constante desde 2018, con la excepción del retraso en trasponer la directiva europea, que acabó en condena (e5,e6)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Basta una ley ordinaria, con un coste relevante: la prestación actual ya supone 3.880,8 millones al año (e4)."
+    },
+    "datos": {
+     "nivel": 3,
+     "por": "Los permisos se usan de forma casi igual; las excedencias siguen siendo cosa de mujeres en un 83,1 % (e4)."
+    }
+   },
+   "concrecion": {
+    "cifra": true,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El compromiso de julio de 2018",
+     "hecho": "Entre las líneas de actuación en Seguridad Social, Sánchez citó «promover las medidas que reequilibren la brecha de protección entre hombres y mujeres en materia de conciliación, de permisos y de excedencias». No dio semanas ni fechas.",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita comprobada también en copia local."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Real Decreto-ley 6/2019: 16 semanas iguales desde 2021",
+     "hecho": "Publicado el 7-3-2019. Fija para el progenitor distinto de la madre biológica 8 semanas en 2019 y 12 en 2020; desde 2021 «cada progenitor disfrutará de igual periodo de suspensión del contrato», con seis semanas obligatorias para cada uno.",
+     "fecha": "2019-03-01",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-3244",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Real Decreto-ley 9/2025: 19 semanas por progenitor",
+     "hecho": "Publicado el 30-7-2025. Eleva el permiso a 19 semanas por progenitor (6 obligatorias, 11 hasta los 12 meses y 2 hasta los ocho años del menor) y a 32 en familias monoparentales. Su preámbulo cita el permiso parental retribuido de la Directiva (UE) 2019/1158.",
+     "fecha": "2025-07-29",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-15741",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "2025: más padres que madres con la prestación",
+     "hecho": "La Seguridad Social tramitó 524.714 prestaciones en 2025 (+11,1 %): 241.903 del primer progenitor y 282.811 del segundo. Gasto: 3.880,8 millones. Duración media: 111 días, con unos tres días de diferencia entre hombres y mujeres. Excedencias por cuidado: 54.639, de ellas 45.400 de mujeres (83,1 %) y 9.239 de hombres.",
+     "fecha": "2026-01-30",
+     "fuente": "Ministerio de Inclusión, Seguridad Social y Migraciones",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/300126-prestacion-nacimiento-cuidado-menor.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Condena europea por trasponer tarde la directiva de conciliación",
+     "hecho": "El Tribunal de Justicia de la UE condenó a España a pagar 6.832.000 euros, más 19.700 euros diarios si persistía el incumplimiento, por no adoptar ni comunicar a tiempo las medidas de la Directiva (UE) 2019/1158. Un decreto-ley anterior que la trasponía fue rechazado por el Congreso en enero de 2024.",
+     "fecha": "2025-08-01",
+     "fuente": "Noticias Jurídicas",
+     "url": "https://noticias.juridicas.com/actualidad/jurisprudencia/20481-el-tjue-condena-a-espana-por-no-transponer-a-tiempo-la-directiva-europea-sobre-conciliacion-laboral-y-familiar/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se abrió la sentencia original. El Independiente y The Objective publicaron las mismas cifras ese día, según la búsqueda; no se abrieron."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de coalición de 2019 fijó las 16 semanas",
+     "hecho": "El acuerdo prometía que los permisos fueran «totalmente iguales (16 semanas), intransferibles y retribuidos al 100% en 2021». El calendario ya estaba en el decreto-ley de marzo de 2019.",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos, pág. 36 del PDF",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y texto extraído en esta ronda; cita comprobada."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026: cuatro semanas pagadas de permiso parental",
+     "hecho": "La medida 105 propone una prestación que cubra «cuatro semanas del permiso parental para el cuidado de hijos menores de ocho años con el 100 % de la base reguladora» y una semana más para el segundo progenitor si no solapan los permisos.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 2026, págs. 40-41",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cita comprobada en el texto local del programa (psoe.txt); el PDF de psoe.es no se abrió en esta ronda."
+    }
+   ]
+  },
+  {
+   "id": "b30",
+   "tema": "sanidad",
+   "titulo": "Eliminar el copago de los medicamentos de 2012",
+   "compromiso": "Eliminar de forma progresiva, a lo largo de la legislatura 2019-2023, los copagos sanitarios introducidos en 2012, empezando por los pensionistas y los hogares más vulnerables.",
+   "cita": "Procederemos a la eliminación progresiva de los copagos introducidos en 2012 a lo largo de la legislatura, empezando por los pensionistas y los hogares en situación de mayor vulnerabilidad.",
+   "cita_fecha": "2019-12-30",
+   "cita_fuente": "Acuerdo de coalición PSOE-Unidas Podemos «Coalición progresista. Un nuevo acuerdo para España», punto 2.2.1, pág. 12 del PDF",
+   "cita_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+   "cita_verificada": true,
+   "estado": "parcial",
+   "que_paso": "En julio de 2018 Sánchez ya había anunciado «la reformulación de los copagos sanitarios». Los Presupuestos de 2021 (Ley 11/2020) ampliaron los colectivos que no pagan, entre ellos los pensionistas con renta anual inferior a 5.635 euros (11.200 si no están obligados a declarar). La legislatura 2019-2023 acabó sin eliminar el copago. El Real Decreto-ley 11/2026, de 12 de mayo, convalidado el 28-5-2026, lo reformó: seis tramos de renta para trabajadores en activo, con topes mensuales nuevos por debajo de 35.000 euros, y exención para los pensionistas con complemento a mínimos. No lo suprimió.",
+   "dato_actual": {
+    "texto": "Desde el 14-5-2026 los pensionistas pagan el 10 % del precio de sus medicamentos con un tope de 8,23 euros al mes (renta inferior a 18.000 euros), 13,37 euros (hasta 60.000) o 18,52 euros (hasta 100.000). Los trabajadores en activo pagan entre el 40 % y el 60 % según renta. Están exentos, entre otros, quienes cobran el ingreso mínimo vital, una pensión no contributiva o el complemento a mínimos.",
+    "fuente": "BOE, Real Decreto-ley 11/2026, de 12 de mayo",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-10324",
+    "verificado": true
+   },
+   "matiz": "Hubo avances en la dirección prometida: más personas exentas desde 2021 y topes mensuales para rentas bajas desde 2026, con un coste que Sanidad estima en 265,63 millones. Pero el compromiso era eliminar los copagos de 2012 «a lo largo de la legislatura» y los pensionistas que no están en un grupo exento siguen pagando el 10 %. El propio decreto de 2026 reconoce que la subida de las pensiones mínimas hizo perder la exención de 2021 a «un número creciente» de pensionistas, y por eso cambió el criterio. El acuerdo también prometía impedir los copagos de transporte sanitario, ortoprótesis y dietéticos derogando los artículos que los habilitan; no se ha comprobado aquí si se derogaron.",
+   "promesa_2026": null,
+   "puntos": null,
+   "concrecion": null,
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El compromiso del acuerdo de coalición",
+     "hecho": "El punto 2.2.1 promete la «eliminación progresiva de los copagos introducidos en 2012 a lo largo de la legislatura, empezando por los pensionistas y los hogares en situación de mayor vulnerabilidad», y garantías para que no se introduzcan otros nuevos.",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos, pág. 12 del PDF",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y texto extraído en esta ronda; cita comprobada."
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "En 2018 habló de «reformulación», no de eliminación",
+     "hecho": "En el Congreso, Sánchez citó entre las medidas ya anunciadas «la recuperación de la atención universal» y «la reformulación de los copagos sanitarios».",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cita comprobada en copia local de la página; la página se abrió en esta ronda para otras citas del mismo discurso."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "2021: más colectivos exentos",
+     "hecho": "El preámbulo del Real Decreto-ley 11/2026 recoge que la Ley 11/2020, de Presupuestos para 2021, amplió los colectivos exentos y reconoció la exención a los pensionistas con renta anual inferior a 5.635 euros, o a 11.200 euros si no están obligados a declarar. Añade que la revalorización de las pensiones mínimas hizo que «un número creciente» dejara de cumplir el requisito.",
+     "fecha": "2020-12-30",
+     "fuente": "BOE (preámbulo del Real Decreto-ley 11/2026)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-10324",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No se abrió la Ley 11/2020; el hecho se toma del preámbulo de la norma de 2026."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "2026: el copago se reforma, no se elimina",
+     "hecho": "El Real Decreto-ley 11/2026 (BOE de 13-5-2026, en vigor el 14 y convalidado el 28-5-2026) mantiene la aportación: 10 % para pensionistas con topes de 8,23, 13,37 y 18,52 euros al mes según renta, y 40 %, 45 %, 50 % o 60 % para activos. Añade topes de 8,23, 18,52 y 61,75 euros al mes para activos con menos de 35.000 euros.",
+     "fecha": "2026-05-12",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-10324",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Comprobado en la página y en copia local."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Sanidad cifra el coste en 265,63 millones",
+     "hecho": "La nota del Ministerio de 12-5-2026 describe un sistema «más progresivo», estima un impacto presupuestario de 265,63 millones de euros y no indica cuántas personas se benefician. No afirma que el copago se elimine.",
+     "fecha": "2026-05-12",
+     "fuente": "Ministerio de Sanidad",
+     "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6905",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "id": "b31",
+   "tema": "sanidad",
+   "titulo": "Recuperar la financiación de la dependencia",
+   "compromiso": "Recuperar la financiación estatal de la dependencia recortada en 2012: el nivel mínimo por persona, el nivel acordado con las comunidades y el pago por el Estado de la cotización de los cuidadores familiares.",
+   "cita": "Primero, recuperar la financiación del nivel mínimo fijado con anterioridad al Real Decreto-ley 20/2012. En segundo lugar, avanzar en dirección a lograr la financiación recortada al Sistema al nivel acordado con las Comunidades Autónomas. Y en tercer lugar, recuperar el Convenio Especial en el sistema de Seguridad Social para los cuidadores no profesionales, que en su mayoría, las mujeres, son familiares de los dependientes.",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "La Moncloa, transcripción de la comparecencia en el Pleno del Congreso",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "cita_verificada": true,
+   "estado": "cumplido",
+   "que_paso": "El Real Decreto-ley 6/2019, de 1 de marzo, devolvió al Estado el pago de las cotizaciones de los cuidadores no profesionales. Los otros dos puntos llegaron con los Presupuestos de 2021: el nivel mínimo se fijó en 235 euros al mes para el grado III, 94 para el II y 60 para el I, y se restableció el nivel acordado con 566,4 millones. En 2011 el mínimo era de 266,57 o 181,26 euros en el grado III, según nivel, y de 103,02 o 70,70 en el II. En 2026 se aprobaron una reforma legal (Ley 4/2026) y dos decretos-ley de financiación: para 2027 el mínimo será de 660, 260 y 90 euros y el nivel acordado, de 904,2 millones.",
+   "dato_actual": {
+    "texto": "Según el panel del Imserso de octubre de 2026, 134.734 personas esperaban una prestación, un 22,7 % menos que un año antes y un 56,7 % menos que en 2021. El Estado prevé aportar 7.240 millones al sistema en 2027.",
+    "fuente": "BOE, preámbulo del Real Decreto-ley 36/2026, de 10 de noviembre (cita el Panel del SAAD del Imserso)",
+    "url": "https://www.boe.es/eli/es/rdl/2026/11/10/36",
+    "verificado": true
+   },
+   "matiz": "Los tres puntos se cumplieron, pero dos de ellos tardaron hasta 2021, en la legislatura siguiente. Las cuantías de 2021 quedaron por debajo del tramo más alto de 2011 en euros corrientes (235 frente a 266,57 en la gran dependencia) y por encima del más bajo; sin descontar la inflación de esos diez años. «Cumplido» mide la financiación estatal, no que la atención llegue a tiempo: quedan 134.734 personas en espera y la gestión corresponde a las comunidades autónomas. La cifra de espera procede del Gobierno, que la cita en el preámbulo de su propio decreto; no se ha comprobado si incluye a quienes aún esperan la valoración.",
+   "promesa_2026": {
+    "texto": "Aplicar la reforma de la dependencia de 2026 con un plan económico de varios años para seguir reduciendo las listas de espera.",
+    "cita": "Asegurar la plena aplicación de la reforma de los sistemas de discapacidad y dependencia (Ley 4/2026), con una programación económica plurianual orientada a seguir reduciendo las listas de espera y un sistema de seguimiento por territorios.",
+    "pagina": 57
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 3,
+     "por": "Recuperó la cotización de cuidadores en 2019 y los niveles mínimo y acordado en 2021, y los ha subido después; la lista de espera sigue en 134.734 personas (e2,e3,e4,e5)."
+    },
+    "coherencia": {
+     "nivel": 4,
+     "por": "Misma dirección desde 2018: decreto de 2019, Presupuestos de 2021, ley y decretos de 2026 y programa de 2026 (e1,e2,e3,e5,e6,e7)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "La financiación es estatal, pero las prestaciones las gestionan las comunidades autónomas y el plan plurianual no tiene cifras en el programa (e7)."
+    },
+    "datos": {
+     "nivel": 3,
+     "por": "La lista de espera oficial baja un 56,7 % desde 2021; aún hay 134.734 personas a la espera de una prestación (e5)."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "Los tres compromisos de julio de 2018",
+     "hecho": "Sánchez enumeró tres propuestas: recuperar la financiación del nivel mínimo anterior al Real Decreto-ley 20/2012, avanzar hacia la financiación recortada del nivel acordado con las comunidades y recuperar el convenio especial de Seguridad Social de los cuidadores no profesionales.",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita comprobada también en copia local."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "2019: el Estado vuelve a pagar la cotización de los cuidadores",
+     "hecho": "El Real Decreto-ley 6/2019, de 1 de marzo, establece que la cuota del convenio especial de los cuidadores no profesionales queda «a cargo de la Administración General del Estado» y que el Imserso la abona directamente a la Tesorería de la Seguridad Social.",
+     "fecha": "2019-03-01",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-3244",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Presupuestos de 2021: nivel mínimo y nivel acordado",
+     "hecho": "La disposición adicional 129.ª de la Ley 11/2020 fija el mínimo garantizado por el Estado en 235 euros al mes (grado III), 94 (grado II) y 60 (grado I) y establece el nivel acordado con las comunidades, con 566.394.840 euros.",
+     "fecha": "2020-12-30",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-17339",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La página es demasiado larga para leerla en línea hasta esa disposición; el texto se comprobó en copia local del BOE."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "norma",
+     "titulo": "Las cuantías de 2011, antes del recorte",
+     "hecho": "El Real Decreto 569/2011 fijaba el mínimo de protección de 2011 en 266,57 euros (grado III, nivel 2), 181,26 (grado III, nivel 1), 103,02 (grado II, nivel 2), 70,70 (grado II, nivel 1) y 60,00 (grado I, nivel 2). Los niveles dentro de cada grado se suprimieron después, por lo que la comparación con 2021 no es exacta.",
+     "fecha": "2011-04-20",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-8229",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "norma",
+     "titulo": "Noviembre de 2026: cuantías de 2027 y lista de espera",
+     "hecho": "El Real Decreto-ley 36/2026 (BOE de 11-11-2026, convalidado el 18-11-2026) fija para 2027 un mínimo de 660, 260 y 90 euros al mes por grados y 904.197.420 euros de nivel acordado. Su preámbulo cita 134.734 personas en espera, un 22,7 % menos que en septiembre de 2025 (39.672 menos) y un 56,7 % menos que en 2021.",
+     "fecha": "2026-11-10",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/eli/es/rdl/2026/11/10/36",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Las cifras de lista de espera son las que el Gobierno cita del Panel del Imserso de octubre de 2026; el panel no se abrió."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Ley 4/2026, de reforma de la discapacidad y la dependencia",
+     "hecho": "Publicada el 3-10-2026 y en vigor desde el 23-10-2026. Su preámbulo indica que suprime el régimen estatal de incompatibilidades entre prestaciones de dependencia; las comunidades mantienen los suyos.",
+     "fecha": "2026-10-01",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-20528",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Solo se pudo leer el preámbulo. Que la ley obligue al Estado a financiar el 50 % del coste aparece en la prensa especializada localizada en la búsqueda, pero no se comprobó en el articulado."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 se apoya en la reforma",
+     "hecho": "La medida 205 promete aplicar la Ley 4/2026 «con una programación económica plurianual orientada a seguir reduciendo las listas de espera». El programa admite que «la ayuda a la dependencia tarda meses en llegar».",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 2026, págs. 45 y 57",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cita comprobada en el texto local del programa (psoe.txt); el PDF de psoe.es no se abrió en esta ronda."
+    }
+   ]
+  },
+  {
+   "id": "b32",
+   "tema": "educacion",
+   "titulo": "Invertir en educación el 5 % del PIB en 2025",
+   "compromiso": "Aumentar los recursos públicos de educación y becas hasta que la inversión educativa llegue al 5 % del PIB en 2025.",
+   "cita": "Incrementaremos los recursos públicos destinados a la educación y becas. hasta situar la inversión educativa en España en un 5% del PIB en el año 2025.",
+   "cita_fecha": "2019-12-30",
+   "cita_fuente": "Acuerdo de coalición PSOE-Unidas Podemos «Coalición progresista. Un nuevo acuerdo para España», punto 2.1.10, pág. 11 del PDF",
+   "cita_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+   "cita_verificada": true,
+   "estado": "incumplido",
+   "que_paso": "La ley educativa de 2020 (LOMLOE) recogió el objetivo: su disposición adicional octava ordena un plan de aumento del gasto público educativo «hasta un mínimo del 5 por ciento del producto interior bruto». El gasto en euros ha subido cada año hasta un máximo de 71.348,8 millones en 2024. Pero su peso en el PIB, tras el pico del 4,89 % en 2020, cuando el PIB se hundió, ha bajado cuatro años seguidos hasta el 4,48 % en 2024, según la estadística del Ministerio. Con el criterio de Eurostat, España pasó del 3,9 % en 2018 al 4,1 % en 2024; la media de la UE es del 4,7 %.",
+   "dato_actual": {
+    "texto": "Gasto público en educación de 2024 (provisional): 71.348,8 millones de euros, un 4,8 % más que en 2023, equivalente al 4,48 % del PIB. El dato de 2025, año del objetivo, no está publicado.",
+    "fuente": "Ministerio de Educación, Formación Profesional y Deportes, Estadística del Gasto Público en Educación (nota de 18-3-2026); porcentaje del PIB según la misma estadística citada por El Español",
+    "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/educacion-fp-deportes/Paginas/2026/180326-gasto-educacion-2024.aspx",
+    "verificado": true
+   },
+   "matiz": "El dato de 2025 aún no existe: el estado se asigna porque en 2024 faltaba medio punto y el porcentaje llevaba cuatro años bajando. En euros, el gasto está en máximos; el porcentaje cae porque el PIB ha crecido más deprisa. La mayor parte del gasto educativo lo deciden y ejecutan las comunidades autónomas, no el Gobierno central. Las dos series no son comparables entre sí: la del Ministerio y la de Eurostat miden perímetros distintos. Las becas sí han crecido: 3.304,5 millones en 2024 entre todas las administraciones.",
+   "promesa_2026": {
+    "texto": "Aumentar la financiación educativa y ampliar becas y ayudas, sin cifra ni fecha.",
+    "cita": "Reforzar la educación pública y la igualdad de oportunidades, aumentando la financiación educativa y ampliando becas y ayudas.",
+    "pagina": 91
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Prometió el 5 % del PIB para 2025 y lo llevó a la ley; en 2024 el gasto era del 4,48 % y bajaba, aunque en euros marcó máximo (e2,e3,e4)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Mantiene la dirección de aumentar el gasto, pero en 2026 retira la cifra y la fecha (e1,e2,e6)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "El grueso del gasto educativo depende de las comunidades autónomas y el programa no dice cuánto ni cómo se paga (e6)."
+    },
+    "datos": {
+     "nivel": 1,
+     "por": "El peso en el PIB cae desde 2020 y España sigue por debajo de la media de la UE con el criterio de Eurostat (e4,e5)."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": false
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El compromiso del 5 % en 2025",
+     "hecho": "El punto 2.1.10 del acuerdo de coalición promete situar «la inversión educativa en España en un 5% del PIB en el año 2025» y apoyar a las comunidades para reducir las ratios.",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos, pág. 11 del PDF",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y texto extraído en esta ronda; cita comprobada."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "norma",
+     "titulo": "La LOMLOE llevó el 5 % a la ley",
+     "hecho": "La disposición adicional octava de la Ley Orgánica 3/2020 ordena formular en dos años un plan de incremento del gasto público educativo que contemple llegar «hasta un mínimo del 5 por ciento del producto interior bruto». No fija el año en que debe alcanzarse.",
+     "fecha": "2020-12-29",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La lectura en línea se cortó antes de esa disposición; el texto se comprobó en copia local del BOE."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "2024: 71.348,8 millones, máximo en euros",
+     "hecho": "El gasto público en educación fue de 71.348,8 millones en 2024, un 4,8 % más que los 68.065 millones de 2023. En becas y ayudas se gastaron 3.304,5 millones. Son datos provisionales.",
+     "fecha": "2026-03-18",
+     "fuente": "Ministerio de Educación, Formación Profesional y Deportes",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/educacion-fp-deportes/Paginas/2026/180326-gasto-educacion-2024.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La nota no da el porcentaje del PIB. La nota técnica del Ministerio (https://www.educacionfpydeportes.gob.es/dam/jcr:639436ff-68b1-4b43-9fbe-7046039ec1ad/notagasto2024-prov.pdf) no respondió."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "El peso en el PIB baja cuatro años seguidos",
+     "hecho": "Con la estadística del Ministerio, el gasto público educativo fue del 4,24 % del PIB en 2019, 4,89 % en 2020, 4,84 % en 2021, 4,62 % en 2022, 4,54 % en 2023 y 4,48 % en 2024. La pieza atribuye la caída a que el PIB nominal creció más que el gasto.",
+     "fecha": "2026-09-25",
+     "fuente": "El Español (informe de las fundaciones Ramón Areces y Europea Sociedad y Educación)",
+     "url": "https://www.elespanol.com/observatorio-educacion/20260925/gasto-publico-educacion-espana-cae-decimas-pib-detras-media-ocde/1003744396390_0.html",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Los porcentajes proceden de un solo medio que cita la estadística oficial; no se pudo abrir la nota técnica del Ministerio para contrastarlos."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Eurostat: 4,1 % en España y 4,7 % en la UE",
+     "hecho": "Gasto de las administraciones públicas en educación sobre el PIB: España, 3,9 % (2018), 4,0 % (2019), 4,6 % (2020), 4,5 % (2021), 4,3 % (2022), 4,2 % (2023) y 4,1 % (2024, provisional). UE-27: 4,6 % en 2018 y 4,7 % en 2024.",
+     "fecha": "2026-10-21",
+     "fuente": "Eurostat (gov_10a_exp)",
+     "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?lang=EN&geo=ES&geo=EU27_2020&sector=S13&unit=PC_GDP&cofog99=GF09&na_item=TE&sinceTimePeriod=2016",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Consulta directa a la API de Eurostat. Mide un perímetro distinto al de la estadística del Ministerio."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 ya no da cifra",
+     "hecho": "La medida 378 promete reforzar la educación pública «aumentando la financiación educativa y ampliando becas y ayudas». No menciona el 5 % del PIB.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 2026, pág. 91",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cita comprobada en el texto local del programa (psoe.txt); el PDF de psoe.es no se abrió en esta ronda."
+    }
+   ]
+  },
+  {
+   "id": "b33",
+   "tema": "empleo",
+   "titulo": "Crear el Estatuto del Becario",
+   "compromiso": "Dentro de un plan de choque de empleo juvenil, regular las prácticas no laborales, crear el Estatuto del Becario y eliminar las prácticas extracurriculares.",
+   "cita": "desarrollará una nueva regulación de las prácticas no laborales y los programas de becarios; creará el Estatuto del Becario y eliminará las prácticas extracurriculares.",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "La Moncloa, transcripción de la comparecencia en el Pleno del Congreso",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "cita_verificada": true,
+   "estado": "incumplido",
+   "que_paso": "El acuerdo de coalición de 2019 repitió el compromiso y la reforma laboral de diciembre de 2021 dio seis meses al Gobierno para convocar a sindicatos y patronal. El texto se pactó con CCOO y UGT. El Consejo de Ministros lo aprobó el 4-11-2025 y el proyecto de ley entró en el Congreso en marzo de 2026, con plazo de enmiendas hasta el 31-3-2026. No se había aprobado cuando las Cortes se disolvieron el 5-10-2026, de modo que decayó. El proyecto no eliminaba las prácticas extracurriculares: las limitaba al 15 % de los créditos del título y a 480 horas.",
+   "dato_actual": {
+    "texto": "A 24-11-2026 no hay Estatuto del Becario en vigor. El proyecto de ley 121/000087, publicado en el Boletín de las Cortes el 13-3-2026, decayó con la disolución de las Cortes del 5-10-2026.",
+    "fuente": "Congreso de los Diputados (BOCG) y BOE (Real Decreto 806/2026)",
+    "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-87-1.PDF",
+    "verificado": true
+   },
+   "matiz": "El Gobierno envió el proyecto, pero casi ocho años después del anuncio y a siete meses del final de la legislatura. Aprobarlo exigía una mayoría en el Congreso que el Gobierno no tenía: El Salto lo dio por inviable el día en que lo aprobó el Consejo de Ministros, por la falta de apoyo de Junts. El Boletín de las Cortes cita como firmantes del acuerdo a CCOO y UGT, no a la patronal. Además, lo enviado difería de lo prometido en 2018: mantenía las prácticas extracurriculares con límites en lugar de eliminarlas. No se abrió la ficha del expediente en congreso.es; la caducidad se deduce de la disolución, que hace decaer los proyectos en trámite.",
+   "promesa_2026": {
+    "texto": "Aprobar el Estatuto del Becario para combatir la precariedad laboral de los jóvenes.",
+    "cita": "Combatir la precariedad laboral juvenil y mejorar las condiciones de trabajo, aprobando el Estatuto del Becario.",
+    "pagina": 91
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 1,
+     "por": "Prometido en 2018 y 2019; el proyecto llegó al Congreso en marzo de 2026 y decayó en octubre sin votarse (e1,e2,e3,e4)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "En 2018 dijo que eliminaría las prácticas extracurriculares y el proyecto de 2026 las mantiene con límites; el texto tardó años en salir del Gobierno (e1,e3,e5)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Basta una ley ordinaria, pero requiere los pactos parlamentarios que faltaron en 2026 (e5)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "No hay datos oficiales localizados sobre el número de becarios ni sobre el efecto esperado de la norma."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El anuncio de julio de 2018",
+     "hecho": "Sánchez anunció un Plan de Choque de empleo juvenil que «desarrollará una nueva regulación de las prácticas no laborales y los programas de becarios; creará el Estatuto del Becario y eliminará las prácticas extracurriculares».",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita comprobada también en copia local."
+    },
+    {
+     "id": "e2",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de coalición de 2019 lo repitió",
+     "hecho": "El punto 1.5.1 promete la «aprobación y desarrollo del Estatuto del Becario para que su uso responda a finalidades exclusivamente formativas» y un porcentaje máximo de becarios por empresa.",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos, pág. 5 del PDF",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y texto extraído en esta ronda; cita comprobada."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Marzo de 2026: el proyecto entra en el Congreso",
+     "hecho": "La Mesa del Congreso tramitó el 10-3-2026 el proyecto de Ley del Estatuto de las personas en formación práctica no laboral (121/000087), publicado el 13-3-2026 con enmiendas hasta el 31-3-2026. La exposición de motivos dice que el texto fue acordado con CCOO y UGT. El artículo 1 admite prácticas extracurriculares hasta el 15 % de los créditos y 480 horas.",
+     "fecha": "2026-03-13",
+     "fuente": "Congreso de los Diputados, BOCG serie A núm. 87-1",
+     "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-87-1.PDF",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y texto extraído en esta ronda."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Las Cortes se disolvieron el 5-10-2026",
+     "hecho": "El Real Decreto 806/2026, de 5 de octubre (BOE del 6), disolvió el Congreso y el Senado y convocó elecciones para el 29-11-2026. Con la disolución decaen los proyectos de ley en tramitación.",
+     "fecha": "2026-10-05",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/eli/es/rd/2026/10/05/806",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Ara publicó el 5-10-2026 que «decaen todas las iniciativas legislativas que estaban en marcha» (https://es.ara.cat/politica/descarrila-congreso-elecciones_1_5870195.amp.html, abierta), sin nombrar el Estatuto del Becario. El País lo incluyó en su lista de leyes que caen (6-10-2026), pero la página no se pudo abrir."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Aprobado por el Gobierno en noviembre de 2025, sin mayoría",
+     "hecho": "El Salto informó el 4-11-2025 de que el Consejo de Ministros aprobaba ese día el Estatuto, pactado con CCOO y UGT, y de que carecía de mayoría en el Congreso tras el ultimátum de Junts. Recoge la crítica de CGT, que duda de su eficacia.",
+     "fecha": "2025-11-04",
+     "fuente": "El Salto",
+     "url": "https://www.elsaltodiario.com/laboral/consejo-ministros-aprueba-un-estatuto-del-becario-condenado-no-ver-luz",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "El Salto fecha el pacto con los sindicatos en 2022. Fuente única para la valoración sobre la falta de apoyos."
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 vuelve a prometerlo",
+     "hecho": "La medida 377 promete combatir la precariedad juvenil «aprobando el Estatuto del Becario». La medida 113 añade el derecho a la protección por desempleo de los becarios.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 2026, págs. 42 y 91",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cita comprobada en el texto local del programa (psoe.txt); el PDF de psoe.es no se abrió en esta ronda."
+    }
+   ]
+  },
+  {
+   "id": "b34",
+   "tema": "instituciones",
+   "titulo": "Acabar con el voto rogado antes de mayo de 2019",
+   "compromiso": "Cambiar la ley para que los españoles residentes en el extranjero no tengan que solicitar («rogar») el voto, y hacerlo antes de las elecciones de mayo de 2019.",
+   "cita": "Señorías, también quiero hacer una mención especial a la necesidad de impulsar una modificación de la legislación para acabar con el llamado \"voto rogado\" y hacerlo antes de que se produzcan los procesos electorales del próximo año en el mes de mayo.",
+   "cita_fecha": "2018-07-17",
+   "cita_fuente": "La Moncloa, transcripción de la comparecencia en el Pleno del Congreso",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "cita_verificada": true,
+   "estado": "parcial",
+   "que_paso": "El voto rogado no se suprimió antes de mayo de 2019, ni para las generales de abril y noviembre de ese año. El acuerdo de coalición de diciembre de 2019 repitió el compromiso. La Ley Orgánica 12/2022, de 30 de septiembre, lo eliminó: desde el 4-10-2022 la documentación electoral se envía de oficio al domicilio de cada elector inscrito en el exterior y se amplían los plazos para votar en los consulados. Se aplicó por primera vez en unas generales el 23-7-2023.",
+   "dato_actual": {
+    "texto": "En las generales del 23-7-2023, las primeras sin voto rogado, votaron 233.688 residentes en el extranjero, el 10,04 % de un censo de unos 2,3 millones. En noviembre de 2019 habían votado 145.853, el 6,85 %.",
+    "fuente": "RTVC, con datos de la agencia EFE",
+    "url": "https://rtvc.es/voto-residentes-en-el-extranjero-en-23j/",
+    "verificado": true
+   },
+   "matiz": "El cambio se hizo, pero tres años y cuatro meses después de la fecha que el propio presidente fijó. Es una ley orgánica: necesitaba mayoría absoluta del Congreso y el Gobierno de 2018 estaba en minoría. La participación exterior subió, pero nueve de cada diez inscritos siguieron sin votar en 2023, por lo que el voto rogado no era la única barrera. La reforma abarca generales, autonómicas y europeas; el acuerdo de coalición citaba también las municipales, que la ley no menciona. Las cifras de participación proceden de una agencia de noticias, no de una tabla oficial abierta aquí.",
+   "promesa_2026": {
+    "texto": "Reformar otra vez la ley electoral para simplificar el voto desde el exterior y reducir plazos.",
+    "cita": "Reformar la legislación electoral para simplificar y facilitar el voto exterior, reduciendo plazos, eliminando obstáculos burocráticos y garantizando una mayor participación de la ciudadanía española en el exterior.",
+    "pagina": 112
+   },
+   "puntos": {
+    "historial": {
+     "nivel": 3,
+     "por": "Suprimió el voto rogado por ley orgánica en 2022, más de tres años después del plazo que anunció (e1,e2)."
+    },
+    "coherencia": {
+     "nivel": 4,
+     "por": "Lo mantuvo en 2018, en el acuerdo de 2019, en la ley de 2022 y en el programa de 2026 (e1,e2,e4,e5)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Reformar la ley electoral exige ley orgánica, con mayoría absoluta del Congreso (e2)."
+    },
+    "datos": {
+     "nivel": 3,
+     "por": "La participación exterior pasó del 6,85 % al 10,04 %, pero el 90 % sigue sin votar (e3)."
+    }
+   },
+   "concrecion": {
+    "cifra": false,
+    "plazo": false,
+    "financiacion": false,
+    "instrumento": true
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "El compromiso con fecha: antes de mayo de 2019",
+     "hecho": "Sánchez pidió «impulsar una modificación de la legislación para acabar con el llamado \"voto rogado\" y hacerlo antes de que se produzcan los procesos electorales del próximo año en el mes de mayo».",
+     "fecha": "2018-07-17",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita comprobada también en copia local."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Ley Orgánica 12/2022: fin del voto rogado",
+     "hecho": "Publicada el 3-10-2022 y en vigor desde el 4-10-2022. Su preámbulo dice que suprime «el requisito de que los españoles residentes en el extranjero tengan que solicitar o rogar el voto» y que el sistema anterior se había traducido «en una reducción muy significativa en los niveles de participación». Cubre generales, autonómicas y europeas.",
+     "fecha": "2022-09-30",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-16018",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "Participación exterior: del 6,85 % al 10,04 %",
+     "hecho": "El 23-7-2023 votaron 233.688 residentes en el extranjero, el 10,04 % de unos 2,3 millones de inscritos. En noviembre de 2019 votaron 145.853, el 6,85 % de 2.130.754. Londres tuvo la participación más alta (18,8 %) y Buenos Aires, con el mayor censo, el 6,22 %.",
+     "fecha": "2023-07-28",
+     "fuente": "RTVC (datos de EFE)",
+     "url": "https://rtvc.es/voto-residentes-en-el-extranjero-en-23j/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El dato de 2019 coincide con el que publicó El Debate el 28-7-2023 (145.853 votantes, 6,85 %; censo de 2.128.559), también abierto: https://www.eldebate.com/espana/20230728/tres-incognitas-determinan-importancia-voto-cera_131054.html. La web de Carta de España (Ministerio de Inclusión) con las mismas cifras devolvió error 403."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El acuerdo de coalición de 2019 lo repitió",
+     "hecho": "El acuerdo dice: «Eliminaremos el voto rogado en las elecciones autonómicas, generales, y europeas y municipales».",
+     "fecha": "2019-12-30",
+     "fuente": "Acuerdo de coalición PSOE-Unidas Podemos, pág. 32 del PDF",
+     "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF descargado y texto extraído en esta ronda; cita comprobada."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 promete simplificarlo más",
+     "hecho": "La medida 489 propone reformar la legislación electoral «para simplificar y facilitar el voto exterior, reduciendo plazos, eliminando obstáculos burocráticos».",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 2026, pág. 112",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cita comprobada en el texto local del programa (psoe.txt); el PDF de psoe.es no se abrió en esta ronda."
+    }
+   ]
+  },
+  {
+   "id": "b35",
+   "tema": "empleo",
+   "titulo": "Proteger a los repartidores de plataformas",
+   "compromiso": "Que los repartidores de plataformas digitales («riders») queden protegidos por la legislación laboral.",
+   "cita": "Los riders ya son una realidad. Y también tienen que estar protegidos y amparados por la legislación laboral.",
+   "cita_fecha": "2018-09-17",
+   "cita_fuente": "La Moncloa, transcripción de la intervención en el acto «Avanzamos», Casa de América (cien días de Gobierno)",
+   "cita_url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2018/prsp20181709.aspx",
+   "cita_verificada": true,
+   "estado": "cumplido",
+   "que_paso": "En septiembre de 2020 el Pleno de la Sala de lo Social del Tribunal Supremo declaró laboral la relación de un repartidor con Glovo. El Gobierno aprobó después el Real Decreto-ley 9/2021, de 11 de mayo, convertido en la Ley 12/2021, de 28 de septiembre: presume que son asalariados quienes reparten para empresas que organizan el trabajo mediante un algoritmo y obliga a informar a los comités de empresa sobre esos algoritmos. La mayor plataforma, Glovo, no abandonó el modelo de autónomos hasta 2025.",
+   "dato_actual": {
+    "texto": "La presunción de que los repartidores de plataformas son asalariados está en el Estatuto de los Trabajadores (disposición adicional vigesimotercera) desde 2021. No se ha localizado una cifra oficial de repartidores contratados.",
+    "fuente": "BOE, Ley 12/2021, de 28 de septiembre",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-15767",
+    "verificado": true
+   },
+   "matiz": "La ley llegó tres años después de la frase y un año después de que el Supremo fijara el criterio: recogió en la norma lo que los tribunales ya decían. Que exista la ley no significó su aplicación inmediata: Glovo mantuvo repartidores autónomos casi cuatro años más y, según El Español, la Seguridad Social le reclama unos 450 millones en cuotas y multas. En marzo de 2026 la empresa anunció un ERE para 750 repartidores; los sindicatos calculan que otros 8.000 trabajan a través de subcontratas. La cita de 2018 no prometía una ley concreta ni un plazo.",
+   "promesa_2026": null,
+   "puntos": null,
+   "concrecion": null,
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "declaracion",
+     "titulo": "La frase de septiembre de 2018",
+     "hecho": "En el acto de los cien días de Gobierno, Sánchez dijo: «Los riders ya son una realidad. Y también tienen que estar protegidos y amparados por la legislación laboral». Lo enlazó con la modificación de la reforma laboral.",
+     "fecha": "2018-09-17",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2018/prsp20181709.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Página abierta; cita comprobada también en copia local."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "Ley 12/2021: presunción de laboralidad",
+     "hecho": "La Ley 12/2021 (BOE de 29-9-2021), procedente del Real Decreto-ley 9/2021, de 11 de mayo, añade al Estatuto de los Trabajadores la «presunción de laboralidad en el ámbito de las plataformas digitales de reparto» y el derecho de los comités a ser informados de los algoritmos que afectan a las condiciones de trabajo.",
+     "fecha": "2021-09-28",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-15767",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "El Supremo ya había declarado laboral la relación en 2020",
+     "hecho": "El Pleno de la Sala Cuarta del Tribunal Supremo resolvió que la relación entre un repartidor y Glovo es laboral: la empresa no es una mera intermediaria, fija las condiciones esenciales del servicio y es titular de los activos esenciales.",
+     "fecha": "2020-09-24",
+     "fuente": "Abogacía Española",
+     "url": "https://www.abogacia.es/actualidad/noticias/el-tribunal-supremo-declara-que-la-relacion-entre-empresa-y-repartidores-tiene-naturaleza-laboral/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La sentencia es la STS 805/2020, de 25 de septiembre, según la búsqueda; no se abrió el texto en el CENDOJ."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Glovo no dejó el modelo de autónomos hasta 2025",
+     "hecho": "El Español informó el 11-3-2026 de que Glovo anunciaba un ERE para 750 repartidores un año después de abandonar el sistema de falsos autónomos. Cifra la plantilla regularizada en más de 13.000 personas, y en 21.000 según los sindicatos al sumar unas 8.000 de subcontratas. La Seguridad Social reclama a la filial española unos 450 millones.",
+     "fecha": "2026-03-11",
+     "fuente": "El Español (Invertia)",
+     "url": "https://www.elespanol.com/invertia/empresas/tecnologia/20260311/glovo-anuncia-ere-repartidores-ano-despues-abandonar-sistema-falsos-autonomos/1003744165372_0.html",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Un solo medio abierto para estas cifras."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 no menciona a los repartidores",
+     "hecho": "En el texto del programa no aparecen las palabras «riders», «repartidores» ni «falsos autónomos». Tampoco hay una medida sobre el trabajo en plataformas de reparto.",
+     "fecha": "2026-11",
+     "fuente": "PSOE, programa electoral 2026",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Búsqueda de términos en el texto local del programa (psoe.txt)."
+    }
+   ]
+  }
+ ],
+ "para_existentes": [
+  {
+   "id": "b12",
+   "tipo": "evidencia",
+   "correccion": null,
+   "evidencia": {
+    "id": "e10",
+    "sentido": "contradice",
+    "componente": "historial",
+    "tipo": "informe_independiente",
+    "titulo": "Tribunal de Cuentas: ninguna promoción de SEPES terminada",
+    "hecho": "El informe 1.640, aprobado el 25-9-2025, fiscaliza la actividad de SEPES en vivienda pública de 2018 a 2023. De las once actuaciones analizadas, «ninguna» había finalizado al cierre de la fiscalización, todas tenían demoras importantes y el coste estimado había subido casi un 18 % entre 2022 y 2024.",
+    "fecha": "2025-09-25",
+    "fuente": "Tribunal de Cuentas",
+    "url": "https://www.tcu.es/export/sites/portal/repositorio2/INFORME/2025/I1640.pdf",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "PDF descargado y texto extraído en esta ronda (conclusiones 24 a 26). Es una muestra de once actuaciones, no todas las viviendas del plan."
+   },
+   "nota": "Pista de Codex (ficha b2018-20000), comprobada. Aporta un organismo independiente a b12, que hoy se apoya en notas del Ministerio y en prensa. Va en la misma dirección que el estado actual; no lo cambia."
+  },
+  {
+   "id": "b02",
+   "tipo": "evidencia",
+   "correccion": null,
+   "evidencia": {
+    "id": "e12",
+    "sentido": "contexto",
+    "componente": "datos",
+    "tipo": "dato_oficial",
+    "titulo": "GRECO: 16 de 19 recomendaciones, cumplidas solo en parte",
+    "hecho": "La nota oficial del Gobierno de 1-8-2025 sobre el informe del GRECO (Consejo de Europa) dice que España «ya cumple parcialmente 16 de sus 19 recomendaciones, tres más que en su última revisión». La nota no cita ninguna recomendación cumplida por completo.",
+    "fecha": "2025-08-01",
+    "fuente": "La Moncloa (Ministerio de la Presidencia, Justicia y Relaciones con las Cortes)",
+    "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/presidencia-justicia-relaciones-cortes/paginas/2025/010825-informe-greco-avance.aspx",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "La nota del Consejo de Europa (https://www.coe.int/es/web/portal/-/greco-publishes-report-evaluating-progress-in-anti-corruption-measures-in-spain) devolvió error 403; según el resultado de la búsqueda, dice que las otras tres no se han aplicado. Codex da «0 de 19 completas, 16 parciales, 3 no implementadas» sin enlazar la fuente."
+   },
+   "nota": "Pista de Codex (ficha b2018-corrupcion). Añade a b02 una medición externa de las medidas de prevención, que hoy solo tiene normas y causas judiciales. Conviene que el editor abra el informe original del GRECO antes de publicar el «3 no aplicadas»."
+  },
+  {
+   "id": "b20",
+   "tipo": "evidencia",
+   "correccion": null,
+   "evidencia": {
+    "id": "e7",
+    "sentido": "contexto",
+    "componente": "coherencia",
+    "tipo": "norma",
+    "titulo": "En 2018 prometió un impuesto a la banca para las pensiones",
+    "hecho": "El 17-7-2018 Sánchez anunció «una figura impositiva finalista vinculada al sector financiero» que contribuyera «a sostener el sistema público de pensiones». La Ley 7/2024, que creó el impuesto sobre el margen de intereses y comisiones, dispone que su recaudación «se distribuirá a las comunidades autónomas de régimen común» en función de su PIB regional; no la destina a las pensiones.",
+    "fecha": "2024-12-20",
+    "fuente": "BOE (Ley 7/2024) y La Moncloa (discurso de 17-7-2018)",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-26694",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "La cita de 2018 está en https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx. El reparto a las comunidades se comprobó en copia local del BOE (disposición final novena), porque la lectura en línea se cortaba antes."
+   },
+   "nota": "Pista de Codex (ficha b2018-banca-pensiones), comprobada. No contradice b20, que mide los gravámenes temporales de 2022, pero añade que el destino prometido en 2018 (las pensiones) no se cumplió. El editor puede preferir llevarlo al matiz."
+  }
+ ],
+ "descartado": [
+  {
+   "id_codex": "b2018-equiparacion",
+   "motivo": "La cita es genérica («la equiparación salarial… esenciales para este Gobierno») y el acuerdo de equiparación de policías y guardias civiles lo firmó en marzo de 2018 el Gobierno anterior. La única evidencia de Codex es una nota del propio Ministerio."
+  },
+  {
+   "id_codex": "b2018-asilo-europeo",
+   "motivo": "«Trabajar con los socios europeos» no tiene objeto medible ni plazo; el resultado (Pacto de Migración y Asilo) es una decisión colectiva de la UE. No hay en Codex un compromiso de inmigración que cumpla el criterio 1; el tema queda cubierto solo por b05."
+  },
+  {
+   "id_codex": "b2018-pobreza",
+   "motivo": "«Combatir la pobreza infantil» no fija meta ni plazo. Nuestra nota de método ya lo dejó fuera por la misma razón. El dato de Codex mezcla dos indicadores con resultados opuestos."
+  },
+  {
+   "id_codex": "b2018-becas",
+   "motivo": "Compromiso real pero sin cifra; la estadística que usa Codex mezcla perímetros distintos, como reconoce su propia ficha. El gasto en becas queda recogido en b32."
+  },
+  {
+   "id_codex": "b2018-pobreza-energetica",
+   "motivo": "Se cumplió con el mismo decreto-ley que b28 (15/2018), por lo que duplicaría la ficha. Codex usa un indicador del INE (9,1 % en 2018 y 15,9 % en 2025) que no se llegó a comprobar; merece ficha propia en otra ronda."
+  },
+  {
+   "id_codex": "b2018-digital",
+   "motivo": "Cumplido según Codex (Ley 4/2020, no comprobada en esta ronda), pero el tema impuestos ya suma b08, b13, b20, b25 y b26, y afecta menos al ciudadano que los elegidos. Candidato de reserva si se quiere otro «cumplido»."
+  },
+  {
+   "id_codex": "b2018-desempleo-mayores",
+   "motivo": "Buen candidato (subsidio para mayores de 52 años, Real Decreto-ley 8/2019). Quedó fuera por el tope de 12 y porque empleo ya tiene b14, b15, b22, b23, b33 y b35."
+  },
+  {
+   "id_codex": "b2018-dependencia-minimo",
+   "motivo": "Fusionado en b31 junto con b2018-dependencia-acordado y b2018-cuidados: son los tres puntos de una misma frase del discurso."
+  },
+  {
+   "id_codex": "b2018-conciliacion-proteccion",
+   "motivo": "Es la base de b29; se reformuló para medir los permisos, que es lo comprobable, y las excedencias van en el matiz."
+  },
+  {
+   "id_codex": "b2018-practicas-extracurriculares",
+   "motivo": "Fusionado en b33: es la misma frase que el Estatuto del Becario."
+  },
+  {
+   "id_codex": "b2018-pniec",
+   "motivo": "Misma frase que b27; el plan es un documento de planificación con menos efecto directo que la ley."
+  },
+  {
+   "id_codex": "b2018-empleojoven",
+   "motivo": "El plan se aprobó (diciembre de 2018) y su meta de paro juvenil no se alcanzó; el paro juvenil no se comprobó en esta ronda y el tema empleo ya está bien cubierto."
+  },
+  {
+   "id_codex": "b2018-315",
+   "motivo": "Derogación del artículo 315.3 del Código Penal, que Codex da por hecha y no se comprobó; afecta a muy pocas personas."
+  },
+  {
+   "id_codex": "b2018-igualdad-trato",
+   "motivo": "Cumplimiento solo normativo (Ley 15/2022), sin dato de resultado comprobable."
+  },
+  {
+   "id_codex": "b2018-20000",
+   "motivo": "Ya recogido en b12 (e3). Se aprovecha su evidencia del Tribunal de Cuentas en «para_existentes»."
+  },
+  {
+   "id_codex": "resto (68 fichas)",
+   "motivo": "Ya cubiertas por nuestros 23 (Franco, pensiones, sanidad universal, eutanasia, LOMCE, ley mordaza, RTVE, corrupción, elecciones, reforma laboral, Cataluña, Poder Judicial) o sin cita fechada y resultado medible para un ciudadano (deporte, cine, mecenazgo, turismo, ONU y G20, aceituna negra, Cervantes, becas de Tokio, mediación, etc.). En el conjunto de las 95, el propio Codex marca 16 como «sin_verificar»."
+  }
+ ]
+}

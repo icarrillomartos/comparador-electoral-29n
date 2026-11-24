@@ -1,0 +1,565 @@
+{
+ "aritmetica": [
+  {
+   "donde": "ferrocarril-accidentes/lectura vs tablas[1]",
+   "dice": "«Entre 2017 y 2024 ningún descarrilamiento causó muertes»",
+   "sale": "La tabla 2 del mismo análisis lista Vacarisses (20-11-2018), «descarrilamiento tras un desprendimiento», con 1 fallecido. Eurostat (tran_sf_railvi) da 0 fallecidos por descarrilamiento y 1 por colisión en 2018, lo que sugiere que Eurostat clasifica ese suceso como colisión; la frase, tal cual, contradice la tabla. Hay que decir «según la clasificación de Eurostat» o reconocer el caso de 2018.",
+   "gravedad": "alta"
+  },
+  {
+   "donde": "resultados-en-salud/lectura vs tablas[1]",
+   "dice": "«El único indicador que empeora es la mortalidad infantil»",
+   "sale": "La tabla de mortalidad intrahospitalaria del mismo análisis (nota: «Dos de seis empeoran respecto a 2018») muestra ictus hemorrágico 29,06 → 30,69 y todas las altas 4,74 → 4,92. Además el 2020 de neumonía (14,4) y de todas las altas (6,01) fue peor. La frase es falsa con los números del propio archivo.",
+   "gravedad": "alta"
+  },
+  {
+   "donde": "ferrocarril-dinero-exterior/tablas[0] vs lectura e indicadores",
+   "dice": "Lectura: 1.774 M€ en créditos ferroviarios, 1.512 M€ a Marruecos, Egipto y Uzbekistán. Nota de la tabla: «Lista no exhaustiva: faltan operaciones menores (Uganda, Chile, Canadá y otras)»",
+   "sale": "Las filas de la tabla suman 1.360,3 M€ para esos tres países (190+57+159+200+754,3), no 1.512. Faltan 151,7 M€ que no son de Uganda/Chile/Canadá. En el artículo de Maldita que cita el archivo constan además para Egipto 228 M€ (2024, trenes del metro de El Cairo) y dos créditos de dic-2025 (63 y casi 50 M€); con ellos las partidas de los tres países suman ≈1.702 M€ (y el total del artículo, 1.774 menos las partidas de Canadá, Uganda, Kenia, Chile, Colombia, Turquía, Tanzania y Ucrania, da ≈1.702 también), que es lo que dice el slug de la URL («1700 millones»). La cifra de 1.512 no sale de las partidas que detalla la propia fuente.",
+   "gravedad": "media"
+  },
+  {
+   "donde": "deuda/lectura",
+   "dice": "«el PIB en euros corrientes creció un 39 %, del que 24 puntos son subida de precios y 12 crecimiento real»",
+   "sale": "Son variaciones compuestas, no sumables: 1,243 × 1,122 = 1,394 (+39,4 %). 24 + 12 = 36 puntos, no 39. Redacción correcta: «precios +24 % y volumen +12 %».",
+   "gravedad": "baja"
+  },
+  {
+   "donde": "ayudas-quien-y-cuanto/lectura",
+   "dice": "«exclusión social, partida que se triplicó (2.859 → 8.198 millones)»",
+   "sale": "8.198/2.859 = 2,87 (casi se triplicó). Y el indicador exclusion_social_pib pasa de 0,24 % a 0,51 % del PIB (×2,1): no se triplicó en proporción del PIB. Las cifras 2.859 y 8.198 no figuran en indicadores ni tablas del análisis.",
+   "gravedad": "baja"
+  },
+  {
+   "donde": "neto-en-el-bolsillo/ojo[0]",
+   "dice": "«Con la encuesta salarial del INE (bruto real +3,1 % hasta 2024) el neto real saldría cerca de +1 %»",
+   "sale": "No hay método en el archivo. Aplicando la variación del tipo medio OCDE (21,64 % → 23,54 %) al +3,1 % sale ≈ +0,6 %, y mezcla 2024 (bruto) con tipos de 2025. Es una estimación no reproducible con lo que da el análisis.",
+   "gravedad": "baja"
+  },
+  {
+   "donde": "detenidos-extranjeros-peso y condenados-y-presos/indicadores (denominadores 1-7-2025)",
+   "dice": "Población 15+ a 1-7-2025: extranjeros 6.186.648, españoles 36.885.733; población total 49.356.442",
+   "sale": "INE (tabla 59585, actualizada el 24-11-2026) da hoy 6.177.008, 36.886.545 y 49.358.208. Las cifras de 2018 coinciden exactamente. Con los datos actuales: tasa extranjeros detenidos 3.976,1 (no 3.969,9), españoles 1.013,0, razón 3,93 (no 3,92); condenados extranjeros 1.479,1 (no 1.476,8), razón 2,54 (igual). Diferencias <0,2 %: no cambian ninguna conclusión, pero los números ya no son reproducibles tal cual.",
+   "gravedad": "baja"
+  },
+  {
+   "donde": "detenidos-por-nacionalidad/lectura",
+   "dice": "Tasas de Venezuela 2252, China 1313, Reino Unido 1442",
+   "sale": "Reproducibles (Interior 7.338, 2.606 y 3.599 detenciones; INE 325.854, 198.433 y 249.656 residentes 15+ a 1-1-2025) pero no figuran en la tabla del análisis, que solo tiene Marruecos, Colombia, Argelia, Rumanía y Perú; el lector no puede comprobarlas con lo que da el archivo.",
+   "gravedad": "baja"
+  },
+  {
+   "donde": "que-ha-subido-mas/lectura y tabla",
+   "dice": "«El salario medio de la OCDE subió un 21,4 % (2018-2025)»",
+   "sale": "Es el bruto nominal del trabajador tipo de Taxing Wages (26.922 → 32.678). En salarios-reales el «salario medio de la OCDE» es otra serie (masa salarial por equivalente a tiempo completo, +4,7 % real). El mismo nombre para dos series distintas; además la comparación contrapone un nominal hasta 2025 con precios hasta oct-2026 (lo advierte el ojo).",
+   "gravedad": "baja"
+  },
+  {
+   "donde": "nacionalidad-o-nacimiento/ojo[0]",
+   "dice": "«el grupo pasa de 7,1 a 9,8 millones (mitad de 2025)»",
+   "sale": "Correcto solo si se lee como nacionalidad → país de nacimiento en 1-7-2025 (7.078.958 → 9.764.162, INE). Leído como serie temporal es falso: los nacidos fuera eran 6.332.478 a 1-7-2018. Ambiguo.",
+   "gravedad": "baja"
+  },
+  {
+   "donde": "calidad-empleo/ojo[3]; por-que-baja-el-paro/ojo[3]; salarios-reales/ojo[1,2]; pensiones-smi-poder-compra/lectura; ayudas-quien-y-cuanto/lectura",
+   "dice": "Cifras citadas en texto sin indicador ni tabla que las respalde: temporalidad 26,8 % → 15,4 %; tasa de empleo 16-64 63,5 % → 69,1 %; OCDE 35.028 → 34.214 €; presión fiscal 35,2 % → 38,1 %; gasto en pensiones 12,5 % → 13,2 % (sin decir que es 2018-2024); 43 % del aumento del gasto social en pensiones y 4 % en exclusión; paro EPA 2T2026",
+   "sale": "No se pueden reproducir con numerador y denominador del propio análisis (algunas se declaran «dato ya publicado»). Son plausibles pero no comprobables desde el archivo.",
+   "gravedad": "baja"
+  },
+  {
+   "donde": "detenidos-extranjeros-peso/tablas[1]",
+   "dice": "Fila Homicidios 2018: 26,8 % y razón 3,48, idéntica a la fila Total",
+   "sale": "Internamente consistente (odds 3,48) y, recalculada con Interior, sale 26,7 %: coincidencia con el total, no un error de copia. Los demás porcentajes de la serie homogénea salen ±0,1 punto respecto a mi recálculo (26,7 y 35,2 frente a 26,8 y 35,3 del total) por la tabla de totales utilizada.",
+   "gravedad": "baja"
+  },
+  {
+   "donde": "todas las tablas de razón de tasas (detenidos-extranjeros-peso, condenados-y-presos, nacionalidad-o-nacimiento)",
+   "dice": "Razones de tasas, porcentajes de variación, cocientes por 100.000, % de aumento por país y región, deflactados IPC, déficit acumulado, descomposición población/PIB por habitante",
+   "sale": "Recalculados todos desde los números del archivo: coinciden dentro del redondeo (≤0,01 en razones, ≤0,1 en %). Sin otras discrepancias por encima del redondeo.",
+   "gravedad": "baja"
+  }
+ ],
+ "fuentes": [
+  {
+   "donde": "criminalidad-desde-2018/infracciones penales conocidas 2018 y 2025",
+   "cifra_publicada": "2.131.118 y 2.472.325",
+   "cifra_en_fuente": "2.131.118 y 2.472.325 (portal, tabla 01001, creada 29-9-2026). El Balance 4T-2025 (provisional, feb-2026) daba 2.474.156",
+   "url_abierta": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos1/l0/01001.csv_bdsc",
+   "resultado": "coincide",
+   "correccion": "Indicar que son datos consolidados del portal; la nota de prensa provisional de Interior difiere un 0,07 %."
+  },
+  {
+   "donde": "criminalidad-desde-2018/cibercriminalidad",
+   "cifra_publicada": "160.729 y 488.426",
+   "cifra_en_fuente": "160.729 y 488.426 (tabla 05001). Balance provisional: 489.248",
+   "url_abierta": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos5/l0/05001.csv_bdsc",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "criminalidad-desde-2018/homicidios dolosos y asesinatos consumados",
+   "cifra_publicada": "289 y 378",
+   "cifra_en_fuente": "289 y 378 (el Balance provisional decía 376)",
+   "url_abierta": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos1/l0/01001.csv_bdsc",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "criminalidad-desde-2018/agresión sexual con penetración, hurtos, robos en viviendas, robos con violencia, tráfico de drogas, libertad sexual (grupo 3)",
+   "cifra_publicada": "2.744/5.370; 706.072/633.798; 107.166/74.370; 60.295/61.958; 14.133/22.720; 13.782/23.668 (resto 11.038/18.298)",
+   "cifra_en_fuente": "Idénticas",
+   "url_abierta": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos1/l0/01001.csv_bdsc",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "criminalidad-desde-2018/hechos esclarecidos",
+   "cifra_publicada": "673.594 y 925.927",
+   "cifra_en_fuente": "673.594 y 925.927",
+   "url_abierta": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos2/l0/02001.csv_bdsc",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "detenidos-extranjeros-peso/detenciones e investigados totales",
+   "cifra_publicada": "394.824 (2018) y 619.249 (2025)",
+   "cifra_en_fuente": "394.824 y 619.249",
+   "url_abierta": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos3/l0/03001.csv_bdsc",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "detenidos-extranjeros-peso/detenciones e investigados de nacionalidad extranjera",
+   "cifra_publicada": "99.499 (2018) y 245.602 (2025)",
+   "cifra_en_fuente": "99.499 y 245.602",
+   "url_abierta": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos3/l0/03005.csv_bdsc",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "detenidos-extranjeros-peso/tabla 2025 por tipología (9 tipologías, total y extranjeros)",
+   "cifra_publicada": "p. ej. hurtos 105.982/51.657; robos violentos 22.561/12.423; ASP 3.325/1.483; estafas 28.519/8.198",
+   "cifra_en_fuente": "Idénticas las 18 cifras",
+   "url_abierta": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos3/l0/03005.csv_bdsc",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "detenidos-extranjeros-peso/serie homogénea sin Cataluña ni País Vasco",
+   "cifra_publicada": "94.447 extranjeros 2018; 482 y 997 en ASP; 26,8 % y 35,3 %",
+   "cifra_en_fuente": "94.447; 482; 997 idénticos. Porcentajes recalculados: 26,7 % y 35,2 % (±0,1 por la tabla de totales)",
+   "url_abierta": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos3/l0/03001.csv_bdsc",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "detenidos-por-nacionalidad/continentes y nacionalidades 2025 y 2018",
+   "cifra_publicada": "África 93.161 (2018: 28.912), América 84.682 (25.341), Europa 57.495 (40.391), Asia 8.121; Marruecos 57.621, Colombia 25.922, Argelia 21.812, Rumanía 21.557, Perú 12.535",
+   "cifra_en_fuente": "Idénticas; Venezuela 7.338, China 2.606, Reino Unido 3.599 también reproducen las tasas citadas",
+   "url_abierta": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos3/l0/03007.csv_bdsc",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "detenidos-por-nacionalidad/residentes 15+ por nacionalidad a 1-1-2025",
+   "cifra_publicada": "Marruecos 805.393; Colombia 594.428; Argelia 76.500; Rumanía 513.779; Perú 224.405; Asia 480.751; españoles 36.776.012; extranjeros 6.008.222",
+   "cifra_en_fuente": "Idénticas (INE tabla 56936)",
+   "url_abierta": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/56936",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "condenados-y-presos/población 15+ a 1-7-2018",
+   "cifra_publicada": "3.996.858 extranjeros; 35.816.764 españoles",
+   "cifra_en_fuente": "Idénticas (INE 59585)",
+   "url_abierta": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/59585",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "detenidos-extranjeros-peso y condenados-y-presos/población 15+ a 1-7-2025",
+   "cifra_publicada": "6.186.648 extranjeros; 36.885.733 españoles; población total 49.356.442",
+   "cifra_en_fuente": "6.177.008; 36.886.545; 49.358.208 (INE, actualizado 24-11-2026)",
+   "url_abierta": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/59585",
+   "resultado": "no coincide",
+   "correccion": "Actualizar denominadores; efecto <0,2 % (tasa 3.969,9 → 3.976,1; razón 3,92 → 3,93; condenados 1.476,8 → 1.479,1)."
+  },
+  {
+   "donde": "condenados-y-presos/condenados adultos totales y extranjeros",
+   "cifra_publicada": "286.637/67.942 (2018); 306.237/91.362 (2025); españoles 218.695 y 214.875",
+   "cifra_en_fuente": "Idénticas",
+   "url_abierta": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/25704",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "condenados-y-presos/presos extranjeros",
+   "cifra_publicada": "16.536/58.883 (2018); 19.339/59.226 (2024); españoles 42.347 y 39.887",
+   "cifra_en_fuente": "Idénticas (Eurostat crim_pris_ctz)",
+   "url_abierta": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/crim_pris_ctz",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "nacionalidad-o-nacimiento/población extranjera, nacidos fuera, españoles nacidos fuera",
+   "cifra_publicada": "1-1-2018: 4.577.322; 6.207.509; 2.125.957. 1-10-2026: 7.518.237; 10.433.091; 3.437.792; total 49.935.642",
+   "cifra_en_fuente": "Idénticas (la tabla se actualizó el 24-11-2026 con el dato de 1-10-2026). Además 1-7-2025: extranjeros 7.078.958, nacidos fuera 9.764.162",
+   "url_abierta": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/79273",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "origen-inmigracion-desde-2018/aumento por país y región de nacimiento",
+   "cifra_publicada": "Colombia +597.538; Venezuela +448.479; Marruecos +384.230; Sudamérica +1.760.284; África +558.567; Rumanía −72.208; Bulgaria −15.331; total +3.256.701",
+   "cifra_en_fuente": "Idénticas (INE 56937, 1-1-2018 y 1-1-2025)",
+   "url_abierta": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/56937",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "nacionalidad-o-nacimiento/adquisiciones de nacionalidad 2018-2025",
+   "cifra_publicada": "1.434.003; Marruecos 314.596; Venezuela 126.805; Colombia 125.489",
+   "cifra_en_fuente": "Idénticas (suma anual y por país)",
+   "url_abierta": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/15071",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "nacionalidad-o-nacimiento/condenados por violencia de género",
+   "cifra_publicada": "27.972 (19.101 nacidos en España) y 40.929 (24.704)",
+   "cifra_en_fuente": "Idénticas",
+   "url_abierta": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/28305",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "nacionalidad-o-nacimiento/víctimas mortales y agresores por país de nacimiento",
+   "cifra_publicada": "2018: 52 víctimas, agresores 32 España/20 otro país; 2025: 48, 29/19",
+   "cifra_en_fuente": "Idénticas (fichas anuales de la Delegación del Gobierno, act. 15-10-2025 y 23-4-2026)",
+   "url_abierta": "https://violenciagenero.igualdad.gob.es/wp-content/uploads/VMMortales_2025_Act_2026_04_23.pdf",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "origen-inmigracion-desde-2018/llegadas irregulares 2024 y 2025",
+   "cifra_publicada": "64.019 y 36.775",
+   "cifra_en_fuente": "32.925 mar + 3.850 tierra = 36.775 (2025); 61.372 + 2.647 = 64.019 (2024), según arc-legal citando el informe quincenal de Interior. El PDF oficial no se abrió. 2018 (64.298) no comprobada",
+   "url_abierta": "https://www.arc-legal.es/inmigracion-irregular-en-espana-en-2025-principales-datos-y-tendencias-oficiales/",
+   "resultado": "coincide",
+   "correccion": "Es fuente secundaria; mantener la advertencia del ojo. Falta comprobar 64.298 (2018)."
+  },
+  {
+   "donde": "ayudas-quien-y-cuanto/IMV hogares y titulares extranjeros",
+   "cifra_publicada": "911.274 hogares; 2.781.679 personas; 157.700 titulares extranjeros (17,3 %)",
+   "cifra_en_fuente": "Hogares y personas coinciden con la nota de la Seguridad Social (10-11-2026, vía buscador). La página devuelve 403 y las notas de Inclusión que aparecen no desglosan por nacionalidad",
+   "url_abierta": "https://revista.seg-social.es/-/el-ingreso-m%C3%ADnimo-vital-protege-en-octubre-a-cerca-de-2-8-millones-de-personas-que-viven-en-911.274-hogares",
+   "resultado": "no se pudo abrir",
+   "correccion": "El 17,3 % (157.700 sobre 911.264 titulares) no se pudo comprobar en fuente."
+  },
+  {
+   "donde": "pib-por-persona/PIB real, PIB por habitante, población",
+   "cifra_publicada": "1.243.538 y 1.395.075 M€; 26.620 y 28.260 €; UE-27 31.760 y 34.250; población 46.715,38 y 49.362,34 miles",
+   "cifra_en_fuente": "Idénticas; UE-27 PIB +9,7 %, población +1,7 %, PIB/hab +7,9 %; eurozona +8,6 %, +2,3 %, +6,2 % reproducen la tabla",
+   "url_abierta": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_gdp",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "productividad/productividad por hora y por ocupado, horas",
+   "cifra_publicada": "hora 99,725 → 101,923; ocupado 108,073 → 106,483; UE-27 hora +4,3 %, ocupado +3,0 %; eurozona hora +2,6 %; horas 33.765,6 y 37.063,1 millones",
+   "cifra_en_fuente": "Idénticas",
+   "url_abierta": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_lp_ulc",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "deuda/deuda pública, ratio, déficit, PIB corriente",
+   "cifra_publicada": "1.209.741,8 y 1.698.354,8 M€; 99,8 y 100,5 %; déficits 30.943…40.641; PIB 1.212.276 y 1.690.012",
+   "cifra_en_fuente": "Idénticas",
+   "url_abierta": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "productividad y por-que-baja-el-paro/EPA",
+   "cifra_publicada": "Ocupados por nacionalidad 3T2018 y 3T2026; ocupados, parados e inactivos 2T2018 y 3T2026",
+   "cifra_en_fuente": "Idénticas (19.528,0 → 22.852,6; 3.490,1 → 2.591,2; etc.)",
+   "url_abierta": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/65112",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "calidad-empleo/tasa de empleo 20-64",
+   "cifra_publicada": "67,0 y 72,4 % (UE-27 71,9 y 76,1)",
+   "cifra_en_fuente": "Idénticas",
+   "url_abierta": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfsi_emp_a",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "neto-en-el-bolsillo/OCDE Taxing Wages (soltero, 100 % salario medio)",
+   "cifra_publicada": "Bruto 26.921,76 y 32.678,40; neto 21.095,19 y 24.984,75; 21,64 y 23,54 %; cuña 39,68 y 41,44 %",
+   "cifra_en_fuente": "Idénticas",
+   "url_abierta": "https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_TAX_WAGES_COMP@DF_TW_COMP,/ESP.........?startPeriod=2018",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "neto-en-el-bolsillo/tipo efectivo IRPF",
+   "cifra_publicada": "12,66 % (2018) y 15,12 % (2025)",
+   "cifra_en_fuente": "12,66 y 15,12 (Cuadro 2.1 de la AEAT)",
+   "url_abierta": "https://sede.agenciatributaria.gob.es/static_files/AEAT/Estudios/Estadisticas/Informes_Estadisticos/Informes_Anuales_de_Recaudacion_Tributaria/Ejercicio_2025/Cuadro_2.1_es_es.xlsx",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "que-ha-subido-mas/IPC junio 2018 y octubre 2026",
+   "cifra_publicada": "General 82,17 → 105,651 (+28,6 %); alimentos 72,207 → 103,154 (+42,9 %); vivienda/suministros +31,0; transporte +29,1; comunicaciones −1,0; restaurantes +36,9",
+   "cifra_en_fuente": "Idénticas (INE, IPC base 2025)",
+   "url_abierta": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/76125",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "salarios-reales/Encuesta de Estructura Salarial 2018 y 2024",
+   "cifra_publicada": "Media 24.009,12 y 29.540,26; mediana 20.078,44 y 24.497,17; p10 8.457,36 y 12.018,46; p90 43.382,16 y 52.515,27",
+   "cifra_en_fuente": "Idénticas",
+   "url_abierta": "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/28191",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "por-que-baja-el-paro/paro registrado octubre 2026",
+   "cifra_publicada": "2.422.633",
+   "cifra_en_fuente": "2.422.633 (nota de la Seguridad Social 4-11-2026, vía buscador)",
+   "url_abierta": "https://revista.seg-social.es/-/el-paro-registrado-aumenta-en-43.128-personas-en-octubre-y-se-situa-en-2.422.633-la-cifra-mas-baja-en-este-mes-desde-2007",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "calidad-empleo/total demandantes de empleo oct-2026 (4.294.463) y octubre 2018 (4.509.281; 3.254.703)",
+   "cifra_publicada": "4.294.463; 4.509.281; 3.254.703",
+   "cifra_en_fuente": "No localizados en las páginas accesibles (los PDF AV_SISPE no se abrieron)",
+   "url_abierta": "https://www.sepe.es/SiteSepe/contenidos/que_es_el_sepe/estadisticas/datos_avance/datos/datos_2026/AV_SISPE_2610.pdf",
+   "resultado": "no se pudo abrir",
+   "correccion": ""
+  },
+  {
+   "donde": "gasto-vs-servicio/gasto sanitario público y reparto",
+   "cifra_publicada": "76.080,35 y 106.500,9 M€; 1.626,27 y 2.179,09 €/hab; 1.577,68 y 1.778,59 €/hab (2015); 6,28 y 6,68 % PIB; privado 30,82 y 27,75 %",
+   "cifra_en_fuente": "Idénticas (Eurostat hlth_sha11_hf)",
+   "url_abierta": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/hlth_sha11_hf",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "resultados-en-salud/mortalidad tratable, prevenible, esperanza de vida, mortalidad infantil",
+   "cifra_publicada": "Tratable 64,62 → 60,18; prevenible 113,39 → 110,36; esperanza de vida 83,1 → 84,0; a los 65 21,2 → 21,9; infantil 2,7 → 3,0; perinatal 2024 4,0",
+   "cifra_en_fuente": "Idénticas",
+   "url_abierta": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/hlth_cd_apr",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "esperas/lista de espera quirúrgica dic-2025",
+   "cifra_publicada": "853.740 pacientes; 17,70 por 1.000; 122 días; 21,6 % >6 meses; 832.728 (jun-2025); entradas 2.806.493; salidas 2.290.048; Andalucía 173 días y 199.950; Aragón 132; Asturias 91; Baleares 105; Canarias 106; Cantabria 137; Castilla y León 87",
+   "cifra_en_fuente": "Idénticas (PDF SISLE rectificado)",
+   "url_abierta": "https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/docs/LISTAS_PUBLICACION_Dic_2025_rectificado.pdf",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "esperas/lista de espera dic-2018 (668.288; 14,78; 129 días) y 2019 (entradas 2.469.230; salidas 2.050.146)",
+   "cifra_publicada": "668.288; 14,78; 129; 62,48; 96",
+   "cifra_en_fuente": "El informe de dic-2018 no se localizó; el de dic-2025 solo trae 2019 de actividad (no la comparé)",
+   "url_abierta": "https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/docs/LISTAS_PUBLICACION_Dic_2025_rectificado.pdf",
+   "resultado": "no se pudo abrir",
+   "correccion": "Pendiente de contrastar con el informe SISLE de dic-2018."
+  },
+  {
+   "donde": "esperas/cita en primaria 24-48 h 2025",
+   "cifra_publicada": "21,8 % (10,8 + 11,0) y 9,15 días",
+   "cifra_en_fuente": "21,8 % y 9,15 días (Informe del Barómetro Sanitario 2025, vía buscador). El desglose 10,8/11,0 y las cifras de 2018 (47,5 %; 4,77 días) no se localizaron",
+   "url_abierta": "https://www.sanidad.gob.es/estadEstudios/estadisticas/BarometroSanitario/Barom_Sanit_2025/Totales/Informe_BS_2025.pdf",
+   "resultado": "coincide",
+   "correccion": "2025 coincide; 2018 sin comprobar."
+  },
+  {
+   "donde": "ferrocarril-inversion y mantenimiento/series de Adif",
+   "cifra_publicada": "Inversión 2011-2025 (1.707 en 2018; 4.492 en 2024; 4.696 a 30-11-2025; convencional 400/2.033/2.412; AV 1.307/2.459/2.283); mantenimiento 726,496 / 1.062,492 / 1.119,840 M€; 46,10 / 67,64 / 71,26 mil €/km",
+   "cifra_en_fuente": "Idénticas (presentación ministerial 21-1-2026)",
+   "url_abierta": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes-movilidad-sostenible/Documents/2026/210126-presentacion-inversion-red-ferroviaria-adif.pdf",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "ferrocarril-inversion/CNMC 2025 y 2024",
+   "cifra_publicada": "5.230 M€ en 2025; 4.491,5 en 2024",
+   "cifra_en_fuente": "5.230 (Adif 2.770 + Adif AV 2.460, +16,1 % sobre 2024) coincide. El +16,1 % implica un 2024 de ≈4.505, no de 4.491,5; la cifra de 2024 de la CNMC no se pudo localizar",
+   "url_abierta": "https://www.cnmc.es/sites/default/files/6703004.pdf",
+   "resultado": "coincide",
+   "correccion": "Revisar 4.491,5 (la serie ministerial da 4.492)."
+  },
+  {
+   "donde": "ferrocarril-puntualidad/informe CNMC 2024",
+   "cifra_publicada": "85,8 % (−9 p.p.); 54 % (−20,7 p.p.); 106.282 trenes (+33.848, +46 %); 94 % con <15 min (−5 p.p.); 11.801 puntuales más (+57 % de trenes); 266 suprimidos de 70.805",
+   "cifra_en_fuente": "Idénticas, incluido «+46 %» y «+57 %» tal como los escribe la CNMC (33.848/72.434 = 46,7 %; la CNMC redondea a la baja)",
+   "url_abierta": "https://www.cnmc.es/sites/default/files/6148400.pdf",
+   "resultado": "coincide",
+   "correccion": "Las cifras internas de la CNMC no cuadran entre sí (85,8 %×70.805 frente a 94,8 %×45.108 daría ≈18.000 puntuales más, no 11.801); el archivo las reproduce fielmente."
+  },
+  {
+   "donde": "ferrocarril-accidentes/Eurostat accidentes y fallecidos",
+   "cifra_publicada": "16 y 18 fallecidos; serie 2018-2024 por tipo; viajeros 7 en 2015-2024; significativos 47/77/57; trenes-km 211.043 y 220.630",
+   "cifra_en_fuente": "Idénticas (tran_sf_railvi, tran_sf_railac, rail_tf_trainmv)",
+   "url_abierta": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/tran_sf_railvi",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "ferrocarril-accidentes/Adamuz",
+   "cifra_publicada": "18-1-2026, Adamuz (Córdoba), 46 fallecidos",
+   "cifra_en_fuente": "45 el 22-1-2026 (búsqueda cerrada) y 46 tras morir una herida en la UCI el 30-1-2026 (Diario de León, Última Hora). No localicé comunicado oficial con 46",
+   "url_abierta": "https://www.diariodeleon.es/nacional/260130/2074094/muerte-heridos-eleva-46-fallecidos-accidente-adamuz.html",
+   "resultado": "coincide",
+   "correccion": "La nota de la tabla dice que la cifra 46 «consta en fuente oficial»: solo la confirmé en dos medios; revisar esa frase."
+  },
+  {
+   "donde": "ferrocarril-accidentes/Gelida",
+   "cifra_publicada": "20-1-2026, Gelida (Barcelona), Rodalies R4, choque con muro caído, 1 maquinista fallecido",
+   "cifra_en_fuente": "20-1-2026, tren R4 entre Gelida y Sant Sadurní, muro de contención sobre la vía; 1 fallecido (alumno de maquinista, ~28 años) y 37 heridos (varios medios y Maldita)",
+   "url_abierta": "https://maldita.es/malditobulo/20260121/descarrila-un-tren-de-rodalies-en-gelida-barcelona/",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "ferrocarril-accidentes/Urda",
+   "cifra_publicada": "28-10-2026, Urda (Toledo), 69 fallecidos, un AVE alcanza por detrás a un Iryo detenido",
+   "cifra_en_fuente": "28-10-2026, cerca de Urda; Centro Integrado de Datos cierra la identificación de 69 víctimas (54 españolas, 15 de otras nacionalidades) el 3-11-2026; García-Page también dijo 69; la CIAF habló de 74 en su primera comunicación (prensa); Transportes: Iryo parado con 147 viajeros embestido por un tren de Renfe",
+   "url_abierta": "https://es.euronews.com/2026/11/03/concluye-identificacion-69-victimas-mortales-accidente-urda",
+   "resultado": "coincide",
+   "correccion": "Indicar fecha del balance (3-nov-2026) y que el primer balance de la CIAF fue 74. El archivo dice «LAV Madrid-Sevilla»; la prensa dice «línea Madrid-Andalucía»: no comprobé la denominación oficial."
+  },
+  {
+   "donde": "ferrocarril-dinero-exterior/crédito FIEM a Marruecos",
+   "cifra_publicada": "Hasta 754,3 M€, 40 trenes interurbanos, CAF, garantía soberana de Marruecos, feb-2025",
+   "cifra_en_fuente": "Nota del Gobierno 27-2-2025: «más de 750 millones», 40 trenes, CAF, FIEM vía ICO, garantía soberana; no constan tipo, plazo ni carencia. 754,3 M€ según Maldita",
+   "url_abierta": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/economia-comercio-empresa/Paginas/2025/270225-sector-ferroviario-marroqui.aspx",
+   "resultado": "coincide",
+   "correccion": ""
+  },
+  {
+   "donde": "ferrocarril-dinero-exterior/total créditos ferroviarios FIEM",
+   "cifra_publicada": "1.774 M€ (1.512 a Marruecos, Egipto y Uzbekistán)",
+   "cifra_en_fuente": "Maldita escribe 1.774 y 1.512, pero las partidas que detalla para esos tres países suman ≈1.702 (el slug de su URL dice «1700 millones»)",
+   "url_abierta": "https://maldita.es/malditobulo/20261029/gobierno-sanchez-aprobados-1700-millones-creditos-ferroviarios-marruecos-egipto-uzbekistan/",
+   "resultado": "no coincide",
+   "correccion": "El 1.512 no es reproducible con las partidas de la propia fuente; citar «más de 1.500» o dar la suma de partidas (≈1.700) y decir que Maldita publica 1.512."
+  }
+ ],
+ "redaccion": [
+  {
+   "donde": "detenidos-por-nacionalidad/lectura",
+   "frase": "«La de Argelia (28.512: 21.812 detenciones para 76.500 residentes) es aritméticamente incompatible con una tasa de residentes: delata detenciones repetidas y personas no empadronadas»",
+   "problema": "Dos problemas. (1) No es aritméticamente incompatible: 28.512 por 100.000 son 0,29 detenciones por residente, posible. (2) «delata» afirma una causa (repeticiones, no empadronados) que el propio apartado dice que no se puede medir, y la atribuye a una nacionalidad concreta.",
+   "propuesta": "«Es la tasa más alta de la tabla y muy probablemente está inflada porque el numerador cuenta detenciones repetidas y no residentes y el denominador solo empadronados; el portal no permite medir cuánto.»"
+  },
+  {
+   "donde": "nacionalidad-o-nacimiento/lectura (última frase)",
+   "frase": "«Es decir: por nacimiento el grupo es mayor y concentra un porcentaje alto, pero su tasa no resulta superior a la que sale por nacionalidad en las detenciones por malos tratos familiares (37,8 % de extranjeros; razón 3,6).»",
+   "problema": "Compara una razón de condenados por nacimiento (2,5) con una razón de detenciones por nacionalidad (3,6): estadísticas distintas (lo reconoce el ojo[1]) y, por tanto, la conclusión «su tasa no resulta superior» no se sostiene. «Concentra un porcentaje alto» es valorativo.",
+   "propuesta": "Eliminar la comparación o limitarla: «Con país de nacimiento solo hay datos de violencia de género: los nacidos fuera son el 39,6 % de los condenados y el 21,0 % de los hombres de 15+ (razón 2,5). No hay dato comparable por nacimiento para detenciones.»"
+  },
+  {
+   "donde": "nacionalidad-o-nacimiento/ojo[0]",
+   "frase": "«Contar por nacimiento sube el numerador, pero más aún el denominador… El porcentaje crece; la tasa no.»",
+   "problema": "Solo hay numerador por nacimiento en violencia de género; para el resto de delitos no existe, así que no se puede afirmar que la tasa «no crece». Es una generalización no medida.",
+   "propuesta": "«Para violencia de género, la razón de tasas por nacimiento (2,47) es algo menor que la de 2018 (2,63); para el resto de delitos no hay dato por nacimiento.»"
+  },
+  {
+   "donde": "ferrocarril-dinero-exterior/ojo[3]",
+   "frase": "«…las condiciones son más favorables que las de mercado.»",
+   "problema": "Contradice el ojo[2] del mismo análisis («las condiciones concretas no constan en la nota oficial») y mi lectura de la nota del Gobierno, que no da tipo, plazo ni carencia. Afirmación sin fuente.",
+   "propuesta": "Suprimir o atribuirla: «los créditos FIEM suelen ofrecer condiciones concesionales según el Gobierno; en este caso no constan» (solo si se localiza fuente)."
+  },
+  {
+   "donde": "ferrocarril-dinero-exterior/ojo[0]",
+   "frase": "«…no resta fondos al mantenimiento de Adif.»",
+   "problema": "Afirmación causal no demostrada: el FIEM es un fondo del Ministerio de Economía, con presupuesto propio, pero el archivo no comprueba que no compita con otras partidas. También «se devuelve con intereses» sin dato de intereses.",
+   "propuesta": "«Es un crédito del FIEM (Ministerio de Economía), no una partida del presupuesto de Adif; el archivo no mide si compite con otras partidas.»"
+  },
+  {
+   "donde": "ferrocarril-dinero-exterior/tabla (nota)",
+   "frase": "«Lista no exhaustiva: faltan operaciones menores (Uganda, Chile, Canadá y otras)»",
+   "problema": "Falsa para el país que importa: faltan créditos grandes a Egipto (228 M€ de 2024; 63 y casi 50 M€ de dic-2025), según la fuente que cita. Minimiza lo omitido.",
+   "propuesta": "Añadir las filas de Egipto 2024 y 2025 o decir «faltan, entre otras, tres operaciones a Egipto por ≈340 M€»."
+  },
+  {
+   "donde": "ferrocarril-mantenimiento/ojo[3]",
+   "frase": "«Gastar más no mide el resultado: tras el accidente de Adamuz la CIAF apunta provisionalmente a una rotura de carril…»",
+   "problema": "Yuxtapone gasto y accidente sin decir que no se ha establecido relación entre ambos; insinúa una causalidad que el archivo no sostiene (ni la contraria).",
+   "propuesta": "Separar: «El gasto no mide el resultado.» y, en otro ojo, «La CIAF apunta provisionalmente a una rotura de carril en Adamuz; el archivo no puede relacionar eso con el nivel de mantenimiento.»"
+  },
+  {
+   "donde": "ferrocarril-accidentes/lectura",
+   "frase": "«En 2026 la situación cambia de escala»",
+   "problema": "Adjetivación valorativa; los datos solo muestran dos sucesos con 46 y 69 fallecidos tras años con 0-3 por colisión o descarrilamiento. Contradice en tono al ojo[0] («un año no permite estimar una tendencia»).",
+   "propuesta": "«En 2026 hubo dos accidentes con 46 fallecidos (Adamuz, 18 de enero) y 69 (Urda, 28 de octubre, balance a 3-11-2026), frente a 0-3 fallecidos al año por colisión o descarrilamiento en 2017-2024.»"
+  },
+  {
+   "donde": "resultados-en-salud/lectura",
+   "frase": "«Los datos disponibles no muestran más muertes atribuibles a peor atención.»",
+   "problema": "Minimiza: los datos de causas acaban en 2023 y la lista de espera más larga es de 2025 (lo dicen el ojo[0] y no_se_puede_saber). El indicador de mortalidad hospitalaria empeora en ictus hemorrágico y total de altas. La frase puede leerse como descarte.",
+   "propuesta": "«Hasta 2023 (último año publicado), la mortalidad tratable baja; no hay datos que permitan evaluar 2024-2026.»"
+  },
+  {
+   "donde": "ayudas-quien-y-cuanto/ojo[0]",
+   "frase": "«La pobreza antes de transferencias bajó (27,9 % → 25,4 %): apunta más a cobertura que a necesidad.»",
+   "problema": "Inferencia presentada como indicio sin base: el gasto está dominado por pensiones de vejez (43 % del aumento según la lectura) y por envejecimiento, que el indicador no recoge; no hay análisis que separe cobertura de necesidad.",
+   "propuesta": "«La pobreza antes de transferencias bajó; el análisis no separa cuánto del mayor gasto se debe a cobertura, envejecimiento o necesidad.»"
+  },
+  {
+   "donde": "pensiones-smi-poder-compra/ojo[2]",
+   "frase": "«El salario mínimo pasó del 41 % al 55 % del salario mediano: parte de la subida comprime los salarios cercanos, que han crecido mucho menos.»",
+   "problema": "Efecto causal («comprime») no medido; el archivo no tiene datos de salarios cercanos al SMI, solo la tabla de percentiles (p10 +19 %, mediana +2,2 %), que no prueba causa.",
+   "propuesta": "«… y los salarios del percentil 10 han subido +19 % real frente a +2,2 % de la mediana; los datos no permiten atribuir esa diferencia al SMI.»"
+  },
+  {
+   "donde": "productividad/ojo[3]",
+   "frase": "«Incorporar al empleo a personas antes paradas o recién llegadas reduce la productividad media aunque nadie produzca menos (efecto composición).»",
+   "problema": "Presentado como hecho; el archivo no mide el efecto composición ni cuánto explica del −1,5 % de productividad por ocupado. Además asocia «recién llegadas» a baja productividad sin dato (el propio NSP dice que no se mide por origen).",
+   "propuesta": "«Un cambio en la composición del empleo (más trabajadores a jornada parcial, nuevos en el mercado) puede reducir la media; el archivo no mide cuánto.»"
+  },
+  {
+   "donde": "deuda/ojo[3]",
+   "frase": "«La inflación reduce la ratio de deuda sin que nadie pague nada…»",
+   "problema": "Valorativo y discutible: quien tiene deuda pública pierde poder adquisitivo; «nadie paga» es una opinión sobre quién soporta el coste, no un dato.",
+   "propuesta": "«La inflación eleva el PIB nominal y por tanto reduce la ratio de deuda aunque el importe adeudado no varíe.»"
+  },
+  {
+   "donde": "criminalidad-desde-2018/ojo[2]",
+   "frase": "«Decir que «la convencional baja» esconde que los delitos violentos y sexuales suben»",
+   "problema": "Impreciso con los números del análisis: robos con violencia suben solo un 2,8 % en absoluto y bajan por habitante (1,29 → 1,26 por 1.000); suben homicidios consumados (289 → 378, cifras pequeñas) y delitos sexuales. «Violentos» como categoría general no se sostiene. Además la lectura mezcla variaciones absolutas (homicidios +30,8 %, hurtos −10,2 %) con tasas por habitante para el total.",
+   "propuesta": "«…esconde que suben los homicidios consumados (289 → 378) y los delitos sexuales; los robos con violencia suben un 2,8 % en total y bajan por habitante.»"
+  },
+  {
+   "donde": "origen-inmigracion-desde-2018/lectura y no_se_puede_saber",
+   "frase": "«Las llegadas irregulares por mar y por Ceuta y Melilla son una fracción pequeña: unas 64.000 en 2024…»; «Que casi el 70 % del aumento proceda de América indica entrada por aeropuerto»",
+   "problema": "La lectura da como hecho una cifra que el ojo dice no verificada en la fuente oficial (la confirmé solo por una fuente secundaria). Y compara una llegada por mar/tierra con el flujo de inmigraciones, que no son la misma población que el aumento del stock de nacidos fuera. «Indica entrada por aeropuerto» es inferencia sobre una vía de entrada que ninguna estadística registra (lo dice la misma frase).",
+   "propuesta": "Añadir en la lectura «según cifras de Interior citadas por prensa» y cambiar «indica» por «es compatible con»."
+  },
+  {
+   "donde": "ayudas-quien-y-cuanto/lectura",
+   "frase": "«partida que se triplicó»",
+   "problema": "Exagera: 2,87 veces en euros y 2,1 veces en % del PIB.",
+   "propuesta": "«casi se triplicó en euros (×2,9; ×2,1 en proporción del PIB)»."
+  },
+  {
+   "donde": "profesionales/ojo[3]",
+   "frase": "«…2025 refleja además la resolución de expedientes atrasados (se resolvió el doble que en 2024).»",
+   "problema": "Ambigua: las homologaciones de Medicina pasan de 8.865 (2024) a 30.303 (2025), ×3,4; «el doble» solo puede referirse al total de profesiones y no se dice. Atribuir el salto a «expedientes atrasados» sin fuente propia.",
+   "propuesta": "Precisar a qué se refiere «el doble» y citar la fuente de «atrasados»."
+  }
+ ],
+ "resumen": "47 grupos de cifras comprobados en fuente (varios cientos de valores individuales): 42 coinciden, 2 no coinciden (detenidos-extranjeros-peso y condenados-y-presos/población 15+ a 1-7-2025; ferrocarril-dinero-exterior/total créditos ferroviarios FIEM), 3 no se pudieron abrir (IMV titulares extranjeros, demandantes SEPE, lista de espera dic-2018); además no localicé la parte 2018 del Barómetro sanitario. Dos fuentes se contrastaron solo de forma secundaria (llegadas irregulares vía arc-legal; Adamuz 46 en dos medios). Los datos de Interior, INE, Eurostat, OCDE, AEAT, Adif y CNMC se descargaron de la propia fuente (CSV/JSON/PDF). Aritmética interna: toda la matemática de porcentajes, razones y tasas del archivo reproduce dentro del redondeo; las discrepancias reales son dos contradicciones de texto (descarrilamientos 2018; «único indicador que empeora») y el cuadro de créditos FIEM."
+}

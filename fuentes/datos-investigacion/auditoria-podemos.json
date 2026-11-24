@@ -1,0 +1,134 @@
+{
+  "ambito": "podemos",
+  "revisadas_con_enlace": 28,
+  "no_se_pudieron_abrir": [
+    "podemos-vivienda-1/e4 (PDF de FEDEA ilegible para la herramienta; cifras no contrastadas con el original)",
+    "podemos-empleo-1/e11 (PDF de la AIReF: error de certificado, y al descargarlo con curl el texto no es extraíble; cifras contrastadas solo con El Español)",
+    "podemos-exterior-1/e3 (PDF de la OTAN descargado pero tablas no extraíbles; cifras 11.281/17.451 millones y 0,90%/1,16% sin contrastar)",
+    "podemos-exterior-1/e7 y e9 (solo confirmados por búsqueda; sin recuento de votos ni Diario de Sesiones)",
+    "podemos-instituciones-1/e2, e7, e8, e10 y podemos-igualdad-2/e3, e6, e7, e9, e10, e11 y el resto de evidencias no listadas aquí: no se abrieron (84 evidencias en total; el resto no figura como revisado)"
+  ],
+  "hallazgos": [
+    {
+      "donde": "podemos-energia-1/e7  y  podemos-energia-1/refutacion",
+      "tipo": "hecho_incorrecto",
+      "gravedad": "media",
+      "confianza": "alta",
+      "problema": "e7 dice que el art. 8 del RD 1066/2007 solo excluye la expropiación y «no menciona al Estado ni a la SEPI», y la refutación afirma que la CNMV puede dispensar la OPA (art. 4.2) y por eso el coste de 15.500 millones es un techo. El art. 8.b excluye también «las demás [operaciones] que resulten del ejercicio por las autoridades competentes de facultades de Derecho público previstas en la normativa vigente», lo que puede amparar una compra ordenada por ley; y la dispensa del art. 4.2 solo opera cuando otro accionista ya tiene un porcentaje de voto igual o superior, supuesto que no se da en Repsol (e12: sin accionista de control).",
+      "comprobado_en": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-14483",
+      "que_dice_la_fuente": "Art. 8: «No será obligatoria la formulación de una oferta pública de adquisición en los supuestos siguientes: ... b) Adquisiciones u otras operaciones que se realicen de conformidad con la Ley de Expropiación Forzosa, y las demás que resulten del ejercicio por las autoridades competentes de facultades de Derecho público previstas en la normativa vigente.» Art. 4.2: la CNMV dispensa la OPA cuando alcanzado el 30% «otra persona o entidad ... tuviera un porcentaje de voto igual o superior».",
+      "correccion": "En e7, sustituir «pero no menciona al Estado ni a la SEPI» por: «El artículo 8.b excluye también las operaciones que resulten del ejercicio de facultades de Derecho público; si una compra por ley o por expropiación entra en esa excepción es una cuestión jurídica no resuelta». Eliminar de la refutación la frase «la CNMV puede dispensar» (la dispensa del 4.2 no aplica a Repsol) y explicar que la OPA obligatoria no es segura por la excepción del art. 8.b, no por la dispensa."
+    },
+    {
+      "donde": "podemos-exterior-1/e7  y  podemos-exterior-1/resumen",
+      "tipo": "contexto",
+      "gravedad": "media",
+      "confianza": "alta",
+      "problema": "El título de e7 («llevó la salida de la OTAN al Congreso») y el resumen («la llevó al Congreso en abril de 2026») presentan como votación sobre la salida lo que fue una moción que pedía un referéndum sobre la salida, más otros tres puntos. La medida 70 del programa propone denunciar el Tratado directamente, no consultar. Ese matiz (el voto contrario fue a una consulta, no a la denuncia) no consta.",
+      "comprobado_en": "https://orain.eus/es/politica/2026/04/22/el-congreso-rechaza-el-referendum-salir-la-otan-pide-podemos/ ; programa: texto-programas/podemos.txt, medida 70, pág. 28",
+      "que_dice_la_fuente": "Titular: «El Congreso rechaza el referéndum para salir de la OTAN que pide Podemos». Programa, medida 70: «Impulsaremos la salida de España de la OTAN mediante la denuncia del Tratado del Atlántico Norte». Búsqueda sobre El Debate (22-4-2026): Sumar consideró «extemporáneo» el referéndum aunque apoyaba la iniciativa y votó a favor del resto de puntos.",
+      "correccion": "Título de e7: «Podemos pidió en abril de 2026 un referéndum sobre la salida de la OTAN; el Congreso lo rechazó». En el resumen: «y llevó al Congreso en abril de 2026 una moción que pedía un referéndum sobre la salida, que PP, PSOE, Vox, PNV y Junts rechazaron». Añadir en matiz que el programa propone la denuncia directa, no la consulta."
+    },
+    {
+      "donde": "podemos-exterior-1/resumen y antecedentes (y puntos.historial)",
+      "tipo": "redaccion",
+      "gravedad": "media",
+      "confianza": "media",
+      "problema": "El resumen dice que Podemos «votó los Presupuestos que lo aumentaban» y los antecedentes que «apoyó los Presupuestos de 2021 a 2023». La única votación de Presupuestos con evidencia es la de 2023 (e4); la propia refutación admite no haber verificado 2021 y 2022. Además el nivel de historial atribuye a Podemos el gasto de Defensa y los destructores de Rota (Defensa y Exteriores no eran suyos; e5 dice que no se votó y que no se sabe qué hicieron sus ministros), mientras que en empleo se acredita el SMI de Trabajo con la salvedad de que el ministerio no era de Podemos. Criterio desigual de atribución.",
+      "comprobado_en": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/Paginas/2022/241122-pge_2023_congreso-aprobacion.aspx (citada en e4); lectura de refutacion y e5 del JSON",
+      "que_dice_la_fuente": "La nota de Moncloa solo documenta la aprobación de los Presupuestos de 2023; refutacion: «no he verificado ... los votos de los Presupuestos de 2021 y 2022, y no los uso».",
+      "correccion": "Resumen: «votó a favor de los Presupuestos de 2023, que subían Defensa un 25,8% (e4), aunque dijo rechazar ese aumento». Antecedentes: quitar «de 2021 a 2023» o añadir evidencia de esos votos. Historial: aplicar el mismo criterio que en empleo e igualdad (distinguir lo que dependía de sus ministerios); como el asunto no dependía de ningún ministerio de Podemos ni lo había prometido antes, valorar poner historial en null o, como mínimo, indicar en 'por' que el aumento y los destructores no fueron decisión de sus ministerios."
+    },
+    {
+      "donde": "podemos-empleo-1/puntos.historial  (y criterio de atribución en el bloque)",
+      "tipo": "nivel",
+      "gravedad": "media",
+      "confianza": "media",
+      "problema": "El historial de empleo sube a 3 porque el SMI pasó de 900 a 1.080 euros, subidas decididas por el Ministerio de Trabajo (Yolanda Díaz, no Podemos; e1 lo admite). Podemos pedía 1.200 euros y no se alcanzó en la legislatura (e3). En vivienda (ley de Transportes) también se acredita a Podemos un logro de otro ministerio (nivel 2). Ni Trabajo ni Transportes eran de Podemos (sus ministerios eran Igualdad, Derechos Sociales, Consumo y Universidades). El bloque mezcla en 'historial' lo que dependía de sus ministerios con lo que no.",
+      "comprobado_en": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-3982 (RD 99/2023, citado en e1); lectura del JSON",
+      "que_dice_la_fuente": "e1 (nota): «El Ministerio de Trabajo lo dirigía Yolanda Díaz (Unidas Podemos, no Podemos). El 60% lo afirma el propio Gobierno».",
+      "correccion": "Dos opciones coherentes para todo el bloque: (a) historial = coalición (Podemos como socio): mantener 3 en empleo y 2 en vivienda pero decirlo expresamente en 'por'; o (b) historial = lo que dependía de sus ministerios: en empleo, bajar a 2 (se cumplió el 60% del salario medio pactado pero no los 1.200 euros que Podemos pedía) y marcar que Trabajo no era suyo. Elegir una y aplicarla también a exterior (ver hallazgo anterior)."
+    },
+    {
+      "donde": "podemos-vivienda-1/e3  y  podemos-vivienda-1/resumen",
+      "tipo": "contexto",
+      "gravedad": "media",
+      "confianza": "alta",
+      "problema": "El resumen dice que en Cataluña «los precios han bajado entre un 0,7% y un 4,9%» y e3 titula que «el alquiler no ha subido». Mezcla cifras de periodos y universos distintos (0,7% en dos años en 271 municipios; 4,9% el primer año en 140 municipios) y omite que la misma fuente (Ara) dice que el alquiler total en Cataluña ha subido un 1% desde el primer trimestre de 2024 y que el precio por metro cuadrado en Barcelona subió un 2,4% (la bajada del 4,4% es de la mensualidad).",
+      "comprobado_en": "https://es.ara.cat/economia/inmobiliario/topes-evitan-encarecimiento-alquileres-suben-1-2024_1_5897417.html",
+      "que_dice_la_fuente": "Datos de la Generalitat a partir de fianzas del Incasòl: alquiler en Cataluña +1% desde el 1T 2024; 271 municipios con tope -0,7% en dos años; resto de Cataluña +11%; Barcelona -4,4% (1.140,89 euros mensuales); precio por m² en Barcelona +2,4% entre el 1T 2024 y el 2T 2026.",
+      "correccion": "Resumen: «en los municipios catalanes con tope la renta media mensual bajó un 0,7% en dos años y subió un 11% en el resto de Cataluña; el primer año el Ministerio cifró la bajada en un 4,9%». En e3 añadir: «El alquiler total de Cataluña subió un 1% y el precio por metro cuadrado en Barcelona un 2,4%; la bajada es de la mensualidad, lo que puede reflejar pisos más pequeños (e4)»."
+    },
+    {
+      "donde": "podemos-vivienda-1/e3 y e2 (nota sobre el 4,9%)",
+      "tipo": "fuente_primaria",
+      "gravedad": "baja",
+      "confianza": "alta",
+      "problema": "Hay dos cifras oficiales distintas del primer año en zonas tensionadas catalanas. La nota de Moncloa del 29-7-2025 da un 4,9% (Incasòl), pero la nota del Ministerio de Vivienda de 14-3-2025 sobre el balance del primer año da un 3,7% en los 140 municipios, un 3,3% en toda Cataluña y un 6,4% en Barcelona. El JSON usa solo la primera y presenta el rango 0,7%-4,9% sin señalar la discrepancia.",
+      "comprobado_en": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/vivienda-agenda-urbana/Paginas/2025/140325-ley-vivienda-funciona.aspx",
+      "que_dice_la_fuente": "«Los 140 municipios declarados zonas de mercado tensionado han rebajado en un 3,7% el precio de sus alquileres residenciales»; «en el total de Catalunya esa rebaja es del 3,3%»; Barcelona «un 6,4% más baratos».",
+      "correccion": "Añadir al texto del efecto del primer año: «3,7% según el Ministerio en marzo de 2025 (6,4% en Barcelona) y 4,9% según otra nota en julio de 2025», o citar el rango 3,7%-4,9% con ambas URL."
+    },
+    {
+      "donde": "podemos-igualdad-2/e12  y  podemos-igualdad-2/puntos.coherencia y matiz",
+      "tipo": "clasificacion",
+      "gravedad": "media",
+      "confianza": "alta",
+      "problema": "La evidencia sobre quejas internas por Monedero no guarda relación con desarrollar la ley del «solo sí es sí»; ya se retiró la del expediente de la Complutense por el mismo motivo y el mismo criterio vale aquí. Además atribuye un asunto de conducta sexual a una persona concreta con una fuente ambigua: el titular de The Objective habla de Fiscalía de Madrid pero el cuerpo dice que la denuncia, de la plataforma Xuntos por Galicia, se presentó ante la Fiscalía de Área de Vigo, y archivó por falta de concreción de los hechos, no por una resolución judicial. La coherencia (puntos) lo cita como argumento.",
+      "comprobado_en": "https://theobjective.com/espana/tribunales/2025-05-28/fiscalia-denuncia-monedero-agresion-sexual-podemos/",
+      "que_dice_la_fuente": "Denuncia de «Xuntos por Galicia» (marzo de 2025) contra Monedero, Montero, Belarra y Rodríguez por agresión sexual, encubrimiento y omisión del deber de socorro; la Fiscalía la archivó (28-5-2025): las presuntas víctimas no habían denunciado, los hechos no eran «suficientemente claros»; el encubrimiento era «un asunto interno del partido».",
+      "correccion": "Eliminar e12 y la frase «Como contexto, el partido gestionó sin expediente formal las quejas internas sobre Monedero» de puntos.coherencia, y la frase equivalente del matiz. Si se mantiene, corregir el órgano (Fiscalía de Área de Vigo, según el cuerpo de la noticia) y mantener estado_judicial «archivado» solo para las diligencias de Fiscalía."
+    },
+    {
+      "donde": "podemos-impuestos-2/e7  y  podemos-impuestos-2/puntos.coherencia (nivel 4)",
+      "tipo": "contexto",
+      "gravedad": "media",
+      "confianza": "media",
+      "problema": "e7 presenta la proposición de ley de 2024 como antecedente del 50% del beneficio bancario, pero esa propuesta era temporal: extendía el impuesto «hasta 2025, con la posibilidad de hacerlo permanente», y añadía un gravamen del 75% sobre márgenes superiores a los de 2022. La permanencia que prometen ahora es nueva. Además, e8 documenta que en 2019 prometieron recuperar el rescate y no lo incluyeron en el acuerdo de coalición. Con esto, «todo en la misma dirección durante años» (nivel 4) está por encima de lo que dicen las evidencias.",
+      "comprobado_en": "https://www.merca2.es/2024/04/07/podemos-impuesto-banca-50-1634143/ y https://theobjective.com/economia/2024-04-08/congreso-ley-podemos/",
+      "que_dice_la_fuente": "Merca2: «El impuesto se extendería hasta 2025, con la posibilidad de hacerlo permanente»; tipo del 4,8% al 10%; en 2024 y 2025 otro tributo del 75% sobre márgenes por encima de 2022. The Objective: «El impuesto correría hasta 2025, con opción de hacerlo permanente».",
+      "correccion": "En e7 añadir: «La propuesta era temporal (hasta 2025) con opción de hacerla permanente». Coherencia: bajar a 3 («misma dirección desde 2019, con la excepción de que la promesa de recuperar el rescate no entró en el pacto de 2019 y la permanencia es posterior a 2024»)."
+    },
+    {
+      "donde": "podemos-empleo-1/e11  y  podemos-empleo-1/puntos.datos",
+      "tipo": "contexto",
+      "gravedad": "baja",
+      "confianza": "media",
+      "problema": "e11 se presenta como estudio de la AIReF sobre el SMI, pero según El Español las cifras salen del informe de la AIReF sobre la regla de gasto de las pensiones (la URL de la propia evidencia es «Estudio_Regla_Gasto_Pensiones-2026.pdf»). El texto de e11 omite que la AIReF califica el impacto de «negativo, pero moderado», que no debe leerse como efecto acumulado y que parte se compensa con mayores cotizaciones; 'datos' lo cita como «pérdidas de empleo» sin esos matices. No pude abrir el PDF (error de certificado; el texto no se pudo extraer).",
+      "comprobado_en": "https://www.elespanol.com/invertia/economia/empleo/20260530/subidas-salario-minimo-causaron-destruccion-empleos-airef/1003744266056_0.html",
+      "que_dice_la_fuente": "Rangos: 2019 (22,3%) 45.000-54.000 empleos; 2023 (8%) 50.000-61.000; 2024 (5%) 78.000-90.000. Impacto «negativo, pero moderado»; «no deben interpretarse como el efecto acumulado»; las pérdidas se compensan en parte con mayores cotizaciones a la Seguridad Social.",
+      "correccion": "En e11: «Dentro de su informe sobre la regla de gasto de las pensiones, la AIReF estima ... un impacto 'negativo, pero moderado' y advierte de que las cifras no se suman ni recogen el efecto acumulado; parte se compensa con mayores cotizaciones». En puntos.datos sustituir «asocian pérdidas de empleo» por «estiman un efecto negativo moderado»."
+    },
+    {
+      "donde": "podemos-energia-1/e5  y  e4",
+      "tipo": "hecho_incorrecto",
+      "gravedad": "baja",
+      "confianza": "baja",
+      "problema": "No está claro que la ley vetada por el Gobierno (e5) sea la que describe e4. El BOCG-15-B-281-2 es la proposición 122/000236 de nacionalización de Repsol (metadatos: creada el 12-2-2026), distinta del BOCG-15-B-308-1 de e4 (27-2-2026). El veto de e5 (10-2-2026) y el coste de 8.960,7 millones se refieren a la primera iniciativa; e4 y las cifras del programa (SEPI, 25% y 51% antes del 29-10-2026) a otra. La nota de e5 admite la duda, pero resumen y antecedentes dicen sin matiz que el Gobierno «vetó por su coste la ley de Podemos para nacionalizar Repsol».",
+      "comprobado_en": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-281-2.PDF  y  https://theobjective.com/espana/politica/2026-02-10/gobierno-ley-podemos-nacionalizar-repsol/",
+      "que_dice_la_fuente": "BOCG-15-B-281-2: «122/000236 Proposición de Ley de nacionalización de Repsol y de su reconversión en una empresa pública...»; The Objective (10-2-2026): escrito de disconformidad «acogiéndose al artículo 134.6» y coste «8.960,7 millones».",
+      "correccion": "En e5 y antecedentes citar el número de expediente (122/000236) y explicar que el BOCG-15-B-308-1 de e4 es una iniciativa posterior (si lo es), o corregir e4 para que cite el mismo expediente. Confianza baja: no pude leer el cuerpo de los PDF."
+    },
+    {
+      "donde": "podemos-igualdad-2/e8 (verificado, sin error)  y  podemos-igualdad-2/resumen",
+      "tipo": "falta_evidencia",
+      "gravedad": "baja",
+      "confianza": "alta",
+      "problema": "No es un error: se comprobó que la LO 1/2025 entra en vigor en dos fases (general 3-4-2025; competencias de violencia sexual en juzgados de violencia sobre la mujer y justicia gratuita a los nueve meses, es decir el 3-10-2025). El resumen dice que esas piezas «se aprobaron en 2025»; conviene precisar que la parte de violencia sexual solo está en vigor desde el 3-10-2025, es decir, menos de dos meses antes de las elecciones.",
+      "comprobado_en": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76",
+      "que_dice_la_fuente": "Disposición final trigésima octava, apartado 3: la atribución de competencias en violencia sexual a los Juzgados de Violencia sobre la Mujer y la modificación de la letra h) del art. 2 de la Ley 1/1996 «entrarán en vigor a los nueve meses de su publicación» (publicada el 3-1-2025).",
+      "correccion": "En resumen: «la especialización judicial y el abogado gratuito se aprobaron en 2025 con un Gobierno sin Podemos y están en vigor desde el 3 de octubre de 2025»."
+    },
+    {
+      "donde": "podemos-vivienda-1/e11, e12, e7  ·  podemos-impuestos-2/e10, e3  ·  podemos-empleo-1/e5, e8, e12  ·  podemos-instituciones-1/e2, e12  ·  podemos-energia-1/e11  ·  podemos-exterior-1/e2, e12",
+      "tipo": "clasificacion",
+      "gravedad": "baja",
+      "confianza": "media",
+      "problema": "Evidencias redundantes o poco pertinentes dentro del bloque de 84 (juicio a partir del texto del JSON y de la promesa en texto-programas/podemos.txt; no se han abierto todas). Redundantes: vivienda e12 repite el acuerdo de 2019 ya citado en antecedentes y e1; instituciones e2 repite e1 (otra negativa de la Mesa); exterior e1 y e2 son dos programas distintos que dicen lo mismo y podrían fundirse; energía e10 y e11 comparten fuente y reportaje. Poco pertinentes para la promesa: vivienda e11 (borrador de decreto que no llegó a votarse, motivo ajeno al alquiler) y e7 (Berlín, ya reconocido como no trasladable); impuestos e10 (tipo mínimo de sociedades 15%/18%, no es parte de la medida 31) y e3 (recaudación de fortunas, pero la medida 30 trata de ampliarlo, no de la baja recaudación, y la caída es por traspaso a CCAA); empleo e12 (jornada de 37,5 horas, no salario) y e5 (retenciones del SMI en IRPF); instituciones e12 (archivo de la Fiscalía a Juan Carlos I: sin relación con la reforma constitucional); exterior e12 (SIPRI confirma un dato del programa, no hace más o menos creíble la salida de la OTAN).",
+      "comprobado_en": "/Users/ivancarrillo/Documents/second-brain-ivan-5.1/entregas/comparador-29n-claude/fuentes/texto-programas/podemos.txt (medidas 1, 30, 31, 70, 111, 406-407)",
+      "que_dice_la_fuente": "Medida 31: «impuesto permanente sobre los beneficios extraordinarios de la gran banca... al menos el 50 %» y devolución del rescate; medida 111: SMI 1.800 euros y 75% del mediano; medida 70: denuncia del Tratado.",
+      "correccion": "Quitar o fusionar: vivienda e12 (en e1), e7 (en e6 como una frase); instituciones e2 (en e1) y e12; exterior e1+e2; energía e10+e11; empleo e12 y e5; impuestos e10. Mantener vivienda e11 solo si se quiere recoger el voto negativo de Podemos como contexto del mensaje de 'migajas'. Es una recomendación de pertinencia; no cambia ningún nivel."
+    }
+  ],
+  "valoracion_general": "Lo más flojo del bloque es la atribución de resultados del Gobierno de coalición: hay evidencias de ministerios que no eran de Podemos (Trabajo, Transportes, Defensa, Hacienda) que suben o bajan el historial sin un criterio único, y exterior carga a Podemos con decisiones (gasto, destructores) cuyo voto solo está probado para los Presupuestos de 2023. Las cifras clave que pude abrir (BOE, CGPJ, INE, Moncloa, BOCG) coinciden con el JSON, pero varias de las más fuertes de 2026 (AIReF, FEDEA, OTAN, recuentos de abril y septiembre) solo se apoyan en prensa o en PDF que no se pudieron leer. Los porcentajes menos fundados son coherencia 4 en impuestos (la propuesta de 2024 era temporal y el rescate de 2019 no entró en el pacto), viabilidad 2 en energía (la refutación se apoya en una dispensa de OPA que no aplica) y la lectura de «salida de la OTAN» llevada al Congreso, que fue un referéndum. El bloque es demasiado largo: unas 13 evidencias poco pertinentes o redundantes podrían retirarse sin perder fuerza."
+}

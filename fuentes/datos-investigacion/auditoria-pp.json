@@ -1,0 +1,179 @@
+{
+ "ambito": "pp",
+ "revisadas_con_enlace": 34,
+ "no_se_pudieron_abrir": [
+  "pp-vivienda-1/e2",
+  "pp-vivienda-1/e3 (Politico bloqueado; leído vía elDiario.es)",
+  "pp-impuestos-1/e1 (solo por resultados de búsqueda)",
+  "pp-impuestos-1/e2",
+  "pp-impuestos-1/e4",
+  "pp-impuestos-1/e5",
+  "pp-instituciones-1/e1",
+  "pp-instituciones-1/e7",
+  "pp-pensiones-1/e1",
+  "pp-pensiones-1/e3",
+  "pp-pensiones-1/e9",
+  "pp-inmigracion-1/e3",
+  "pp-inmigracion-1/e4",
+  "pp-instituciones-2/e2",
+  "pp-instituciones-2/e3 (solo por búsqueda)",
+  "pp-instituciones-2/e6",
+  "pp-instituciones-2/e8",
+  "pp-igualdad-1/e1",
+  "pp-igualdad-1/e3 (BOE no abierto; autoría comprobada en elDiario)",
+  "pp-igualdad-1/e7"
+ ],
+ "hallazgos": [
+  {
+   "donde": "pp-igualdad-1/e3 (y resumen, antecedentes, puntos.historial, puntos.coherencia)",
+   "tipo": "contexto",
+   "gravedad": "alta",
+   "confianza": "media",
+   "problema": "La Ley 2/2016 de Madrid se presenta como obra del PP ('aprobada con el PP en el Gobierno regional'; resumen: 'el Gobierno del PP en Madrid aprobó una ley'). Salió de una proposición de PSOE, Podemos y Ciudadanos; el PP tenía su propia proposición sobre transexualidad, que el Pleno rechazó. Varias fuentes indican que el PP se abstuvo en la votación final (no he podido abrir el Diario de Sesiones). El nivel de coherencia ('cambio de posición entre 2016 y 2023') y la nota 'no verifiqué el sentido del voto' dejan sin sostén la atribución.",
+   "comprobado_en": "https://www.eldiario.es/politica/asamblea-de-madrid-transexualidad-pp-podemos-psoe-ciudadanos_1_2367763.amp.html",
+   "que_dice_la_fuente": "19-11-2015: la versión aprobada en la toma en consideración 'está avalada por el PSOE, Podemos y Ciudadanos'; el Pleno rechazó la proposición de ley del PP sobre transexualidad (primera vez en 20 años que tumban una proposición propia del PP). El voto final del PP no figura en el artículo; otras fuentes de búsqueda hablan de abstención.",
+   "correccion": "Comprobar el voto del PP en el Diario de Sesiones de la Asamblea de Madrid (marzo de 2016) antes de publicar. Reescribir e3: 'La Ley 2/2016, impulsada por PSOE, Podemos y Cs y aprobada por la Asamblea con el PP en el Gobierno regional, dice que...'. Quitar de resumen/historial la atribución al 'Gobierno del PP'. Si el PP se abstuvo, coherencia pasaría de 2 a 3 y historial no podría apoyarse en e3."
+  },
+  {
+   "donde": "pp-instituciones-1/e3 (y refutacion, puntos.coherencia)",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Se afirma que en los tres retrasos largos (1996, 2008, 2018-24) el PP 'estaba en la oposición'. El CGPJ de 1996 se renovó el 23-7-1996, con el PP ya en el Gobierno (Aznar tomó posesión en mayo de 1996): parte de ese retraso fue con el PP gobernando. Además se omite 2001, cuyo bloqueo se atribuye al PSOE, lo que desequilibra la serie. Público (2022) no nombra quién gobernaba.",
+   "comprobado_en": "https://maldita.es/malditahemeroteca/20240507/bloqueos-cgpj-pp-psoe-renovacion/",
+   "que_dice_la_fuente": "Titular de Maldita: 'el PP y el PSOE impidieron su renovación en 1996, 2001 y 2008'. Búsqueda: mandato vencido el 8-11-1995; renovación el 23-7-1996 (257 días); el bloqueo de 1996 y 2008 se atribuye al PP en la oposición y el de 2001 al PSOE (no pude leer el cuerpo de la cronología: confianza media).",
+   "correccion": "Reescribir e3: 'El Consejo se renovó con retraso en 1996 (hasta el 23-7-1996, cuando el PP ya gobernaba), en 2001, en 2008 y entre 2018 y 2024. Según Maldita, el bloqueo de 1996 y 2008 se atribuyó al PP en la oposición, el de 2001 al PSOE'. Quitar 'En los tres casos el PP estaba en la oposición'. Subir fuente a Maldita Hemeroteca y señalar fuente_unica si solo hay una."
+  },
+  {
+   "donde": "pp-vivienda-1/e9 (y antecedentes)",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "El hecho junta dos votaciones distintas en una cifra ('dos decretos-ley... por 184 en contra y 166 a favor'). Según Idealista, el RDL 26/2026 cayó por 178 a 172 y el RDL 27/2026 por 184 a 166; en el segundo también votaron en contra PNV y CC. Además, no se dice qué contenían los decretos ni el motivo alegado por el PP más allá de la frase de Feijóo (el brief exige recoger el motivo).",
+   "comprobado_en": "https://www.idealista.com/en/news/node/917257",
+   "que_dice_la_fuente": "RDL 26/2026: 178-172 (contra: PP, Vox, Junts, UPN). RDL 27/2026: 184-166 (contra: PP, Vox, PNV, Junts, CC, UPN). Contenido del 26: prórroga extraordinaria de contratos, suspensión de desahucios hasta 2030, tope del 2 % a la renta hasta 2027, IVA del 10 % a alquiler turístico, TU CASA (préstamos 0 %). El 27: renovación de contratos a 5/7 años e indemnización de 12 meses. Junts propuso en su lugar una deducción del 15 % en el IRPF.",
+   "correccion": "hecho: 'El 2-10-2026 el Congreso derogó los dos decretos-ley de vivienda: el RDL 26/2026 por 178 en contra (PP, Vox, Junts, UPN) y 172 a favor, y el RDL 27/2026 por 184 en contra (PP, Vox, PNV, Junts, CC, UPN) y 166 a favor. Incluían, entre otras medidas, prórroga extraordinaria de contratos, tope del 2 % a las subidas de renta hasta 2027 y suspensión de desahucios de vulnerables hasta 2030. Feijóo los llamó \"decretos artificiales, contradictorios entre sí\" y pidió elecciones.' Añadir url del registro del Congreso cuando exista."
+  },
+  {
+   "donde": "pp-vivienda-1/e8 (titulo y antecedentes)",
+   "tipo": "contexto",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "El título 'El PP no apoyó la Ley del Suelo de 2024' y el antecedente 'el PP no apoyó la reforma' dan a entender un voto negativo. La ley se retiró del orden del día una hora antes del debate; el PP no llegó a votar. Según la fuente, el Gobierno necesitaba al menos su abstención y Feijóo dijo que decidiría tras consultar al partido; la FEMP (presidida por un alcalde del PP) había pedido la ley. La nota 'El PP proponía ya entonces su propia reforma de suelo' no aparece en el artículo.",
+   "comprobado_en": "https://www.elindependiente.com/espana/2024/05/23/el-gobierno-retira-la-ley-del-suelo-para-evitarse-una-segunda-derrota-parlamentaria-esta-semana/",
+   "que_dice_la_fuente": "El Gobierno retiró la ley sin votos suficientes ante las enmiendas a la totalidad de Podemos, Junts y ERC y el rechazo de Sumar; 'la posición del PP decidía su suerte'; Feijóo dijo que no rescataría al Gobierno pero decidiría su voto tras consultar al partido.",
+   "correccion": "Titulo: 'El Gobierno retiró la Ley del Suelo de 2024 sin votos suficientes; el PP no garantizó su abstención'. hecho: añadir que no hubo votación y que Podemos, Junts, ERC y Sumar anunciaron rechazo. Antecedentes: 'el PP no garantizó su abstención y la reforma fue retirada antes de votarse'. Eliminar o documentar la afirmación sobre la reforma propia del PP."
+  },
+  {
+   "donde": "pp-vivienda-1/e10",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "baja",
+   "confianza": "alta",
+   "problema": "El título y el hecho dicen 'viviendas libres'; la nota oficial habla de obra nueva terminada (100.980), que incluye protegida. Además, el refutacion usa e10 ('la construcción ya crecía en 2024') junto a las 92.000 de 2025 del Banco de España sin avisar de que son series distintas y de que 92.000 < 100.980.",
+   "comprobado_en": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/vivienda-agenda-urbana/Paginas/2025/040725-vivienda-protegida-observatorio-suelo.aspx",
+   "que_dice_la_fuente": "Vivienda de obra nueva terminada en 2024: 100.980 (+13,1 %, mayor producción en 12 años); iniciada: 136.187 (+23,4 %, máximo en 14 años); VPO calificaciones definitivas: 14.371. El texto no usa la categoría 'libres'.",
+   "correccion": "titulo: 'En 2024 se terminaron 100.980 viviendas de obra nueva'. hecho: sustituir 'viviendas libres' por 'viviendas de obra nueva'. Añadir en nota: 'No comparable con las 92.000 de 2025 (Banco de España): distinta fuente y metodología'."
+  },
+  {
+   "donde": "pp-vivienda-1/e1 (nota)",
+   "tipo": "redaccion",
+   "gravedad": "baja",
+   "confianza": "alta",
+   "problema": "La nota dice que el dato de mano de obra (7 % frente a 11 %) no se localizó; sí está en el artículo enlazado.",
+   "comprobado_en": "https://www.eldiario.es/economia/banco-espana-eleva-750-000-viviendas-faltan-anticipa-deficit-agravara-proximos-anos_1_13313634.html",
+   "que_dice_la_fuente": "Empleo en construcción: del 11 % a finales de los noventa a cerca del 7 % actual; déficit 750.000 (2021-2025, 600.000 en el análisis de 2023); en 2025, 240.000 hogares frente a 92.000 viviendas.",
+   "correccion": "Nota: 'Déficit, viviendas terminadas, hogares y peso de la construcción en el empleo (7 % frente a 11 %) comprobados en el artículo; el PDF del Banco de España no se pudo leer'."
+  },
+  {
+   "donde": "pp-impuestos-1/e1 (hecho y antecedentes)",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Se dice que el gravamen complementario del IRPF regía 'para 2012 y 2013'. La Ley 22/2013 de Presupuestos de 2014 lo prorrogó a 2014 (DA 35ª LIRPF), con la subida de retenciones al 21 %. El recargo duró tres ejercicios, no dos. Refuerza la evidencia que contradice.",
+   "comprobado_en": "https://www.garrigues.com/es_ES/noticia/novedades-fiscales-de-la-ley-de-presupuestos-para-el-2014",
+   "que_dice_la_fuente": "Ley 22/2013 (BOE 26-12-2013): 'extiende el gravamen complementario' y el tipo del 21 % en retenciones; la búsqueda cita la DA 35ª LIRPF: 'ejercicios 2012, 2013 y 2014'. (Garrigues, 18-1-2014; no abrí el BOE.)",
+   "correccion": "hecho: '...creó un gravamen complementario en la cuota estatal del IRPF para 2012 y 2013; la Ley 22/2013 de Presupuestos lo prorrogó a 2014.' antecedentes: 'recargo en el IRPF para 2012-2014'. Añadir la Ley 22/2013 como segunda url (BOE 26-12-2013; localizar el identificador)."
+  },
+  {
+   "donde": "pp-impuestos-1/e8 y pp-pensiones-1/e7",
+   "tipo": "fuente_primaria",
+   "gravedad": "baja",
+   "confianza": "alta",
+   "problema": "Ambas evidencias citan el estudio de la AIReF de 29-5-2026 a través de Bolsamania/Europa Press, y existe documento propio. En impuestos, e8 no valora el plan del PP (la nota lo admite) y apenas guía la lectura de una rebaja del IRPF: su sentido 'contexto' es correcto pero el componente 'datos' queda sin respaldo propio.",
+   "comprobado_en": "https://www.bolsamania.com/noticias/economia/economia--airef-ratifica-el-cumplimiento-de-la-regla-de-gasto-de-pensiones-pero-dice-que-no-garantiza-la-sostenibilidad--22574898.html",
+   "que_dice_la_fuente": "Cifras confirmadas (13 % de media 2022-2050 frente al umbral del 13,3 %; gasto bruto 14,6 %; deuda al 123 % del PIB a políticas constantes). La AIReF publicó el estudio en https://www.airef.es/wp-content/uploads/2026/05/Pensiones/Estudio_Regla_Gasto_Pensiones-2026.pdf y nota en https://www.airef.es/es/noticias/la-airef-ratifica-el-resultado-de-2025-la-regla-de-gasto-de-pensiones-se-cumple-formalmente-pero-no-garantiza-la-sostenibilidad/ (el sitio dio error de certificado al abrirlo; localizado por buscador).",
+   "correccion": "Sustituir url por la nota o el estudio de la AIReF y fuente por 'AIReF, Estudio 1/2026'. En impuestos, cambiar componente de e8 a 'viabilidad' o aclarar en `por` de datos que no hay evaluación del plan del PP."
+  },
+  {
+   "donde": "pp-pensiones-1/e8",
+   "tipo": "fuente_primaria",
+   "gravedad": "baja",
+   "confianza": "alta",
+   "problema": "La evidencia admite no haber localizado la cifra de la subida extraordinaria de 2018 y dice que el presupuesto 'mantuvo' el 0,25 %. Fuente oficial: la subida general fue 0,25 % más un 1,35 % adicional (1,6 % total) y 3 % en mínimas.",
+   "comprobado_en": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/trabajo/paginas/2018/200718_pensiones.aspx?mode=Dark",
+   "que_dice_la_fuente": "20-7-2018: 'subida adicional del 1,35 %, con efectos retroactivos desde el 1 de enero', que se suma al 0,25 % aplicado en enero; mínimas, adicional del 3 % (2,75 % + 0,25 %); viudedad, base reguladora del 52 % al 56 %.",
+   "correccion": "hecho: '...mantuvo la revalorización general del 0,25 % y añadió un incremento excepcional (1,35 % adicional, 1,6 % en total en 2018 y para las mínimas el 3 %), según La Moncloa de 20-7-2018'. Retirar la nota de que no se localizó la cifra. No cambia el nivel de historial (1)."
+  },
+  {
+   "donde": "pp-inmigracion-1/e1",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "Se da como cifra de prensa 524.621 personas para Aznar, pero las partidas del propio artículo (163.000 + 36.000 + más de 20.000 + 239.174) suman unas 458.000; el artículo no explica la diferencia, y la nota lo atribuye solo a distintos criterios. Además, e1 mezcla procesos que podrían solaparse (el arraigo de 2001 y el de 2000-2001).",
+   "comprobado_en": "https://www.eldiario.es/desalambre/524-621-personas-aznar-576-506-zapatero-anteriores-regularizaciones-migrantes_1_12938538.html",
+   "que_dice_la_fuente": "Aznar: 2000, unas 163.000 más 36.000 en 2001 por revisión; 2001, más de 20.000 ecuatorianos; 2001, 239.174 por arraigo; 'total 524.621'. CIDOB (https://www.cidob.org/publicaciones/claves-para-entender-regularizacion-extraordinaria-espana): 'más de 270.000' regularizados en 2000-2001, con un 40 % y 37 % de solicitudes denegadas.",
+   "correccion": "Quitar '524.621' del hecho y del resumen/nota. Redactar: 'Con Aznar hubo regularizaciones en 2000 y 2001; las cifras varían según la fuente (CIDOB: más de 270.000 regularizados en 2000-2001; elDiario.es suma por procesos unas 458.000)'. Mantener 576.506 para 2005. Verificar con la cifra oficial del Ministerio del Interior/BOE."
+  },
+  {
+   "donde": "pp-inmigracion-1/e1 (contexto de 2000)",
+   "tipo": "contexto",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Falta el contexto del origen de la regularización de 2000: la Ley 4/2000 (con su proceso de regularización) se aprobó a finales de 1999 con el apoyo de todos los grupos salvo el PP, entonces en el Gobierno en minoría; el PP, ya con mayoría absoluta, la reformó con la LO 8/2000, que suspendió la regularización permanente y dejó una regularización más restringida. Presentar las regularizaciones de 2000-2001 solo como 'las hizo Aznar' omite que se hicieron al aplicar una ley que el PP no votó y endureció.",
+   "comprobado_en": "https://www.eurofound.europa.eu/en/publications/all/law-foreign-persons-be-reformed",
+   "que_dice_la_fuente": "Resumen de búsqueda (no pude abrir el artículo por error 429): la LO 4/2000 se aprobó con el apoyo de todos los grupos salvo el PP; la LO 8/2000 se aprobó con la mayoría absoluta del PP y 'suspende el mecanismo de regularización automática'. Confirmar en BOE-A-2000-23660 y en el Diario de Sesiones.",
+   "correccion": "Añadir al matiz: 'La regularización de 2000 se hizo al amparo de la Ley 4/2000, aprobada sin los votos del PP; el PP la reformó ese mismo año con la LO 8/2000. Cinco de las nueve regularizaciones extraordinarias entre 1986 y 2005 fueron con gobiernos del PP, y el arraigo entró en la ley con un Gobierno del PP (elDiario.es, 4-10-2025)'. Verificar antes de publicar."
+  },
+  {
+   "donde": "pp-inmigracion-1 (falta evidencia datos/coherencia)",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Falta un dato oficial/independiente sobre la regularización de 2026, que el programa quiere impedir: cerró con cerca de 1,2 millones de solicitudes frente a las 500.000 previstas, y la AIReF estimó un efecto casi nulo en cotizaciones. El refutacion dice que no hay evaluación independiente; no es del todo cierto, aunque no evalúa la prohibición por ley. También falta la posición del PP en 2005 (la criticó como 'efecto llamada').",
+   "comprobado_en": "https://www.articulo14.es/economia/el-gobierno-tiro-a-la-baja-en-la-regularizacion-con-500-000-beneficiarios-aunque-internamente-manejaba-el-doble-20260701.html",
+   "que_dice_la_fuente": "Artículo 14, 1-7-2026: unos 1,2 millones de solicitudes (cifra anunciada por Sánchez hacia el 30-6-2026), frente a la estimación inicial de 500.000; Funcas 840.000, AIReF 762.646 en edad laboral. Democrata (29-5-2026): AIReF, efecto sobre cotizaciones 'prácticamente nulo' (0,067 puntos de PIB, 948.876 personas de 18-64).",
+   "correccion": "{\"sentido\":\"contexto\",\"componente\":\"datos\",\"tipo\":\"informe_independiente\",\"titulo\":\"La regularización de 2026 cerró con unos 1,2 millones de solicitudes\",\"hecho\":\"El plazo de la regularización extraordinaria terminó el 30-6-2026 con cerca de 1,2 millones de solicitudes, frente a los 500.000 beneficiarios que el Gobierno estimó al aprobar el real decreto. La AIReF (29-5-2026) calculó que su efecto sobre las cotizaciones sería muy reducido (0,067 puntos del PIB a largo plazo) y advirtió de una incertidumbre muy alta.\",\"fecha\":\"2026-07-01\",\"fuente\":\"Artículo 14 (cifra del Gobierno) y AIReF\",\"url\":\"https://www.articulo14.es/economia/el-gobierno-tiro-a-la-baja-en-la-regularizacion-con-500-000-beneficiarios-aunque-internamente-manejaba-el-doble-20260701.html\",\"estado_judicial\":null,\"fuente_unica\":true}. Localizar la nota de la AIReF (airef.es, estudio de pensiones de 29-5-2026, recuadro 2) y cambiar fuente_unica a false."
+  },
+  {
+   "donde": "pp-igualdad-1/e6 (y resumen)",
+   "tipo": "clasificacion",
+   "gravedad": "baja",
+   "confianza": "alta",
+   "problema": "El precepto anulado de la reforma LGTBI madrileña de 2023 se refiere a que las asociaciones LGTBI no fueran parte interesada en procedimientos sancionadores, no a la autodeterminación de género. Citarlo como 'preceptos anulados' en el resumen y en `historial` suena a que se anuló una restricción trans. La reforma sobre menores trans sigue pendiente en el TC.",
+   "comprobado_en": "https://elespanol.com/espana/tribunales/20250409/tc-estima-recurso-pedro-sanchez-tumba-ley-lgtbi-ayuso-invadir-competencias/1003743706496_0.html",
+   "que_dice_la_fuente": "TC, 9-4-2025, 11 votos a 1: anula la reforma que impedía a las asociaciones LGTBI actuar como parte interesada; invade competencias procesales del Estado. La reforma de la ley trans madrileña (apoyo de salud mental a menores) 'sigue pendiente'.",
+   "correccion": "En el resumen: 'Madrid y la Comunidad Valenciana han restringido esas leyes; el TC anuló en Madrid un precepto sobre asociaciones LGTBI (no sobre autodeterminación) y suspendió cautelarmente varios de la ley valenciana'. En e6 aclarar que el precepto anulado no trata de la identidad de género."
+  },
+  {
+   "donde": "pp-igualdad-1/e2 (nota y puntos.viabilidad)",
+   "tipo": "falta_evidencia",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "La nota dice que no se pudo confirmar si hubo sentencia tras abril de 2025. Según El Debate (5-9-2026) el recurso del PP sigue sin resolverse: la ponencia fue retirada y no se ha vuelto a deliberar (una sola fuente, con fuentes anónimas).",
+   "comprobado_en": "https://www.eldebate.com/espana/20260905/gobierno-sigue-aplicando-ley-trans-aunque-mayoria-tc-considera-norma-inconstitucional_453963.html",
+   "que_dice_la_fuente": "A septiembre de 2026 el recurso 'sigue sin resolverse'; el último debate fue en abril de 2025; el PP impugna art. 19.2, varios del 43 y dos del 44; la ley se sigue aplicando. Según el medio, la mayoría de magistrados propuso cambios relevantes.",
+   "correccion": "nota: 'Sin sentencia a 5-9-2026 según El Debate (fuente única, sin confirmación del TC; comprobar en la web del TC)'. Añadir que la ley se aplica mientras tanto y que la fuente no es oficial."
+  },
+  {
+   "donde": "pp-instituciones-2 (falta evidencia)",
+   "tipo": "falta_evidencia",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "Falta la evidencia más directa a favor de la parte 'recuperar el dinero': la Oficina de Recuperación y Gestión de Activos, que el programa promete reforzar, la creó el Gobierno del PP (RD 948/2015; puesta en marcha por Orden JUS/188/2016). Solo la he visto por resultados de búsqueda (BOE-A-2015-11427), sin abrir el texto.",
+   "comprobado_en": "https://www.boe.es/eli/es/rd/2015/10/23/948",
+   "que_dice_la_fuente": "Real Decreto 948/2015, de 23 de octubre, por el que se regula la Oficina de Recuperación y Gestión de Activos (BOE 24-10-2015, núm. 255); Orden JUS/188/2016 (BOE 20-2-2016) fija su puesta en funcionamiento.",
+   "correccion": "{\"sentido\":\"apoya\",\"componente\":\"historial\",\"tipo\":\"norma\",\"titulo\":\"El Gobierno del PP creó la Oficina de Recuperación de Activos en 2015\",\"hecho\":\"El Real Decreto 948/2015, de 23 de octubre, reguló la Oficina de Recuperación y Gestión de Activos, adscrita al Ministerio de Justicia. Su puesta en funcionamiento se fijó por la Orden JUS/188/2016, de 18 de febrero. El programa de 2026 promete reforzarla.\",\"fecha\":\"2015-10-24\",\"fuente\":\"BOE\",\"url\":\"https://www.boe.es/eli/es/rd/2015/10/23/948\",\"estado_judicial\":null,\"fuente_unica\":false}. Abrir el BOE y comprobar fechas antes de añadirla."
+  }
+ ],
+ "valoracion_general": "El bloque es sólido en lo esencial: las cifras de votaciones del Congreso (pensiones 2021 y 2026, CGPJ 2026, ILP 2024), las sentencias de Gürtel y de la sede y el Banco de España coinciden con las fuentes. Lo más flojo es la atribución al PP de la ley trans madrileña de 2016 (la impulsó la oposición y el voto del PP no está comprobado) y la afirmación de que el PP estaba en la oposición en los tres retrasos del CGPJ (en 1996 gobernaba al renovarse). También hay dos votaciones mezcladas en un solo recuento (decretos de vivienda) y un título que sugiere un voto que no se produjo (Ley del Suelo 2024). No he visto porcentajes ni niveles claramente mal fundados; el nivel de historial de igualdad depende del primero de esos hallazgos."
+}

@@ -1,0 +1,155 @@
+{
+ "_nota": "Ajustes del editor a los niveles propuestos por los investigadores, para aplicar el mismo anclaje a todos los partidos. Cada ajuste lleva su motivo y se añade al texto visible.",
+ "ajustes": [
+  {
+   "id": "podemos-impuestos-2",
+   "componente": "viabilidad",
+   "nivel": 2,
+   "motivo": "Ajuste editorial: basta una ley ordinaria; la falta de apoyos parlamentarios no cuenta en viabilidad. Queda en 2 porque la devolución del rescate no tiene instrumento definido."
+  },
+  {
+   "id": "podemos-exterior-1",
+   "componente": "viabilidad",
+   "nivel": 3,
+   "motivo": "Ajuste editorial: jurídicamente basta la autorización de las Cortes y el preaviso que fijan los tratados; la aritmética parlamentaria no cuenta en viabilidad."
+  },
+  {
+   "id": "pp-inmigracion-1",
+   "componente": "historial",
+   "nivel": 2,
+   "motivo": "Ajuste editorial: historial mixto; sus gobiernos regularizaron en 2000-2001 y no lo hicieron en 2011-2018."
+  },
+  {
+   "id": "vox-instituciones-2",
+   "componente": "coherencia",
+   "nivel": 2,
+   "motivo": "Ajuste editorial: recibir subvenciones previstas en la ley vigente mientras se propone suprimirlas para todos no se trata como contradicción grave; se mantiene en 2 por la transferencia anual a su fundación."
+  },
+  {
+   "id": "pp-vivienda-1",
+   "componente": "coherencia",
+   "nivel": 3,
+   "motivo": "Ajuste editorial tras la revisión independiente: la frase atribuida a Feijóo se refería a viviendas públicas según la corrección del medio original, por lo que no hay contradicción con el compromiso."
+  },
+  {
+   "id": "frenteamplio-empleo-1",
+   "componente": "historial",
+   "nivel": 2,
+   "motivo": "Ajuste editorial tras la revisión independiente: mismo nivel que el contraste del PSOE sobre la misma ley; la jornada de 37,5 horas no se aprobó, pero sí las 35 horas en la Administración del Estado y las subidas del salario mínimo."
+  },
+  {
+   "id": "psoe-igualdad-1",
+   "componente": "coherencia",
+   "nivel": 3,
+   "motivo": "Ajuste editorial tras la revisión independiente: retirada una evidencia sin relación con la promesa, queda el mismo nivel que el contraste equivalente de Podemos, con la gestión interna de las quejas de acoso como excepción."
+  },
+  {
+   "id": "psoe-vivienda-1",
+   "componente": "coherencia",
+   "nivel": 2,
+   "motivo": "Ajuste tras la auditoría del 24-11-2026: mismo nivel que el compromiso equivalente del balance, que valora los mismos hechos (tres cifras sucesivas y sin dato de viviendas entregadas)."
+  },
+  {
+   "id": "psoe-vivienda-1",
+   "componente": "historial",
+   "nivel": 2,
+   "motivo": "Ajuste tras la auditoría del 24-11-2026: se aprobó la Ley de Vivienda de 2023 y creció la vivienda protegida terminada; que no haya dato oficial de entregas no equivale a incumplimiento."
+  },
+  {
+   "id": "psoe-instituciones-1",
+   "componente": "coherencia",
+   "nivel": 2,
+   "motivo": "Ajuste tras la auditoría del 24-11-2026: el nivel anterior se apoyaba en causas judiciales de personas, no en votos o actos del Gobierno contra la promesa; mismo nivel que el compromiso equivalente del balance."
+  },
+  {
+   "id": "frenteamplio-exterior-1",
+   "componente": "viabilidad",
+   "nivel": 3,
+   "motivo": "Ajuste tras la auditoría del 24-11-2026: no exige cambiar ningún tratado y la aritmética parlamentaria no cuenta en viabilidad; mismo criterio que en la promesa equivalente de Podemos."
+  },
+  {
+   "id": "frenteamplio-impuestos-1",
+   "componente": "viabilidad",
+   "nivel": 3,
+   "motivo": "Ajuste tras la auditoría del 24-11-2026: basta una ley ordinaria estatal con precedentes; la falta de apoyos parlamentarios no cuenta en viabilidad, igual que en el resto de partidos."
+  },
+  {
+   "id": "vox-impuestos-1",
+   "componente": "datos",
+   "nivel": 2,
+   "motivo": "Ajuste tras la auditoría del 24-11-2026: mismo nivel que las rebajas de impuestos sin financiación cuantificada de PP y SALF; no hay organismo independiente que la haya evaluado."
+  },
+  {
+   "id": "salf-vivienda-1",
+   "componente": "datos",
+   "nivel": 1,
+   "motivo": "Ajuste tras la auditoría del 24-11-2026: mismo nivel que las promesas de Vox y Podemos de abaratar la vivienda por ley, que también tienen datos en contra."
+  },
+  {
+   "id": "salf-instituciones-4",
+   "componente": "historial",
+   "nivel": 2,
+   "motivo": "Ajuste tras la auditoría del 24-11-2026: consta una donación de 25.000 euros en octubre de 2026 además de los dos sorteos; el resto de entregas declaradas no está comprobado por terceros."
+  },
+  {
+   "id": "podemos-empleo-1",
+   "componente": "historial",
+   "nivel": 2,
+   "motivo": "Ajuste tras la auditoría del 24-11-2026: las subidas del salario mínimo las aprobó el Gobierno a propuesta de Trabajo, que no dirigía Podemos; solo se le acredita lo que dependía de sus ministerios o de su voto."
+  },
+  {
+   "id": "podemos-impuestos-2",
+   "componente": "coherencia",
+   "nivel": 3,
+   "motivo": "Ajuste tras la auditoría del 24-11-2026: la propuesta de 2024 era temporal y la devolución del rescate que pedía en 2019 no entró en el pacto de coalición que firmó."
+  },
+  {
+   "id": "frenteamplio-seguridad-1",
+   "componente": "historial",
+   "nivel": 1,
+   "motivo": "Ajuste tras la auditoría de equidad de la ampliación (24-11-2026): Caso gemelo exacto: podemos-seguridad-1 tiene 1 y psoe-seguridad-1 (antiguo), con Interior en sus manos, también 1. El espacio votó a favor de la reforma de 2023 y no dirigía Interior; el 0 del anclaje («hicieron lo contrario») no se dio a ningún socio minoritario en los 42 antiguos y además activa el tope de 50."
+  },
+  {
+   "id": "pp-educacion-1",
+   "componente": "historial",
+   "nivel": 2,
+   "motivo": "Ajuste tras la auditoría de equidad de la ampliación (24-11-2026): Las evidencias documentan dos comunidades de las más de diez que gobierna el PP: Galicia completa (e1) y Andalucía al 50 % con devolución de 112 millones para plazas (e4). Eso es «a medias o resultados mixtos» (2), no «en gran parte» (3); el gemelo psoe-educacion-1 tiene 2 con ley, fondos y tasa al alza."
+  },
+  {
+   "id": "psoe-territorio-2",
+   "componente": "historial",
+   "nivel": 1,
+   "motivo": "Ajuste tras la auditoría de equidad de la ampliación (24-11-2026): Pactada en 2023, la ley no se aprobó y caducó (e3, e4): es «prometido y mayormente incumplido». Mismo patrón que psoe-seguridad-1 y psoe-instituciones-1 (antiguos, 1) y que frenteamplio-territorio-1 (1 pese a que el modelo se aprobó en el Consejo de Política Fiscal)."
+  },
+  {
+   "id": "psoe-territorio-2",
+   "componente": "coherencia",
+   "nivel": 3,
+   "motivo": "Ajuste tras la auditoría de equidad de la ampliación (24-11-2026): La justificación dice «defendida de forma constante desde 2023» y la única pega es la tardanza en tramitarla, que ya cuenta en historial; no hay cambio de posición ni mensajes cruzados (anclaje del 2). Los gemelos pp-territorio-1 y frenteamplio-territorio-1 tienen 3 con discrepancias internas documentadas."
+  },
+  {
+   "id": "vox-sanidad-3",
+   "componente": "coherencia",
+   "nivel": 3,
+   "motivo": "Ajuste tras la auditoría de equidad de la ampliación (24-11-2026): El recorrido documentado es 2023-2026 (una legislatura) y la excepción cambia de redacción (en 2026 desaparecen las enfermedades contagiosas); el pacto de Extremadura no incluye sanidad (e6). Con el mismo patrón pp-educacion-1 («misma promesa en 2023, 2024 y 2026») tiene 3."
+  },
+  {
+   "id": "vox-seguridad-2",
+   "componente": "coherencia",
+   "nivel": 3,
+   "motivo": "Ajuste tras la auditoría de equidad de la ampliación (24-11-2026): Recorrido de 2023 a 2026 con una sola iniciativa, y la edad concreta (12 años en 2025) desaparece en 2026. Mismo listón que pp-seguridad-1 (tres leyes desde 2022, 3) y que el resto de promesas con historial solo desde 2023; el 4 queda para vox-corrupcion-1, documentada desde 2019 con ley y recurso propios."
+  },
+  {
+   "id": "salf-educacion-1",
+   "componente": "coherencia",
+   "nivel": 2,
+   "motivo": "Ajuste tras la auditoría de equidad de la ampliación (24-11-2026): La propia justificación dice que no hay antecedentes: la educación no aparece en sus mensajes de 2024 ni de 2025 (e8). Sin recorrido no cabe «coherente con alguna excepción menor»; corresponde el neutro, como en salf-empleo-1 y frenteamplio-corrupcion-5 (2). El índice apenas cambia porque ya actúa el tope de 45."
+  },
+  {
+   "id": "salf-energia-1",
+   "componente": "coherencia",
+   "nivel": 2,
+   "motivo": "Ajuste tras la auditoría de equidad de la ampliación (24-11-2026): Misma situación: la medida aparece por primera vez en el programa de 2026 y no hay ningún antecedente (e8). Mismo nivel que salf-empleo-1 y frenteamplio-corrupcion-5; los SALF antiguos con 3 tienen todos un antecedente de 2025."
+  }
+ ]
+}

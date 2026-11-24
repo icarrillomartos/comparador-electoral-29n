@@ -1,0 +1,175 @@
+{
+ "ambito": "balance b01-b11",
+ "revisadas_con_enlace": 24,
+ "no_se_pudieron_abrir": [
+  "b02/e2, e3, e5b, e6 (CGPJ, Infobae): solo contrastadas por resultados de búsqueda (la condena de 22-6-2026 a Ábalos y Koldo coincide en 6 medios), no abiertas",
+  "b02/e4, e5, e7, e7b (El Independiente 2-8-2026, BOE, Vozpópuli, Diario de León): e7b contrastada en El Independiente y Euronews del 14-7-2026 (Fiscalía no acusó), el resto no abierto",
+  "b03/e2, e3; b05/e2; b06/e2; b07/e2, e3; b09/e2; b11/e3, e3b, e4: BOE y Moncloa no abiertos por mí",
+  "b07/e2: la convalidación del RDL 10/2018 sí se comprobó en el DS núm. 147 de 13-9-2018 (176 a favor, 2 en contra, 165 abstenciones; coherente con el matiz)",
+  "b06 nota de Seguridad Social de octubre de 2026 (403)",
+  "El Diario de Sesiones del Congreso rechaza descargas sin cabecera de navegador; se obtuvo con User-Agent de Safari"
+ ],
+ "hallazgos": [
+  {
+   "donde": "b10/dato_actual (y matiz, puntos.datos, e4)",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "alta",
+   "confianza": "alta",
+   "problema": "dato_actual afirma que el informe con datos hasta 2022 es «el último informe oficial abierto» y que hay datos posteriores sin comprobar. Sanidad ha publicado los informes de 2023, 2024 y, el 18-11-2026, el de 2025. El dato no es el más reciente a 24-11-2026 y la afirmación es falsa.",
+   "comprobado_en": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=7006",
+   "que_dice_la_fuente": "Nota de Sanidad de 18-11-2026: en 2025 hubo 1.284 solicitudes nuevas y 574 prestaciones (423 en 2024). De 1.219 procedimientos finalizados, 47,1 % acabaron en prestación, 31,3 % en fallecimiento durante la tramitación, 13,5 % en denegación y 8 % en revocación. Acumulado 25-6-2021 a 31-12-2025: 3.896 solicitudes y 1.698 prestaciones.",
+   "correccion": "dato_actual.texto: «Según el informe del Ministerio de Sanidad publicado el 18-11-2026, en 2025 se registraron 1.284 solicitudes y 574 personas recibieron la prestación (47,1 % de los procedimientos finalizados; el 31,3 % terminó en fallecimiento durante la tramitación). Desde la entrada en vigor (25-6-2021) hasta el 31-12-2025: 3.896 solicitudes y 1.698 prestaciones.» fuente: Ministerio de Sanidad; url: https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=7006. Retirar del matiz la frase «hay informes posteriores sin comprobar» y de puntos.datos «Solo se han abierto cifras oficiales hasta 2022». Añadir evidencia e4b (contexto, datos, dato_oficial, 'Informe anual 2025 de la prestación de ayuda para morir', fecha 2026-11-18, fuente Ministerio de Sanidad, url anterior, fuente_unica false). Con el dato de 2025 el nivel de datos sigue en 2 (un tercio de los solicitantes muere durante la tramitación)."
+  },
+  {
+   "donde": "b10/que_paso y e3",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "El texto da como aprobación del Congreso la votación del 17-12-2020 (198-138-2), que fue el primer paso. La aprobación definitiva fue el 18-3-2021, tras las enmiendas del Senado, con 202 a favor, 141 en contra y 2 abstenciones. Esa votación no aparece y es la que cierra la ley antes de su sanción (24-3-2021).",
+   "comprobado_en": "https://www.congreso.es/public_oficiales/L14/CONG/DS/PL/DSCD-14-PL-89.PDF",
+   "que_dice_la_fuente": "Diario de Sesiones del Pleno núm. 89, 18-3-2021: votación de conjunto del texto con enmiendas del Senado, 'a favor, 64 más 138 votos telemáticos, 202; en contra, 40 más 101 votos telemáticos, 141; abstenciones, 2 votos telemáticos'. 'Queda aprobado el texto en sus términos.'",
+   "correccion": "que_paso: «El Congreso la aprobó el 17-12-2020 por 198 votos a favor, 138 en contra y 2 abstenciones; tras las enmiendas del Senado, la aprobó definitivamente el 18-3-2021 por 202 a 141, con 2 abstenciones, y se publicó el 25-3-2021…». En e3 añadir la votación del 18-3-2021 con la URL del DS núm. 89 (fecha 2021-03-18)."
+  },
+  {
+   "donde": "b09/dato_actual (y puntos.datos)",
+   "tipo": "hecho_incorrecto",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "dato_actual dice que «el objetivo europeo y el del programa es bajar del 10 %». El objetivo de la UE para 2030 es por debajo del 9 %; el 10 % era el de 2020. Solo coincide con el del programa. Con el 9 %, la distancia desde el 12,8 % de 2025 es de 3,8 puntos, no de «casi tres» (puntos.datos).",
+   "comprobado_en": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Early_leavers_from_education_and_training",
+   "que_dice_la_fuente": "Eurostat Statistics Explained: «the share of early leavers from education and training should be less than 9% by 2030». Serie Eurostat edat_lfse_14 (API consultada hoy): ES 17,9 (2018), 17,3, 16,0, 13,3, 13,9, 13,7, 13,0 (2024), 12,8 (2025); actualizada 30-10-2026. Las cifras del JSON coinciden.",
+   "correccion": "dato_actual.texto: «… al 12,8 % en 2025, según Eurostat. El objetivo de la UE para 2030 es bajar del 9 %; el programa del PSOE fija un 10 %.» En puntos.datos sustituir «casi tres puntos» por «casi cuatro puntos respecto al objetivo de la UE (9 %) y 2,8 respecto al del programa (10 %)». El nivel 3 de datos sigue siendo defendible."
+  },
+  {
+   "donde": "b09/promesa_2026",
+   "tipo": "clasificacion",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "La promesa de 2026 elegida (abandono escolar temprano por debajo del 10 %, pág. 52) no es el mismo asunto que el compromiso de 2018 (eliminar los aspectos de la LOMCE contrarios a la igualdad y la segregación). El texto del programa no menciona LOMLOE, LOMCE ni segregación escolar (búsqueda en psoe.txt). Es un objetivo de resultados, no una promesa sobre la ley educativa.",
+   "comprobado_en": "/Users/ivancarrillo/Documents/second-brain-ivan-5.1/entregas/comparador-29n-claude/fuentes/texto-programas/psoe.txt (líneas 1924-1932, pág. 52)",
+   "que_dice_la_fuente": "La medida 160 es «Reducir la tasa de abandono escolar temprano por debajo del 10% antes de 2030…»; la 159 es el Estatuto del Docente. Ninguna habla de la ley educativa ni de segregación.",
+   "correccion": "Poner promesa_2026: null y dejar el objetivo del 10 % solo como contexto en e3 (ya figura allí), o rotular la promesa como «objetivo de resultados relacionado» si el diseño lo admite. Las puntuaciones coherencia/viabilidad que se apoyan en esa promesa deberían revisarse."
+  },
+  {
+   "donde": "b03/dato_actual y que_paso",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "Se omite lo más reciente: el Consejo de Ministros aprobó el 10-3-2026 un real decreto que regula el procedimiento de reconocimiento del derecho de los extranjeros sin residencia legal (declaración responsable, requisitos unificados en todo el país, plazo de tres meses con silencio positivo). Hasta entonces las comunidades aplicaban criterios propios. La ley de universalidad de 2024 está, según la prensa sectorial, 'totalmente parada' (9-3-2026). Esto matiza «cumplido»: el derecho se restituyó por ley en 2018, pero su acceso homogéneo se reguló ocho años después.",
+   "comprobado_en": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6866",
+   "que_dice_la_fuente": "Nota de Sanidad: el Consejo de Ministros aprobó el 10-3-2026 el real decreto que refuerza la universalidad en el acceso, desarrolla el art. 3 ter de la Ley 16/2003, unifica requisitos y fija un plazo máximo de tres meses con silencio estimatorio. Redacción Médica (9-3-2026): la Ley de Universalidad está «totalmente parada» (Sumar) y el decreto avanza por separado. Un buscador lo cita como Real Decreto 180/2026 (el número no figura en la nota de Sanidad; no lo he podido confirmar en el BOE).",
+   "correccion": "Añadir evidencia: {sentido: 'contexto', componente: 'historial', tipo: 'norma', titulo: 'Real decreto de marzo de 2026 sobre el acceso universal', hecho: 'El Consejo de Ministros aprobó el 10-3-2026 un real decreto que regula el reconocimiento del derecho a la atención sanitaria de las personas extranjeras sin residencia legal: declaración responsable, requisitos unificados en todo el territorio y plazo de tres meses con silencio estimatorio.', fecha: '2026-03-10', fuente: 'Ministerio de Sanidad', url: 'https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6866', estado_judicial: null, fuente_unica: false}. Completar dato_actual con esa norma (y con su número tras comprobarlo en el BOE) y decir que la ley de universalidad de 2024 no se ha aprobado. Estado: 'cumplido' es defendible para la restitución legal de 2018; si la metodología exige acceso efectivo, sería 'parcial'."
+  },
+  {
+   "donde": "b02/e8, promesa_2026 y falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "La ficha no tiene ninguna evidencia que apoye, aunque que_paso afirma que el Gobierno aprobó normas de prevención (protección de denunciantes, Plan Estatal 2025) sin enlazarlas. Además, e8 y promesa_2026 presentan la Ley Orgánica de Integridad Pública y la agencia como promesa futura sin decir que el Consejo de Ministros ya había aprobado el proyecto en segunda vuelta y remitido al Congreso el 28-7-2026; decayó con la disolución de las Cortes.",
+   "comprobado_en": "https://www.hacienda.gob.es/eu-ES/prensa/noticias/paginas/2026/20260728-np-cm-proyecto-ley-integridad-publica.aspx",
+   "que_dice_la_fuente": "Hacienda, 28-7-2026: el Consejo de Ministros aprueba en segunda vuelta y remite al Congreso el proyecto de Ley Orgánica de Integridad Pública, con una Agencia Independiente de Integridad Pública que integra la Autoridad de Protección del Informante. Hacienda, 26-8-2025: aprobado el Plan Estatal de Lucha contra la Corrupción (5 ejes, 15 medidas). BOE: Ley 2/2023, de 20 de febrero, publicada el 21-2-2023, en vigor el 13-3-2023.",
+   "correccion": "Añadir tres evidencias con sentido 'apoya', componente 'historial', fuente_unica false: (1) tipo norma, 'Ley 2/2023 de protección del informante', 2023-02-20, BOE, https://www.boe.es/buscar/act.php?id=BOE-A-2023-4513; (2) tipo documento_gobierno/dato_oficial, 'Plan Estatal de Lucha contra la Corrupción', 2025-08-26, Ministerio de Hacienda, https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2025/20250826-NP-CM-LUCHA-CONTRA-CORRUPCION.aspx; (3) 'El Gobierno remite al Congreso la Ley Orgánica de Integridad Pública', 2026-07-28, Hacienda, URL de arriba, con la nota de que el proyecto decayó al disolverse las Cortes el 5-10-2026 (Moncloa: https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261005-referencia-convocatoria-elecciones.aspx). Revisar puntos.coherencia (nivel 2) con esas evidencias a favor; el nivel 1 de historial sigue sosteniéndose por e2, e3, e5b y e6."
+  },
+  {
+   "donde": "b05/dato_actual y falta_evidencia",
+   "tipo": "falta_evidencia",
+   "gravedad": "media",
+   "confianza": "media",
+   "problema": "dato_actual dice «a noviembre de 2026 el rechazo en frontera sigue en la ley» citando un artículo de 30-6-2026 que no trata de eso. Falta un hecho de 2026 de peso: el Tribunal Supremo fijó doctrina de que la disposición adicional décima de la Ley de Extranjería no ampara el rechazo en frontera de quien intenta entrar a nado en Ceuta o Melilla (sí podría aplicarse con elementos de contención en el agua). Es una limitación judicial a la figura, no una derogación.",
+   "comprobado_en": "https://es.ara.cat/sociedad/justicia/supremo-confirma-no-devoluciones-caliente-migrantes-llegan-mar_1_5793020.html",
+   "que_dice_la_fuente": "ARA (8-7-2026): el Supremo confirma que la ley de extranjería no permite las devoluciones en caliente de migrantes que intentan llegar nadando; se distingue del caso de la valla de Melilla; hay que abrir procedimiento con garantías. Un buscador sitúa la sentencia el 29-6-2026 (Legal Today); no he podido abrir el texto de la sentencia en CENDOJ y la fecha exacta queda sin confirmar.",
+   "correccion": "Añadir evidencia {sentido: 'contexto', componente: 'viabilidad', tipo: 'resolucion_judicial', titulo: 'El Supremo limita el rechazo en frontera para quien llega a nado', hecho: 'En 2026 el Tribunal Supremo fijó doctrina de que la disposición adicional décima de la Ley de Extranjería no permite el rechazo en frontera de quienes intentan entrar nadando en Ceuta y Melilla; la figura se mantiene para quienes superan vallas o elementos de contención.', fecha: '2026-07-08 (publicación; fecha de la sentencia por confirmar)', fuente: 'Supremo, vía ARA', url: URL anterior, estado_judicial: null, fuente_unica: true}. Sustituir la fuente de dato_actual por una que respalde la frase (p. ej. esa) o fecharla a 30-6-2026. Conviene localizar la sentencia en CENDOJ antes de publicar."
+  },
+  {
+   "donde": "b11/cita y compromiso",
+   "tipo": "clasificacion",
+   "gravedad": "media",
+   "confianza": "alta",
+   "problema": "La cita elegida («La manipulación… también es corrupción… en un medio público representa una amenaza») es literal y está en la pág. 22 del DS 126, pero no es un compromiso: es una frase de denuncia. El compromiso con el 'concurso público' tampoco está en cita_url: sale de la comparecencia de 17-7-2018 (págs. 38-39), donde Sánchez dijo que su Gobierno no se escondería «detrás del argumento de un concurso público» y que, si salía el decreto, «el concurso cumplirá sus plazos». El compromiso resumido mezcla dos fechas y dos fuentes.",
+   "comprobado_en": "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf",
+   "que_dice_la_fuente": "Pág. 38: «El Gobierno no va a mirar para otro lado, no se va a esconder detrás del argumento de un concurso público que utilizan dos grupos parlamentarios, para bloquear…». Pág. 39: «No duden en que, si sale adelante este Decreto, el concurso cumplirá sus plazos, incluso, se agilizarán.» DS 126, pág. 22: «…acuerdo parlamentario para garantizar la independencia de la Radio y Televisión Española. La manipulación, señor Rajoy, también es corrupción…».",
+   "correccion": "Sustituir cita/cita_fecha/cita_fuente/cita_url por la frase de la pág. 39 de la transcripción de 17-7-2018 («No duden en que, si sale adelante este Decreto, el concurso cumplirá sus plazos, incluso, se agilizarán»), o por la de la pág. 22 del DS 126 que dice «Esta Cámara, por ejemplo, ha apostado por garantizar la independencia de la Corporación de Radio y Televisión Española», y reescribir `compromiso` para ceñirse a ella. Mantener el estado 'incumplido'."
+  },
+  {
+   "donde": "b11/que_paso",
+   "tipo": "contexto",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "«El concurso público no llegó a decidir la dirección» omite que el concurso sí se celebró: el Comité de Expertos evaluó 95 candidatos y declaró idóneos a 20 (BOE de 18-12-2018) y en 2021 las Cortes eligieron un consejo del que solo 4 de 10 miembros estaban entre los idóneos, según Civio. Lo exacto es que el resultado del concurso no se respetó, no que no se hiciera. Cambia poco el estado, pero es la parte favorable que falta.",
+   "comprobado_en": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-17336",
+   "que_dice_la_fuente": "BOE-A-2018-17336, Resolución de 10-12-2018 del Comité de Expertos: aprueba el informe de idoneidad; 95 candidatos evaluados, 20 idóneos con más de 65 puntos. Civio (29-3-2021): «solo cuatro de los 10 elegidos pasaron el umbral».",
+   "correccion": "que_paso: «… El concurso público se celebró (95 candidatos, 20 considerados idóneos en diciembre de 2018), pero en marzo de 2021 los grupos pactaron un consejo del que solo 4 de los 10 miembros figuraban entre los idóneos…». Añadir evidencia 'apoya' (norma/resolución, BOE-A-2018-17336, 2018-12-18) y la de Civio (verificador, https://civio.es/el-boe-nuestro-de-cada-dia/2021/03/29/solo-4-de-los-10-nuevos-miembros-del-nuevo-consejo-de-administracion-de-rtve-pasaron-el-corte-del-concurso/)."
+  },
+  {
+   "donde": "b08/cita y compromiso",
+   "tipo": "clasificacion",
+   "gravedad": "baja",
+   "confianza": "alta",
+   "problema": "La cita es literal, está en la pág. 15 de la transcripción de 17-7-2018 y la fecha es correcta, pero recoge la renuncia («no es posible revisar los casos…»), no el compromiso de publicar la lista. El compromiso consta solo en Maldita (que lo sitúa como «segunda medida» en laSexta Noche, mayo de 2015), un verificador de 2020, no en cita_url. cita_fuente lo reconoce.",
+   "comprobado_en": "https://maldita.es/malditahemeroteca/20201014/10-veces-en-las-que-pedro-sanchez-pidio-que-se-publicara-la-lista-de-la-amnistia-fiscal-o-prometio-publicarla-cuando-llegara-al-gobierno/",
+   "que_dice_la_fuente": "Maldita: Sánchez «llegó a decir que sería su segunda medida si llegaba a presidente. Fue en laSexta en el programa laSexta noche en mayo de 2015». La llamaba «la lista de la vergüenza».",
+   "correccion": "Aceptable si se mantiene la aclaración de cita_fuente. Mejor: dejar en `cita` la frase de 2015 transcrita por Maldita (con enlace al vídeo) y mover la de 2018 a e1. Corregir en que_paso «una de sus primeras medidas» por «su segunda medida» (Maldita)."
+  },
+  {
+   "donde": "b08/dato_actual",
+   "tipo": "redaccion",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "dato_actual dice «La lista no se ha publicado» y que la Ley 11/2021 prohíbe nuevas regularizaciones, pero cita como fuente Maldita de 14-10-2020, que no puede respaldar ni lo ocurrido hasta 2026 ni una ley de 2021. La ley de 2021 sí consta en e4 (BOE). No he encontrado ninguna publicación posterior de la lista.",
+   "comprobado_en": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-11473",
+   "que_dice_la_fuente": "Preámbulo de la Ley 11/2021: «la prohibición del establecimiento de cualquier mecanismo extraordinario de regularización fiscal». La búsqueda de noticias de 2025-2026 sobre la lista no devolvió ningún hecho nuevo.",
+   "correccion": "dato_actual: fuente 'BOE, Ley 11/2021; Maldita (2020)', url del BOE; texto «A 24-11-2026 no consta que se haya publicado la lista; la Ley 11/2021 prohíbe por ley nuevas regularizaciones extraordinarias.»"
+  },
+  {
+   "donde": "b01/e4",
+   "tipo": "fuente_primaria",
+   "gravedad": "baja",
+   "confianza": "alta",
+   "problema": "e4 afirma que en noviembre de 2018 Sánchez dijo que no convocaría elecciones aunque no aprobara los Presupuestos, pero el enlace (Maldita 5-9-2025) solo recoge el rechazo de los Presupuestos y la convocatoria del 28-4-2019; la frase de noviembre de 2018 está en otro artículo de Maldita.",
+   "comprobado_en": "https://maldita.es/malditahemeroteca/20181113/cuando-sanchez-pedia-elecciones-si-no-se-sacaban-los-presupuestos-adelante/",
+   "que_dice_la_fuente": "Maldita: «En noviembre de 2018, varios meses después de ser investido como presidente, Sánchez dijo que no convocaría elecciones aunque no pudiera aprobar los presupuestos de 2019» (acto de Expansión). El de 5-9-2025 dice que el Congreso rechazó el texto «por lo que Sánchez convocó las elecciones del 28 de abril de 2019».",
+   "correccion": "Cambiar la url de e4 a la de 2018-11-13 (o añadir esa como segunda fuente) y, para el rechazo de los Presupuestos, citar el Diario de Sesiones del 13-2-2019 (no lo he abierto)."
+  },
+  {
+   "donde": "b01/estado",
+   "tipo": "clasificacion",
+   "gravedad": "baja",
+   "confianza": "baja",
+   "problema": "El compromiso era convocar elecciones sin fecha ni plazo (el propio JSON lo dice). Se convocaron el 4-3-2019, nueve meses después, y se celebraron el 28-4-2019. Lo incumplido fue la declaración posterior de 18-6-2018 (votar en 2020), no el compromiso del 31-5-2018. «Parcial» mezcla ambas cosas; por los hechos recogidos saldría 'cumplido', con el matiz ya escrito de que no hubo consenso sobre la fecha ni calendario pactado. Es un juicio, no un error de hecho.",
+   "comprobado_en": "https://www.boe.es/eli/es/rd/2019/03/04/129",
+   "que_dice_la_fuente": "Real Decreto 129/2019, de 4 de marzo: disolución de las Cortes y convocatoria de elecciones para el 28-4-2019. DS 126, págs. 21 y 55: «un consenso para convocar las elecciones generales»; «podremos discrepar en el tiempo, en el plazo».",
+   "correccion": "estado: 'cumplido' (matiz conservado) o, si se mantiene 'parcial', decir en que_paso que lo parcial es la parte «por consenso». Los 331 días desde el 1-6-2018 son correctos."
+  },
+  {
+   "donde": "b06/dato_actual y matiz",
+   "tipo": "falta_evidencia",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "dato_actual se apoya en una cifra del partido (+46 %) y en la regla de 2022; falta un dato oficial reciente. El propio matiz admite que no se abrieron los informes de la AIReF. Existe la evaluación de la AIReF de 31-3-2025 (gasto neto 2022-2050 de 13,2 % del PIB frente al límite de 13,3 %); la fuente que he podido abrir es la nota de Moncloa, no el informe de la AIReF. Con la búsqueda, la pensión media del sistema fue 1.376,1 euros en octubre de 2026 (+4,6 % interanual); no he podido abrir esa nota (403).",
+   "comprobado_en": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2025/310325-saiz-reforma-sistema-pensiones.aspx",
+   "que_dice_la_fuente": "Nota del Ministerio (31-3-2025): la AIReF concluye que el gasto cumple el umbral del Real Decreto-ley 2/2023; 13,2 % del PIB en 2022-2050 frente a 13,3 %; el titular «ha superado su primer examen» es del Gobierno, no de la AIReF.",
+   "correccion": "Añadir evidencia (informe_independiente, datos, AIReF, informe sobre la regla de gasto en pensiones de 31-3-2025, URL del informe en airef.es tras localizarlo) y sustituir el +46 % por un dato oficial de la Seguridad Social con su URL, o mantenerlo etiquetado como dato del partido (como ya está). No cambia estado ni niveles."
+  },
+  {
+   "donde": "b07/promesa_2026",
+   "tipo": "clasificacion",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "El compromiso de 2018 era exhumar a Franco; la promesa de 2026 (culminar la resignificación de Cuelgamuros con un centro de interpretación, medida 421, pág. 98) es la continuación del mismo recinto, pero no el mismo asunto. El programa no vuelve a hablar de Franco.",
+   "comprobado_en": "/Users/ivancarrillo/Documents/second-brain-ivan-5.1/entregas/comparador-29n-claude/fuentes/texto-programas/psoe.txt (línea 3617, pág. 98)",
+   "que_dice_la_fuente": "Medida 421: «Culminar la resignificación del Valle de Cuelgamuros, mediante la puesta en marcha de su Centro de Interpretación». Solo aparecen 'Cuelgamuros' y 'exhumaciones' de víctimas; no 'Franco'.",
+   "correccion": "Mantenerla indicando en el texto que es «el paso siguiente sobre el mismo lugar» o dejar promesa_2026 en null. Los niveles de viabilidad (4) y coherencia (4) que dependen de ella no se deducen de la exhumación; viabilidad 3 sería más prudente."
+  },
+  {
+   "donde": "b02/dato_actual (García Ortiz)",
+   "tipo": "falta_evidencia",
+   "gravedad": "baja",
+   "confianza": "media",
+   "problema": "El dato de García Ortiz se queda en 'amparo pendiente de admisión en junio de 2026'. A 15-11-2026 el Constitucional ha aplazado su estudio hasta después del 29N y el indulto está en tramitación, con informe contrario del Supremo. El resto del dato_actual (Ábalos y Koldo, Cerdán, Begoña Gómez, David Sánchez) coincide con lo que he podido contrastar.",
+   "comprobado_en": "https://www.democrata.es/tribunales/un-ano-de-la-condena-a-garcia-ortiz-el-gobierno-mantiene-el-indulto-en-su-mesa-y-el-tc-vera-su-amparo-tras-el-29n/",
+   "que_dice_la_fuente": "Demócrata, 15-11-2026: el TC ha pospuesto el estudio del amparo hasta después de las elecciones del 29 de noviembre; Presidencia tramita un posible indulto desde enero y el Supremo se ha pronunciado en contra.",
+   "correccion": "dato_actual: «…su amparo está pendiente de admisión; el Constitucional no lo estudiará antes del 29N, y hay una solicitud de indulto en tramitación (fuente: Demócrata, 15-11-2026; sin segunda fuente)». Estado judicial se mantiene (condenado_firme)."
+  }
+ ],
+ "valoracion_general": "Lo comprobado sobre hechos y cifras de b01-b11 es sólido: las 11 citas son literales en las páginas indicadas del DS 126 y de la transcripción de 17-7-2018 (b08 y b11 citan frases que no son el compromiso), las fechas y cifras de e1/e2 de BOE, Eurostat, DS y programa coinciden, y las 8 promesas_2026 citadas están en psoe.txt en la página indicada. Lo más flojo es la actualización a 24-11-2026: b10 usa datos de 2022 cuando hay informe de 18-11-2026, b03 y b05 no recogen el real decreto de marzo de 2026 ni la sentencia del Supremo de 2026, y b02 no tiene ninguna evidencia a favor aunque lo afirma en el texto. También hay un error de hecho (objetivo UE del 9 %, no del 10 %) y una votación final de la eutanasia omitida. Los estados (parcial, cumplido, incumplido) se deducen en general de los hechos; el único discutible es b01 (parcial vs cumplido) y b03 depende de si se mide la ley o el acceso efectivo. No hay porcentajes ni puntuaciones mal fundados de dos niveles, solo viabilidad de b07 (4 vs 3) y datos de b09 por la distancia al 9 %."
+}

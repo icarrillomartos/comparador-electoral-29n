@@ -1,0 +1,1143 @@
+{
+ "partido": "psoe",
+ "propuestas_nuevas": [],
+ "contrastes_nuevos": [
+  {
+   "propuesta_id": "psoe-pensiones-1",
+   "promesa": "Reformar la Constitución para que el sistema público de pensiones y su subida anual con el IPC queden garantizados gobierne quien gobierne.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PSOE promete llevar a la Constitución el sistema público de pensiones y su revalorización con el IPC; Sánchez lo situó «en la próxima legislatura» en un mitin el 26-10-2026. La subida con el IPC ya está en una ley ordinaria desde 2021, aprobada por su Gobierno, y se ha aplicado cada año. El blindaje constitucional ya figuraba en el programa del PSOE de noviembre de 2019 y no se ha aprobado. Exige tres quintos del Congreso y del Senado: en el debate del 19-11-2026 Feijóo no lo aceptó ni lo rechazó de forma expresa, y la AIReF advierte de que cumplir la regla de gasto en pensiones no garantiza la sostenibilidad.",
+   "antecedentes": "El programa del PSOE para el 10-11-2019 proponía un nuevo Pacto de Toledo que garantizara, «mediante su blindaje en la Constitución», la sostenibilidad y suficiencia de las pensiones, actualizadas con el IPC real. Lo que salió adelante fue una ley ordinaria: la Ley 21/2021 liga la subida anual al IPC medio. En la legislatura 2023-2026 se reformó la Constitución una vez (artículo 49, discapacidad, enero de 2024) y el Gobierno registró en 2026 un proyecto para el artículo 43 (aborto), que caducó; no hemos localizado ningún proyecto de reforma constitucional sobre pensiones.",
+   "matiz": "Que el blindaje constitucional no se haya hecho no significa que las pensiones no hayan subido: con la ley de 2021 se han revalorizado con el IPC todos los años, también en 2026 (2,7%). Y una reforma constitucional no depende solo de quien la promete: sin el PP no hay tres quintos en ninguna de las dos Cámaras.",
+   "refutacion": "Para tumbar la promesa busqué si ya se había prometido y con qué resultado: estaba en el programa de noviembre de 2019 (e2) y siete años después no hay reforma ni proyecto registrado; busqué la aritmética (e3) y la posición del PP (e5), que no la ha asumido; y busqué un precedente contrario dentro del propio PSOE: el Gobierno de Zapatero suspendió la revalorización de 2011 (e8). Para tumbar esa evidencia comprobé tres cosas. Primera: la parte de la promesa que sí dependía de una mayoría ordinaria se cumplió (e1) y se ha aplicado cada año. Segunda: la reforma por el artículo 167 no es inédita: se usó en enero de 2024 (e6). Tercera: la congelación de 2010 la decidió otra dirección del partido, en plena crisis de deuda, y excluyó las pensiones mínimas. El episodio de enero de 2026 (e9) circula como «el PP votó contra subir las pensiones»: el PP, Vox y Junts votaron contra un decreto que mezclaba la subida con otras medidas, y un mes después se convalidó la subida por separado. No encontré ningún pronunciamiento del PP que rechace expresamente la reforma constitucional; tampoco uno que la acepte.",
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "La subida con el IPC se llevó a una ley en 2021 y se aplica cada año (e1, e9); el blindaje en la Constitución prometido en 2019 no se ha aprobado ni registrado (e2)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Desde 2018 el PSOE ha defendido y aplicado la revalorización con el IPC (e1, e4, e9); la excepción es la suspensión de 2011 con el Gobierno de Zapatero (e8)."
+    },
+    "viabilidad": {
+     "nivel": 1,
+     "por": "Exige tres quintos de Congreso y Senado (e3); el PP, imprescindible para alcanzarlos, no la ha asumido (e5). Hay un precedente reciente de reforma pactada, la del artículo 49 (e6)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "La AIReF da por cumplida la regla de gasto en pensiones, pero advierte de que no garantiza la sostenibilidad y proyecta una deuda del 123% del PIB en 2050 (e7)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La Ley 21/2021 liga la subida de las pensiones al IPC",
+     "hecho": "La Ley 21/2021, de 28 de diciembre, en vigor desde el 1-1-2022, da nueva redacción al artículo 58 de la Ley General de la Seguridad Social: las pensiones contributivas suben cada enero con la media del IPC interanual de los doce meses anteriores a diciembre. Si esa media es negativa, las pensiones no bajan.",
+     "fecha": "2021-12-28",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-21652",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Es una ley ordinaria: otra mayoría parlamentaria puede cambiarla. El balance desde 2018 ya recoge este compromiso como cumplido (b06)."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2019 ya prometía el blindaje constitucional",
+     "hecho": "El programa del PSOE para las elecciones del 10-11-2019 («Ahora, progreso», punto 1.9) decía que el Gobierno plantearía un nuevo Pacto de Toledo «que garantice, mediante su blindaje en la Constitución, la sostenibilidad y suficiencia del sistema público de pensiones, actualizándolas conforme al IPC real». El programa de 2026 vuelve a prometerlo.",
+     "fecha": "2019",
+     "fuente": "PSOE",
+     "url": "https://www.psib-psoe.org/wp-content/uploads/Programa-PSOE-10N.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y leído (página 20 del PDF). Alojado en la web de la federación balear del PSOE. Entre 2019 y 2026 no hemos localizado ningún proyecto o proposición de reforma constitucional sobre pensiones registrado por el Gobierno o por el PSOE."
+    },
+    {
+     "id": "e3",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "La Constitución exige tres quintos de cada Cámara",
+     "hecho": "El artículo 50 ya dice que los poderes públicos garantizarán la suficiencia económica en la tercera edad «mediante pensiones adecuadas y periódicamente actualizadas», sin citar el IPC. El artículo 167 exige que la reforma la aprueben tres quintos de cada Cámara (210 diputados); si no hay acuerdo, bastan dos tercios del Congreso con mayoría absoluta del Senado. Una décima parte de los diputados o senadores puede forzar un referéndum.",
+     "fecha": "1978-12-29",
+     "fuente": "BOE (Constitución Española)",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El artículo 50 está en el capítulo de principios rectores, fuera del núcleo que exige el procedimiento agravado del artículo 168."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "Sánchez fija la reforma «en la próxima legislatura»",
+     "hecho": "En un mitin en Gijón el 26-10-2026, Pedro Sánchez dijo: «En la próxima legislatura reformaremos la Constitución para blindar las pensiones y su revalorización conforme al IPC». El medio que lo recoge recuerda que la subida con el IPC ya figura en el artículo 58 de la Ley General de la Seguridad Social y que la reforma exigiría tres quintos de Congreso y Senado.",
+     "fecha": "2026-10-26",
+     "fuente": "ESdiario",
+     "url": "https://www.esdiario.com/nacional/261026/201346/sanchez-pensiones-constitucion-ipc-ley-pp-reforma.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "declaracion",
+     "titulo": "Feijóo no asume la reforma en el debate electoral",
+     "hecho": "En el debate de la Academia de la Televisión, Sánchez propuso a Feijóo: «Si usted quiere y se compromete a revalorizar las pensiones conforme al IPC, pactemos una reforma constitucional». Feijóo respondió que Sánchez plantea cambiar la Constitución cuando «no tiene votos ni para aprobar los Presupuestos». Ambos dijeron comprometerse a subir las pensiones con el IPC; el PP no aceptó ni rechazó expresamente la reforma.",
+     "fecha": "2026-11-19",
+     "fuente": "Demócrata",
+     "url": "https://www.democrata.es/economia/ampliacion-sanchez-desafia-a-feijoo-a-blindar-en-la-constitucion-la-subida-de-pensiones-con-el-ipc/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La crónica es del 19-11-2026 y no precisa el día del debate."
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "En 2024 se reformó el artículo 49 por la vía ordinaria",
+     "hecho": "La reforma del artículo 49 de la Constitución (personas con discapacidad) se sancionó el 15-2-2024, tras aprobarla el Congreso el 18-1-2024 y el Senado el 25-1-2024. Es la tercera reforma desde 1978 y la única de la legislatura 2023-2026.",
+     "fecha": "2024-02-15",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-3099",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El BOE no detalla quién la promovió ni el resultado de las votaciones. Fue una proposición conjunta de PSOE y PP: es un dato conocido que no figura en el documento abierto y no he vuelto a comprobar."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "AIReF: la regla de gasto se cumple, pero no garantiza la sostenibilidad",
+     "hecho": "En su estudio de 29-5-2026 la AIReF estima el gasto en pensiones, neto de las medidas de ingresos, en el 13,0% del PIB de media entre 2022 y 2050, por debajo del umbral legal del 13,3%. El gasto bruto es del 14,6%. Añade que el cumplimiento formal «no garantiza la sostenibilidad»: a políticas constantes, la deuda pública llegaría al 123% del PIB en 2050.",
+     "fecha": "2026-05-29",
+     "fuente": "AIReF",
+     "url": "https://www.airef.es/wp-content/uploads/2026/05/Pensiones/2026529-NDP-Estudio-regla-de-gasto-de-pensiones.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída la nota de prensa oficial en la copia archivada. El estudio no evalúa el blindaje constitucional, sino el marco legal vigente."
+    },
+    {
+     "id": "e8",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "norma",
+     "titulo": "Un Gobierno del PSOE suspendió la subida de 2011",
+     "hecho": "El Real Decreto-ley 8/2010, de 20 de mayo, aprobado por el Gobierno de José Luis Rodríguez Zapatero, suspendió con carácter excepcional la revalorización de las pensiones contributivas para 2011. Quedaron fuera de la suspensión las pensiones mínimas, las del SOVI no concurrentes y las no contributivas.",
+     "fecha": "2010-05-20",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-8228",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída la exposición de motivos (apartado III). La decisión es de otra dirección del partido y se tomó dentro del ajuste de mayo de 2010."
+    },
+    {
+     "id": "e9",
+     "sentido": "contexto",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "El Congreso tumbó en enero de 2026 el decreto que incluía la subida",
+     "hecho": "El 27-1-2026 el Congreso derogó, con los votos de PP, Vox y Junts, el decreto-ley que incluía la subida de las pensiones de 2026 junto al bono energético y la prohibición de desahucios de familias vulnerables. PP y Junts alegaron que el Gobierno mezclaba asuntos y pidieron votar las pensiones por separado. El Gobierno aprobó el Real Decreto-ley 3/2026, solo con la revalorización (2,7%), y el Congreso lo convalidó el 26-2-2026.",
+     "fecha": "2026-01-27",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/economia/ahora-gobierno-aprobar-nuevo-decreto-subida-pensiones-salga-adelante_1_12938707.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La convalidación del 26-2-2026 y el 2,7% están comprobados en la nota de La Moncloa: https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/260226-convalidacion-revalorizacion-pensiones.aspx"
+    }
+   ],
+   "pista_codex": "nacional-psoe-n365, piloto-psoe-pensiones-09"
+  },
+  {
+   "propuesta_id": "psoe-educacion-1",
+   "promesa": "Extender la educación de 0 a 3 años a todos los niños, con más plazas públicas y menos alumnos por aula.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PSOE promete universalizar la educación de 0 a 3 años, sin fecha, sin número de plazas y sin coste. Ya lo prometió en 2019, entonces con gratuidad. Desde entonces su Gobierno fijó por ley un plan de ocho años y repartió 670 millones de fondos europeos para más de 65.000 plazas públicas; el propio programa de 2026 habla de 45.000 financiadas. La tasa de escolarización de 0 a 2 años ha subido hasta el 50,2% en el curso 2025-2026, la más alta de la serie, lo que deja fuera a la otra mitad. Las plazas las crean y gestionan comunidades y ayuntamientos, y varias no ejecutaron o devolvieron fondos.",
+   "antecedentes": "El programa del PSOE del 10-11-2019 decía: «Estableceremos la universalización y la gratuidad de la educación infantil para niños y niñas menores de 3 años», con un plan elaborado con las comunidades. La ley educativa de 2020 (LOMLOE) ordenó un plan de ocho años que «tenderá» a la gratuidad. Entre 2021 y 2023 se repartieron 670,1 millones del Plan de Recuperación para crear más de 65.000 plazas públicas, con ejecución hasta mayo de 2026. El programa de 2026 mantiene «universalizar», pero ya no menciona la gratuidad.",
+   "matiz": "El Estado financia y fija mínimos, pero no abre escuelas infantiles: lo hacen comunidades y ayuntamientos, de modo que ni el avance ni los retrasos son solo del Gobierno central. Escolarizar no equivale a plaza pública ni gratuita: la tasa del 50,2% incluye centros privados y de pago.",
+   "refutacion": "Para tumbar la promesa comparé lo prometido en 2019 con el resultado: ni universal ni gratuita siete años después (e1, e6), y menos plazas financiadas (45.000 según el propio PSOE, e4) que las 65.000 anunciadas (e3). Busqué la ejecución por comunidades: según CCOO, Madrid creó 3.928 de 5.304 plazas y Cataluña 2.302 de 10.884, y Andalucía y Galicia renunciaron a fondos (e5). Para tumbar esa evidencia comprobé que la tasa sí sube cada año y está en máximos (e6), que el plan tiene base legal (e2) y dinero transferido (e3), y que parte del retraso corresponde a gobiernos autonómicos de otros partidos que no ejecutaron los fondos (e5). El dato por comunidades procede de un sindicato y lo recoge un solo medio: va marcado como fuente única. No encontré un balance oficial del Ministerio con las plazas realmente abiertas al cerrar el programa en 2026; tampoco una estimación independiente del coste de la universalización.",
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "Prometido en 2019 con gratuidad (e1): hay ley (e2), fondos (e3) y la tasa sube al 50,2% (e6), pero no es universal ni gratuito y se financiaron menos plazas de las anunciadas (e4, e5)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Programa de 2019, ley de 2020, fondos de 2021-2023 y propuesta de ratios de 2026 van en la misma dirección (e1, e2, e3, e7); la gratuidad desaparece del texto de 2026."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Depende de comunidades y ayuntamientos, que ejecutaron de forma desigual (e5); los fondos europeos terminaron en 2026 y el programa no dice cómo se pagará (e3, e7)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "La tasa de 0 a 2 años crece alrededor de un punto por curso y está en el 50,2% (e6); no hay cálculo oficial ni independiente de plazas y coste para llegar a todos."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "En 2019 prometió universalizar y hacer gratuito el 0-3",
+     "hecho": "El programa del PSOE para el 10-11-2019 decía: «Estableceremos la universalización y la gratuidad de la educación infantil para niños y niñas menores de 3 años», con un plan de extensión elaborado con las comunidades autónomas y una red pública «que garantice una oferta suficiente de plazas públicas». El programa de 2026 promete «universalizar» y no menciona la gratuidad.",
+     "fecha": "2019",
+     "fuente": "PSOE",
+     "url": "https://www.psib-psoe.org/wp-content/uploads/Programa-PSOE-10N.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y leído (página 23 del PDF)."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "norma",
+     "titulo": "La LOMLOE ordena un plan de ocho años para el primer ciclo",
+     "hecho": "La disposición adicional tercera de la Ley Orgánica 3/2020, de 29 de diciembre, ordena al Gobierno elaborar, en el plazo de un año y con las administraciones educativas, «un plan de ocho años de duración para la extensión del primer ciclo de educación infantil». En su implantación «se tenderá a la extensión de su gratuidad», con prioridad para el alumnado en riesgo de pobreza.",
+     "fecha": "2020-12-29",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El plazo de ocho años llega hasta 2029-2030. La ley dice «se tenderá», no garantiza la gratuidad."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "670 millones europeos para más de 65.000 plazas públicas",
+     "hecho": "El Ministerio de Educación destinó 670,1 millones del Plan de Recuperación a crear más de 65.000 plazas públicas de primer ciclo de infantil: 200,8 millones en 2021, 331,0 en 2022 y 134,8 en 2023, repartidos entre las comunidades, con 21.794 plazas previstas por año. Se priorizaban niños de 1 y 2 años y zonas con más riesgo de pobreza.",
+     "fecha": "2023-12-19",
+     "fuente": "Ministerio de Educación, FP y Deportes",
+     "url": "https://www.educacionfpydeportes.gob.es/mc/sgctie/cooperacion-territorial/programas-cooperacion/primer-ciclo-infantil.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída en la copia archivada. La página informa de fondos transferidos y plazas previstas, no de plazas abiertas."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El programa de 2026 habla de 45.000 plazas financiadas",
+     "hecho": "En su balance de gestión, el programa del PSOE de 2026 dice: «financiamos 45.000 plazas públicas de 0 a 3 años». El objetivo anunciado para los fondos europeos era de más de 65.000 (e3). El programa no da la cifra de plazas en funcionamiento.",
+     "fecha": "2026",
+     "fuente": "PSOE",
+     "url": "https://lafuerzadelagente.es/programa/PROGRAMA_PSOE_29N26.pdf#page=46",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Cita comprobada en el texto del programa (página 46)."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "Varias comunidades no crearon las plazas o devolvieron fondos",
+     "hecho": "Según una denuncia de CCOO Madrid del 14-4-2026, basada en una resolución autonómica de marzo, Madrid recibió 54,1 millones para 5.304 plazas y creó 3.928. El mismo texto recoge que Cataluña creó 2.302 de 10.884 plazas comprometidas, que Andalucía renunció a 112 millones y que Galicia devolvió 22 millones, alegando que los fondos no servían para la red privada o municipal.",
+     "fecha": "2026-04-14",
+     "fuente": "El Salto",
+     "url": "https://www.elsaltodiario.com/comunidad-madrid/comunidad-madrid-recibio-dinero-crear-5-300-plazas-infantil-solo-ha-creado-3-928",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Fuente sindical recogida por un solo medio. El artículo da 1.774 plazas sin ejecutar en Madrid, cifra que no cuadra con sus propios datos (5.304 menos 3.928 son 1.376)."
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "La escolarización de 0 a 2 años llega al 50,2%",
+     "hecho": "La estadística oficial de avance del curso 2025-2026 sitúa la tasa de escolarización de 0 a 2 años en el 50,2%, la más alta de la serie (49,2% en 2024-2025 y 48% en 2023-2024). A los 2 años es del 76,4% (74,1% un curso antes). El primer ciclo tiene 491.811 alumnos, 3.268 más, pese a la caída de nacimientos.",
+     "fecha": "2026-07-31",
+     "fuente": "La Moncloa (Ministerio de Educación)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/educacion-fp-deportes/Paginas/2026/31072026-educacion-formacion-profesional.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Los datos de 2024-2025 y 2023-2024 proceden de la nota del Ministerio de 27-6-2025. La tasa incluye centros públicos y privados."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "dato_oficial",
+     "titulo": "La bajada de ratios es una propuesta, no una norma",
+     "hecho": "El 24-6-2026 el Ministerio planteó a los sindicatos reducir las ratios del primer ciclo a 4 niños por profesional de 0 a 1 año, 6 de 1 a 2 y 8 de 2 a 3, con aplicación progresiva entre los cursos 2027-2028 y 2030-2031. Exige modificar el Real Decreto 132/2010 y afectaría a centros públicos y privados. La nota la presenta como propuesta «en caso de salir adelante».",
+     "fecha": "2026-06-24",
+     "fuente": "Ministerio de Educación, FP y Deportes",
+     "url": "https://www.educacionfpydeportes.gob.es/prensa/actualidad/2026/06/20260624-ratios03.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída en la copia archivada. Menos niños por aula exige más personal y más aulas para las mismas plazas; la nota no da coste."
+    }
+   ],
+   "pista_codex": "piloto-psoe-educacion-04"
+  },
+  {
+   "propuesta_id": "psoe-inmigracion-2",
+   "promesa": "Abrir más vías legales y seguras para pedir protección (reasentamiento y visados humanitarios) y reforzar el sistema público de acogida y asilo.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PSOE promete más vías legales para refugiados y un sistema de asilo reforzado, sin cifras. Con su Gobierno, España mantiene un programa anual de reasentamiento de hasta 1.200 plazas, que en 2025 se quedó en 817 personas, y la Oficina de Asilo resolvió ese año 160.951 expedientes, su récord. En sentido contrario, el Gobierno ha impuesto visados de tránsito a nacionalidades con muchas peticiones de asilo, la vía de las embajadas prevista en la ley de 2009 sigue sin aplicarse de forma uniforme y la tasa de reconocimiento bajó al 11,2%. El reglamento de la ley de asilo que el PSOE prometió en 2019 no se aprobó.",
+   "antecedentes": "El programa del PSOE de noviembre de 2019 decía: «Aprobaremos el reglamento de desarrollo de la Ley 12/2009 […] para aplicar todas las figuras jurídicas que están pendientes de implementación», entre ellas la petición de traslado desde embajadas. No se aprobó: el 25-8-2026 el Consejo de Ministros dio el primer paso de una ley de asilo nueva para adaptarse al Pacto Europeo de Migración y Asilo, que tampoco llegó a las Cortes antes de la disolución. El programa de reasentamiento se aprueba cada año desde 2011.",
+   "matiz": "Los visados de tránsito son una herramienta que usan otros países de la UE y el Gobierno no los presenta como un cierre del asilo; CEAR sostiene que en la práctica cierran una vía segura. La tasa del 11,2% no incluye las 57.334 autorizaciones por razones humanitarias de 2025, casi todas a venezolanos: con ellas, Interior habla de un 46,8% de protección.",
+   "refutacion": "Para tumbar la promesa busqué hechos contrarios a «ampliar vías legales»: el reasentamiento de 2025 se quedó cerca del 70% de lo previsto (e2); se impusieron visados de tránsito a senegaleses y kenianos y, en julio de 2025, a rusos (e5); el artículo 38 de la ley de asilo, que permite pedir el traslado desde una embajada, no se aplica de forma uniforme y hay resoluciones de la Audiencia Nacional y del Supremo que ordenan traslados (e4); y el reglamento prometido en 2019 no existe (e6). Para tumbar esa evidencia comprobé que el reasentamiento es real y se renovó para 2026 (e1), que la Oficina de Asilo resolvió un 67% más de expedientes y redujo los pendientes (e3, e4) y que hay una planificación de plazas de acogida con coste publicado en el BOE (e7). No pude abrir la nota de Interior que explica los visados de tránsito ni la memoria de la nueva ley: el motivo oficial no está comprobado en fuente primaria. CEAR es una organización de defensa de los refugiados y parte interesada; sus cifras coinciden con las de Interior en lo que pude cotejar.",
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "El reasentamiento funciona pero no llenó el cupo de 2025 (e1, e2); la Oficina de Asilo resolvió más que nunca (e3); el reglamento prometido en 2019 no se aprobó (e6)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Mantiene el reasentamiento (e1) y a la vez impone visados de tránsito a nacionalidades que piden asilo y no aplica de forma uniforme la vía de embajadas (e4, e5)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "Es competencia estatal y el reasentamiento se decide por acuerdo del Consejo de Ministros (e1); los visados humanitarios y la nueva ley de asilo requieren ley y encajar en el Pacto europeo (e6, e8); la acogida tiene coste publicado (e7)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Más expedientes resueltos y menos pendientes (e3), pero la tasa de reconocimiento baja al 11,2% y quedan 218.731 solicitudes por resolver (e4)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "Programa de reasentamiento de 2026: hasta 1.200 plazas",
+     "hecho": "El Consejo de Ministros aprobó el 17-3-2026 el Programa Nacional de Reasentamiento de Refugiados para 2026, con un máximo de 1.200 plazas. España participa desde 2011 y ha reasentado a más de 6.900 personas. El primer traslado de 2026 llevó a 48 refugiados nicaragüenses desde Costa Rica el 12 de marzo.",
+     "fecha": "2026-03-17",
+     "fuente": "Legal Today",
+     "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-consejo-de-ministros-aprueba-el-programa-nacional-de-reasentamiento-de-refugiados-para-2026-2026-03-17/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La referencia oficial del Consejo de Ministros de ese día confirma la aprobación del acuerdo, sin cifras: https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20260317-referencia-rueda-de-prensa-ministros.aspx"
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "En 2025 llegaron 817 reasentados, cerca del 70% de lo previsto",
+     "hecho": "El Ministerio de Inclusión cerró el plan de 2025 con 817 personas reasentadas en 22 traslados: 364 sirios desde Líbano y 453 nicaragüenses desde Costa Rica. La propia nota dice que supone «el cumplimiento de cerca del 70% de los objetivos iniciales».",
+     "fecha": "2025-12-19",
+     "fuente": "Ministerio de Inclusión, Seguridad Social y Migraciones",
+     "url": "https://inclusion.gob.es/documents/20121/812283/20251219%2BNdP-PNR-Balance-2025.pdf/e9e4e79e-4585-7573-3d07-949871641f59?t=1766132182144",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída en la copia archivada del PDF oficial."
+    },
+    {
+     "id": "e3",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "La Oficina de Asilo resolvió 160.951 expedientes en 2025",
+     "hecho": "Según Interior, en 2025 se formalizaron 144.396 solicitudes de protección internacional y se resolvieron 160.951 expedientes, un 67,2% más que en 2024 y la cifra más alta desde 1992. Se concedieron 7.838 estatutos de refugiado (un 23,3% más) y 10.103 protecciones subsidiarias, y 57.334 personas recibieron autorización por razones humanitarias. La tasa de reconocimiento de refugio y subsidiaria fue del 11,2%.",
+     "fecha": "2026-01-16",
+     "fuente": "La Moncloa (Ministerio del Interior)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/Paginas/2026/160126-balance-oficina-asilo-2025.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Datos provisionales a 31-12-2025. La nota no da denegaciones ni expedientes pendientes."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "CEAR: el reconocimiento baja al 11,2% y la vía de embajadas no se aplica igual",
+     "hecho": "El informe de CEAR de 2026 recoge que la tasa de reconocimiento bajó del 18,5% al 11,2% en 2025, con 68.329 resoluciones desfavorables y 218.731 solicitudes pendientes (un 9,6% menos). Sobre el traslado desde embajadas que prevé el artículo 38 de la ley de asilo, dice que «sigue sin aplicarse de forma uniforme», que no hay datos oficiales y que la Audiencia Nacional y el Supremo han ordenado traslados. Las citas para pedir asilo no cumplen el plazo de 3 a 6 días.",
+     "fecha": "2026-06",
+     "fuente": "CEAR (Comisión Española de Ayuda al Refugiado)",
+     "url": "https://www.casafrica.es/sites/default/files/contents/document/Resumen%20ejecutivo%20CEAR%202026.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Resumen ejecutivo abierto y leído (páginas 11 a 14). CEAR es parte interesada; sus cifras de solicitudes y estatutos coinciden con las de Interior (e3). También señala que el reglamento de extranjería de mayo de 2025 dejó de contar el tiempo como solicitante de asilo para el arraigo."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Visados de tránsito a nacionalidades con muchas peticiones de asilo",
+     "hecho": "España exigió visado de tránsito aeroportuario a senegaleses y kenianos tras el aumento de peticiones de asilo en Barajas, y los sindicatos policiales lo pedían también para mauritanos alegando «fraude en escala». CEAR sostuvo que «la solución del Gobierno central siempre ha sido la de imponer visados de tránsito», lo que supone «poner un obstáculo a una vía segura». En julio de 2025 se impuso a ciudadanos rusos, el 3% de las solicitudes en frontera, según el informe de CEAR de 2026.",
+     "fecha": "2024-06-15",
+     "fuente": "Artículo 14",
+     "url": "https://www.articulo14.es/politica/la-imposicion-de-visados-de-transito-aboca-a-muchas-mujeres-mauritanas-a-la-muerte-20240615.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El dato de julio de 2025 procede del resumen ejecutivo de CEAR (e4, página 12). No pude abrir una nota de Interior con el motivo oficial de la medida; el artículo solo recoge que Interior describía la situación en Barajas como de «normalidad»."
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "El reglamento de asilo prometido en 2019 no se aprobó",
+     "hecho": "El programa del PSOE del 10-11-2019 decía: «Aprobaremos el reglamento de desarrollo de la Ley 12/2009 […] para aplicar todas las figuras jurídicas que están pendientes de implementación». En lugar del reglamento, el Consejo de Ministros aprobó el 25-8-2026, en primera vuelta, un anteproyecto de ley de asilo nueva que sustituiría a la de 2009; no llegó a las Cortes antes de la disolución de octubre.",
+     "fecha": "2019",
+     "fuente": "PSOE",
+     "url": "https://www.psib-psoe.org/wp-content/uploads/Programa-PSOE-10N.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y leído (página 35 del PDF). El anteproyecto de 2026 está comprobado en e8. Que el reglamento sigue sin aprobarse se apoya en el informe de CEAR (e4) y en el hecho de que el Gobierno opte por una ley nueva; no pude abrir la memoria de Interior que lo afirma."
+    },
+    {
+     "id": "e7",
+     "sentido": "apoya",
+     "componente": "viabilidad",
+     "tipo": "norma",
+     "titulo": "Acogida de julio de 2026 a junio de 2027: 670 millones",
+     "hecho": "Una resolución de 18-6-2026 del Ministerio de Inclusión planifica el sistema de acogida de protección internacional mediante acción concertada entre el 1-7-2026 y el 30-6-2027: unas 36.000 plazas mensuales sumando todas las fases en el segundo semestre de 2026, con un coste total de 670.458.917 euros.",
+     "fecha": "2026-06-18",
+     "fuente": "BOE",
+     "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13362",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La suma de plazas por fases (36.080 de julio a diciembre) es cálculo propio a partir de la tabla de la resolución. Es una planificación, no gasto ejecutado."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "El anteproyecto de ley de asilo adapta el Pacto europeo",
+     "hecho": "El anteproyecto aprobado el 25-8-2026 incorpora el procedimiento en frontera del Reglamento (UE) 2024/1348, con un máximo de doce semanas en instalaciones policiales, un triaje de 72 horas, un procedimiento acelerado de tres meses y los conceptos de tercer país seguro y país de origen seguro. La crónica no menciona reasentamiento, visados humanitarios ni embajadas.",
+     "fecha": "2026-08-26",
+     "fuente": "Legal Today",
+     "url": "https://www.legaltoday.com/actualidad-juridica/el-gobierno-aprueba-una-nueva-ley-de-asilo-y-reforma-la-ley-de-extranjeria-para-adaptarse-al-pacto-europeo-de-migracion-2026-08-26/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El Pacto Europeo de Migración y Asilo es de aplicación obligatoria desde junio de 2026; la adaptación no es una opción del Gobierno."
+    }
+   ],
+   "pista_codex": "ampliacion-i-psoe-n389"
+  },
+  {
+   "propuesta_id": "psoe-energia-1",
+   "promesa": "Que en 2030 el 81% de la electricidad generada en España sea renovable.",
+   "ha_gobernado": "estatal",
+   "resumen": "El 81% renovable en 2030 no es una promesa nueva: es el objetivo del plan de energía y clima que el Gobierno aprobó en septiembre de 2024. Las renovables han pasado del 35% de la generación en 2015 al 55,5% en 2025, pero ese año la cuota bajó 1,3 puntos respecto a 2024 pese a un récord de producción. Faltan más de 25 puntos en cinco años. La Agencia Internacional de la Energía reconoce el avance y avisa de riesgos: casi toda la potencia nueva es solar, la eólica se frena por permisos y aceptación social, y el almacenamiento instalado (3,4 GW) está lejos de los 22,5 GW previstos.",
+   "antecedentes": "El primer plan de energía y clima se adoptó en 2020. El Consejo de Ministros aprobó su actualización el 24-9-2024, que eleva los objetivos de 2030: 81% de generación eléctrica renovable, 62 GW de eólica, 76 GW de fotovoltaica y 22,5 GW de almacenamiento, con 308.000 millones de inversión, el 82% privada. Tras el apagón del 28-4-2025, el Congreso derogó en julio de ese año el decreto-ley que reforzaba el sistema eléctrico y fomentaba el almacenamiento.",
+   "matiz": "La cuota anual depende también del viento y la lluvia: 2025 fue peor año eólico e hidráulico que 2024 y aun así se produjo más electricidad renovable que nunca. Y el 81% se refiere a la electricidad generada, no a toda la energía que consume el país.",
+   "refutacion": "Para tumbar la promesa calculé el ritmo: del 55,5% de 2025 al 81% hay 25,5 puntos, unos 5 por año, cuando en la última década se ganaron unos 2 por año (e2, e3) y en 2025 la cuota retrocedió (e3). Busqué qué dice un organismo independiente: la AIE no afirma que el objetivo sea inalcanzable, pero señala vertidos, permisos eólicos, redes y electrificación atrasada (e5). Y busqué apoyos parlamentarios: el decreto posterior al apagón cayó con votos de socios del Gobierno (e6). Para tumbar esa evidencia comprobé que la potencia instalada sigue creciendo a ritmo alto, 10 GW en 2025 (e4), que la bajada de 2025 coincide con menos producción eólica e hidráulica y no con menos renovables instaladas, y que en 2026 la producción renovable crece a dos dígitos en los meses consultados (e7). No encontré el dato acumulado de 2026 ni una evaluación oficial del grado de cumplimiento del plan.",
+   "puntos": {
+    "historial": {
+     "nivel": 3,
+     "por": "Con gobiernos del PSOE desde 2018 la cuota renovable ha subido hasta el 55,5% y la potencia crece 10 GW al año (e2, e3, e4); el objetivo de 2030 aún no ha vencido."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Plan de 2020, actualización al alza en 2024 y programa de 2026 mantienen la misma dirección (e1); el programa repite un objetivo ya aprobado, no añade medidas nuevas."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "El 82% de la inversión prevista es privada (e1), los permisos dependen en buena parte de las comunidades y el Congreso tumbó el decreto de refuerzo del sistema (e6)."
+    },
+    "datos": {
+     "nivel": 1,
+     "por": "La cuota bajó en 2025 (e3), harían falta unos 5 puntos por año, el almacenamiento está en 3,4 GW de 22,5 (e4) y la AIE señala cuellos de botella (e5)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "dato_oficial",
+     "titulo": "El 81% es el objetivo del plan aprobado en 2024",
+     "hecho": "El Consejo de Ministros aprobó el 24-9-2024 el real decreto que actualiza el Plan Nacional Integrado de Energía y Clima 2023-2030. Fija para 2030 un 81% de generación eléctrica renovable, 62 GW de eólica, 76 GW de fotovoltaica (19 de autoconsumo) y 22,5 GW de almacenamiento. Prevé unos 308.000 millones de inversión, el 82% privada.",
+     "fecha": "2024-09-24",
+     "fuente": "Ministerio para la Transición Ecológica",
+     "url": "https://www.miteco.gob.es/es/prensa/ultimas-noticias/2024/septiembre/el-gobierno-aprueba-la-actualizacion-del-plan-nacional-integrado.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La página del plan en la web del Ministerio (https://www.miteco.gob.es/es/energia/estrategia-normativa/pniec-23-30.html) confirma el 81%."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "informe_independiente",
+     "titulo": "AIE: las renovables pasan del 35% al 56% en diez años",
+     "hecho": "La revisión de la política energética de España de la Agencia Internacional de la Energía (2026) recoge que la generación renovable pasó del 35% del total en 2015 al 56% en 2025 y que la capacidad renovable se duplicó con creces, hasta unos 119 GW. Las fuentes bajas en emisiones suman en torno al 75% de la electricidad.",
+     "fecha": "2026",
+     "fuente": "Agencia Internacional de la Energía",
+     "url": "https://www.iea.org/reports/spain-2026/executive-summary?language=es",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El periodo 2015-2025 incluye tres años de Gobierno del PP. El resumen ejecutivo no evalúa expresamente el objetivo del 81%."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "En 2025 la cuota renovable bajó al 55,5%",
+     "hecho": "Según Red Eléctrica, las renovables produjeron en 2025 el 55,5% de la electricidad (56,8% en 2024), pese a marcar el máximo histórico de producción con 150.988 GWh, un 1,3% más. Contando el autoconsumo estimado, la cuota es del 56,6%. La eólica peninsular produjo un 3,5% menos y la hidráulica un 3,6% menos que en 2024.",
+     "fecha": "2026-03",
+     "fuente": "Red Eléctrica de España",
+     "url": "https://www.sistemaelectrico-ree.es/es/informe-del-sistema-electrico/generacion/generacion-de-energia-electrica/generacion-renovable-de-energia-electrica",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída en la copia archivada. La cuota baja porque la generación total creció más (3,7%) que la renovable."
+    },
+    {
+     "id": "e4",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "10 GW nuevos en 2025; 3,4 GW de almacenamiento",
+     "hecho": "En 2025 se instalaron cerca de 10 GW renovables: 8,8 GW de solar fotovoltaica y 1,2 GW de eólica (11,6 GW con autoconsumo). La potencia de almacenamiento era de 3.427 MW a 31-12-2025. La demanda creció un 2,8%.",
+     "fecha": "2026-03-11",
+     "fuente": "Red Eléctrica de España",
+     "url": "https://www.ree.es/sites/default/files/2026-03/1103_NP_ISE_2025.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y leído. El plan prevé 22,5 GW de almacenamiento y 62 GW de eólica en 2030 (e1)."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "AIE: demasiada solar, eólica frenada y electrificación atrasada",
+     "hecho": "La AIE señala que la solar fotovoltaica supuso más del 90% del aumento de capacidad renovable en 2025, lo que «corre el riesgo de aumentar los vertidos» y de debilitar la inversión; que los permisos y la aceptación social pueden frenar la eólica; y que la electricidad era el 25% de la energía final en 2024, «muy por debajo» del objetivo del 35% para 2030. Cita el apagón de abril de 2025 como muestra de que hay que reforzar la resiliencia.",
+     "fecha": "2026",
+     "fuente": "Agencia Internacional de la Energía",
+     "url": "https://www.iea.org/reports/spain-2026/executive-summary?language=es",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La AIE añade que el cierre nuclear previsto entre 2027 y 2035 tendría un impacto importante en la seguridad de suministro y que las prórrogas pedidas por los operadores podrían ser una solución transitoria."
+    },
+    {
+     "id": "e6",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "El Congreso derogó el decreto de refuerzo tras el apagón",
+     "hecho": "El 22-7-2025 el Congreso derogó el Real Decreto-ley 7/2025, aprobado tras el apagón del 28-4-2025. Votaron a favor PSOE, Sumar, ERC, PNV, Bildu, Compromís y Coalición Canaria; en contra, la derecha y también Junts, Podemos, BNG y Chunta. El decreto incentivaba las baterías y permitía a las renovables regular tensión y servir de respaldo.",
+     "fecha": "2025-07-22",
+     "fuente": "El Salto",
+     "url": "https://www.elsaltodiario.com/energia/congreso-tumba-decreto-antiapagones-del-gobierno",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La crónica no da el recuento de votos ni los motivos de cada grupo. El Gobierno anunció después que aprobaría parte de las medidas por vía reglamentaria; no he comprobado cuáles entraron en vigor."
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Agosto de 2026: 53,6% renovable y producción al alza",
+     "hecho": "En agosto de 2026 las renovables produjeron 13.640 GWh, un 11% más que un año antes y el 53,6% del total (55,1% con autoconsumo). La fotovoltaica lideró la generación por quinto mes seguido, con el 29,2%; la eólica aportó el 13,3%. El almacenamiento integró 954 GWh.",
+     "fecha": "2026-09-03",
+     "fuente": "Red Eléctrica de España",
+     "url": "https://www.ree.es/sites/default/files/2026-09/0309-np-demanda-nacional-agosto.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y leído. Es un dato mensual de verano; no he encontrado la cuota acumulada de 2026."
+    }
+   ],
+   "pista_codex": "nacional-psoe-n234"
+  },
+  {
+   "propuesta_id": "psoe-territorio-2",
+   "promesa": "Que el Estado asuma unos 83.000 millones de euros de deuda de las comunidades autónomas.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PSOE promete «avanzar» en que el Estado asuma 83.000 millones de deuda autonómica. La medida nace del pacto de investidura con ERC de noviembre de 2023, que la preveía para Cataluña y extensible al resto. El Gobierno envió el proyecto de ley orgánica al Congreso en diciembre de 2025; superó el debate de totalidad en julio de 2026 por 178 votos a 170 y caducó con la disolución de octubre, tras cerca de un año de prórrogas del plazo de enmiendas. La AIReF calcula que rebajaría la deuda autonómica en 5,1 puntos de PIB y pide condicionarla a las reglas fiscales; Fedea la considera una invitación a la indisciplina fiscal.",
+   "antecedentes": "El 2-11-2023 PSOE y ERC pactaron que el Estado asumiera unos 15.000 millones de deuda de la Generalitat, el 20% de la que tenía con el Estado, mediante una ley de alcance general. Hacienda presentó en febrero de 2025 el reparto para todas las comunidades de régimen común y el Consejo de Ministros remitió el proyecto al Congreso el 9-12-2025, con 83.252 millones. Tres años después del pacto la ley no está aprobada y el próximo Gobierno tendría que presentarla de nuevo.",
+   "matiz": "La deuda no desaparece: pasa de las comunidades al Estado, de modo que la deuda pública total no cambia. La adhesión es voluntaria, así que una comunidad puede no acogerse. Votar contra la ley no equivale a estar contra aliviar a las comunidades: PP y Vox alegan que premia a las más endeudadas y que responde a un pacto con ERC.",
+   "refutacion": "Para tumbar la promesa busqué su recorrido: tres años después del pacto con ERC no hay ley (e3, e4), y el plazo de enmiendas se prorrogó durante cerca de un año en una Mesa del Congreso donde PSOE y Sumar tienen mayoría (e3). Busqué la opinión de organismos independientes: la AIReF pide condicionalidad y enmarcarla en la reforma de la financiación, y Fedea la rechaza tal como está (e7). Para tumbar esa evidencia comprobé que el proyecto existe y se envió a las Cortes (e1), que tuvo mayoría absoluta en su primera votación, la que exige una ley orgánica (e2), y que la AIReF también le atribuye efectos favorables: menos deuda autonómica y 15.657 millones de ahorro en intereses hasta 2030 (e6). Circula que María Jesús Montero negó en 2023 que fuera a haber condonación: lo recoge Maldita.es en su hemeroteca, pero no conseguí abrir el texto del artículo y no lo uso. No he comprobado en el acta por qué la Mesa prorrogó el plazo de enmiendas.",
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "El Gobierno presentó el proyecto (e1) y superó el debate de totalidad (e2), pero tres años después del pacto no hay ley y el texto caducó (e3, e4)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Defendida de forma constante desde 2023 (e1, e5), pero el plazo de enmiendas se prorrogó cerca de un año antes del primer debate, con el proyecto parado (e3)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Necesita ley orgánica y mayoría absoluta: la tuvo una vez, por 178 a 170, con Junts y ERC, que piden más para Cataluña (e2, e8); la adhesión de cada comunidad es voluntaria (e1)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "La AIReF ve menos deuda autonómica y ahorro en intereses (e6), pero pide condicionalidad y avisa de que tres comunidades seguirían sobre el límite hasta 2050; Fedea la desaconseja (e7)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "El Gobierno envió el proyecto al Congreso en diciembre de 2025",
+     "hecho": "El 9-12-2025 el Consejo de Ministros aprobó en segunda vuelta y remitió al Congreso el proyecto de ley de medidas excepcionales de sostenibilidad financiera para las comunidades de régimen común. El Estado asumiría 83.252 millones de deuda autonómica. La adhesión es voluntaria y pueden acogerse todas, tengan o no deuda con el Fondo de Liquidez Autonómica. Hacienda estima un ahorro de unos 6.700 millones en intereses.",
+     "fecha": "2025-12-09",
+     "fuente": "Ministerio de Hacienda",
+     "url": "https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2025/20251209-NP-CM-CONDONACION-DEUDA-CCAA.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El reparto por comunidades figura en una tabla en imagen que no pude leer. El reparto premia con un extra a las comunidades que subieron el IRPF."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "viabilidad",
+     "tipo": "votacion",
+     "titulo": "El Congreso rechazó devolver el proyecto por 178 a 170",
+     "hecho": "El 23-7-2026 (sesión 193, votación 19) el Congreso votó de forma conjunta las enmiendas de devolución de Vox y PP al proyecto de ley orgánica: 170 a favor de devolverlo, 178 en contra y ninguna abstención, con 348 presentes. El proyecto siguió su tramitación.",
+     "fecha": "2026-07-23",
+     "fuente": "Congreso de los Diputados",
+     "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion193/20260723/Votacion019/VOT_20260723211932.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF oficial abierto y leído. 178 votos superan la mayoría absoluta (176) que exigirá la votación final de una ley orgánica."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "Cerca de un año de prórrogas del plazo de enmiendas",
+     "hecho": "El 29-9-2026 la Mesa del Congreso puso fin, según la crónica, a «un año de prórrogas del plazo de enmiendas» del proyecto y fijó el 30 de septiembre como límite para registrarlas. El texto había llegado en diciembre de 2025 y no tuvo su primer debate en el pleno hasta julio de 2026.",
+     "fecha": "2026-09-29",
+     "fuente": "Legal Today",
+     "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-congreso-reactiva-la-ley-para-condonar-deuda-a-las-comunidades-autonomas-tras-casi-un-ano-guardada-en-un-cajon-2026-09-29/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El artículo habla de «casi un año» en el titular y de seis meses en el cuerpo: entre diciembre de 2025 y finales de septiembre de 2026 hay algo menos de diez meses. No da el número de prórrogas ni qué grupos las pidieron."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "prensa",
+     "titulo": "La disolución de las Cortes dejó la ley sin aprobar",
+     "hecho": "Con la disolución de las Cortes en octubre de 2026 el proyecto quedó paralizado: el próximo Gobierno no podrá retomarlo donde estaba y tendrá que iniciar una tramitación nueva. Por importe, las mayores quitas previstas eran las de Andalucía (18.791 millones), Cataluña (más de 17.000), Comunidad Valenciana (11.210) y Madrid (8.644).",
+     "fecha": "2026-10-06",
+     "fuente": "El Salto",
+     "url": "https://www.elsaltodiario.com/politica/adelanto-electoral-deja-aire-quita-deuda-comunidades-autonomas-pp-ha-boicoteado",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El artículo atribuye el retraso a las comunidades del PP; esa valoración es del medio. Las cifras por comunidad coinciden con las difundidas por Hacienda en 2025."
+    },
+    {
+     "id": "e5",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "El origen: el pacto de investidura con ERC de 2023",
+     "hecho": "El 2-11-2023 PSOE y ERC acordaron que el Estado asumiera «unos 15.000 millones» de deuda de la Generalitat, el 20% de la que tenía con el Estado, con un ahorro de unos 1.300 millones en intereses. El acuerdo preveía una modificación legal de alcance general para todas las comunidades de régimen común.",
+     "fecha": "2023-11-02",
+     "fuente": "The Objective",
+     "url": "https://theobjective.com/espana/2023-11-02/psoe-pacta-erc-condonar-deuda/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "En el proyecto de 2025 la cifra de Cataluña supera los 17.000 millones (e4)."
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "AIReF: la deuda autonómica bajaría 5,1 puntos de PIB",
+     "hecho": "En su Observatorio de Deuda de 5-11-2025 la AIReF calcula que la asunción de 83.252 millones reduciría la deuda del conjunto de las comunidades en 5,1 puntos, hasta el 15,9% del PIB, y adelantaría de 2041 a 2029 el cumplimiento del límite legal del 13%. Estima un ahorro en intereses de 2.532 millones el primer año y 15.657 millones hasta 2030, y dice que la medida «mejora la sostenibilidad financiera» de las comunidades.",
+     "fecha": "2025-11-05",
+     "fuente": "AIReF (recogido por El Derecho)",
+     "url": "https://elderecho.com/implicaciones-de-la-propuesta-de-condonacion-de-deuda-autonomica-y-reforma-de-mecanismos-de-financiacio",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "No localicé el documento original en airef.es; las cifras coinciden en El Derecho y El Independiente."
+    },
+    {
+     "id": "e7",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "informe_independiente",
+     "titulo": "AIReF pide condiciones; Fedea la ve «una pésima idea»",
+     "hecho": "La AIReF pide que la medida vaya acompañada de condicionalidad ligada a las reglas fiscales y de una reforma de la financiación autonómica, y avisa de que la Comunidad Valenciana, Cataluña y Murcia seguirían por encima del límite de deuda al menos hasta 2050. El director de Fedea, Ángel de la Fuente, calificó en febrero de 2025 la condonación sin condiciones de «pésima idea» y de «invitación a la indisciplina fiscal», y cuestionó el reparto por premiar a las más endeudadas.",
+     "fecha": "2025-11-05",
+     "fuente": "AIReF y Fedea (recogidos por El Independiente y ESdiario)",
+     "url": "https://www.elindependiente.com/economia/2025/11/05/cataluna-comunidad-valenciana-murcia-seguiran-fuera-limite-legal-deuda-2050-condonacion/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La posición de Fedea, del 26-2-2025, está comprobada en https://www.esdiario.com/economia/250226/153724/fedea-asegura-condonacion-alienta-indisciplina-fiscal-ayudas-son-discutibles.html ; no abrí la nota original de Fedea."
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "Los motivos de PP, Vox y Junts",
+     "hecho": "En el debate del 23-7-2026, PP y Vox sostuvieron que la deuda no desaparece, sino que se traslada a todos los contribuyentes, y que la medida premia a las comunidades más endeudadas; el PP añadió que responde al pacto entre PSOE y ERC y reclamó una reforma pactada de la financiación. Junts permitió que siguiera la tramitación y avisó de que seguiría reclamando la condonación íntegra de la deuda catalana.",
+     "fecha": "2026-07-23",
+     "fuente": "El Independiente",
+     "url": "https://www.elindependiente.com/espana/2026/07/23/el-gobierno-salva-el-primer-tramite-de-la-quita-de-la-deuda-pero-naufraga-de-nuevo-en-la-senda-de-deficit-por-culpa-de-junts/",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Otro medio (Qué!, 24-7-2026) recoge que las comunidades del PP anunciaron que recurrirían la ley si se aprobaba."
+    }
+   ],
+   "pista_codex": "ninguna"
+  },
+  {
+   "propuesta_id": "psoe-exterior-1",
+   "promesa": "No elevar el gasto militar al 5% del PIB que ha fijado la OTAN.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PSOE reivindica no haber aceptado el 5% del PIB en gasto militar y no dice qué porcentaje gastará. Desde junio de 2025 el Gobierno de Sánchez sostiene que gastará el 2,1%, «ni más ni menos», y lo ha mantenido hasta la cumbre de la OTAN de julio de 2026. A la vez, ha triplicado el gasto en defensa desde 2018 (del 0,9% al 2% del PIB), adelantó cuatro años el 2% sin votación en el Congreso y la declaración de La Haya, adoptada por los 32 aliados, dice que estos se comprometen al 5% en 2035. El secretario general de la OTAN sostiene que España necesitará el 3,5% para cumplir las capacidades pactadas.",
+   "antecedentes": "España se había comprometido a llegar al 2% en 2029. El 22-4-2025 Sánchez anunció un plan de 10.471 millones para alcanzarlo ese mismo año, sin llevarlo a votación. El 19-6-2025 escribió al secretario general de la OTAN que el 5% no era razonable; el 22 dijo que España gastaría el 2,1%, y el 25 se adoptó la declaración de La Haya con el 5% para 2035 y una revisión en 2029. En julio de 2026 el Gobierno llegó a la cumbre de Ankara con el 2% consolidado y la misma negativa.",
+   "matiz": "Rechazar el 5% no significa gastar poco ni lo mismo que antes: el gasto se ha triplicado en euros desde 2018. Y la OTAN no fija sanciones por no alcanzar un porcentaje; lo que España ha pactado son objetivos de capacidades, y la discusión es cuánto cuestan.",
+   "refutacion": "Para tumbar la promesa busqué si España está formalmente comprometida con el 5%: el texto de La Haya dice «los aliados se comprometen» y no recoge excepciones (e2), y Rutte negó que haya excepciones o pactos paralelos (e3). Busqué si la postura es sostenible: la OTAN cree que harán falta el 3,5% (e3), en 2026 su secretario general dijo tener «medios» para convencer a quien se resista (e5) y Trump pidió represalias comerciales (e6). Para tumbar esa evidencia comprobé que el Gobierno ha mantenido la negativa durante más de un año y en dos cumbres (e1, e4), que la carta de Rutte reconoce a España «flexibilidad» para decidir su senda, y que, según el informe del Gobierno con datos de la OTAN, España cumple los objetivos de capacidades de 2026 por encima de la media europea (e4, e6). No pude abrir el análisis de Maldita.es sobre la carta, que según el resumen del buscador concluye que el texto admite las dos lecturas. La frase «España firmó el 5%» es cierta en cuanto al texto y discutible en cuanto a su alcance: la declaración no obliga a un calendario anual y se revisa en 2029.",
+   "puntos": {
+    "historial": {
+     "nivel": 3,
+     "por": "Desde junio de 2025 el Gobierno ha mantenido el gasto en torno al 2% y la negativa al 5% en dos cumbres (e1, e4); antes, adelantó cuatro años la subida al 2% (e7)."
+    },
+    "coherencia": {
+     "nivel": 2,
+     "por": "Rechaza el 5% (e1) pero suscribió una declaración en la que los aliados se comprometen a él (e2), y ha triplicado el gasto militar desde 2018 (e4, e7)."
+    },
+    "viabilidad": {
+     "nivel": 3,
+     "por": "El gasto lo decide España y la OTAN no tiene sanciones; pero hay objetivos de capacidades pactados, una revisión en 2029 y presión de la OTAN y de Estados Unidos (e2, e3, e5, e6). El aumento se financia sin Presupuestos nuevos (e8)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "La OTAN sostiene que el 2,1% no basta para las capacidades pactadas (e3, e5); el Gobierno, con datos de la OTAN, dice cumplir los objetivos de 2026 (e4, e6). No hay evaluación independiente publicada."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "apoya",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "Sánchez: «El 2,1%, ni más, ni menos»",
+     "hecho": "En su comparecencia del 22-6-2025, tras el intercambio de cartas con la OTAN, Sánchez dijo que España necesitará el 2,1% del PIB para cumplir las capacidades pactadas: «Por tanto, el 2,1%, ni más, ni menos». Añadió que pasar del 2% al 5% hasta 2035 exigiría «unos 350.000 millones de euros adicionales» y lo vinculó a subidas de impuestos o recortes de pensiones y prestaciones.",
+     "fecha": "2025-06-22",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2025/declaracion-institucional-del-presidente-pedro-san.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "En julio de 2026 el Gobierno cifra el coste del 5% en hasta 780.000 millones en una década (e4): las dos cifras no usan el mismo cálculo."
+    },
+    {
+     "id": "e2",
+     "sentido": "contradice",
+     "componente": "coherencia",
+     "tipo": "declaracion",
+     "titulo": "La declaración de La Haya recoge el 5% para 2035",
+     "hecho": "La declaración de la cumbre de la OTAN del 25-6-2025 dice: «Allies commit to invest 5% of GDP annually on core defence requirements as well as defence-and security-related spending by 2035». Lo divide en al menos un 3,5% de gasto militar y hasta un 1,5% de gasto relacionado, y prevé revisar la senda en 2029. El texto no contiene excepciones por país.",
+     "fecha": "2025-06-25",
+     "fuente": "OTAN",
+     "url": "https://www.nato.int/cps/en/natohq/official_texts_236705.htm",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La declaración se adopta por consenso de los 32 jefes de Estado y de Gobierno, incluido el español. El párrafo usa «los aliados se comprometen» y no «nos comprometemos». No he comprobado en fuente primaria la lectura que el Gobierno español hace de esa fórmula."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "declaracion",
+     "titulo": "Rutte: España tendrá que gastar el 3,5%",
+     "hecho": "El 23-6-2025 el secretario general de la OTAN, Mark Rutte, dijo: «La OTAN está absolutamente convencida de que España tendrá que gastar el 3,5% en conjunto», frente al 2,1% que calcula el Gobierno. Negó que haya «excepciones» o pactos paralelos, aunque su carta reconoce a España «flexibilidad» para decidir cómo alcanza los objetivos de capacidades.",
+     "fecha": "2025-06-23",
+     "fuente": "elDiario.es",
+     "url": "https://www.eldiario.es/internacional/secretario-general-otan-ve-insuficiente-gasto-militar-preve-sanchez-cree-espana-tendra-llegar-3-5_1_12407903.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "El artículo describe la carta, no la reproduce."
+    },
+    {
+     "id": "e4",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "Del 0,9% al 2% del PIB entre 2018 y 2026",
+     "hecho": "El informe del Gobierno para la cumbre de Ankara (julio de 2026), elaborado con datos de la OTAN, dice que España pasó del 0,9% del PIB en defensa en 2018 al 2% en 2025 y 2026, y de 11.172 a 35.419 millones de euros. Mantiene el rechazo al 5%: lo considera «incompatible» con el modelo social y cifra su coste en hasta 780.000 millones en una década. Afirma que su cumplimiento de los objetivos de capacidades supera la media de los aliados europeos y Canadá.",
+     "fecha": "2026-07-08",
+     "fuente": "La Moncloa",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/presidencia/Documents/2026/080726-July-Spain-in-NATO-Report.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y leído. Es un documento del propio Gobierno; no pude abrir la tabla original de la OTAN."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "Rutte en 2026: España es el único aliado que rechaza el 5%",
+     "hecho": "El 6-7-2026, antes de la cumbre de Ankara, Rutte dijo que España es el único de los 32 aliados que rechaza el objetivo del 5% y que, si quedan «uno o dos por convencer», la OTAN tiene «medios para lograrlo», sin precisar cuáles. Rebatió que el 2,1% baste para los compromisos de equipamiento.",
+     "fecha": "2026-07-06",
+     "fuente": "El Español",
+     "url": "https://www.elespanol.com/observatorio-defensa/20260706/rutte-avisa-otan-actuara-paises-espana-rechacen-defensa-medios/1003744311861_0.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e6",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "Cumbre de Ankara: «deberes hechos» y presión de Trump",
+     "hecho": "En la cumbre del 8-7-2026 Sánchez dijo que España había «alcanzado los objetivos de capacidades fijados para 2026» y que es el séptimo aliado en esa evaluación. Donald Trump llamó a España «aliado terrible» y pidió «cortar todo el comercio» con ella; el Gobierno y la Comisión Europea recordaron que la política comercial es competencia de la UE.",
+     "fecha": "2026-07-08",
+     "fuente": "Euronews",
+     "url": "https://es.euronews.com/2026/07/08/sanchez-presume-de-deberes-hechos-en-la-otan-mientras-trump-vuelve-a-cargar-contra-espana",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La nota de La Moncloa de ese día confirma el 2% y el séptimo puesto: https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/080726-sanchez-cumbre-otan-turquia.aspx"
+    },
+    {
+     "id": "e7",
+     "sentido": "contexto",
+     "componente": "coherencia",
+     "tipo": "prensa",
+     "titulo": "En abril de 2025 adelantó el 2% sin votación en el Congreso",
+     "hecho": "El 22-4-2025 Sánchez anunció un plan de 10.471 millones adicionales para pasar del 1,4% del PIB en 2024 al 2% en 2025, hasta más de 33.000 millones. El objetivo estaba fijado para 2029. El plan no se votó en el Congreso: el Gobierno alegó que no alteraba los Presupuestos. Sumar lo calificó de «exorbitado» y el PP criticó que careciera de autorización parlamentaria.",
+     "fecha": "2025-04-22",
+     "fuente": "Ara",
+     "url": "https://es.ara.cat/politica/sanchez-aprueba-plan-inversiones-cumplir-2-defensa-ano_1_5354478.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": ""
+    },
+    {
+     "id": "e8",
+     "sentido": "contexto",
+     "componente": "viabilidad",
+     "tipo": "prensa",
+     "titulo": "El aumento se paga con Presupuestos prorrogados y transferencias",
+     "hecho": "Con el PIB revisado, mantener el 2% exige en 2026 más de 36.351 millones, unos 2.818 más de lo previsto. En 2025, de los 33.123 millones de gasto, 14.454 venían del presupuesto prorrogado de 2023 y más de 8.587 se incorporaron mediante transferencias y créditos sin votación parlamentaria específica. El Centre Delàs estima el gasto militar real de 2025 en 39.476 millones, el 2,42% del PIB.",
+     "fecha": "2026-07-07",
+     "fuente": "Artículo 14",
+     "url": "https://www.articulo14.es/defensa/espana-gastara-2-800-millones-mas-en-defensa-tras-la-revision-del-pib-pese-al-plante-a-trump-20260707.html",
+     "estado_judicial": null,
+     "fuente_unica": true,
+     "verificado": true,
+     "nota": "Un solo medio para el desglose presupuestario. El Centre Delàs es un centro de estudios pacifista y usa un criterio de cómputo más amplio que la OTAN."
+    }
+   ],
+   "pista_codex": "ninguna"
+  },
+  {
+   "propuesta_id": "psoe-sanidad-2",
+   "promesa": "Incorporar poco a poco a la sanidad pública empastes, endodoncias y tratamientos de encías para todos los adultos y, mientras tanto, dar una ayuda de hasta 200 euros al año por persona.",
+   "ha_gobernado": "estatal",
+   "resumen": "El PSOE promete el «Plan Sonríe»: tratamientos dentales básicos para todos los adultos en la sanidad pública, de forma progresiva y sin fecha, y una ayuda transitoria de hasta 200 euros al año que empezaría por rentas medias y bajas. No da coste ni número de beneficiarios. Ya prometió en 2019 incorporar la salud bucodental a la cartera pública; desde 2022 su Gobierno ha destinado más de 240 millones a un plan para niños, embarazadas, personas con discapacidad y, desde 2025, mayores de 65. Los adultos en general siguen teniendo cubiertas solo urgencias y extracciones, y la cobertura real de los grupos prioritarios va del 3% al 30%.",
+   "antecedentes": "El programa del PSOE de noviembre de 2019 decía: «Introduciremos progresivamente la Atención a la Salud Bucodental de la población en la cartera de servicios del Sistema Nacional de Salud». El Consejo de Ministros aprobó el plan el 15-6-2022 con 44 millones; siguieron 68 millones en 2023 y otros 68 en 2024, la entrada de los mayores de 65 en 2025 y 60 millones más en mayo de 2026. El modelo de ayuda directa que cita el programa, el Plan Veo de gafas para menores, funciona desde diciembre de 2025.",
+   "matiz": "La atención sanitaria la prestan las comunidades autónomas: el Estado fija la cartera común y transfiere fondos, pero la contratación de dentistas y la cobertura real dependen de cada servicio de salud. La ayuda de 200 euros es «hasta» esa cifra y no para todos desde el principio.",
+   "refutacion": "Para tumbar la promesa comparé 2019 con 2026: siete años después de prometer la salud bucodental «de la población», los adultos sin condición especial solo tienen urgencias y extracciones (e4), y en los grupos prioritarios la cobertura es del 30,4% en niños y jóvenes y cercana al 3% en mayores de 65 (e3). Busqué el coste: el programa no lo da; la única cifra pública es de los dentistas, que en 2020 estimaron 15.000 millones al año para una cobertura completa (e5). Para tumbar esa evidencia comprobé que el plan existe, tiene dinero cada año y ha ido sumando colectivos (e2), que la cifra de los dentistas se refiere a cubrir todo el gasto dental de 30 millones de personas, no a la ayuda de 200 euros ni a una cartera básica, y procede de una parte interesada, y que el mecanismo de ayuda directa que se promete ya se aplica con gafas (e6). No pude abrir el programa del PSOE de 2023, que según el expediente de Codex prometía empezar por los mayores de 75. No encontré ninguna estimación independiente del coste de la ayuda de 200 euros.",
+   "puntos": {
+    "historial": {
+     "nivel": 2,
+     "por": "Prometido en 2019 (e1): hay plan desde 2022 con fondos anuales y nuevos colectivos (e2), pero la cobertura real es baja (e3) y los adultos en general siguen fuera (e4)."
+    },
+    "coherencia": {
+     "nivel": 3,
+     "por": "Programa de 2019, plan de 2022, ampliación a mayores de 65 en 2025 y promesa de 2026 van en la misma dirección (e1, e2)."
+    },
+    "viabilidad": {
+     "nivel": 2,
+     "por": "Depende de las comunidades, que ejecutan los fondos hasta 2028 (e3); el programa no cuantifica la ayuda ni la cartera, y los fondos actuales cuelgan de Presupuestos prorrogados (e2). El mecanismo de ayuda directa ya existe (e6)."
+    },
+    "datos": {
+     "nivel": 2,
+     "por": "Cobertura del 3% al 30% tras cuatro años de plan (e3); sin estimación oficial ni independiente del coste: la única cifra, de los dentistas, es de 2020 y se refiere a la cobertura total (e5)."
+    }
+   },
+   "evidencias": [
+    {
+     "id": "e1",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "documento_partido",
+     "titulo": "En 2019 prometió incorporar la salud bucodental a la cartera pública",
+     "hecho": "El programa del PSOE del 10-11-2019 decía: «Introduciremos progresivamente la Atención a la Salud Bucodental de la población en la cartera de servicios del Sistema Nacional de Salud (SNS)». En 2026 el programa parte de que «la mayoría de los adultos sigue pagando de su bolsillo los tratamientos dentales más habituales».",
+     "fecha": "2019",
+     "fuente": "PSOE",
+     "url": "https://www.psib-psoe.org/wp-content/uploads/Programa-PSOE-10N.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "PDF abierto y leído (página 28 del PDF). La segunda cita es del programa de 2026, página 49."
+    },
+    {
+     "id": "e2",
+     "sentido": "apoya",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "Plan bucodental desde 2022: 180 millones hasta 2024 y 60 más en 2026",
+     "hecho": "El acuerdo del Consejo Interterritorial de 2026 recoge que la ampliación de la cartera bucodental se financia desde 2022 y sumaba 180 millones con los Presupuestos de 2023 y su prórroga de 2024. Para 2026 distribuye 60.058.000 euros entre las comunidades y el INGESA, con un 10% para iniciar la atención a mayores de 65 años.",
+     "fecha": "2026",
+     "fuente": "Ministerio de Sanidad (Consejo Interterritorial del SNS)",
+     "url": "https://www.sanidad.gob.es/organizacion/consejoInterterri/docs/1761.pdf",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leído en la copia archivada. La cronología (44 millones en 2022, 68 en 2023, 68 en 2024, mayores de 65 desde 2025) está también en la nota de La Moncloa de e4."
+    },
+    {
+     "id": "e3",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "dato_oficial",
+     "titulo": "Cobertura: 30,4% en niños y jóvenes y cerca del 3% en mayores de 65",
+     "hecho": "Al autorizar el reparto de 60 millones el 26-5-2026, Sanidad informó de que la cobertura de atención bucodental había alcanzado en el último año el 30,4% de la población infantil y juvenil (5,2 puntos más), el 25% de las embarazadas y «cerca del 3%» de los mayores de 65 años. Las comunidades deben ejecutar los fondos hasta 2028.",
+     "fecha": "2026-05-26",
+     "fuente": "Ministerio de Sanidad",
+     "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6917",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Leída en la copia archivada. La nota no da cobertura para adultos de 15 a 64 años sin condición especial, que no están en el plan."
+    },
+    {
+     "id": "e4",
+     "sentido": "contradice",
+     "componente": "historial",
+     "tipo": "dato_oficial",
+     "titulo": "Los adultos en general solo tienen urgencias y extracciones",
+     "hecho": "Según la descripción oficial del plan, toda la población tiene cubiertos el consejo odontológico, el tratamiento de procesos agudos, las extracciones y la detección de lesiones premalignas. Quedan excluidos en atención primaria, entre otros, los tratamientos pulpares en dientes definitivos (endodoncias), salvo traumatismos, la ortodoncia, los implantes y las prótesis. Los empastes se cubren para los mayores de 65 años incorporados en 2025.",
+     "fecha": "2026-06-05",
+     "fuente": "La Moncloa (Ministerio de Sanidad)",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/sanidad14/Paginas/2023/131223-plan-salud-higiene-bucodental.aspx",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La dirección de la página es de 2023, pero el contenido está actualizado a 5-6-2026."
+    },
+    {
+     "id": "e5",
+     "sentido": "contradice",
+     "componente": "datos",
+     "tipo": "prensa",
+     "titulo": "Los dentistas cifraron en 15.000 millones al año la cobertura completa",
+     "hecho": "En enero de 2020, tras el pacto de coalición, el presidente del Consejo General de Dentistas, Óscar Castro, estimó el coste de cubrir toda la atención dental en «unos 500 euros anuales por paciente y 30 millones de usuarios potenciales», unos 15.000 millones al año, cifra que calificó de «absolutamente astronómica». Pidió aclarar «en qué momento, de qué forma y con qué presupuestos».",
+     "fecha": "2020-01-15",
+     "fuente": "Redacción Médica",
+     "url": "https://www.redaccionmedica.com/profesionales/20200115/los-dentistas-ponen-precio-al-plan-bucodental-del-gobierno-paciente/140813_0.html",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "Es la estimación de una organización profesional con interés en el asunto y se refiere a la cobertura total, no a la cartera básica ni a la ayuda de 200 euros que promete el programa de 2026."
+    },
+    {
+     "id": "e6",
+     "sentido": "apoya",
+     "componente": "viabilidad",
+     "tipo": "dato_oficial",
+     "titulo": "El modelo de ayuda directa ya funciona con las gafas",
+     "hecho": "El Plan Veo, que el programa cita como modelo, da desde el 17-12-2025 una ayuda de hasta 100 euros para gafas o lentillas a menores de hasta 16 años, con un presupuesto de 47.775.000 euros. Se tramita en ópticas adheridas, que descuentan la ayuda del precio, y admite solicitudes hasta el 31-12-2026.",
+     "fecha": "2025-12-16",
+     "fuente": "Ministerio de Sanidad",
+     "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6816&metodo=detalle",
+     "estado_judicial": null,
+     "fuente_unica": false,
+     "verificado": true,
+     "nota": "La nota no da el número de beneficiarios. La ayuda dental prometida duplica el importe y se dirige a un colectivo mucho mayor que los menores con problemas de visión."
+    }
+   ],
+   "pista_codex": "ampliacion-d-psoe-n137"
+  }
+ ],
+ "evidencias_para_existentes": [
+  {
+   "propuesta_id": "psoe-igualdad-1",
+   "evidencia": {
+    "id": "e11",
+    "sentido": "contradice",
+    "componente": "historial",
+    "tipo": "procedimiento_judicial",
+    "titulo": "La Fiscalía Europea investiga un posible fraude con las pulseras",
+    "hecho": "La Fiscalía Europea comunicó el 12-11-2026 que ese día practicaba diligencias en el Ministerio de Igualdad y en el Tribunal de Cuentas, dentro de una investigación abierta en 2025 por un presunto fraude que afecta a fondos europeos destinados a comprar pulseras telemáticas de control. La apoya la UCO de la Guardia Civil. La nota no identifica a ninguna persona investigada ni da más detalles.",
+    "fecha": "2026-11-12",
+    "fuente": "Fiscalía Europea (EPPO)",
+    "url": "https://www.eppo.europa.eu/media/news/spain-investigative-actions-ministry-equality-and-court-auditors-probe-fraud-involving-monitoring-2026-11-12_en",
+    "estado_judicial": "investigado",
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Comunicado oficial leído en la copia archivada. Es una investigación sin personas identificadas públicamente: no hay acusación ni culpabilidad declarada. Nuestro texto actual habla de la «supuesta» investigación: el comunicado la confirma."
+   },
+   "cambia_nivel": null
+  },
+  {
+   "propuesta_id": "psoe-igualdad-1",
+   "evidencia": {
+    "id": "e12",
+    "sentido": "apoya",
+    "componente": "datos",
+    "tipo": "dato_oficial",
+    "titulo": "4.595 dispositivos activos y ninguna asesinada con pulsera, según la Fiscalía",
+    "hecho": "La Memoria de la Fiscalía General del Estado de 2025 (datos de 2024) recoge 4.595 dispositivos telemáticos activos a 31-12-2024, frente a 4.548 un año antes y 3.056 en 2022. Dice que las fiscalías reconocen su utilidad y que resulta «incontestable que hasta la fecha ninguna de las mujeres asesinadas portaba dispositivo telemático de control». En 2024 se acordaron en 1.865 casos, menos que en 2023 (2.016).",
+    "fecha": "2025-09",
+    "fuente": "Fiscalía General del Estado",
+    "url": "https://www.fiscal.es/memorias/memoria2025/FISCALIA_SITE/capitulo_III/cap_III_1_5.html",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Leída en la copia archivada. Es el mismo apartado que describe los fallos tras el cambio de proveedor (nuestra e3): la observación sobre las asesinadas no prueba un efecto causal."
+   },
+   "cambia_nivel": null
+  },
+  {
+   "propuesta_id": "psoe-igualdad-1",
+   "evidencia": {
+    "id": "e13",
+    "sentido": "contexto",
+    "componente": "historial",
+    "tipo": "votacion",
+    "titulo": "La ley de violencia vicaria caducó tras superar el debate de totalidad",
+    "hecho": "El proyecto de ley orgánica de violencia vicaria (121/000106) superó el debate de totalidad el 30-9-2026: la enmienda de devolución de Vox fue rechazada por 312 votos frente a 34. La ficha del Congreso lo da por caducado desde el 6-10-2026, tras la disolución de las Cortes. No es ley y exigiría una tramitación nueva.",
+    "fecha": "2026-10-06",
+    "fuente": "Congreso de los Diputados",
+    "url": "https://www.congreso.es/es/proyectos-de-ley?_iniciativas_id=121%2F000106&_iniciativas_legislatura=XV&_iniciativas_mode=mostrarDetalle&p_p_id=iniciativas&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "Ficha oficial leída en la copia archivada. Completa nuestra e10, que recoge la aprobación del proyecto por el Gobierno pero no su desenlace."
+   },
+   "cambia_nivel": null
+  },
+  {
+   "propuesta_id": "psoe-vivienda-1",
+   "evidencia": {
+    "id": "e13",
+    "sentido": "apoya",
+    "componente": "datos",
+    "tipo": "dato_oficial",
+    "titulo": "Segundo trimestre de 2026: 6.129 viviendas protegidas terminadas",
+    "hecho": "El Boletín 58 del Observatorio de Vivienda y Suelo recoge 6.129 calificaciones definitivas de vivienda protegida en el segundo trimestre de 2026, un 123,1% más que un año antes y la mayor cifra trimestral en 14 años, además de 9.697 calificaciones provisionales. El 68% de las terminadas son de promoción privada. Su serie revisada da 12.858 calificaciones definitivas en 2025 y 5.141 en el primer trimestre de 2026.",
+    "fecha": "2026",
+    "fuente": "Ministerio de Vivienda y Agenda Urbana (Observatorio de Vivienda y Suelo)",
+    "url": "https://publicaciones.transportes.gob.es/downloadcustom/sample/4201",
+    "estado_judicial": null,
+    "fuente_unica": false,
+    "verificado": true,
+    "nota": "PDF leído en la copia archivada (páginas 7 y 8 y tabla 1.2). Las cifras anuales son suma propia de los trimestres. Incluye todas las administraciones y promotores privados: no mide el parque estatal."
+   },
+   "cambia_nivel": null
+  }
+ ],
+ "correcciones": [
+  {
+   "propuesta_id": "psoe-vivienda-1",
+   "campo": "evidencias[e4].hecho (y la cifra de 11.104 que repite el resumen)",
+   "dice": "En 2025 hubo 11.104 calificaciones definitivas de vivienda protegida, un 22,7% menos que en 2024 […]. En el primer trimestre de 2026 se terminaron 5.215.",
+   "deberia_decir": "La serie revisada del Observatorio de Vivienda y Suelo (Boletín 58, segundo trimestre de 2026, tabla 1.2) da 12.858 calificaciones definitivas en 2025 (2.982, 2.747, 2.223 y 4.906 por trimestres), un 10,5% menos que las 14.371 de 2024, y 5.141 en el primer trimestre de 2026. La cifra de 11.104 era el dato provisional publicado a comienzos de 2026.",
+   "fuente": "https://publicaciones.transportes.gob.es/downloadcustom/sample/4201"
+  },
+  {
+   "propuesta_id": "psoe-igualdad-1",
+   "campo": "refutacion (mención a la «supuesta investigación de la Fiscalía Europea sobre las pulseras»)",
+   "dice": "la supuesta investigación de la Fiscalía Europea sobre las pulseras",
+   "deberia_decir": "La investigación está confirmada por la propia Fiscalía Europea en un comunicado de 12-11-2026: diligencias en el Ministerio de Igualdad y en el Tribunal de Cuentas por presunto fraude con fondos europeos destinados a pulseras telemáticas; investigación abierta en 2025, sin personas identificadas.",
+   "fuente": "https://www.eppo.europa.eu/media/news/spain-investigative-actions-ministry-equality-and-court-auditors-probe-fraud-involving-monitoring-2026-11-12_en"
+  }
+ ],
+ "descartado": [
+  {
+   "expediente": "piloto-psoe-empleo-02",
+   "motivo": "Trata la jornada de 37,5 horas, ya contrastada. Su único hecho nuevo (la memoria de impacto estima +2,21% de coste salarial por hora) no lo pude localizar en la copia del documento, de 10 MB; la votación que cita ya la tenemos (e2)."
+  },
+  {
+   "expediente": "ampliacion-o-psoe-n136",
+   "motivo": "Mismos datos que ya tenemos en sanidad-1 (853.740 pacientes, 122 días, 6,4% del PIB). El dato de Eurostat sobre prevención no afecta a la promesa contrastada."
+  },
+  {
+   "expediente": "piloto-psoe-vivienda-01, ampliacion-e-psoe-n041, vivienda-resultados, nacional-psoe-n037",
+   "motivo": "Los 7.000 millones del Plan 2026-2030 ya están en nuestra e12. El convenio con Castilla-La Mancha (136 millones) es un compromiso de gasto, no viviendas. Sí aprovecho el Boletín 58 que citan (nueva evidencia y corrección)."
+  },
+  {
+   "expediente": "sensible-psoe-abalos-ejemplaridad",
+   "motivo": "La condena, el rechazo de la nulidad y el recurso de amparo ya constan en nuestra e5 de instituciones-1 y en el balance desde 2018."
+  },
+  {
+   "expediente": "sensible-psoe-salazar",
+   "motivo": "Ya recogido en igualdad-1 (e7). La inadmisión de la querella de enero de 2026 no cambia el hecho que usamos (la tardanza del partido en tramitar las denuncias)."
+  },
+  {
+   "expediente": "piloto-psoe-pensiones-09 (como promesa propia)",
+   "motivo": "La revalorización con el IPC ya está en el balance desde 2018 (b06). Uso su fuente de la AIReF dentro del contraste del blindaje constitucional."
+  },
+  {
+   "expediente": "piloto-psoe-derechos-07 (aborto en la Constitución)",
+   "motivo": "Promesa relevante y bien documentada, pero su perfil es casi idéntico al del blindaje de las pensiones (reforma por el artículo 167 que depende del PP) y el tema igualdad ya tiene contraste. Candidata si el editor quiere un octavo."
+  },
+  {
+   "expediente": "piloto-psoe-sanidad-03 (psicólogo en 30 días)",
+   "motivo": "Sin datos oficiales de espera para primera consulta psicológica: el expediente solo acredita que existe un plan y un reparto de 39 millones. Material insuficiente para cinco evidencias sólidas."
+  },
+  {
+   "expediente": "resto de expedientes (becarios, IMV, rehabilitación, vehículo eléctrico, redes, bombeo, pediatría rural, paliativos, Plan VEO, infancia migrante, IA, Erasmus, María Goyri, documentos, autoridad contra la discriminación, orfandad, ferrocarril, ELA, baja oncológica, España Crece, 1% de obra pública)",
+   "motivo": "Promesas de menor alcance o sin propuesta equivalente entre las nuestras; no se han elegido para los siete contrastes nuevos por el criterio de relevancia y reparto por temas."
+  }
+ ]
+}

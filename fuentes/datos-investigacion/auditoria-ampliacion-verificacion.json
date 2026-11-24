@@ -1,0 +1,1194 @@
+{
+ "comprobadas": [
+  {
+   "contraste": "pp-sanidad-2",
+   "evidencia": "e6",
+   "partido": "pp",
+   "sentido": "contradice",
+   "url": "https://www.que.es/2026/06/16/repesca-mir-2026-sanidad-plazas/",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "pp-sanidad-2",
+   "evidencia": "e5",
+   "partido": "pp",
+   "sentido": "apoya",
+   "url": "https://www.redaccionmedica.com/politica/20250412/el-pp-propone-crear-plazas-adicionales-al-ano-de-medicina-familiar/242958_0.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "pp-energia-1",
+   "evidencia": "e2",
+   "partido": "pp",
+   "sentido": "contradice",
+   "url": "https://www.bolsamania.com/noticias/empresas/economia--ampl-el-gobierno-cierra-garona-por-falta-de-certidumbre-politica-y-discrepancias-entre-los-accionistas--2797049.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "pp-energia-1",
+   "evidencia": "e3",
+   "partido": "pp",
+   "sentido": "apoya",
+   "url": "https://theobjective.com/espana/politica/2025-02-12/congreso-prolongar-erc-junts/",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "pp-educacion-1",
+   "evidencia": "e1",
+   "partido": "pp",
+   "sentido": "apoya",
+   "url": "https://www.xunta.gal/notas-de-prensa/-/nova/016300/xunta-abre-nuevo-curso-sus-escuelas-infantiles-0-3-anos-que-nuevo-gratuito-todos",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "pp-educacion-1",
+   "evidencia": "e7",
+   "partido": "pp",
+   "sentido": "contexto",
+   "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/educacion-fp-deportes/paginas/2026/250326-tolon-escolarizacion-cero-a-tres-anos.aspx",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "pp-empleo-1",
+   "evidencia": "e6",
+   "partido": "pp",
+   "sentido": "apoya",
+   "url": "https://www.comunidad.madrid/noticias/2026/09/30/comunidad-madrid-invierte-143-millones-euros-legislatura-apoyar-autonomos",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "pp-empleo-1",
+   "evidencia": "e7",
+   "partido": "pp",
+   "sentido": "contexto",
+   "url": "https://www.pp.es/storage/2026/01/2025-11-05-Plan-de-autonomos.pdf",
+   "resultado": "coincide",
+   "detalle": "La cita del programa de 2023 no está en la URL (plan de autónomos de 2025) sino en el programa de 2023 (h50.es), que abrí: «APROBAREMOS LA TARIFA 0 PARA NUEVOS AUTÓNOMOS DURANTE EL PRIMER AÑO». El plan de 2025 dice «ampliable al segundo si los ingresos se sitúan por debajo del umbral del Salario Mínimo».",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "pp-seguridad-1",
+   "evidencia": "e7",
+   "partido": "pp",
+   "sentido": "contradice",
+   "url": "https://www.idealista.com/en/news/node/817900",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "pp-seguridad-1",
+   "evidencia": "e3",
+   "partido": "pp",
+   "sentido": "apoya",
+   "url": "https://selectra.es/alarmas/noticias/okupacion-2026-ley-caducada-cortes-disueltas",
+   "resultado": "coincide",
+   "detalle": "Fuente secundaria (Selectra) pero cifras y fechas coinciden: toma en consideración 19-5-2026, 171-164-11; caducidad con el RD 806/2026 publicado y en vigor el 6-10-2026.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "pp-territorio-1",
+   "evidencia": "e6",
+   "partido": "pp",
+   "sentido": "contradice",
+   "url": "https://alicanteplaza.es/alicanteplaza/espana/fedea-sostiene-que-la-administracion-central-sale-mas-perjudicada-que-las-ccaa-con-el-nuevo-sistema-de-financiacion",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "pp-territorio-1",
+   "evidencia": "e2",
+   "partido": "pp",
+   "sentido": "apoya",
+   "url": "https://www.boe.es/eli/es/l/2001/12/27/21",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "pp-exterior-1",
+   "evidencia": "e7",
+   "partido": "pp",
+   "sentido": "contradice",
+   "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20260514/airef-rebaja-prevision-pib-avisa-inconsistencias-previsiones-gobierno/1003744245623_0.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "pp-exterior-1",
+   "evidencia": "e4",
+   "partido": "pp",
+   "sentido": "apoya",
+   "url": "https://www.lanacion.com.ar/agencias/el-pp-lleva-al-congreso-una-ley-para-obligar-al-gobierno-a-someter-a-votacion-todo-aumento-de-gasto-nid21112025",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-pensiones-1",
+   "evidencia": "e5",
+   "partido": "psoe",
+   "sentido": "contradice",
+   "url": "https://www.democrata.es/economia/ampliacion-sanchez-desafia-a-feijoo-a-blindar-en-la-constitucion-la-subida-de-pensiones-con-el-ipc/",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-pensiones-1",
+   "evidencia": "e1",
+   "partido": "psoe",
+   "sentido": "apoya",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-21652",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-educacion-1",
+   "evidencia": "e4",
+   "partido": "psoe",
+   "sentido": "contradice",
+   "url": "https://lafuerzadelagente.es/programa/PROGRAMA_PSOE_29N26.pdf#page=46",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-educacion-1",
+   "evidencia": "e6",
+   "partido": "psoe",
+   "sentido": "apoya",
+   "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/educacion-fp-deportes/Paginas/2026/31072026-educacion-formacion-profesional.aspx",
+   "resultado": "coincide_con_matiz",
+   "detalle": "50,2 %, 76,4 % (74,1 % el curso anterior), 491.811 alumnos y +3.268 figuran en la nota de 31-7-2026. Los datos de cursos anteriores (49,2 % y 48 %) no están en esta URL; la propia nota del investigador los atribuye a otra nota de 27-6-2025 que no abrí.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-inmigracion-2",
+   "evidencia": "e4",
+   "partido": "psoe",
+   "sentido": "contradice",
+   "url": "https://www.casafrica.es/sites/default/files/contents/document/Resumen%20ejecutivo%20CEAR%202026.pdf",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-inmigracion-2",
+   "evidencia": "e1",
+   "partido": "psoe",
+   "sentido": "apoya",
+   "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-consejo-de-ministros-aprueba-el-programa-nacional-de-reasentamiento-de-refugiados-para-2026-2026-03-17/",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-energia-1",
+   "evidencia": "e3",
+   "partido": "psoe",
+   "sentido": "contradice",
+   "url": "https://www.sistemaelectrico-ree.es/es/informe-del-sistema-electrico/generacion/generacion-de-energia-electrica/generacion-renovable-de-energia-electrica",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-energia-1",
+   "evidencia": "e2",
+   "partido": "psoe",
+   "sentido": "apoya",
+   "url": "https://www.iea.org/reports/spain-2026/executive-summary?language=es",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-territorio-2",
+   "evidencia": "e3",
+   "partido": "psoe",
+   "sentido": "contradice",
+   "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-congreso-reactiva-la-ley-para-condonar-deuda-a-las-comunidades-autonomas-tras-casi-un-ano-guardada-en-un-cajon-2026-09-29/",
+   "resultado": "coincide",
+   "detalle": "La crónica (martes 29-9-2026) dice que las enmiendas deben presentarse «este miércoles», es decir, el 30-9; la fecha no aparece literal.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-territorio-2",
+   "evidencia": "e2",
+   "partido": "psoe",
+   "sentido": "apoya",
+   "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion193/20260723/Votacion019/VOT_20260723211932.pdf",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-exterior-1",
+   "evidencia": "e5",
+   "partido": "psoe",
+   "sentido": "contradice",
+   "url": "https://www.elespanol.com/observatorio-defensa/20260706/rutte-avisa-otan-actuara-paises-espana-rechacen-defensa-medios/1003744311861_0.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-exterior-1",
+   "evidencia": "e4",
+   "partido": "psoe",
+   "sentido": "apoya",
+   "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/presidencia/Documents/2026/080726-July-Spain-in-NATO-Report.pdf",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-sanidad-2",
+   "evidencia": "e3",
+   "partido": "psoe",
+   "sentido": "contradice",
+   "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6917",
+   "resultado": "coincide",
+   "detalle": "Verificado en la copia archivada de la misma URL (mi conexión directa con sanidad.gob.es falló por TLS): 60.058.000 euros, 30,4 % (+5,2 puntos), 25 % embarazadas, «cercana al 3 %» mayores de 65, ejecución hasta 2028, nota fechada el 26-5-2026.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "psoe-sanidad-2",
+   "evidencia": "e2",
+   "partido": "psoe",
+   "sentido": "apoya",
+   "url": "https://www.sanidad.gob.es/organizacion/consejoInterterri/docs/1761.pdf",
+   "resultado": "coincide",
+   "detalle": "Verificado en la copia archivada del PDF 1761 del Consejo Interterritorial: 44.058.000 (2022) + 68.058.000 (2023) + 68.058.000 (2024) = 180 millones; 60.058.000 euros para 2026. No pude abrir la URL en vivo.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "vox-sanidad-3",
+   "evidencia": "e3",
+   "partido": "vox",
+   "sentido": "contradice",
+   "url": "https://www.redaccionmedica.com/politica/20260422/el-congreso-da-la-espalda-prioridad-nacional-sanitaria-de-vox/261353_0.amp.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "vox-sanidad-3",
+   "evidencia": "e2",
+   "partido": "vox",
+   "sentido": "apoya",
+   "url": "https://www.redaccionmedica.com/politica/20260326/vox-se-queda-solo-en-su-plan-para-tumbar-la-sanidad-universal-del-gobierno/260819_0.amp.html",
+   "resultado": "coincide",
+   "detalle": "La URL citada (Redacción Médica) confirma rechazo y abstención de PP y UPN; las cifras 33-179-138 están en el teletipo de Europa Press que cita la nota (diarioestrategia.cl), que abrí y coincide. El número del real decreto (180/2026) no aparece en ninguna de las dos piezas.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "vox-educacion-1",
+   "evidencia": "e3",
+   "partido": "vox",
+   "sentido": "contradice",
+   "url": "https://www.elindependiente.com/politica/2019/09/10/congreso-rechaza-unificar-los-contenidos-las-tasas-la-selectividad/",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "vox-educacion-1",
+   "evidencia": "e2",
+   "partido": "vox",
+   "sentido": "apoya",
+   "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-348-1.PDF",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "vox-seguridad-2",
+   "evidencia": "e2",
+   "partido": "vox",
+   "sentido": "contradice",
+   "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-152.PDF",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "vox-seguridad-2",
+   "evidencia": "e1",
+   "partido": "vox",
+   "sentido": "apoya",
+   "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-201-1.PDF",
+   "resultado": "coincide",
+   "detalle": "BOCG B-201-1 de 1-4-2025; acuerdo de la Mesa de 28-3-2025. Cita de la Memoria de la Fiscalía (45,47 %) literal en la exposición de motivos.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "vox-energia-4",
+   "evidencia": "e6",
+   "partido": "vox",
+   "sentido": "contradice",
+   "url": "https://www.elespanol.com/valencia/20260307/vox-rechaza-valencia-zona-bajas-emisiones-aprobo-castellon-pone-riesgo-millones/1003744158258_0.amp.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "vox-energia-4",
+   "evidencia": "e1",
+   "partido": "vox",
+   "sentido": "apoya",
+   "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-276-1.PDF",
+   "resultado": "coincide_con_matiz",
+   "detalle": "El boletín (BOCG B-276-1) fecha la presentación el 28 de octubre de 2025; la Mesa la admitió el 11-11-2025 y se publicó el 14-11-2025. No se «presentó en noviembre». El resto (fin de la obligatoriedad, no condicionar ayudas, «posición de máximos» = derogar la Ley 7/2021) coincide. Además deroga la tasa de residuos.",
+   "correccion_texto": "Vox presentó el 28-10-2025 (publicada en el Boletín de las Cortes el 14-11-2025) la Proposición de Ley 122/000232 para poner fin al carácter obligatorio de las ZBE, impedir que los ayuntamientos restrinjan el tráfico por razones ambientales y prohibir condicionar ayudas a tener una ZBE. El texto dice que su «posición de máximos» es derogar entera la ley de cambio climático."
+  },
+  {
+   "contraste": "vox-empleo-1",
+   "evidencia": "e2",
+   "partido": "vox",
+   "sentido": "contradice",
+   "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-118-1.PDF",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "vox-empleo-1",
+   "evidencia": "e1",
+   "partido": "vox",
+   "sentido": "apoya",
+   "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-118-1.PDF",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "vox-pensiones-1",
+   "evidencia": "e5",
+   "partido": "vox",
+   "sentido": "contradice",
+   "url": "https://es.ara.cat/politica/pensiones-entran-campana-funciona-sistema-espanol-dice-vox_1_5872905.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "vox-pensiones-1",
+   "evidencia": "e1",
+   "partido": "vox",
+   "sentido": "apoya",
+   "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion164/20260226/Votacion023/VOT_20260226153402.pdf",
+   "resultado": "coincide_con_matiz",
+   "detalle": "Hecho exacto según el PDF oficial: sesión 164, votación 23, 26-2-2026, RDL 3/2026; 350 presentes, 317 sí, 33 no, 0 abstenciones; los 33 noes son del G.P. Vox. No desglosé los 137 del PP (el PDF lista el sí sin subtotales por grupo). Sentido discutible: votar contra el decreto de revalorización se clasifica como «apoya»; un lector lo entenderá al revés. Más defendible «contexto» (o «contradice» respecto a «garantizarán las pensiones»).",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "vox-corrupcion-1",
+   "evidencia": "e2",
+   "partido": "vox",
+   "sentido": "contradice",
+   "url": "https://www.congreso.es/public_oficiales/L14/CONG/DS/PL/DSCD-14-PL-113.PDF",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "vox-corrupcion-1",
+   "evidencia": "e7",
+   "partido": "vox",
+   "sentido": "apoya",
+   "url": "https://www.elespanol.com/espana/politica/20260730/pp-prepara-nueva-ley-indulto-exija-tercios-congreso-poder-beneficiar-politico/1003744338209_0.html",
+   "resultado": "coincide_con_matiz",
+   "detalle": "El anuncio del PP (30-7-2026) y su contenido coinciden. Pero la crónica dice que Sánchez «indultaba este martes», y el martes fue el 28-7-2026, no el 29. Borràs no fue condenada por malversación (sí Grueso y el exalcalde de Linares, Juan Fernández); la pieza habla de «condenados por corrupción». Sentido: es un acto de otro partido; encaja mejor como «contexto» que como «apoya».",
+   "correccion_texto": "El PP anunció el 30-7-2026 una nueva ley del indulto que lo prohibiría para delitos de corrupción, terrorismo y ataques a la integridad nacional, y exigiría dos tercios del Congreso para indultar a cargos políticos. El anuncio siguió a tres indultos parciales del Gobierno, el martes 28-7-2026, a condenados por delitos de corrupción (Laura Borràs, Natalio Grueso y el exalcalde de Linares Juan Fernández; los dos últimos, por malversación)."
+  },
+  {
+   "contraste": "frenteamplio-pensiones-1",
+   "evidencia": "e10",
+   "partido": "frenteamplio",
+   "sentido": "contradice",
+   "url": "https://www.airef.es/es/noticias/la-airef-ratifica-el-resultado-de-2025-la-regla-de-gasto-de-pensiones-se-cumple-formalmente-pero-no-garantiza-la-sostenibilidad/",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "frenteamplio-pensiones-1",
+   "evidencia": "e8",
+   "partido": "frenteamplio",
+   "sentido": "apoya",
+   "url": "https://www.eldebate.com/economia/20260612/psoe-pp-frenan-reforma-reclama-casi-millon-jubilados-llevamos-doce-anos-esperando_427761.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "frenteamplio-educacion-2",
+   "evidencia": "e1",
+   "partido": "frenteamplio",
+   "sentido": "contradice",
+   "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/educacion-fp-deportes/Paginas/2026/180326-gasto-educacion-2024.aspx",
+   "resultado": "coincide",
+   "detalle": "71.348,8 millones, +4,8 %, 68.065 millones en 2023 y 88,8 % coinciden. Los 118.300 millones son cálculo propio declarado en la nota; no están en la fuente.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "frenteamplio-educacion-2",
+   "evidencia": "e5",
+   "partido": "frenteamplio",
+   "sentido": "apoya",
+   "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "frenteamplio-seguridad-1",
+   "evidencia": "e5",
+   "partido": "frenteamplio",
+   "sentido": "contradice",
+   "url": "https://www.eldiario.es/1_caa1d7",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "frenteamplio-seguridad-1",
+   "evidencia": "e8",
+   "partido": "frenteamplio",
+   "sentido": "apoya",
+   "url": "https://www.eldiario.es/politica/psoe-sumar-reactivan-despenalizacion-ofensas-sentimientos-religiosos-corona_1_13303774.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "frenteamplio-energia-2",
+   "evidencia": "e1",
+   "partido": "frenteamplio",
+   "sentido": "contradice",
+   "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17756",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "frenteamplio-energia-2",
+   "evidencia": "e2",
+   "partido": "frenteamplio",
+   "sentido": "apoya",
+   "url": "https://es.ara.cat/economia/energia/da-visto-bueno-prorroga-almaraz-2030_1_5823868.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "frenteamplio-corrupcion-5",
+   "evidencia": "e3",
+   "partido": "frenteamplio",
+   "sentido": "contradice",
+   "url": "https://www.proteccioninformante.gob.es/content/dam/aipi/documentos/MEMORIA%20ANUAL%202025%20AIPI.pdf",
+   "resultado": "coincide",
+   "detalle": "La memoria dice «26 casos de solicitud de protección» analizados y «17 personas protegidas mediante la expedición del correspondiente certificado»; resto de citas literales y RPT de 18 puestos, correctos.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "frenteamplio-corrupcion-5",
+   "evidencia": "e1",
+   "partido": "frenteamplio",
+   "sentido": "apoya",
+   "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-16764",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "frenteamplio-instituciones-2",
+   "evidencia": "e3",
+   "partido": "frenteamplio",
+   "sentido": "contradice",
+   "url": "https://es.ara.cat/politica/europa-vuelve-reganar-espana-politizacion-judicial_1_5527559.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "frenteamplio-instituciones-2",
+   "evidencia": "e5",
+   "partido": "frenteamplio",
+   "sentido": "apoya",
+   "url": "https://www.eldiario.es/politica/sumar-presiona-cambiar-mayorias-renovar-judicial-reticencias-psoe_1_11332904.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "frenteamplio-territorio-1",
+   "evidencia": "e3",
+   "partido": "frenteamplio",
+   "sentido": "contradice",
+   "url": "https://es.ara.cat/politica/descarrila-congreso-elecciones_1_5870195.amp.html",
+   "resultado": "coincide_con_matiz",
+   "detalle": "El contenido coincide (crónica de 5-10-2026: el nuevo modelo queda para el próximo Gobierno; sigue el de 2009, pendiente desde 2014; decae la condonación). Pero la cita entre comillas no es literal: el texto dice que hay leyes que «ni siquiera habrán llegado al Congreso». Además la página es una traducción automática del catalán.",
+   "correccion_texto": "Con la convocatoria electoral del 5-10-2026, el nuevo modelo de financiación quedó entre las normas que, según la crónica, «ni siquiera habrán llegado al Congreso» y pasa al próximo Gobierno. Sigue vigente el sistema de 2009, pendiente de revisión desde 2014. También decayó la ley de condonación de parte de la deuda autonómica."
+  },
+  {
+   "contraste": "frenteamplio-territorio-1",
+   "evidencia": "e2",
+   "partido": "frenteamplio",
+   "sentido": "apoya",
+   "url": "https://www.hacienda.gob.es/es-es/prensa/noticias/noticiaspdf/742.pdf",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-pensiones-1",
+   "evidencia": "e7",
+   "partido": "podemos",
+   "sentido": "contradice",
+   "url": "https://www.airef.es/wp-content/uploads/2026/05/Pensiones/AIReF.-Estudio-de-evaluacion-de-la-regla-de-gasto-de-pensiones.pdf",
+   "resultado": "coincide",
+   "detalle": "La presentación de la AIReF (29-5-2026) confirma 13,0 % neto, 14,6 % bruto, 16,4 % en 2050 y deuda del 123 % en 2050. El punto de partida «13 % en 2025» no está en esta presentación (la nota lo atribuye al estudio completo, que no abrí).",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-pensiones-1",
+   "evidencia": "e5",
+   "partido": "podemos",
+   "sentido": "apoya",
+   "url": "https://www.eldiario.es/economia/ultima-reforma-pensiones-sale-adelante-congreso-apoyo-pp-no-grupos-izquierdas_1_11983776.amp.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-sanidad-2",
+   "evidencia": "e2",
+   "partido": "podemos",
+   "sentido": "contradice",
+   "url": "https://d500.epimg.net/descargables/2019/12/30/4ff5f0a5b64c2a18ad4a5f829e8e984d.pdf",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-sanidad-2",
+   "evidencia": "e3",
+   "partido": "podemos",
+   "sentido": "apoya",
+   "url": "https://www.elsaltodiario.com/sanidad-publica/rosa-medel-unidas-podemos-psoe-no-tiene-voluntad-politica-desprivatizar-sanidad",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-educacion-3",
+   "evidencia": "e5",
+   "partido": "podemos",
+   "sentido": "contradice",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7500",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-educacion-3",
+   "evidencia": "e3",
+   "partido": "podemos",
+   "sentido": "apoya",
+   "url": "https://www.ciencia.gob.es/InfoGeneralPortal/documento/63256cff-5dbc-4227-bd8c-a7badb119e9d",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-inmigracion-2",
+   "evidencia": "e2",
+   "partido": "podemos",
+   "sentido": "contradice",
+   "url": "https://d500.epimg.net/descargables/2019/12/30/4ff5f0a5b64c2a18ad4a5f829e8e984d.pdf",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-inmigracion-2",
+   "evidencia": "e9",
+   "partido": "podemos",
+   "sentido": "apoya",
+   "url": "https://www.noticiasdenavarra.com/politica/2026/02/02/eleva-requisitos-pide-acabar-cie-migratorio-catalunya-10647567.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-seguridad-1",
+   "evidencia": "e6",
+   "partido": "podemos",
+   "sentido": "contradice",
+   "url": "https://www.eldiario.es/1_caa1d7",
+   "resultado": "coincide",
+   "detalle": "Abrí las dos piezas de elDiario.es (30-6 y 28-8-2026): ponencia sin reunirse en 2026, «Está congelada», choque PNV-EH Bildu y exigencias de Podemos (plazo para las pelotas de goma, prohibir el rechazo en frontera).",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-seguridad-1",
+   "evidencia": "e4",
+   "partido": "podemos",
+   "sentido": "apoya",
+   "url": "https://img.beteve.cat/wp-content/uploads/2019/10/unides-podem_programa_generals.pdf",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-corrupcion-1",
+   "evidencia": "e3",
+   "partido": "podemos",
+   "sentido": "contradice",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-13022",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-corrupcion-1",
+   "evidencia": "e2",
+   "partido": "podemos",
+   "sentido": "apoya",
+   "url": "https://www.democrata.es/elecciones-generales-espana/microcreditos-partidos-intereses-elecciones-29n/",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-territorio-2",
+   "evidencia": "e5",
+   "partido": "podemos",
+   "sentido": "contradice",
+   "url": "https://d500.epimg.net/descargables/2019/12/30/4ff5f0a5b64c2a18ad4a5f829e8e984d.pdf",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "podemos-territorio-2",
+   "evidencia": "e4",
+   "partido": "podemos",
+   "sentido": "apoya",
+   "url": "https://img.beteve.cat/wp-content/uploads/2019/10/unides-podem_programa_generals.pdf",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "salf-empleo-1",
+   "evidencia": "e5",
+   "partido": "salf",
+   "sentido": "contradice",
+   "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/310326-seguridad-social-deficit-pib.aspx",
+   "resultado": "coincide",
+   "detalle": "176.918, 47.815, 7.387 (0,4 % del PIB), 182.526 (+5,7 %) coinciden; los 19.000 millones son cálculo propio declarado.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "salf-empleo-1",
+   "evidencia": "e2",
+   "partido": "salf",
+   "sentido": "apoya",
+   "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2025/310325-resumen-ejecucion-presupuesto-dic-2024.aspx",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "salf-pensiones-1",
+   "evidencia": "e6",
+   "partido": "salf",
+   "sentido": "contradice",
+   "url": "https://www.democrata.es/economia/ampliacion-sanchez-desafia-a-feijoo-a-blindar-en-la-constitucion-la-subida-de-pensiones-con-el-ipc/",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "salf-pensiones-1",
+   "evidencia": "e5",
+   "partido": "salf",
+   "sentido": "apoya",
+   "url": "https://www.esdiario.com/nacional/261026/201346/sanchez-pensiones-constitucion-ipc-ley-pp-reforma.html",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "salf-sanidad-1",
+   "evidencia": "e3",
+   "partido": "salf",
+   "sentido": "contradice",
+   "url": "https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/docs/LISTAS%5FPUBLICACION%5FDic%5F2025.pdf",
+   "resultado": "coincide_con_matiz",
+   "detalle": "Las cifras coinciden con la versión inicial del informe (URL citada, que abrí): 853.509 pacientes, 184.715 con más de seis meses (21,6 %), 102 días y 61,5 % en consultas, 2.289.682 intervenciones. Pero la versión rectificada por el Ministerio (LISTAS_PUBLICACION_Dic_2025_rectificado.pdf) sí cambia dos de los indicadores citados, contra lo que dice la nota: 184.748 pacientes con más de seis meses y 2.290.048 intervenciones (total 853.740 y 122 días). Los porcentajes no cambian.",
+   "correccion_texto": "A 31 de diciembre de 2025, el 21,6 % de los pacientes en lista quirúrgica (184.748, según la versión rectificada del informe) llevaba más de seis meses. En consultas externas la espera media era de 102 días y el 61,5 % de las citas superaba los 60 días. En 2025 se hicieron 2.290.048 intervenciones programadas desde la lista. Los plazos prometidos son la mitad o menos de las medias actuales."
+  },
+  {
+   "contraste": "salf-sanidad-1",
+   "evidencia": "e4",
+   "partido": "salf",
+   "sentido": "apoya",
+   "url": "https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/docs/LISTAS%5FPUBLICACION%5FDic%5F2025.pdf",
+   "resultado": "coincide",
+   "detalle": "Madrid 50 días y 0,8 %; País Vasco 64; Galicia 73; Andalucía 173 y 32,2 %; Cataluña 142 y 32,0 %. Iguales en la versión inicial y en la rectificada.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "salf-educacion-1",
+   "evidencia": "e2",
+   "partido": "salf",
+   "sentido": "contradice",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "salf-educacion-1",
+   "evidencia": "e5",
+   "partido": "salf",
+   "sentido": "apoya",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "salf-corrupcion-1",
+   "evidencia": "e9",
+   "partido": "salf",
+   "sentido": "contradice",
+   "url": "https://howtheyvote.eu/votes/189232",
+   "resultado": "coincide",
+   "detalle": "howtheyvote.eu (datos del registro nominal del PE): 26-3-2026, 581-21-42; Alvise Pérez (NI) abstención; Nora Junco y Diego Solier (ECR) a favor; los seis eurodiputados de Vox (PfE) en contra.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "salf-corrupcion-1",
+   "evidencia": "e2",
+   "partido": "salf",
+   "sentido": "apoya",
+   "url": "https://www.mjusticia.gob.es/es/AreaTematica/ActividadLegislativa/Documents/20261009,%20DGESPJ,%20RD%20plantilla%20MF%202027.pdf",
+   "resultado": "coincide_con_matiz",
+   "detalle": "No pude abrir la URL del proyecto (mjusticia.gob.es devuelve una página de error). Verifiqué el contenido en la norma ya aprobada: Real Decreto 995/2026, de 16 de noviembre (BOE 17-11-2026, BOE-A-2026-24003): crea una plaza en Anticorrupción; anexo 1 fiscal jefe + 1 teniente fiscal + 28 fiscales = 30; Antidroga 1+1+17 = 19; plantilla total 3.204. Las cifras coinciden, pero el hecho está desactualizado: ya no es un proyecto.",
+   "correccion_texto": "El Real Decreto 995/2026, de 16 de noviembre (BOE del 17), que amplía la plantilla del Ministerio Fiscal, crea una plaza en la Fiscalía contra la Corrupción y la Criminalidad Organizada y recoge en su anexo un fiscal jefe, un teniente fiscal y 28 fiscales: 30 plazas con la nueva, 29 antes. Para la Fiscalía Antidroga el anexo suma 19 plazas con la nueva, no las 15 que cita el programa. La plantilla total del Ministerio Fiscal queda en 3.204 plazas. [URL: https://www.boe.es/buscar/act.php?id=BOE-A-2026-24003]"
+  },
+  {
+   "contraste": "salf-territorio-2",
+   "evidencia": "e2",
+   "partido": "salf",
+   "sentido": "contradice",
+   "url": "https://documentos.fedea.net/pubs/eee/2026/eee2026-21.pdf",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "salf-territorio-2",
+   "evidencia": "e9",
+   "partido": "salf",
+   "sentido": "apoya",
+   "url": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/",
+   "resultado": "coincide",
+   "detalle": "La crónica de Vistalegre (El Independiente, 12-10-2025) y la cita de El Debate de 2024 (que abrí) coinciden.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "salf-energia-1",
+   "evidencia": "e2",
+   "partido": "salf",
+   "sentido": "contradice",
+   "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2022-80541",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "salf-energia-1",
+   "evidencia": "e5",
+   "partido": "salf",
+   "sentido": "apoya",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-15649",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b24",
+   "evidencia": "cita",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2018/prsp20181709.aspx",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b24",
+   "evidencia": "dato_actual",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b25",
+   "evidencia": "cita",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b25",
+   "evidencia": "dato_actual",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://sede.agenciatributaria.gob.es/static_files/Sede/Tema/Estadisticas/Estadisticas_impuesto/Sociedades/Informepais/Documentacion/NOTACBC2023.pdf",
+   "resultado": "coincide",
+   "detalle": "Nota CbC 2023 de la AEAT: 171 multinacionales, tipo efectivo 21,7 % (18,3 % en 2018), 63 grupos (37 %) por debajo del 15 % con media del 5,0 %; advierte de que los tipos «siempre se sobreestiman».",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b26",
+   "evidencia": "cita",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b26",
+   "evidencia": "dato_actual",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_a10?format=JSON&geo=ES&unit=PC_GDP&nace_r2=B-E&nace_r2=C&na_item=B1G&sinceTimePeriod=2016",
+   "resultado": "coincide",
+   "detalle": "API de Eurostat (nama_10_a10): industria sin construcción 14,2 % (2018), 14,5 % (2020), 14,0 % (2025, provisional); manufactura 10,6 % (2025).",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b27",
+   "evidencia": "cita",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b27",
+   "evidencia": "dato_actual",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.miteco.gob.es/content/dam/miteco/es/calidad-y-evaluacion-ambiental/temas/sistema-espanol-de-inventario-sei-/Nota-Avance-GEI-2025.pdf",
+   "resultado": "coincide",
+   "detalle": "Verificado en la copia archivada del PDF del MITECO (la URL en vivo no me respondió): 270,74 Mt CO2-eq, +1,1 % sobre 2024, -4,8 % sobre 1990, 56 % de electricidad renovable. El objetivo legal del -23 % no está en esta nota (es de la Ley 7/2021).",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b28",
+   "evidencia": "cita",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b28",
+   "evidencia": "dato_actual",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.sistemaelectrico-ree.es/es/informe-del-sistema-electrico/autoconsumo/potencia-instalada-de-autoconsumo",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b29",
+   "evidencia": "cita",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b29",
+   "evidencia": "dato_actual",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/300126-prestacion-nacimiento-cuidado-menor.aspx",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b30",
+   "evidencia": "cita",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b30",
+   "evidencia": "dato_actual",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-10324",
+   "resultado": "coincide",
+   "detalle": "Real Decreto-ley 11/2026, de 12 de mayo, en vigor el 14-5-2026: pensionistas 10 % con topes de 8,23, 13,37 y 18,52 euros; activos 40 %, 45 %, 50 % y 60 %; exentos IMV, pensiones no contributivas y complementos a mínimos.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b31",
+   "evidencia": "cita",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b31",
+   "evidencia": "dato_actual",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.boe.es/eli/es/rdl/2026/11/10/36",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b32",
+   "evidencia": "cita",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b32",
+   "evidencia": "dato_actual",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/educacion-fp-deportes/Paginas/2026/180326-gasto-educacion-2024.aspx",
+   "resultado": "coincide_con_matiz",
+   "detalle": "71.348,8 millones y +4,8 % coinciden con la nota de 18-3-2026. El «4,48 % del PIB» no figura en la fuente citada: la nota no da porcentaje sobre el PIB. Es una cifra derivada y debería decirlo o citar su fuente.",
+   "correccion_texto": "Gasto público en educación de 2024 (provisional): 71.348,8 millones de euros, un 4,8 % más que en 2023. La nota no da el porcentaje sobre el PIB; equivale aproximadamente al 4,5 % (cálculo propio). El dato de 2025, año del objetivo, no está publicado."
+  },
+  {
+   "contraste": "b33",
+   "evidencia": "cita",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b33",
+   "evidencia": "dato_actual",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-87-1.PDF",
+   "resultado": "coincide",
+   "detalle": "BOCG A-87-1 de 13-3-2026: Proyecto de Ley 121/000087 «del Estatuto de las personas en formación práctica no laboral». Que decayera con la disolución es consecuencia del art. 207 del Reglamento; el boletín, lógicamente, no lo dice.",
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b34",
+   "evidencia": "cita",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2018/prsp20180717.aspx",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b34",
+   "evidencia": "dato_actual",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://rtvc.es/voto-residentes-en-el-extranjero-en-23j/",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b35",
+   "evidencia": "cita",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2018/prsp20181709.aspx",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  },
+  {
+   "contraste": "b35",
+   "evidencia": "dato_actual",
+   "partido": "balance",
+   "sentido": null,
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-15767",
+   "resultado": "coincide",
+   "detalle": null,
+   "correccion_texto": null
+  }
+ ],
+ "correcciones_antiguas": [
+  {
+   "n": 1,
+   "veredicto": "CONFIRMADA la corrección. El dato vigente es 12.858, no 11.104. La cifra no aparece escrita como total anual en el boletín (por eso no se pudo «reproducir»): es la suma de los cuatro trimestres de 2025 de la tabla 1.2, columna «Vivienda protegida. Calificación definitiva»: 2.982 + 2.747 + 2.223 + 4.906 = 12.858. 2024: 2.588 + 2.172 + 3.193 + 6.418 = 14.371. Variación: -10,5 %. Primer trimestre de 2026: 5.141 (no 5.215); segundo: 6.129. La coherencia interna lo respalda: el propio boletín dice que 6.129 es un 123,1 % más que un año antes, lo que solo cuadra con 2.747 en 2025 T2. 11.104 y 5.215 eran datos provisionales difundidos por prensa y nota ministerial.",
+   "dato_vigente": "12.858 calificaciones definitivas en 2025 (-10,5 % frente a 14.371 en 2024); 5.141 en 2026 T1 y 6.129 en 2026 T2. Indicar que el total anual es suma propia de trimestres.",
+   "fuente": "https://publicaciones.transportes.gob.es/downloadcustom/sample/4201 (Observatorio de Vivienda y Suelo, Boletín núm. 58, segundo trimestre de 2026, página 7, tabla 1.2)"
+  },
+  {
+   "n": 2,
+   "veredicto": "CONFIRMADA, con un ajuste de redacción. La Fiscalía Europea publicó el 12-11-2026 un comunicado: ese día practicaba «medidas de investigación» en la sede del Ministerio de Igualdad y del Tribunal de Cuentas, en una investigación por presunto fraude que afecta a fondos europeos destinados a la compra de pulseras telemáticas; la investigación «se inició el pasado año» (2025) y cuenta con el apoyo de la UCO. El comunicado no menciona personas investigadas ni detenidas y dice que no se facilitarán más detalles. No afirma literalmente que «no hay personas identificadas»: simplemente no nombra a nadie. Conviene escribir «el comunicado no menciona personas investigadas» y no «sin personas identificadas».",
+   "dato_vigente": "Investigación confirmada por la Fiscalía Europea (abierta en 2025; diligencias el 12-11-2026 en Igualdad y Tribunal de Cuentas, con la UCO). Alcance: presunto fraude a fondos de la UE; ninguna persona ni empresa citada; sin imputaciones comunicadas.",
+   "fuente": "https://www.eppo.europa.eu/media/news/spain-investigative-actions-ministry-equality-and-court-auditors-probe-fraud-involving-monitoring-2026-11-12_en"
+  },
+  {
+   "n": 3,
+   "veredicto": "CONFIRMADA en fuente primaria. Texto aprobado P10_TA(2026)0167: «Decisión del Parlamento Europeo, de 19 de mayo de 2026, sobre el suplicatorio de suspensión de la inmunidad de Alvise Pérez (2025/2236(IMM))», a petición del Tribunal Supremo (carta de 31-10-2025) por presunta financiación ilegal de partido (art. 304 bis del Código Penal) y delito electoral (art. 149 LOREG), por un anticipo de 100.000 euros. Ojo: es la segunda inmunidad levantada; la primera fue el 28-4-2026 (P10_TA(2026)0110, causa por acoso a una fiscal). Levantar la inmunidad no implica culpabilidad.",
+   "dato_vigente": "El pleno del Parlamento Europeo levantó la inmunidad de Alvise Pérez el 19-5-2026 en la causa de financiación ilegal y delito electoral.",
+   "fuente": "https://data.europarl.europa.eu/distribution/doc/TA-10-2026-0167_en.pdf"
+  }
+ ],
+ "hechos_llamativos": [
+  {
+   "hecho": "Orden TED/864/2026 prorroga Almaraz hasta el 8-6-2030 (BOE 14-8-2026)",
+   "resultado": "confirmado: Orden TED/864/2026, de 12 de agosto, BOE núm. 199 de 14-8-2026; revoca la Orden TED/773/2020 y da validez a ambas unidades «hasta el 8 de junio de 2030, inclusive»; la anterior vencía el 1-11-2027 (I) y el 31-10-2028 (II); solicitud de 30-10-2025.",
+   "fuente": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17756"
+  },
+  {
+   "hecho": "Autorización del Consejo de Ministros de 10-11-2020 del nuevo CIE de Algeciras",
+   "resultado": "confirmado: nota de Hacienda de 10-11-2020; autoriza a SIEPSE a contratar la construcción; licitación de 21.003.071,39 euros sin IVA; obra prevista en el plan aprobado el 18-1-2019. Es la autorización de un contrato, no la creación jurídica del centro. El número de ministros de Unidas Podemos no consta en la fuente.",
+   "fuente": "https://www.hacienda.gob.es/Documentacion/Publico/GabineteMinistro/Notas%20Prensa/2020/CONSEJO%20DE%20MINISTROS/10-11-20%20NP%20CM%20Centro%20Extranjeros%20Algeciras.pdf"
+  },
+  {
+   "hecho": "Voto de Vox contra la convalidación de la subida de pensiones el 26-2-2026 (317 a 33)",
+   "resultado": "confirmado en el registro oficial: sesión 164, votación 23, Real Decreto-ley 3/2026; 350 presentes, 317 sí, 33 no, 0 abstenciones; los 33 noes son del Grupo Parlamentario Vox. Precisión: el voto fue contra la convalidación del decreto-ley completo («revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social»).",
+   "fuente": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion164/20260226/Votacion023/VOT_20260226153402.pdf"
+  },
+  {
+   "hecho": "Abstención de Alvise Pérez en la directiva anticorrupción el 26-3-2026 (581-21-42)",
+   "resultado": "confirmado en los datos nominales: 581 a favor, 21 en contra, 42 abstenciones; Alvise Pérez (no inscritos) figura como abstención; Junco y Solier (ECR) a favor; Vox en contra. Fuente intermedia que reproduce el registro del Parlamento; no abrí el acta oficial en europarl.europa.eu.",
+   "fuente": "https://howtheyvote.eu/votes/189232"
+  },
+  {
+   "hecho": "STC 126/2016 sobre el decreto-ley de armamento",
+   "resultado": "confirmado: Sentencia 126/2016, de 7 de julio (BOE 10-8-2016); declara inconstitucional y nulo el precepto del Real Decreto-ley 10/2014 que concedía un crédito extraordinario de 883.655.368,60 euros para programas especiales de armamento; cita literal «el recurso sistemático al decreto-ley como forma jurídica de vehicular créditos extraordinarios»; deja sin revisar las situaciones firmes.",
+   "fuente": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/25031"
+  }
+ ],
+ "resumen": {
+  "por_partido": {
+   "pp": {
+    "coincide": 14,
+    "matiz": 0,
+    "no_coincide": 0,
+    "no_abierta": 0
+   },
+   "psoe": {
+    "coincide": 13,
+    "matiz": 1,
+    "no_coincide": 0,
+    "no_abierta": 0
+   },
+   "vox": {
+    "coincide": 11,
+    "matiz": 3,
+    "no_coincide": 0,
+    "no_abierta": 0
+   },
+   "frenteamplio": {
+    "coincide": 13,
+    "matiz": 1,
+    "no_coincide": 0,
+    "no_abierta": 0
+   },
+   "podemos": {
+    "coincide": 14,
+    "matiz": 0,
+    "no_coincide": 0,
+    "no_abierta": 0
+   },
+   "salf": {
+    "coincide": 12,
+    "matiz": 2,
+    "no_coincide": 0,
+    "no_abierta": 0
+   },
+   "balance": {
+    "coincide": 23,
+    "matiz": 1,
+    "no_coincide": 0,
+    "no_abierta": 0
+   }
+  },
+  "total": {
+   "comprobadas": 108,
+   "coincide": 100,
+   "matiz": 8,
+   "no_coincide": 0,
+   "no_abierta": 0
+  },
+  "metodo": "84 evidencias (2 por cada uno de los 42 contrastes nuevos, 14 por partido) y 24 elementos del balance (cita y dato_actual de b24 a b35). Selección: la «contradice» y la «apoya» citadas en la puntuación, priorizando 2025-2026. Cada fuente descargada y leída; cifras, fechas, votaciones y citas cotejadas contra el texto.",
+  "no_abiertas_en_vivo": [
+   "sanidad.gob.es (notasPrensa id=6917 y docs/1761.pdf): fallo de conexión; verificadas en copia archivada de la misma URL",
+   "miteco.gob.es Nota-Avance-GEI-2025.pdf: verificada en copia archivada",
+   "mjusticia.gob.es proyecto RD plantilla MF 2027: página de error; contenido verificado en el RD 995/2026 del BOE"
+  ],
+  "avisos_de_sentido": [
+   "vox-pensiones-1 e1: «apoya» para un voto contra la revalorización; mejor «contexto»",
+   "vox-corrupcion-1 e7: «apoya» para un anuncio del PP; mejor «contexto»"
+  ]
+ }
+}

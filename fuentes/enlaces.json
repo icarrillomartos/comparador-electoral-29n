@@ -1,0 +1,2489 @@
+{
+ "https://www.eldiario.es/economia/banco-espana-eleva-750-000-viviendas-faltan-anticipa-deficit-agravara-proximos-anos_1_13313634.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-vivienda-1:e1",
+   "psoe-vivienda-1:e9",
+   "frenteamplio-vivienda-1:e7"
+  ]
+ },
+ "https://www.eldebate.com/economia/20260618/banco-espana-cifra-750000-deficit-vivienda-doble-italia-pide-simplificar-regulacion_429981.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-vivienda-1:e2"
+  ]
+ },
+ "https://www.politico.eu/article/feijoo-hare-una-auditoria-a-las-cuentas-publicas-de-espana-no-me-creo-los-datos/": {
+  "codigo": "200",
+  "donde": [
+   "pp-vivienda-1:e3"
+  ]
+ },
+ "https://www.elindependiente.com/espana/2026/01/12/feijoo-contraprograma-el-acto-de-sanchez-con-la-promesa-de-un-millon-de-viviendas-para-la-proxima-legislatura/amp/": {
+  "codigo": "200",
+  "donde": [
+   "pp-vivienda-1:e4"
+  ]
+ },
+ "https://www.idealista.com/news/node/766295": {
+  "codigo": "200",
+  "donde": [
+   "pp-vivienda-1:e5"
+  ]
+ },
+ "https://www.eldiario.es/madrid/supremo-confirma-viviendas-comunidad-madrid_1_1032476.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-vivienda-1:e6"
+  ]
+ },
+ "https://www.comunidad.madrid/plan-vive": {
+  "codigo": "200",
+  "donde": [
+   "pp-vivienda-1:e7"
+  ]
+ },
+ "https://www.elindependiente.com/espana/2024/05/23/el-gobierno-retira-la-ley-del-suelo-para-evitarse-una-segunda-derrota-parlamentaria-esta-semana/": {
+  "codigo": "200",
+  "donde": [
+   "pp-vivienda-1:e8"
+  ]
+ },
+ "https://www.articulo14.es/politica/pp-vox-y-junts-tumban-los-dos-decretos-de-vivienda-y-asestan-una-dura-derrota-al-gobierno-20261002.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-vivienda-1:e9"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/vivienda-agenda-urbana/Paginas/2025/040725-vivienda-protegida-observatorio-suelo.aspx": {
+  "codigo": "200",
+  "donde": [
+   "pp-vivienda-1:e10"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2011-20638": {
+  "codigo": "200",
+  "donde": [
+   "pp-impuestos-1:e1"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9364": {
+  "codigo": "200",
+  "donde": [
+   "pp-impuestos-1:e2"
+  ]
+ },
+ "https://www.publico.es/actualidad/rajoy-incumple-palabra-sube-impuestos.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-impuestos-1:e3"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12327": {
+  "codigo": "200",
+  "donde": [
+   "pp-impuestos-1:e4"
+  ]
+ },
+ "https://www.elespanol.com/espana/politica/20211231/ccaa-pp-bajan-impuestos-aliviar-inflacion-familias/638686429_0.amp.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-impuestos-1:e5"
+  ]
+ },
+ "https://www.elespanol.com/espana/politica/20260309/plan-feijoo-crisis-iran-medidas-estructurales-rescaten-clase-media-deflactar-irpf/1003744162416_0.amp.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-impuestos-1:e6"
+  ]
+ },
+ "https://www.merca2.es/2026/11/19/propuestas-economicas-pp-2510463/": {
+  "codigo": "200",
+  "donde": [
+   "pp-impuestos-1:e7"
+  ]
+ },
+ "https://www.bolsamania.com/noticias/economia/economia--airef-ratifica-el-cumplimiento-de-la-regla-de-gasto-de-pensiones-pero-dice-que-no-garantiza-la-sostenibilidad--22574898.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-impuestos-1:e8",
+   "pp-pensiones-1:e7"
+  ]
+ },
+ "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/que-programa-electoral-tienen-los-partidos-para-justicia-2011-11-15/": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-1:e1"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7061": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-1:e2"
+  ]
+ },
+ "https://www.publico.es/politica/obsesion-pp-judicial-decadas-control-gobierno-jueces.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-1:e3"
+  ]
+ },
+ "https://www.elindependiente.com/espana/2024/07/23/el-congreso-elige-diez-vocales-para-el-cgpj-tras-el-pacto-entre-psoe-y-pp/amp/": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-1:e4"
+  ]
+ },
+ "https://www.democrata.es/politica/el-pp-registra-en-el-congreso-su-reforma-del-cgpj-coincidiendo-con-el-inicio-del-ano-judicial/": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-1:e5"
+  ]
+ },
+ "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion196/20260910/Votacion015/VOT_20260910180631.pdf": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-1:e6"
+  ]
+ },
+ "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1248868": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-1:e7"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2013-13617": {
+  "codigo": "200",
+  "donde": [
+   "pp-pensiones-1:e1"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2012/301112-consejo.aspx": {
+  "codigo": "200",
+  "donde": [
+   "pp-pensiones-1:e2"
+  ]
+ },
+ "https://www.legaltoday.com/rincon-de-reuters/rubalcaba-presiona-a-rajoy-sobre-el-programa-oculto-del-pp-2011-11-08/": {
+  "codigo": "200",
+  "donde": [
+   "pp-pensiones-1:e3"
+  ]
+ },
+ "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion138/20211202/Votacion083/VOT_20230303115912.pdf": {
+  "codigo": "200",
+  "donde": [
+   "pp-pensiones-1:e4"
+  ]
+ },
+ "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion164/20260226/Votacion023/VOT_20260226153402.pdf": {
+  "codigo": "200",
+  "donde": [
+   "pp-pensiones-1:e5"
+  ]
+ },
+ "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion156/20260127/Votacion001/VOT_20260127153132.pdf": {
+  "codigo": "200",
+  "donde": [
+   "pp-pensiones-1:e6"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2018-9268": {
+  "codigo": "200",
+  "donde": [
+   "pp-pensiones-1:e8"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2021-21652": {
+  "codigo": "200",
+  "donde": [
+   "pp-pensiones-1:e9",
+   "b06:dato",
+   "b06:e2"
+  ]
+ },
+ "https://www.eldiario.es/desalambre/524-621-personas-aznar-576-506-zapatero-anteriores-regularizaciones-migrantes_1_12938538.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-inmigracion-1:e1"
+  ]
+ },
+ "https://rtvc.es/todo-el-congreso-menos-vox-apoya-tramitar-la-regularizacion-de-extranjeros/": {
+  "codigo": "200",
+  "donde": [
+   "pp-inmigracion-1:e2"
+  ]
+ },
+ "https://sid-inico.usal.es/noticias/la-regularizacion-de-migrantes-cumple-un-mes-polemicas-politicas-recursos-judiciales-y-sin-foto-en-el-congreso/": {
+  "codigo": "403",
+  "donde": [
+   "pp-inmigracion-1:e3"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/lang/en/gobierno/councilministers/paginas/2026/20260414-council-press-conference.aspx": {
+  "codigo": "200",
+  "donde": [
+   "pp-inmigracion-1:e4"
+  ]
+ },
+ "https://www.cidob.org/publicaciones/claves-para-entender-regularizacion-extraordinaria-espana": {
+  "codigo": "200",
+  "donde": [
+   "pp-inmigracion-1:e5"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/en/Judiciary/Supreme-Court/Pressroom/Press-Archive/El-Tribunal-Supremo-confirma-penas-de-hasta-51-anos-de-prision-para-los-procesados-en-el--caso-Gurtel-": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-2:e1"
+  ]
+ },
+ "https://www.elindependiente.com/politica/2018/05/24/el-tribunal-sentencia-que-el-pp-tenia-una-caja-b-desde-su-refundacion/amp/": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-2:e2"
+  ]
+ },
+ "https://es.ara.cat/politica/visto-sentencia-juicio-caso-kitchen-le-buscaba-policia-espanola-luis-barcenas_1_5810924.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-2:e3"
+  ]
+ },
+ "https://www.eldebate.com/espana/20230509/constitucional-admite-tramite-recurso-pp-contra-sedicion-vox-contra-ley-trans_113411.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-2:e4"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-2:e5"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3441": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-2:e6"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-el-delito-de-defraudacion-tributaria-en-el-caso--Papeles-de-Barcenas--y-reduce-las-penas-al-apreciar-dilaciones-indebidas": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-2:e7"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/La-Audiencia-Nacional-condena-a-23-personas-en-la-pieza-Gurtel-Boadilla": {
+  "codigo": "200",
+  "donde": [
+   "pp-instituciones-2:e8"
+  ]
+ },
+ "https://www.infobae.com/espana/2023/06/28/el-tribunal-constitucional-admite-el-recurso-del-pp-contra-la-ley-trans-y-lgtbi-mientras-el-partido-reivindica-el-orgullo/": {
+  "codigo": "200",
+  "donde": [
+   "pp-igualdad-1:e1"
+  ]
+ },
+ "https://www.menorca.info/actualidad/nacional/2025/04/28/2375649/pospone-sentencia-sobre-ley-trans-irene-montero-ante-division-mayoria-progresista.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-igualdad-1:e2"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2016-6728": {
+  "codigo": "200",
+  "donde": [
+   "pp-igualdad-1:e3"
+  ]
+ },
+ "https://elderecho.com/el-tc-admite-el-recurso-del-gobierno-y-suspende-varios-articulos-de-la-ley-trans-valenciana": {
+  "codigo": "200",
+  "donde": [
+   "pp-igualdad-1:e4"
+  ]
+ },
+ "https://hj.tribunalconstitucional.es/es/Resolucion/Show/23106": {
+  "codigo": "200",
+  "donde": [
+   "pp-igualdad-1:e5"
+  ]
+ },
+ "https://elespanol.com/espana/tribunales/20250409/tc-estima-recurso-pedro-sanchez-tumba-ley-lgtbi-ayuso-invadir-competencias/1003743706496_0.html": {
+  "codigo": "200",
+  "donde": [
+   "pp-igualdad-1:e6"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2023-5366": {
+  "codigo": "200",
+  "donde": [
+   "pp-igualdad-1:e7"
+  ]
+ },
+ "https://maldita.es/malditahemeroteca/20260430/vivienda-social-espana-sanchez/": {
+  "codigo": "200",
+  "donde": [
+   "psoe-vivienda-1:e1",
+   "b12:dato",
+   "b12:e2"
+  ]
+ },
+ "https://www.eldiario.es/economia/gran-asignatura-pendiente-vivienda-pisos-publicos-comunidades_1_13574570.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-vivienda-1:e2"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/fomento/Paginas/2019/140319-vivienda.aspx": {
+  "codigo": "200",
+  "donde": [
+   "psoe-vivienda-1:e3"
+  ]
+ },
+ "https://forbes.es/economia/897183/el-numero-de-viviendas-protegidas-retrocedio-un-227-en-2025-hasta-las-11-104-unidades/": {
+  "codigo": "200",
+  "donde": [
+   "psoe-vivienda-1:e4"
+  ]
+ },
+ "https://www.eldiario.es/economia/casa-47-nueva-empresa-publica-vivienda-suelo-echa-andar_1_12842696.amp.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-vivienda-1:e5"
+  ]
+ },
+ "https://www.articulo14.es/economia/el-tribunal-de-cuentas-cuestiona-el-destino-de-8805-millones-del-plan-de-vivienda-asequible-de-2024-20260507.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-vivienda-1:e6"
+  ]
+ },
+ "https://elderecho.com/el-congreso-deroga-los-dos-reales-decretos-ley-en-materia-de-vivienda": {
+  "codigo": "200",
+  "donde": [
+   "psoe-vivienda-1:e7"
+  ]
+ },
+ "https://es.euronews.com/2026/09/27/espana-cumple-1000-dias-sin-nuevos-presupuestos-es-un-hurto-a-los-ciudadanos": {
+  "codigo": "406",
+  "donde": [
+   "psoe-vivienda-1:e8"
+  ]
+ },
+ "https://www.vozpopuli.com/economia/la-vivienda-sube-un-30-en-la-era-sin-presupuestos-con-el-gasto-estancado-en-el-05-del-pib.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-vivienda-1:e10"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2024-26694": {
+  "codigo": "200",
+  "donde": [
+   "psoe-impuestos-1:e1"
+  ]
+ },
+ "https://www.hacienda.gob.es/Documentacion/Publico/GabineteMinistro/Notas%20Prensa/2022/S.E.HACIENDA/29-09-22-PRESENTACION-PAQUETE-MEDIDAS-FISCALES-2023.pdf": {
+  "codigo": "200",
+  "donde": [
+   "psoe-impuestos-1:e2"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2022-22684": {
+  "codigo": "200",
+  "donde": [
+   "psoe-impuestos-1:e3",
+   "frenteamplio-impuestos-1:e1",
+   "podemos-impuestos-2:e1",
+   "b20:e2"
+  ]
+ },
+ "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=22/01/2025": {
+  "codigo": "200",
+  "donde": [
+   "psoe-impuestos-1:e4"
+  ]
+ },
+ "https://boe.es/boe/dias/2026/02/28/pdfs/BOE-A-2026-4670.pdf": {
+  "codigo": "200",
+  "donde": [
+   "psoe-impuestos-1:e5"
+  ]
+ },
+ "https://www.hacienda.gob.es/es-ES/Prensa/Noticias/Paginas/2025/20251223-NP-CM-PRORROGA-PGE.aspx": {
+  "codigo": "200",
+  "donde": [
+   "psoe-impuestos-1:e6",
+   "b13:dato",
+   "b13:e3"
+  ]
+ },
+ "https://www.aedaf.es/es/documentos/descarga/74565/hacienda-grava-la-rentabilidad-del-ahorro-12-puntos-mas-que-la-media-de-la-ocde": {
+  "codigo": "200",
+  "donde": [
+   "psoe-impuestos-1:e7"
+  ]
+ },
+ "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tax_revenue_statistics": {
+  "codigo": "200",
+  "donde": [
+   "psoe-impuestos-1:e8"
+  ]
+ },
+ "https://www.democrata.es/elecciones-generales-espana/partidos-subir-impuestos-elecciones-29n/": {
+  "codigo": "200",
+  "donde": [
+   "psoe-impuestos-1:e9"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2025/060525-rueda-de-prensa-ministros.aspx": {
+  "codigo": "200",
+  "donde": [
+   "psoe-empleo-1:e1"
+  ]
+ },
+ "https://www.congreso.es/es/opendata/votaciones?p_p_id=votaciones&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&targetLegislatura=XV&targetDate=10/09/2025": {
+  "codigo": "200",
+  "donde": [
+   "psoe-empleo-1:e2"
+  ]
+ },
+ "https://www.elsaltodiario.com/reduccion-jornada/congreso-rechaza-reduccion-jornada-laboral-diaz-promete-volver-intentarlo": {
+  "codigo": "200",
+  "donde": [
+   "psoe-empleo-1:e3"
+  ]
+ },
+ "https://www.elsaltodiario.com/reduccion-jornada/asi-es-acuerdo-fija-jornada-laboral-maxima-37-horas-media": {
+  "codigo": "200",
+  "donde": [
+   "psoe-empleo-1:e4"
+  ]
+ },
+ "https://elespanol.com/invertia/economia/empleo/20250128/sabemos-no-plan-diaz-cuerpo-reducir-jornada-laboral-horas/919658619_0.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-empleo-1:e5"
+  ]
+ },
+ "https://talent24h.okdiario.com/yolanda-diaz-acelera-el-nuevo-registro-horario-tras-los-cambios-del-consejo-de-estado/": {
+  "codigo": "200",
+  "donde": [
+   "psoe-empleo-1:e6",
+   "frenteamplio-empleo-1:e7"
+  ]
+ },
+ "https://www.boe.es/eli/es/rd/2026/02/18/126/con": {
+  "codigo": "200",
+  "donde": [
+   "psoe-empleo-1:e7",
+   "frenteamplio-empleo-1:e5",
+   "b15:dato",
+   "b15:e1"
+  ]
+ },
+ "https://www.bbvaresearch.com/publicaciones/espana-propuesta-de-reduccion-de-la-jornada-laboral-incidencia-e-impacto-potencial/": {
+  "codigo": "200",
+  "donde": [
+   "psoe-empleo-1:e8"
+  ]
+ },
+ "https://www.ondavasca.com/la-jornada-laboral-se-reduce-un-ano-despues-del-intento-de-las-375-horas/amp/": {
+  "codigo": "200",
+  "donde": [
+   "psoe-empleo-1:e9",
+   "frenteamplio-empleo-1:e9"
+  ]
+ },
+ "https://ine.es/dyngs/Prensa/EPA3T26.htm": {
+  "codigo": "200",
+  "donde": [
+   "psoe-empleo-1:e10"
+  ]
+ },
+ "https://www.sanidad.gob.es/gl/estadEstudios/estadisticas/inforRecopilaciones/docs/Nota_Resumen_SISLE__dic25.pdf": {
+  "codigo": "000",
+  "donde": [
+   "psoe-sanidad-1:e1",
+   "frenteamplio-sanidad-1:e6"
+  ]
+ },
+ "https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/docs/LLEE_SNS_IndicadoresResumen_Diciembre2018.pdf": {
+  "codigo": "000",
+  "donde": [
+   "psoe-sanidad-1:e2"
+  ]
+ },
+ "https://www.sanidad.gob.es/eu/estadEstudios/estadisticas/inforRecopilaciones/docs/Datos_ccaa_dic2025_rectificado.pdf": {
+  "codigo": "000",
+  "donde": [
+   "psoe-sanidad-1:e3"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/sanidad14/Paginas/2026/130526-gasto-sanitario-publico-2024.aspx": {
+  "codigo": "200",
+  "donde": [
+   "psoe-sanidad-1:e4"
+  ]
+ },
+ "https://www.redaccionmedica.com/politica/20230530/el-pone-en-jaque-el-pacto-sanitario-psoe-podemos-que-queda-por-hacer/212592_0.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-sanidad-1:e5"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/sanidad14/paginas/2026/100826-plazas-formacion-sanitaria-especializada.aspx": {
+  "codigo": "200",
+  "donde": [
+   "psoe-sanidad-1:e6"
+  ]
+ },
+ "https://www.diarioestrategia.cl/texto-diario/mostrar/5449015/airef-creara-estadistica-homogenea-sobre-listas-espera-sanitarias": {
+  "codigo": "200",
+  "donde": [
+   "psoe-sanidad-1:e7"
+  ]
+ },
+ "https://www.articulo14.es/economia/sanidad-cambiara-como-se-cuentan-las-listas-de-espera-mas-de-850-000-pacientes-esperan-una-operacion-20261002.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-sanidad-1:e8"
+  ]
+ },
+ "https://maldita.es/malditahemeroteca/20250331/sanchez-2015-derogar-ley-mordaza/": {
+  "codigo": "200",
+  "donde": [
+   "psoe-seguridad-1:e1"
+  ]
+ },
+ "https://www.elespanol.com/espana/politica/20230314/erc-bildu-ley-mordaza-no-prohibir-sanchez/748175619_0.amp.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-seguridad-1:e2"
+  ]
+ },
+ "https://www.elsaltodiario.com/elecciones/psoe-no-incluye-derogacion-ley-mordaza-programa": {
+  "codigo": "200",
+  "donde": [
+   "psoe-seguridad-1:e3"
+  ]
+ },
+ "https://theobjective.com/espana/politica/2024-10-29/reforma-ley-mordaza-congreso/": {
+  "codigo": "200",
+  "donde": [
+   "psoe-seguridad-1:e4"
+  ]
+ },
+ "https://www.eldiario.es/politica/ley-mordaza-cumple-undecimo-aniversario-derogacion-estancada-congreso_1_13279703.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-seguridad-1:e5",
+   "b04:dato",
+   "b04:e2",
+   "b05:dato",
+   "b05:e3"
+  ]
+ },
+ "https://elderecho.com/las-multas-por-la-ley-mordaza-aumentan-un-17-en-2023": {
+  "codigo": "200",
+  "donde": [
+   "psoe-seguridad-1:e6"
+  ]
+ },
+ "https://hj.tribunalconstitucional.es/es/Resolucion/GetDocumentResolucion/26498": {
+  "codigo": "200",
+  "donde": [
+   "psoe-seguridad-1:e7"
+  ]
+ },
+ "https://www.vozpopuli.com/espana/politica/el-choque-entre-pnv-y-bildu-sobre-la-autoridad-de-los-agentes-bloquea-la-reforma-de-la-ley-mordaza.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-seguridad-1:e8"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/igualdad/paginas/2026/250326-ejecutadas-mitad-medidas-violencia-genero.aspx": {
+  "codigo": "200",
+  "donde": [
+   "psoe-igualdad-1:e1"
+  ]
+ },
+ "https://violenciagenero.igualdad.gob.es/wp-content/uploads/GREVIO202411_First-thematic-evaluation-report_Spain_ES.pdf": {
+  "codigo": "200",
+  "donde": [
+   "psoe-igualdad-1:e2",
+   "podemos-igualdad-2:e9",
+   "podemos-igualdad-2:e10"
+  ]
+ },
+ "https://maldita.es/malditobulo/20250925/fallos-pulseras-telematicas-maltratadores/": {
+  "codigo": "200",
+  "donde": [
+   "psoe-igualdad-1:e3"
+  ]
+ },
+ "https://www.elespanol.com/reportajes/20260621/igualdad-renovo-contrato-pulseras-pese-fallos-favorecia-adjudicataria-actual-informe-tecnico/1003744288717_0.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-igualdad-1:e4"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/En-Portada/Los-tribunales-han-acordado-1-233-reducciones-de-pena-en-aplicacion-de-la-Ley-Organica-10-2022": {
+  "codigo": "200",
+  "donde": [
+   "psoe-igualdad-1:e5",
+   "podemos-igualdad-2:e2"
+  ]
+ },
+ "https://www.elespanol.com/espana/20260727/anos-despues-psoe-dice-trabajar-ley-prostitucion-feministas-no-creen-amigos-sanchez-interesa/1003744331442_0.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-igualdad-1:e6"
+  ]
+ },
+ "https://www.eldiario.es/politica/psoe-cierra-caso-salazar-informe-repleto-excusas-da-credibilidad-victimas_1_12842165.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-igualdad-1:e7"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Consejo-General-del-Poder-Judicial/En-Portada/La-violencia-de-genero-en-el-ambito-de-la-pareja-o-expareja-ha-causado-la-muerte-de-una-mujer-cada-6-3-dias-desde-2003": {
+  "codigo": "200",
+  "donde": [
+   "psoe-igualdad-1:e8"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/igualdad/Paginas/2026/161126-condena-feminicidio-asturias.aspx": {
+  "codigo": "200",
+  "donde": [
+   "psoe-igualdad-1:e9"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2023-4513": {
+  "codigo": "200",
+  "donde": [
+   "psoe-instituciones-1:e1"
+  ]
+ },
+ "https://www.hacienda.gob.es/gl-es/prensa/noticias/paginas/2026/20260728-np-cm-proyecto-ley-integridad-publica.aspx": {
+  "codigo": "200",
+  "donde": [
+   "psoe-instituciones-1:e2"
+  ]
+ },
+ "https://www.legaltoday.com/sin-categoria/disolucion-de-las-cortes-la-agenda-anticorrupcion-decae-pero-el-reloj-europeo-sigue-corriendo-2026-10-12/": {
+  "codigo": "200",
+  "donde": [
+   "psoe-instituciones-1:e3"
+  ]
+ },
+ "https://es.ara.cat/politica/gobierno-espanol-queda-defendiendo-ley-lobis_1_5851591.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-instituciones-1:e4"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Notas-de-prensa/El-Tribunal-Supremo-condena-al-exministro-Jose-Luis-Abalos-y-a-su-exasesor-Koldo-Garcia-a-24-anos-y-19-anos-de-prision--respectivamente--por-delitos-de-organizacion-criminal--cohecho--malversacion-y-trafico-de-influencias": {
+  "codigo": "200",
+  "donde": [
+   "psoe-instituciones-1:e5"
+  ]
+ },
+ "https://www.elindependiente.com/espana/2026/02/02/el-supremo-remite-la-investigacion-a-santos-cerdan-por-el-amano-de-obras-a-la-audiencia-nacional/amp/": {
+  "codigo": "200",
+  "donde": [
+   "psoe-instituciones-1:e6"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Extremadura/Noticias-Judiciales-TSJ-Extremadura/La-Audiencia-de-Badajoz-condena-a-penas-inhabilitacion-a-los-acusados-en-la-causa-por-la-creacion-y-adjudicacion-de-una-plaza-de-coordinador-de-actividades-de-los-conservatorios-en-la-Diputacion-pacense-": {
+  "codigo": "200",
+  "donde": [
+   "psoe-instituciones-1:e7"
+  ]
+ },
+ "https://www.ey.com/es_es/the-cfo-agenda/analisis-indice-percepcion-corrupcion-2025": {
+  "codigo": "200",
+  "donde": [
+   "psoe-instituciones-1:e8"
+  ]
+ },
+ "https://www.publico.es/politica/comision-europea-afea-espana-pocos-avances-planes-anticorrupcion.html": {
+  "codigo": "200",
+  "donde": [
+   "psoe-instituciones-1:e9"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/presidencia-justicia-relaciones-cortes/paginas/2025/010825-informe-greco-avance.aspx": {
+  "codigo": "200",
+  "donde": [
+   "psoe-instituciones-1:e10"
+  ]
+ },
+ "https://eur-lex.europa.eu/eli/dir/2022/542/oj/spa": {
+  "codigo": "200",
+  "donde": [
+   "vox-vivienda-1:e1"
+  ]
+ },
+ "https://www.elindependiente.com/wp-content/uploads/2026/04/PactoPPVox_Extremadura_16abril2026.pdf": {
+  "codigo": "200",
+  "donde": [
+   "vox-vivienda-1:e2",
+   "vox-impuestos-1:e4",
+   "vox-inmigracion-3:e1",
+   "vox-instituciones-2:e8"
+  ]
+ },
+ "https://www.elespanol.com/aragon/20260424/pp-vox-dejan-solo-medias-rebaja-impuesto-sucesiones-prometida-reforma-fiscal-aragon/1003744218405_0.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-vivienda-1:e3",
+   "vox-impuestos-1:e5"
+  ]
+ },
+ "https://www.elespanol.com/castilla-y-leon/region/20260604/claves-semanticas-pacto-pp-vox-castilla-leon-burkas-desregulacion-prioridad-nacional-concordia/1003744272310_0.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-vivienda-1:e4"
+  ]
+ },
+ "https://www.merca2.es/2024/09/14/vox-pide-la-proxima-semana-al-congreso-quitar-el-iva-en-la-compra-de-primera-vivienda-pero-solo-a-espanoles-1906027/": {
+  "codigo": "200",
+  "donde": [
+   "vox-vivienda-1:e5"
+  ]
+ },
+ "https://www.eldiario.es/economia/vox_1_1159266.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-vivienda-1:e6",
+   "vox-impuestos-1:e3"
+  ]
+ },
+ "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Fich/InfAnual_2023_Cap4.pdf": {
+  "codigo": "200",
+  "donde": [
+   "vox-vivienda-1:e7"
+  ]
+ },
+ "https://www.democrata.es/economia/iva-vivienda-nueva-250000-euros-pp-vox/": {
+  "codigo": "200",
+  "donde": [
+   "vox-vivienda-1:e8"
+  ]
+ },
+ "https://www.democrata.es/elecciones-generales-espana/vox-lleva-29n-su-receta-economica-con-rebajas-fiscales-recorte-gasto-reforma-pensiones/": {
+  "codigo": "200",
+  "donde": [
+   "vox-impuestos-1:e1"
+  ]
+ },
+ "https://forbes.es/economia/437448/vox-lleva-al-congreso-su-ley-de-dos-tipos-de-irpf-15-para-menos-de-70-000-euros-y-25-para-rentas-superiores/": {
+  "codigo": "200",
+  "donde": [
+   "vox-impuestos-1:e2"
+  ]
+ },
+ "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Government_finance_statistics_-_quarterly_data": {
+  "codigo": "000",
+  "donde": [
+   "vox-impuestos-1:e6"
+  ]
+ },
+ "https://www.funcas.es/wp-content/uploads/2026/01/NOTAPRENSA-7.pdf": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-2:e1"
+  ]
+ },
+ "https://www.elespanol.com/mundo/europa/20260601/ue-aprueba-norma-acelerar-deportaciones-migrantes-espana-tercer-pais-peores-resultados/1003744268653_0.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-2:e2",
+   "vox-inmigracion-2:e3"
+  ]
+ },
+ "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32008L0115": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-2:e4",
+   "salf-inmigracion-1:e2"
+  ]
+ },
+ "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion034/20240409/Votacion001/VOT_20240409210629.pdf": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-2:e5"
+  ]
+ },
+ "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion085/20241212/Votacion006/VOT_20241212130538.pdf": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-2:e6"
+  ]
+ },
+ "https://www.articulo14.es/politica/pp-rechaza-mocion-vox-congreso-prioridad-nacional-20260422.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-2:e7"
+  ]
+ },
+ "https://es.euronews.com/my-europe/2026/05/22/espana-tribunal-supremo-descarta-paralizar-cautelarmente-regularizacion-inmigrantes": {
+  "codigo": "406",
+  "donde": [
+   "vox-inmigracion-2:e8",
+   "frenteamplio-inmigracion-1:e5"
+  ]
+ },
+ "https://www.eldebate.com/espana/20250709/rocio-meer-vox-no-hemos-cambiado-hay-hacer-deportaciones-masivas-porque-hubo-entradas-masivas_315265.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-2:e9"
+  ]
+ },
+ "https://es.ara.cat/politica/blanquear-franquismo-toros-lengua-impronta-vox-gobiernos_1_5086702.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-2:e10",
+   "vox-igualdad-1:e4"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-3:e2",
+   "frenteamplio-inmigracion-1:e6",
+   "salf-inmigracion-1:e3"
+  ]
+ },
+ "https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-07/cp240115en.pdf": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-3:e3"
+  ]
+ },
+ "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/Votacion013/VOT_20260625150740.pdf": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-3:e4"
+  ]
+ },
+ "https://www.elespanol.com/espana/politica/20260423/pp-refuta-vox-extranjeros-arraigo-mismo-derecho-espanoles-aplicar-prioridad-nacional/1003744218096_0.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-3:e5"
+  ]
+ },
+ "https://www.elindependiente.com/wp-content/uploads/2026/05/PNL-Prioridad-Nacional.pdf": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-3:e6"
+  ]
+ },
+ "https://www.elespanol.com/aragon/actualidad/20260610/aragon-reactiva-ley-vivienda-empezara-aplicar-prioridad-nacional-tarde-primer-trimestre/1003744280588_0.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-3:e7"
+  ]
+ },
+ "https://www.elespanol.com/aragon/20260427/prioridad-nacional-pactos-pp-vox-extremadura-aragon-lista-medidas-aplica/1003744222683_0.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-3:e8"
+  ]
+ },
+ "https://www.diaridetarragona.com/espana/258479/prioridad-nacional-pacto-pp-vox-aragon-alcance-politico-dudas-legales.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-inmigracion-3:e9"
+  ]
+ },
+ "https://www.elindependiente.com/espana/2026/06/24/vox-recibio-12-millones-de-dinero-publico-en-2025-dono-dos-a-disenso-y-saldo-el-prestamo-hungaro/": {
+  "codigo": "200",
+  "donde": [
+   "vox-instituciones-2:e1"
+  ]
+ },
+ "https://www.publico.es/politica/vox-baso-63-financiacion-2022-subvenciones-publicas.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-instituciones-2:e2"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-anula-una-sancion-de-860-000-euros-del-Tribunal-de-Cuentas-a-VOX-porque-carece-de-base-probatoria": {
+  "codigo": "200",
+  "donde": [
+   "vox-instituciones-2:e3"
+  ]
+ },
+ "https://www.eldiario.es/politica/tribunal-cuentas-denuncia-falta-colaboracion-banco-hungaro-mbh-prestamo-6-5-millones-vox_1_12174490.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-instituciones-2:e4"
+  ]
+ },
+ "https://www.articulo14.es/politica/anticorrupcion-archiva-la-investigacion-a-vox-por-financiacion-irregular-20250616.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-instituciones-2:e5"
+  ]
+ },
+ "https://www.eldebate.com/espana/castilla-y-leon/20260604/pp-vox-le-meteran-hachazo-50-subvenciones-patronales-sindicatos-castilla-leon_424872.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-instituciones-2:e6"
+  ]
+ },
+ "https://www.eldiario.es/castilla-y-leon/politica/nueva-sentencia-tsj-junta-castilla-leon-recortes-vox-ugt-ilegales_1_12138554.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-instituciones-2:e7"
+  ]
+ },
+ "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion095/20250226/Votacion022/VOT_20250226151621.pdf": {
+  "codigo": "200",
+  "donde": [
+   "vox-igualdad-1:e1"
+  ]
+ },
+ "https://theobjective.com/espana/politica/2025-02-18/vox-pacto-violencia-genero-despilfarro/": {
+  "codigo": "200",
+  "donde": [
+   "vox-igualdad-1:e2"
+  ]
+ },
+ "https://theobjective.com/wp-content/uploads/2023/01/acuerdo-pp-vox.pdf": {
+  "codigo": "200",
+  "donde": [
+   "vox-igualdad-1:e3"
+  ]
+ },
+ "https://www.elsaltodiario.com/castilla-y-leon/vox-vuelve-inspirar-al-pp-acuerdo-castilla-leon-prioridad-nacional-privatizacion": {
+  "codigo": "200",
+  "donde": [
+   "vox-igualdad-1:e5"
+  ]
+ },
+ "https://hj.tribunalconstitucional.es/es/Resolucion/Show/6291": {
+  "codigo": "200",
+  "donde": [
+   "vox-igualdad-1:e6"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5947": {
+  "codigo": "200",
+  "donde": [
+   "vox-igualdad-1:e7"
+  ]
+ },
+ "https://violenciagenero.igualdad.gob.es/violenciaEnCifras/victimasMortales/fichaMujeres/": {
+  "codigo": "200",
+  "donde": [
+   "vox-igualdad-1:e8"
+  ]
+ },
+ "https://es.ara.cat/sociedad/justicia/datos-desmontan-mito-denuncias-falsas-0-0005-son_1_5572202.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-igualdad-1:e9"
+  ]
+ },
+ "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion041/20200915/Votacion002/VOT_20201120110127.pdf": {
+  "codigo": "200",
+  "donde": [
+   "vox-territorio-1:e1"
+  ]
+ },
+ "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion021/20240220/Votacion001/VOT_20240220203625.pdf": {
+  "codigo": "200",
+  "donde": [
+   "vox-territorio-1:e2"
+  ]
+ },
+ "https://hj.tribunalconstitucional.es/es/Resolucion/Show/4823": {
+  "codigo": "200",
+  "donde": [
+   "vox-territorio-1:e3"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2002-12756": {
+  "codigo": "200",
+  "donde": [
+   "vox-territorio-1:e4"
+  ]
+ },
+ "https://es.ara.cat/politica/llevar-sanchez-carcel-penas-ultrajar-espana-cuotas-inmigrantes-aulas-programa-vox_1_5909616.html": {
+  "codigo": "200",
+  "donde": [
+   "vox-territorio-1:e5"
+  ]
+ },
+ "https://www.infobae.com/espana/2023/06/23/sumar-propone-establecer-por-ley-una-jornada-laboral-maxima-de-375-horas-en-2024-y-avanzar-hasta-reducirla-a-32/": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-empleo-1:e1"
+  ]
+ },
+ "https://es.ara.cat/politica/psoe-sumar-cierran-acuerdo-reeditar-gobierno-coalicion_1_4836911.html": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-empleo-1:e2",
+   "frenteamplio-igualdad-1:e3"
+  ]
+ },
+ "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-135.PDF": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-empleo-1:e3"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2026-8287": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-empleo-1:e4"
+  ]
+ },
+ "https://www.elsaltodiario.com/reforma-laboral/yolanda-diaz-sale-adelante-congreso-diputados": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-empleo-1:e6"
+  ]
+ },
+ "https://www.bbvaresearch.com/publicaciones/espana-como-reducir-la-jornada-laboral/": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-empleo-1:e8"
+  ]
+ },
+ "https://www.elsaltodiario.com/vivienda/sueno-alquiler-asequible-aleja-aun-despues-acuerdo-investidura-psoe-sumar": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-vivienda-1:e1"
+  ]
+ },
+ "https://www.elindependiente.com/espana/2023/04/07/colau-como-referente-mas-vpo-vivienda-mas-cara-y-guerra-al-coche-privado/": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-vivienda-1:e2"
+  ]
+ },
+ "https://es.ara.cat/sociedad/fuerte-impulso-colau-vivienda-publica-no-cumple-promesas_1_3984153.html": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-vivienda-1:e3"
+  ]
+ },
+ "https://es.ara.cat/economia/inmobiliario/radiografia-reserva-30-vivienda-proteccion-oficial_130_5286443.html": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-vivienda-1:e4"
+  ]
+ },
+ "https://www.bolsamania.com/noticias/empresas/economiavivienda--el-numero-de-viviendas-protegidas-retrocedio-un-227-en-2025-hasta-las-11104-unidades--22183456.html": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-vivienda-1:e5"
+  ]
+ },
+ "https://es.ara.cat/economia/inmobiliario/1-5-millones-viviendas-nuevas-deberes-ponerse-nivel-parque-alquiler-social-ocde_1_5006544.html": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-vivienda-1:e6"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-12808": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-vivienda-1:e8"
+  ]
+ },
+ "https://www.democrata.es/politica/congreso-y-senado/ampliacion-el-congreso-tumba-el-primer-decreto-de-vivienda-con-el-rechazo-de-pp-vox-junts-y-upn/": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-vivienda-1:e9"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/paginas/2023/200923-impuesto-solidaridad-grandes-fortunas.aspx": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-impuestos-1:e2"
+  ]
+ },
+ "https://sede.agenciatributaria.gob.es/Sede/eu_es/estadisticas/recaudacion-tributaria/informe-anual/ejercicio-2025/6-otros-impuestos.html": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-impuestos-1:e3"
+  ]
+ },
+ "https://www.xataka.com/empresas-y-economia/grandes-fortunas-espana-habian-esquivado-impuesto-patrimonio-durante-decadas-2023-99-ha-optado-pagarlo": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-impuestos-1:e4"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/paginas/2024/270424-gravamenes-banca.aspx": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-impuestos-1:e5",
+   "podemos-impuestos-2:e2",
+   "b20:dato",
+   "b20:e3"
+  ]
+ },
+ "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-1137": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-impuestos-1:e6"
+  ]
+ },
+ "https://www.bolsamania.com/noticias_print/economia/economia--psoe-pp-y-vox-rechazan-en-el-congreso-impulsar-el-impuesto-a-los-aviones-y-yates-de-lujo-que-quiere-sumar--19682506.html": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-impuestos-1:e7"
+  ]
+ },
+ "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-361-1.PDF": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-impuestos-1:e8"
+  ]
+ },
+ "https://www.aeaweb.org/articles?id=10.1257/app.20220615": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-impuestos-1:e9"
+  ]
+ },
+ "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6748": {
+  "codigo": "000",
+  "donde": [
+   "frenteamplio-sanidad-1:e1"
+  ]
+ },
+ "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6917": {
+  "codigo": "000",
+  "donde": [
+   "frenteamplio-sanidad-1:e2"
+  ]
+ },
+ "https://www.sanidad.gob.es/areas/carteraServicios/planVeo.htm": {
+  "codigo": "000",
+  "donde": [
+   "frenteamplio-sanidad-1:e3"
+  ]
+ },
+ "https://diariodeavisos.elespanol.com/2026/10/ayudas-100-euros-gafas-2027-plan-veo/": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-sanidad-1:e4"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2024/20241217-referencia-rueda-de-prensa-ministros.aspx": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-sanidad-1:e5"
+  ]
+ },
+ "https://www.sanidad.gob.es/estadEstudios/estadisticas/docs/EGSP2008/egspPrincipalesResultados.pdf": {
+  "codigo": "000",
+  "donde": [
+   "frenteamplio-sanidad-1:e7"
+  ]
+ },
+ "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6961": {
+  "codigo": "000",
+  "donde": [
+   "frenteamplio-sanidad-1:e8"
+  ]
+ },
+ "https://podemos.info/wp-content/uploads/2019/10/Podemos_programa_generales_10N.pdf": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-igualdad-1:e1",
+   "podemos-energia-1:e1",
+   "podemos-exterior-1:e2"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2019-3244": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-igualdad-1:e2"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-igualdad-1:e4"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2025-15741": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-igualdad-1:e5"
+  ]
+ },
+ "https://noticias.juridicas.com/actualidad/jurisprudencia/20481-el-tjue-condena-a-espana-por-no-transponer-a-tiempo-la-directiva-europea-sobre-conciliacion-laboral-y-familiar/": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-igualdad-1:e6"
+  ]
+ },
+ "https://www.elespanol.com/sociedad/20260419/ue-presiona-espana-reclama-sigue-sin-pagar-permiso-parental-semanas/1003744206459_0.html": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-igualdad-1:e7"
+  ]
+ },
+ "https://www.elsaltodiario.com/feminismos/violencia-vicaria-trata-familias-reforma-lopivi-proyectos-igualdad-decaen-elecciones-anticipadas": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-igualdad-1:e8"
+  ]
+ },
+ "https://www.elindependiente.com/economia/2025/07/31/gasto-permisos-nacimiento-cuidados-crecera-41-ampliacion-gobierno/amp/": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-igualdad-1:e9"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8284": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-inmigracion-1:e1"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/020726-balance-regularizacion-extraordinaria.aspx": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-inmigracion-1:e2"
+  ]
+ },
+ "https://www.diariosigloxxi.com/texto-ep/mostrar/20260723141748/70-solicitudes-regularizacion-extraordinaria-estan-tramitacion-segun-saiz": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-inmigracion-1:e3"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-acuerda-no-plantear-en-este-momento-procesal-cuestion-prejudicial-al-TJUE-sobre-el-Real-Decreto-de-regularizacion-de-extranjeros": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-inmigracion-1:e4"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2024-24099": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-inmigracion-1:e7"
+  ]
+ },
+ "https://www.eldiario.es/desalambre/gobierno-recibido-908-288-solicitudes-regularizacion-migrantes_1_13302332.html": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-inmigracion-1:e8"
+  ]
+ },
+ "https://nato.int/content/dam/nato/webready/documents/finance/def-exp-2025-en.pdf": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-exterior-1:e1",
+   "podemos-exterior-1:e3"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2025/20250422-RdP-presidente-gobierno-consejo-ministros.aspx": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-exterior-1:e2"
+  ]
+ },
+ "https://www.eldiario.es/politica/sumar-muestra-desacuerdo-nuevo-gasto-defensa-anunciado-sanchez-objeciones-gobierno_1_12237585.html": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-exterior-1:e3"
+  ]
+ },
+ "https://www.publico.es/politica/gobierno/plan-defensa-agranda-distancia-sanchez-aliados.amp.html": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-exterior-1:e4"
+  ]
+ },
+ "https://theobjective.com/espana/politica/2025-04-23/diaz-salud-gobierno-discrepancias-defensa/": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-exterior-1:e5"
+  ]
+ },
+ "https://www.hacienda.gob.es/eu-es/prensa/noticias/noticiaspdf//731.pdf": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-exterior-1:e6"
+  ]
+ },
+ "https://www.nato.int/cps/en/natohq/official_texts_236705.htm": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-exterior-1:e7"
+  ]
+ },
+ "https://www.janes.com/defence-intelligence-insights/defence-and-national-security-analysis/nato-leaders-agree-to-invest-5-of-gdp-on-defence-and-security-by-2035": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-exterior-1:e8"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/presidencia/Documents/2026/080726-July-Spain-in-NATO-Report.pdf": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio-exterior-1:e9"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2023-12203": {
+  "codigo": "200",
+  "donde": [
+   "podemos-vivienda-1:e1",
+   "b12:e5"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/vivienda-agenda-urbana/Paginas/2025/290725-rodriguez-mercado-alquiler.aspx": {
+  "codigo": "200",
+  "donde": [
+   "podemos-vivienda-1:e2"
+  ]
+ },
+ "https://es.ara.cat/economia/inmobiliario/topes-evitan-encarecimiento-alquileres-suben-1-2024_1_5897417.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-vivienda-1:e3"
+  ]
+ },
+ "https://www.idealista.com/news/node/903549": {
+  "codigo": "200",
+  "donde": [
+   "podemos-vivienda-1:e4"
+  ]
+ },
+ "https://www.elespanol.com/invertia/observatorios/vivienda/20260618/banco-espana-avisa-gobierno-limitar-subidas-alquileres-vigor-dispara-precio-nuevos-contratos/1003744290463_0.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-vivienda-1:e5"
+  ]
+ },
+ "https://theobjective.com/espana/tribunales/2025-01-29/constitucional-precios-alquiler-zonas-tensionadas/": {
+  "codigo": "200",
+  "donde": [
+   "podemos-vivienda-1:e6"
+  ]
+ },
+ "https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2021/bvg21-028.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-vivienda-1:e7"
+  ]
+ },
+ "https://www.esdiario.com/economia/250902/166124/apoyara-pge-intervenga-precio-alquiler.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-vivienda-1:e8"
+  ]
+ },
+ "https://www.democrata.es/economia/el-psoe-tumba-el-plan-de-podemos-para-un-super-publico-y-limitar-beneficios-de-las-distribuidoras/": {
+  "codigo": "200",
+  "donde": [
+   "podemos-vivienda-1:e9"
+  ]
+ },
+ "https://diariodeavisos.elespanol.com/2026/10/congreso-tumba-decretos-vivienda-gobierno/": {
+  "codigo": "200",
+  "donde": [
+   "podemos-vivienda-1:e10"
+  ]
+ },
+ "https://www.elespanol.com/espana/politica/20260727/gobierno-aborta-decreto-alquileres-constatar-nacia-muerto-rechazo-frontal-junts-podemos/1003744334972_0.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-vivienda-1:e11"
+  ]
+ },
+ "https://www.eldiario.es/politica/anuncia-pacto-psoe-regular-alquiler-frenando-subidas-zonas-tensionadas-nueva-ley_1_8044861.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-vivienda-1:e12"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/Paginas/2023/200923-impuesto-solidaridad-grandes-fortunas.aspx": {
+  "codigo": "200",
+  "donde": [
+   "podemos-impuestos-2:e3"
+  ]
+ },
+ "https://www.garrigues.com/es_ES/noticia/esta-es-situacion-actual-impuesto-grandes-fortunas": {
+  "codigo": "200",
+  "donde": [
+   "podemos-impuestos-2:e4"
+  ]
+ },
+ "https://eldiario.es/economia/congreso-aprueba-reforma-fiscal-impuesto-banca-compromiso-prorrogar-energeticas_1_11839252.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-impuestos-2:e5"
+  ]
+ },
+ "https://www.bolsamania.com/noticias/politica/congreso-rechaza-decreto-gravamen-empresas-energeticas--18614236.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-impuestos-2:e6"
+  ]
+ },
+ "https://www.merca2.es/2024/04/07/podemos-impuesto-banca-50-1634143/": {
+  "codigo": "200",
+  "donde": [
+   "podemos-impuestos-2:e7"
+  ]
+ },
+ "https://www.menorca.info/actualidad/elecciones-10n/2019/11/04/1608746/elecciones-unidas-podemos-recuperara-60000-millones-donados-bancos-1.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-impuestos-2:e8"
+  ]
+ },
+ "https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/Briefing_notes/es/notabe201119.pdf": {
+  "codigo": "200",
+  "donde": [
+   "podemos-impuestos-2:e9"
+  ]
+ },
+ "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-sociedades-2022/principales-novedades-impuesto-sobre-sociedades-2022/tributacion-minima.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-impuestos-2:e10"
+  ]
+ },
+ "https://www.elindependiente.com/economia/2024/12/18/duro-informe-del-bce-contra-el-impuesto-a-la-banca/": {
+  "codigo": "200",
+  "donde": [
+   "podemos-impuestos-2:e11"
+  ]
+ },
+ "https://www.imf.org/es/news/articles/2025/04/10/mcs-041025-spain-staff-concluding-statement-of-the-2025-article-iv-mission": {
+  "codigo": "403",
+  "donde": [
+   "podemos-impuestos-2:e12"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-3982": {
+  "codigo": "200",
+  "donde": [
+   "podemos-empleo-1:e1"
+  ]
+ },
+ "https://d500.epimg.net/descargables/2019/12/30/4ff5f0a5b64c2a18ad4a5f829e8e984d.pdf": {
+  "codigo": "200",
+  "donde": [
+   "podemos-empleo-1:e2",
+   "podemos-energia-1:e2",
+   "podemos-instituciones-1:e4"
+  ]
+ },
+ "https://www.elsaltodiario.com/congreso-de-los-diputados/podemos-propone-salario-minimo-1200-euros-pactar-psoe": {
+  "codigo": "200",
+  "donde": [
+   "podemos-empleo-1:e3"
+  ]
+ },
+ "https://www.eldebate.com/espana/20230916/exigencias-podemos-investir-sanchez-continuidad-montero-igualdad-smi-1-500_140376.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-empleo-1:e4"
+  ]
+ },
+ "https://www.diaridetarragona.com/economia/224527/podemos-se-adelanta-a-sumar-y-registra-una-ley-para-no-tributar-por-el-salario-minimo-fk22938058.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-empleo-1:e5"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-24189": {
+  "codigo": "200",
+  "donde": [
+   "podemos-empleo-1:e6"
+  ]
+ },
+ "https://ine.es/dyngs/Prensa/EAES2024.htm": {
+  "codigo": "200",
+  "donde": [
+   "podemos-empleo-1:e7"
+  ]
+ },
+ "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Minimum_wage_statistics": {
+  "codigo": "200",
+  "donde": [
+   "podemos-empleo-1:e8"
+  ]
+ },
+ "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022L2041": {
+  "codigo": "200",
+  "donde": [
+   "podemos-empleo-1:e9"
+  ]
+ },
+ "https://www.bde.es/wbe/es/publicaciones/analisis-economico-investigacion/documentos-ocasionales/efectos-salario-minimo-interprofesional-empleo-nueva-evidencia-para-espana.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-empleo-1:e10"
+  ]
+ },
+ "https://www.elespanol.com/invertia/economia/empleo/20260530/subidas-salario-minimo-causaron-destruccion-empleos-airef/1003744266056_0.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-empleo-1:e11"
+  ]
+ },
+ "https://www.congreso.es/docu/tramit/LegXV/tramit_pleno20250910_130.pdf": {
+  "codigo": "200",
+  "donde": [
+   "podemos-empleo-1:e12"
+  ]
+ },
+ "https://www.elsaltodiario.com/congreso-de-los-diputados/congreso-aprueba-manera-definitiva-ley-libertad-sexual": {
+  "codigo": "200",
+  "donde": [
+   "podemos-igualdad-2:e1"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-los-criterios-de-las-Audiencias-Provinciales-en-las-revisiones-de-penas-efectuadas-tras-la-reforma-de-la-Ley-Organica-10-2022-": {
+  "codigo": "200",
+  "donde": [
+   "podemos-igualdad-2:e3"
+  ]
+ },
+ "https://rtvc.es/el-congreso-vota-la-reforma-de-la-ley-del-solo-si-es-si/": {
+  "codigo": "200",
+  "donde": [
+   "podemos-igualdad-2:e4"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2022-14630": {
+  "codigo": "200",
+  "donde": [
+   "podemos-igualdad-2:e5"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/igualdad/Paginas/2024/070624-centros-atencion-violencias-sexuales.aspx": {
+  "codigo": "200",
+  "donde": [
+   "podemos-igualdad-2:e6"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/igualdad/paginas/2025/300725-balance-semestral.aspx": {
+  "codigo": "200",
+  "donde": [
+   "podemos-igualdad-2:e7"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76": {
+  "codigo": "200",
+  "donde": [
+   "podemos-igualdad-2:e8"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/igualdad/paginas/2025/261225-medidas-pacto-violencia-genero.aspx": {
+  "codigo": "200",
+  "donde": [
+   "podemos-igualdad-2:e11"
+  ]
+ },
+ "https://www.eldiario.es/sociedad/alertado-monedero-manoseaba-mujeres-partido-alega-aparto_1_12068031.amp.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-igualdad-2:e12"
+  ]
+ },
+ "https://www.energias-renovables.com/panorama/psoe-pp-vox-y-cs-dicen-no-20220223": {
+  "codigo": "200",
+  "donde": [
+   "podemos-energia-1:e3"
+  ]
+ },
+ "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-308-1.PDF": {
+  "codigo": "200",
+  "donde": [
+   "podemos-energia-1:e4"
+  ]
+ },
+ "https://theobjective.com/espana/politica/2026-02-10/gobierno-ley-podemos-nacionalizar-repsol/": {
+  "codigo": "200",
+  "donde": [
+   "podemos-energia-1:e5"
+  ]
+ },
+ "https://www.bolsamania.com/accion/REPSOL/brokers": {
+  "codigo": "200",
+  "donde": [
+   "podemos-energia-1:e6"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2007-14483": {
+  "codigo": "200",
+  "donde": [
+   "podemos-energia-1:e7"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229": {
+  "codigo": "200",
+  "donde": [
+   "podemos-energia-1:e8",
+   "podemos-instituciones-1:e8",
+   "salf-impuestos-1:e4",
+   "salf-seguridad-1:e2",
+   "salf-seguridad-1:e5",
+   "salf-instituciones-2:e5",
+   "salf-exterior-1:e1",
+   "b13:e1b"
+  ]
+ },
+ "https://valenciaplaza.com/sepi-culmina-compra-10-telefonica-tras-invertir-casi-2285-millones-euros": {
+  "codigo": "200",
+  "donde": [
+   "podemos-energia-1:e9"
+  ]
+ },
+ "https://www.publico.es/economia/desafio-hidroelectrico-cada-cuatro-centrales-pasara-dos-decadas.amp.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-energia-1:e10",
+   "podemos-energia-1:e11"
+  ]
+ },
+ "https://repsol.com/en/shareholders-and-investors/repsol-on-the-stock-exchange/shareholder-structure/index.cshtml": {
+  "codigo": "200",
+  "donde": [
+   "podemos-energia-1:e12"
+  ]
+ },
+ "https://www.publico.es/politica/psoe-pp-y-vox-tumban.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-instituciones-1:e1"
+  ]
+ },
+ "https://theobjective.com/espana/2022-10-04/psoe-pp-vox-juan-carlos-podemos/": {
+  "codigo": "200",
+  "donde": [
+   "podemos-instituciones-1:e2"
+  ]
+ },
+ "https://www.que.es/2020/09/22/mesa-congreso-veta-ley-inviolabilidad-rey/": {
+  "codigo": "200",
+  "donde": [
+   "podemos-instituciones-1:e3"
+  ]
+ },
+ "https://www.vozpopuli.com/espana/erc-enmiedas-casa-rey_0_1415560009.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-instituciones-1:e5"
+  ]
+ },
+ "https://www.moncloa.com/2019/11/04/iglesias-errejon-referendum-monarquia-57926/": {
+  "codigo": "200",
+  "donde": [
+   "podemos-instituciones-1:e6"
+  ]
+ },
+ "https://www.eldiario.es/politica/podemos-monarquia-rey-felipe-vi_1_3304091.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-instituciones-1:e7"
+  ]
+ },
+ "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf": {
+  "codigo": "200",
+  "donde": [
+   "podemos-instituciones-1:e9"
+  ]
+ },
+ "https://hj.tribunalconstitucional.es/HJ/es/Resolucion/GetDocumentResolucion/6335": {
+  "codigo": "200",
+  "donde": [
+   "podemos-instituciones-1:e10"
+  ]
+ },
+ "https://www.eldiario.es/politica/mayoria-espanoles-quiere-referendum-monarquia-republica_1_13582795.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-instituciones-1:e11"
+  ]
+ },
+ "https://www.elsaltodiario.com/corrupcion/fiscalia-archiva-causas-contra-juan-carlos-i": {
+  "codigo": "200",
+  "donde": [
+   "podemos-instituciones-1:e12"
+  ]
+ },
+ "https://www.laboral-social.com/sites/laboral-social.com/files/podemos.pdf": {
+  "codigo": "200",
+  "donde": [
+   "podemos-exterior-1:e1"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/hacienda/Paginas/2022/241122-pge_2023_congreso-aprobacion.aspx": {
+  "codigo": "200",
+  "donde": [
+   "podemos-exterior-1:e4"
+  ]
+ },
+ "https://www.ultimahora.es/noticias/comunidades/2023/05/08/1932865/espana-eeuu-firman-acuerdo-para-dos-destructores-mas-rota-cadiz-robles-comparecera-congreso.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-exterior-1:e5"
+  ]
+ },
+ "https://www.elespanol.com/espana/politica/20220915/gobierno-finlandia-suecia-otan-psoe-podemos-abstencion/703429806_0.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-exterior-1:e6"
+  ]
+ },
+ "https://orain.eus/es/politica/2026/04/22/el-congreso-rechaza-el-referendum-salir-la-otan-pide-podemos/": {
+  "codigo": "200",
+  "donde": [
+   "podemos-exterior-1:e7",
+   "podemos-exterior-1:e9"
+  ]
+ },
+ "https://www.elespanol.com/castilla-y-leon/region/20260302/belarra-pide-sanchez-aclarar-rota-clave-intervencion-eeuu-iran-reclama-salida-inmediata-otan/1003744152155_0.html": {
+  "codigo": "200",
+  "donde": [
+   "podemos-exterior-1:e8"
+  ]
+ },
+ "https://www.nato.int/cps/en/natohq/official_texts_17120.htm?selectedLocale=es": {
+  "codigo": "200",
+  "donde": [
+   "podemos-exterior-1:e10"
+  ]
+ },
+ "https://www.boe.es/eli/es/ai/1988/12/01/(1)": {
+  "codigo": "200",
+  "donde": [
+   "podemos-exterior-1:e11"
+  ]
+ },
+ "https://www.sipri.org/sites/default/files/2026%20MILEX%20PR%20ESP.pdf": {
+  "codigo": "200",
+  "donde": [
+   "podemos-exterior-1:e12"
+  ]
+ },
+ "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf": {
+  "codigo": "403",
+  "donde": [
+   "salf-vivienda-1:e1",
+   "salf-impuestos-1:e1",
+   "salf-impuestos-1:e5",
+   "salf-instituciones-4:e7",
+   "salf:programa"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20375": {
+  "codigo": "200",
+  "donde": [
+   "salf-vivienda-1:e2",
+   "salf-impuestos-1:e2",
+   "b21:dato",
+   "b21:e2"
+  ]
+ },
+ "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022L0542": {
+  "codigo": "200",
+  "donde": [
+   "salf-vivienda-1:e3"
+  ]
+ },
+ "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/": {
+  "codigo": "200",
+  "donde": [
+   "salf-vivienda-1:e4",
+   "salf-impuestos-1:e3",
+   "salf-seguridad-1:e1",
+   "salf-inmigracion-1:e1",
+   "salf-exterior-1:e3"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740": {
+  "codigo": "200",
+  "donde": [
+   "salf-vivienda-1:e5"
+  ]
+ },
+ "https://www.publico.es/resultados-elecciones/autonomicas/2026/aragon": {
+  "codigo": "200",
+  "donde": [
+   "salf-vivienda-1:e6",
+   "salf-impuestos-1:e6",
+   "salf-seguridad-1:e6",
+   "salf-inmigracion-1:e7",
+   "salf-instituciones-2:e8",
+   "salf-exterior-1:e6"
+  ]
+ },
+ "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6794": {
+  "codigo": "000",
+  "donde": [
+   "salf-seguridad-1:e3"
+  ]
+ },
+ "https://www.hrw.org/world-report/2025/country-chapters/el-salvador": {
+  "codigo": "200",
+  "donde": [
+   "salf-seguridad-1:e4"
+  ]
+ },
+ "https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/dam/jcr:7d3776cd-9ca4-4c02-8ca4-96b2571dbee4/Balance%20de%20Criminalidad%20Cuarto%20Trimestre%202025.pdf": {
+  "codigo": "200",
+  "donde": [
+   "salf-seguridad-1:e7"
+  ]
+ },
+ "https://es.euronews.com/2026/01/16/las-repatriaciones-de-inmigrantes-en-la-ue-suben-un-19": {
+  "codigo": "406",
+  "donde": [
+   "salf-inmigracion-1:e4"
+  ]
+ },
+ "https://www.elsaltodiario.com/union-europea/parlamento-europeo-aprueba-manera-definitiva-reglamento-retorno": {
+  "codigo": "200",
+  "donde": [
+   "salf-inmigracion-1:e5"
+  ]
+ },
+ "https://www.eldebate.com/espana/20260504/asi-ganan-sueldo-135000-euros-eurodiputados-1600-enmiendas-mendia-unica-alvise_413007_amp.html": {
+  "codigo": "200",
+  "donde": [
+   "salf-inmigracion-1:e6",
+   "salf-exterior-1:e4"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-pide-un-quinto-suplicatorio-contra--Alvise--Perez-por-delito-de-provocacion-a-desordenes-publicos": {
+  "codigo": "200",
+  "donde": [
+   "salf-instituciones-2:e1"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-instructor-del-Tribunal-Supremo-solicita-el-suplicatorio-de--Alvise--Perez-al-Parlamento-Europeo-en-la-causa-por-delito-electoral-y-financiacion-ilegal-de-su-partido": {
+  "codigo": "200",
+  "donde": [
+   "salf-instituciones-2:e2"
+  ]
+ },
+ "https://en.ara.cat/politics/the-european-parliament-sanctions-alvise-perez-salf-for-not-declaring-all-his-income_25_5333838.html": {
+  "codigo": "200",
+  "donde": [
+   "salf-instituciones-2:e3"
+  ]
+ },
+ "https://www.swissinfo.ch/spa/comisi%C3%B3n-pe%2C-a-favor-de-retirar-inmunidad-a-alvise-p%C3%A9rez-por-caso-de-financiaci%C3%B3n-ilegal/91364904": {
+  "codigo": "200",
+  "donde": [
+   "salf-instituciones-2:e4"
+  ]
+ },
+ "https://www.eldebate.com/espana/20240609/quien-alvise-perez-cual-programa-electoral-acabo-fiesta-cns_203773.html": {
+  "codigo": "200",
+  "donde": [
+   "salf-instituciones-2:e6"
+  ]
+ },
+ "https://www.eldiario.es/1_bfada6": {
+  "codigo": "200",
+  "donde": [
+   "salf-instituciones-2:e9"
+  ]
+ },
+ "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12016M050": {
+  "codigo": "200",
+  "donde": [
+   "salf-exterior-1:e2"
+  ]
+ },
+ "https://www.elindependiente.com/espana/2025/04/21/bronca-alvise-eurodiputados-corrupcion-lobby-ruptura/amp/": {
+  "codigo": "200",
+  "donde": [
+   "salf-exterior-1:e5"
+  ]
+ },
+ "https://www.vozpopuli.com/espana/politica/alvise-reacciona-informacion-vozpopuli-anuncia-el-sorteo-sueldo-dos-meses-despues-prometerlo.html": {
+  "codigo": "200",
+  "donde": [
+   "salf-instituciones-4:e1"
+  ]
+ },
+ "https://es.ara.cat/politica/alvise-perez-excluye-sorteo-sueldo-eurodiputados-asesores-plataforma_1_5125014.amp.html": {
+  "codigo": "200",
+  "donde": [
+   "salf-instituciones-4:e2"
+  ]
+ },
+ "https://www.moncloa.com/2024/10/03/alvise-perez-sueldo-cryptospain-2910061/": {
+  "codigo": "200",
+  "donde": [
+   "salf-instituciones-4:e3"
+  ]
+ },
+ "https://www.vozpopuli.com/espana/la-fundacion-de-huerfanos-de-la-policia-rechaza-50000-euros-del-sueldo-de-alvise-somos-neutrales.html": {
+  "codigo": "200",
+  "donde": [
+   "salf-instituciones-4:e4"
+  ]
+ },
+ "https://www.eldebate.com/espana/20240814/juristas-advierten-sobre-valor-datos-ceden-aspirantes-sueldo-alvise_220073.html": {
+  "codigo": "200",
+  "donde": [
+   "salf-instituciones-4:e5"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-1994-12553": {
+  "codigo": "200",
+  "donde": [
+   "salf-instituciones-4:e6"
+  ]
+ },
+ "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-126.PDF": {
+  "codigo": "200",
+  "donde": [
+   "b01:cita",
+   "b01:e1",
+   "b02:cita",
+   "b02:e1",
+   "b03:cita",
+   "b03:e1",
+   "b04:cita",
+   "b04:e1",
+   "b05:cita",
+   "b05:e1",
+   "b11:cita",
+   "b11:e1",
+   "b14:e1",
+   "b21:cita",
+   "b21:e1"
+  ]
+ },
+ "https://www.boe.es/eli/es/rd/2019/03/04/129": {
+  "codigo": "200",
+  "donde": [
+   "b01:dato",
+   "b01:e3"
+  ]
+ },
+ "https://www.legaltoday.com/rincon-de-reuters/sanchez-pretende-agotar-la-legislatura-hasta-2020-2018-06-19/": {
+  "codigo": "200",
+  "donde": [
+   "b01:e2"
+  ]
+ },
+ "https://maldita.es/malditahemeroteca/20250905/gobierno-sanchez-presupuestos-excusas/": {
+  "codigo": "200",
+  "donde": [
+   "b01:e4",
+   "b13:e2"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-condena-al-exministro-Jose-Luis-Abalos-y-a-su-exasesor-Koldo-Garcia-a-24-anos-y-19-anos-de-prision--respectivamente--por-delitos-de-organizacion-criminal--cohecho--malversacion-y-trafico-de-influencias": {
+  "codigo": "200",
+  "donde": [
+   "b02:dato",
+   "b02:e2"
+  ]
+ },
+ "https://www.infobae.com/espana/agencias/2026/10/14/el-supremo-confirma-las-condenas-de-abalos-y-koldo-al-rechazar-sus-peticiones-de-anular-la-sentencia-de-las-mascarillas/": {
+  "codigo": "200",
+  "donde": [
+   "b02:e3"
+  ]
+ },
+ "https://www.elindependiente.com/espana/2026/08/02/curso-judicial-sentencias-historicas-seis-frentes-psoe/": {
+  "codigo": "200",
+  "donde": [
+   "b02:e4"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11522": {
+  "codigo": "200",
+  "donde": [
+   "b02:e5"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-instructor-del-Tribunal-Supremo-autoriza-a-la-UCO-a-investigar-cuentas--inmuebles-y-el-correo-electronico-corporativo-de-Santos-Cerdan-en-el-PSOE-y-Jose-Luis-Abalos-en-el-Ministerio-de-Fomento": {
+  "codigo": "200",
+  "donde": [
+   "b02:e5b"
+  ]
+ },
+ "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-condena-a-Alvaro-Garcia-Ortiz-por-un-delito-de-revelacion-de-secretos-a-pena-de-multa-y-2-anos-de-inhabilitacion-para-el-cargo-de-fiscal-general-del-Estado": {
+  "codigo": "200",
+  "donde": [
+   "b02:e6"
+  ]
+ },
+ "https://www.vozpopuli.com/tribunales/la-justicia-madrilena-congela-el-juicio-a-begona-gomez-y-ni-siquiera-elige-al-juez-que-presidira-el-jurado.html": {
+  "codigo": "200",
+  "donde": [
+   "b02:e7"
+  ]
+ },
+ "https://www.diariodeleon.es/nacional/261008/2099679/david-sanchez-recurre-condena-prevaricacion-denuncia-investigacion-prospectiva.html": {
+  "codigo": "200",
+  "donde": [
+   "b02:e7b"
+  ]
+ },
+ "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf": {
+  "codigo": "200",
+  "donde": [
+   "b02:e8",
+   "b03:e4",
+   "b04:e4",
+   "b05:e4",
+   "b06:e3",
+   "b07:e4",
+   "b09:e3",
+   "b10:e5",
+   "b11:e5",
+   "b12:e4",
+   "b13:e5",
+   "b14:e4",
+   "b15:e2",
+   "b16:e10",
+   "b17:dato",
+   "b17:e4",
+   "b18:e5",
+   "b19:e6",
+   "b20:e6",
+   "b21:e3",
+   "psoe:programa"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2018-10752": {
+  "codigo": "200",
+  "donde": [
+   "b03:dato",
+   "b03:e2"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2024/20240514-referencia-rueda-de-prensa-ministros.aspx": {
+  "codigo": "200",
+  "donde": [
+   "b03:e3"
+  ]
+ },
+ "https://www.eldiario.es/1_ccf72d": {
+  "codigo": "200",
+  "donde": [
+   "b04:e3"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-16819": {
+  "codigo": "200",
+  "donde": [
+   "b05:e2"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2018/17072018IntervencionSanchez.pdf": {
+  "codigo": "200",
+  "donde": [
+   "b06:cita",
+   "b06:e1",
+   "b07:cita",
+   "b07:e1",
+   "b08:cita",
+   "b08:e1",
+   "b09:cita",
+   "b09:e1",
+   "b10:cita",
+   "b10:e1",
+   "b11:e2",
+   "b12:e3",
+   "b15:e3"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2019/prsp24102019.aspx": {
+  "codigo": "200",
+  "donde": [
+   "b07:dato"
+  ]
+ },
+ "https://www.boe.es/eli/es/rdl/2018/08/24/10": {
+  "codigo": "200",
+  "donde": [
+   "b07:e2"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/consejodeministros/Paginas/enlaces/150219enlace-exhumacion.aspx": {
+  "codigo": "200",
+  "donde": [
+   "b07:e3"
+  ]
+ },
+ "https://maldita.es/malditahemeroteca/20201014/10-veces-en-las-que-pedro-sanchez-pidio-que-se-publicara-la-lista-de-la-amnistia-fiscal-o-prometio-publicarla-cuando-llegara-al-gobierno/": {
+  "codigo": "200",
+  "donde": [
+   "b08:dato",
+   "b08:e2"
+  ]
+ },
+ "https://www.bolsamania.com/noticias_amp/mercados/economia--el-congreso-con-el-no-del-pp-y-la-abstencion-del-psoe-rechaza-exigir-los-nombres-de-la-amnistia-fiscal--3493511.html": {
+  "codigo": "200",
+  "donde": [
+   "b08:e3"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2021-11473": {
+  "codigo": "200",
+  "donde": [
+   "b08:e4"
+  ]
+ },
+ "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_14/default/table?lang=en": {
+  "codigo": "200",
+  "donde": [
+   "b09:dato",
+   "b09:e2b"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264": {
+  "codigo": "200",
+  "donde": [
+   "b09:e2"
+  ]
+ },
+ "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6310": {
+  "codigo": "000",
+  "donde": [
+   "b10:dato",
+   "b10:e4"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2021-4628": {
+  "codigo": "200",
+  "donde": [
+   "b10:e2"
+  ]
+ },
+ "https://www.congreso.es/web/guest/notas-de-prensa?_notasprensa_mvcPath=detalle&_notasprensa_notaId=38390": {
+  "codigo": "200",
+  "donde": [
+   "b10:e3"
+  ]
+ },
+ "https://www.boe.es/eli/es/rdl/2024/10/22/5": {
+  "codigo": "200",
+  "donde": [
+   "b11:dato",
+   "b11:e4"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10715": {
+  "codigo": "200",
+  "donde": [
+   "b11:e3"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-25104": {
+  "codigo": "200",
+  "donde": [
+   "b11:e3b"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2024/20240729-vivienda-convenio-ico.aspx": {
+  "codigo": "200",
+  "donde": [
+   "b12:cita",
+   "b12:e0"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2023/180423-rp-cministros.aspx": {
+  "codigo": "200",
+  "donde": [
+   "b12:e1"
+  ]
+ },
+ "https://www.idealista.com/news/node/862242": {
+  "codigo": "200",
+  "donde": [
+   "b12:e6"
+  ]
+ },
+ "https://maldita.es/malditahemeroteca/20181113/cuando-sanchez-pedia-elecciones-si-no-se-sacaban-los-presupuestos-adelante/": {
+  "codigo": "200",
+  "donde": [
+   "b13:cita",
+   "b13:e1"
+  ]
+ },
+ "https://www.vozpopuli.com/tribunales/el-constitucional-admite-a-tramite-el-recurso-del-senado-contra-el-gobierno-por-no-presentar-los-presupuestos.html": {
+  "codigo": "200",
+  "donde": [
+   "b13:e4"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/030626-sanchez-reunion-cercle-economia.aspx": {
+  "codigo": "200",
+  "donde": [
+   "b13:e4b"
+  ]
+ },
+ "https://www.diariodepontevedra.es/media/diariodepontevedra/files/2019/12/30/Pacto%20PSOE%20-%20Podemos%20para%20un%20gobierno%20de%20coalici%C3%B3n.pdf": {
+  "codigo": "200",
+  "donde": [
+   "b14:cita",
+   "b14:e0",
+   "b15:cita",
+   "b15:e0",
+   "b19:cita",
+   "b19:e1"
+  ]
+ },
+ "https://www.ine.es/dyngs/Prensa/EPA3T26.htm": {
+  "codigo": "200",
+  "donde": [
+   "b14:dato",
+   "b14:e3"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2021-21788": {
+  "codigo": "200",
+  "donde": [
+   "b14:e2"
+  ]
+ },
+ "https://www.bbvaresearch.com/publicaciones/espana-epa-3t26-la-creacion-de-empleo-perdio-impulso/": {
+  "codigo": "200",
+  "donde": [
+   "b14:e5"
+  ]
+ },
+ "https://www.hacienda.gob.es/GabineteMinistro/Notas%20Prensa/2018/CONSEJO%20DE%20MINISTROS/11-10-18%20NP%20Acuerdo%20de%20PGE%202019.pdf": {
+  "codigo": "200",
+  "donde": [
+   "b15:e00"
+  ]
+ },
+ "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_avgr2/default/table?lang=en": {
+  "codigo": "200",
+  "donde": [
+   "b15:e4"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2022/prsp10112022.aspx": {
+  "codigo": "200",
+  "donde": [
+   "b16:cita",
+   "b16:e4"
+  ]
+ },
+ "https://es.ara.cat/politica/supremo-aplica-amnistia-total-puigdemont-archiva-definitivamente-causa-1_1_5920236.html": {
+  "codigo": "200",
+  "donde": [
+   "b16:dato",
+   "b16:e9"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2019/prsp14102019.aspx": {
+  "codigo": "200",
+  "donde": [
+   "b16:e1"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/presidente/intervenciones/Documents/2019/20191106%20PG%20Entrevista%20RNE%20I%C3%B1igo%20Alfonso.pdf": {
+  "codigo": "200",
+  "donde": [
+   "b16:e2"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10467": {
+  "codigo": "200",
+  "donde": [
+   "b16:e3"
+  ]
+ },
+ "https://maldita.es/malditahemeroteca/20250627/pedro-sanchez-amnistia-constitucion/": {
+  "codigo": "200",
+  "donde": [
+   "b16:e5"
+  ]
+ },
+ "https://www.boe.es/buscar/act.php?id=BOE-A-2024-11776": {
+  "codigo": "200",
+  "donde": [
+   "b16:e6"
+  ]
+ },
+ "https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/SENTENCIA/2025/137": {
+  "codigo": "200",
+  "donde": [
+   "b16:e7"
+  ]
+ },
+ "https://es.ara.cat/politica/tjue-avala-amnistia-senala-camino-justicia-espanola_1_5800143.html": {
+  "codigo": "200",
+  "donde": [
+   "b16:e8"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2018/prsp20180927.aspx": {
+  "codigo": "200",
+  "donde": [
+   "b17:cita",
+   "b17:e1"
+  ]
+ },
+ "https://www.congreso.es/public_oficiales/L14/CONG/DS/PL/DSCD-14-PL-174.PDF": {
+  "codigo": "200",
+  "donde": [
+   "b17:e2"
+  ]
+ },
+ "https://www.congreso.es/public_oficiales/L14/CONG/DS/PL/DSCD-14-PL-178.PDF": {
+  "codigo": "200",
+  "donde": [
+   "b17:e3"
+  ]
+ },
+ "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2019/refc20190222.aspx": {
+  "codigo": "200",
+  "donde": [
+   "b18:cita",
+   "b18:e1"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17756": {
+  "codigo": "200",
+  "donde": [
+   "b18:dato",
+   "b18:e4"
+  ]
+ },
+ "https://www.eldiario.es/extremadura/economia/iberdrola-naturgy-firman-protocolo-almaraz_1_1662433.html": {
+  "codigo": "200",
+  "donde": [
+   "b18:e2"
+  ]
+ },
+ "https://www.miteco.gob.es/content/dam/miteco/es/prensa/23.12.27_NdP_El%20Gobierno%20aprueba%20el%207%C2%BA%20PGRR.pdf": {
+  "codigo": "200",
+  "donde": [
+   "b18:e3"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16127": {
+  "codigo": "200",
+  "donde": [
+   "b19:dato",
+   "b19:e4"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4907": {
+  "codigo": "200",
+  "donde": [
+   "b19:e2"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-15351": {
+  "codigo": "200",
+  "donde": [
+   "b19:e3"
+  ]
+ },
+ "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-cgpj-cumple-en-plazo-el-mandato-del-legislador-y-acuerda-por-unanimidad-remitir-al-gobierno-y-a-las-cortes-una-propuesta-sobre-la-reforma-del-sistema-de-eleccion-de-los-vocales-de-procedencia-judic-2025-02-05/": {
+  "codigo": "200",
+  "donde": [
+   "b19:e5"
+  ]
+ },
+ "https://www.congreso.es/public_oficiales/L14/CONG/DS/PL/DSCD-14-PL-200.PDF": {
+  "codigo": "200",
+  "donde": [
+   "b20:cita",
+   "b20:e1"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1137": {
+  "codigo": "200",
+  "donde": [
+   "b20:e4"
+  ]
+ },
+ "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26694": {
+  "codigo": "200",
+  "donde": [
+   "b20:e5"
+  ]
+ },
+ "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf": {
+  "codigo": "200",
+  "donde": [
+   "pp:programa"
+  ]
+ },
+ "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf": {
+  "codigo": "200",
+  "donde": [
+   "vox:programa"
+  ]
+ },
+ "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf": {
+  "codigo": "200",
+  "donde": [
+   "frenteamplio:programa"
+  ]
+ },
+ "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf": {
+  "codigo": "200",
+  "donde": [
+   "podemos:programa"
+  ]
+ },
+ "https://esquerrarepublicana.cat/documents/e2026-programa.pdf": {
+  "codigo": "200",
+  "donde": [
+   "erc:programa"
+  ]
+ },
+ "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf": {
+  "codigo": "200",
+  "donde": [
+   "junts:programa"
+  ]
+ },
+ "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n": {
+  "codigo": "200",
+  "donde": [
+   "pnv:programa"
+  ]
+ },
+ "https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-CAS.pdf": {
+  "codigo": "200",
+  "donde": [
+   "ehbildu:programa"
+  ]
+ },
+ "https://www.bng.gal/media/bnggaliza/files/2026/11/12/26_bng_xerais_documentos_programa_electoral.pdf": {
+  "codigo": "200",
+  "donde": [
+   "bng:programa"
+  ]
+ },
+ "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf": {
+  "codigo": "200",
+  "donde": [
+   "cc:programa"
+  ]
+ },
+ "https://frontvalencia.org/programa-compromis-front-valencia.pdf": {
+  "codigo": "200",
+  "donde": [
+   "compromis:programa"
+  ]
+ }
+}
