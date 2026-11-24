@@ -664,6 +664,11 @@ function vMetodo() {
   const w = D.pesos, nEv = D.contrastes.reduce((a, c) => a + c.evidencias.length, 0) + D.balance.reduce((a, c) => a + (c.evidencias || []).length, 0);
   const zonas = [['Muy poco', '0–24', 'var(--n0)'], ['Poco', '25–44', 'var(--n1)'], ['Dudosa', '45–59', 'var(--n2)'], ['Plausible', '60–74', 'var(--n3)'], ['Muy plausible', '75–100', 'var(--n4)']];
   return `<section class="cab"><h1>Cómo está hecho</h1></section>
+  <section class="panel" aria-labelledby="datos-github"><h2 id="datos-github">Datos y metodología en GitHub</h2>
+    <p>Consulta las fuentes, revisa los datos o descarga el proyecto completo. Todo está disponible en el repositorio público.</p>
+    <p><a class="btn" href="https://github.com/icarrillomartos/comparador-electoral-29n" target="_blank" rel="noopener">Abrir repositorio en GitHub ↗</a></p>
+    <p><a href="https://github.com/icarrillomartos/comparador-electoral-29n/blob/main/datos.json" target="_blank" rel="noopener">Ver los datos</a> · <a href="https://github.com/icarrillomartos/comparador-electoral-29n/blob/main/metodologia.md" target="_blank" rel="noopener">Leer la metodología</a> · <a href="https://github.com/icarrillomartos/comparador-electoral-29n/archive/refs/heads/main.zip">Descargar todo (ZIP)</a></p>
+  </section>
   <div class="cifras"><div><b class="num">${D.propuestas.length}</b><span>propuestas destacadas de ${D.partidos.filter(p => p.n_propuestas).length} programas</span></div>${PROG.length ? `<div><b class="num">${nmil(PROG.length)}</b><span>medidas más del inventario completo</span></div>` : ''}<div><b class="num">${D.contrastes.length}</b><span>promesas contrastadas</span></div><div><b class="num">${D.balance.length}</b><span>compromisos desde 2018</span></div><div><b class="num">${nEv}</b><span>pruebas enlazadas</span></div></div>
   <div class="panel"><h2>El porcentaje, en una imagen</h2><p>Si este partido gobernara, ¿cuánto respaldan los hechos que la promesa se cumpla? Cinco ingredientes con peso fijo, iguales para todos:</p>
     <div class="pesos">${['historial', 'viabilidad', 'coherencia', 'datos', 'concrecion'].map(k => `<div class="pw"><b>${COMP[k][0]}</b><span class="b"><i style="width:${w[k] / 30 * 100}%"></i></span><em>${w[k]}%</em><small>${COMP[k][1]}</small></div>`).join('')}</div>
