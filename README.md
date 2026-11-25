@@ -1,6 +1,6 @@
 # Comparador electoral 29N
 
-[Consultar el comparador en ivancarrillo.com](https://ivancarrillo.com/recursos/comparador-electora-29n)
+[Consultar el comparador en ivancarrillo.com](https://ivancarrillo.com/recursos/comparador-electoral-29n)
 
 Versión de Claude entregada por Iván Carrillo, cerrada el 24 de noviembre de 2026. Se conserva la entrega original: los datos, las valoraciones y sus límites se explican en la metodología.
 
