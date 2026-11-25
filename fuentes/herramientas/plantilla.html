@@ -328,6 +328,25 @@ dialog[open]{display:flex;flex-direction:column;animation:sube .22s ease-out}
 .pasos .caja.fuerte p{color:var(--ink);font-weight:620}
 
 /* Método */
+/* Acceso a datos abiertos */
+.datos-abiertos{padding:36px;margin:0 0 28px;background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh)}
+.datos-intro{display:flex;align-items:center;justify-content:space-between;gap:32px;margin-bottom:30px}
+.datos-copy{max-width:650px}
+.datos-label{display:block;color:var(--ink3);font-size:.72rem;font-weight:800;letter-spacing:.14em;margin-bottom:12px}
+.datos-copy h2{font-size:clamp(1.55rem,3vw,2rem);letter-spacing:-.035em;line-height:1.2;margin:0 0 14px}
+.datos-copy p{color:var(--ink2);font-size:1rem;line-height:1.65;max-width:56ch;margin:0}
+.datos-repo{display:inline-flex;align-items:center;justify-content:center;gap:16px;flex:none;min-height:50px;padding:14px 22px;background:var(--ink);color:var(--bg);border-radius:12px;font-weight:750;text-decoration:none;transition:opacity .15s}
+.datos-repo:hover{opacity:.85}
+.datos-enlaces{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.datos-enlace{display:grid;grid-template-columns:1fr auto;gap:10px 16px;padding:22px;background:var(--bg);border:1px solid var(--line);border-radius:16px;color:var(--ink);text-decoration:none;transition:border-color .15s,background .15s}
+.datos-enlace:hover{background:var(--soft);border-color:var(--ink3)}
+.datos-enlace strong{font-size:1.05rem;line-height:1.4}
+.datos-enlace p{grid-column:1/-1;color:var(--ink2);font-size:.88rem;line-height:1.55;margin:0}
+.datos-enlace small{grid-column:1/-1;color:var(--ink3);font-size:.72rem;font-weight:750;letter-spacing:.07em;margin-top:8px}
+.datos-enlace>span{font-size:1.15rem;color:var(--ink3)}
+.datos-abiertos a:focus-visible{outline:3px solid var(--ink);outline-offset:4px}
+@media(max-width:760px){.datos-abiertos{padding:24px;margin-bottom:24px}.datos-intro{align-items:flex-start;flex-direction:column;gap:22px;margin-bottom:24px}.datos-repo{width:100%}.datos-enlaces{grid-template-columns:1fr;gap:12px}.datos-enlace{padding:20px}.datos-enlace small{margin-top:2px}}
+
 .cifras{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:6px 0 18px}
 @media (max-width:640px){.cifras{grid-template-columns:repeat(2,1fr)}}
 .cifras div{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px}
@@ -664,10 +683,16 @@ function vMetodo() {
   const w = D.pesos, nEv = D.contrastes.reduce((a, c) => a + c.evidencias.length, 0) + D.balance.reduce((a, c) => a + (c.evidencias || []).length, 0);
   const zonas = [['Muy poco', '0–24', 'var(--n0)'], ['Poco', '25–44', 'var(--n1)'], ['Dudosa', '45–59', 'var(--n2)'], ['Plausible', '60–74', 'var(--n3)'], ['Muy plausible', '75–100', 'var(--n4)']];
   return `<section class="cab"><h1>Cómo está hecho</h1></section>
-  <section class="panel" aria-labelledby="datos-github"><h2 id="datos-github">Datos y metodología en GitHub</h2>
-    <p>Consulta las fuentes, revisa los datos o descarga el proyecto completo. Todo está disponible en el repositorio público.</p>
-    <p><a class="btn" href="https://github.com/icarrillomartos/comparador-electoral-29n" target="_blank" rel="noopener">Abrir repositorio en GitHub ↗</a></p>
-    <p><a href="https://github.com/icarrillomartos/comparador-electoral-29n/blob/main/datos.json" target="_blank" rel="noopener">Ver los datos</a> · <a href="https://github.com/icarrillomartos/comparador-electoral-29n/blob/main/metodologia.md" target="_blank" rel="noopener">Leer la metodología</a> · <a href="https://github.com/icarrillomartos/comparador-electoral-29n/archive/refs/heads/main.zip">Descargar todo (ZIP)</a></p>
+  <section class="datos-abiertos" aria-labelledby="datos-github">
+    <div class="datos-intro">
+      <div class="datos-copy"><span class="datos-label">CONSULTA Y DESCARGA</span><h2 id="datos-github">Datos y metodología, en abierto.</h2><p>Explora las fuentes y comprueba cómo se ha elaborado el comparador. Todo el proyecto está disponible en GitHub.</p></div>
+      <a class="datos-repo" href="https://github.com/icarrillomartos/comparador-electoral-29n" target="_blank" rel="noopener">Abrir GitHub <span aria-hidden="true">↗</span></a>
+    </div>
+    <div class="datos-enlaces">
+      <a class="datos-enlace" href="https://github.com/icarrillomartos/comparador-electoral-29n/blob/main/datos.json" target="_blank" rel="noopener"><strong>Consultar los datos</strong><span aria-hidden="true">↗</span><p>Propuestas, evidencias y puntuaciones del comparador.</p><small>ARCHIVO JSON</small></a>
+      <a class="datos-enlace" href="https://github.com/icarrillomartos/comparador-electoral-29n/blob/main/metodologia.md" target="_blank" rel="noopener"><strong>Leer la metodología</strong><span aria-hidden="true">↗</span><p>Criterios de selección, fuentes y límites del análisis.</p><small>DOCUMENTACIÓN</small></a>
+      <a class="datos-enlace" href="https://github.com/icarrillomartos/comparador-electoral-29n/archive/refs/heads/main.zip"><strong>Descargar el proyecto</strong><span aria-hidden="true">↓</span><p>Guarda los datos, la metodología y todas las fuentes.</p><small>DESCARGA ZIP</small></a>
+    </div>
   </section>
   <div class="cifras"><div><b class="num">${D.propuestas.length}</b><span>propuestas destacadas de ${D.partidos.filter(p => p.n_propuestas).length} programas</span></div>${PROG.length ? `<div><b class="num">${nmil(PROG.length)}</b><span>medidas más del inventario completo</span></div>` : ''}<div><b class="num">${D.contrastes.length}</b><span>promesas contrastadas</span></div><div><b class="num">${D.balance.length}</b><span>compromisos desde 2018</span></div><div><b class="num">${nEv}</b><span>pruebas enlazadas</span></div></div>
   <div class="panel"><h2>El porcentaje, en una imagen</h2><p>Si este partido gobernara, ¿cuánto respaldan los hechos que la promesa se cumpla? Cinco ingredientes con peso fijo, iguales para todos:</p>
