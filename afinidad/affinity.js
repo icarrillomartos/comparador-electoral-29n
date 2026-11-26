@@ -2,7 +2,7 @@
 (() => {
 'use strict';
 const data=window.AFFINITY_DATA, qs=data.questions, parties=data.parties;
-const state={phase:'question',step:0,answers:{},demo:false,demographics:{},dimension:'age',group:'all',finalResult:null};
+const state={phase:'question',step:0,answers:{},demo:false,demographics:{},dimension:'age',statsRank:'primary',group:'all',finalResult:null};
 const escape=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const answered=a=>qs.filter(q=>a[q.id]===0||a[q.id]===1);
 // Preguntas en las que todos los partidos con postura están a un punto o menos: no distinguen y no cuentan para el ranking.
@@ -58,11 +58,11 @@ function demographic(){
   const busy=remote.sending?'disabled':'';
   const fieldsBusy=remote.sending||remote.pending?'disabled':'';
   return shell(`<section class="cab"><h1 tabindex="-1" id="af-focus">Tu resultado está listo</h1><p>¿Quieres contribuir a las estadísticas de quienes participan?</p></section>
-    <section class="af-comparar af-share"><p>Es opcional. Solo enviaremos tu <b>sexo, tramo de edad, tramo de renta y afinidad principal</b>. Las respuestas completas ya se han borrado y no se envían. Solo queda en esta pestaña un resumen de hasta seis para tu tarjeta.</p>
+    <section class="af-comparar af-share"><p>Es opcional. Solo enviaremos tu <b>sexo, tramo de edad, tramo de renta y los tres primeros partidos con sus puntuaciones de afinidad</b>. Las respuestas completas ya se han borrado y no se envían. Solo queda en esta pestaña un resumen de hasta seis para tu tarjeta.</p>
     ${Object.keys(sets).map(k=>`<fieldset class="af-chipset"><legend>${labels[k]}</legend><div class="af-chips">${sets[k].map(v=>`<button type="button" class="pc af-chip" data-af="demo-pick" data-key="${k}" data-value="${escape(v)}" aria-pressed="${state.demographics[k]===v}" ${fieldsBusy}>${escape(v)}</button>`).join('')}</div></fieldset>`).join('')}
     <p class="af-micro">Renta personal neta mensual, no la del hogar. Puedes elegir «Prefiero no responder».</p>
-    <label class="af-consent"><input id="af-share-consent" type="checkbox" ${remote.consent?'checked':''} ${busy}><span>Tengo 18 años o más y acepto compartir estos datos y mi afinidad principal para las estadísticas públicas agregadas.</span></label>
-    <p class="af-micro">No pedimos nombre ni correo. Guardamos recuentos separados por sexo, edad o renta, no una ficha con tus datos combinados. <a href="#/metodo">Cómo se usan los datos</a>.</p>
+    <label class="af-consent"><input id="af-share-consent" type="checkbox" ${remote.consent?'checked':''} ${busy}><span>Tengo 18 años o más y acepto compartir estos datos y mis tres primeras afinidades con sus puntuaciones para las estadísticas públicas agregadas.</span></label>
+    <p class="af-micro">No pedimos nombre ni correo. Guardamos recuentos separados por sexo, edad o renta. <a href="#/metodo">Cómo se usan los datos</a>.</p>
     ${remote.error?`<p class="af-save-error" role="alert">${escape(remote.error)}</p>`:''}
     <div class="af-bottom">${button('demo-go',remote.sending?'Guardando…':remote.pending?'Reintentar guardado':'Compartir y ver mi resultado','primary',done&&remote.consent&&!remote.sending?'':'disabled')}${button('skip-demo','Ver mi resultado sin compartir','text',busy)}</div></section>`);
 }
@@ -89,8 +89,8 @@ function startStatistics(){
 }
 async function submitContribution(){
   if(remote.sending||remote.saved||!remote.consent||!state.finalResult||!Object.keys(sets).every(k=>sets[k].includes(state.demographics[k])))return;
-  // Freeze the exact minimal payload for idempotent retries. Never include answers/scores.
-  remote.pending??={version:STATS_VERSION,submissionId:contributionId(),sex:state.demographics.sex,age:state.demographics.age,income:state.demographics.income,affinity:state.finalResult.primary,consent:true};
+  // Freeze the exact minimal payload for idempotent retries. Never include questionnaire answers; only the requested top-three scores.
+  remote.pending??={version:STATS_VERSION,submissionId:contributionId(),sex:state.demographics.sex,age:state.demographics.age,income:state.demographics.income,affinity:state.finalResult.primary,top3:state.finalResult.rows.slice(0,3).map(p=>({party:p.id,score:state.finalResult.primary==='none'?null:p.value})),consent:true};
   remote.sending=true;remote.error='';render(false);
   const controller=new AbortController();remote.abort=controller;const timeout=setTimeout(()=>controller.abort(),12000);
   try{
@@ -125,6 +125,8 @@ function statistics() {
   const dimension = dimensions.includes(state.dimension)
     ? state.dimension
     : 'sex';
+  const rank = ['0','1','2'].includes(state.statsRank) ? Number(state.statsRank) : null;
+  const viewLabel = rank === null ? 'Afinidad principal (histórico)' : `${rank+1}.ª afinidad`;
   const selection = state.spectrumSelection;
   const data = remote.data;
   const e = value => escape(String(value ?? ''));
@@ -163,12 +165,16 @@ function statistics() {
     <div class="af-stat-controls" role="group" aria-label="Dimensión de los resultados">
       ${controls}
     </div>
+    <div class="af-stat-controls" role="group" aria-label="Puesto de afinidad">
+      ${[['primary','Principal · histórico'],['0','1.ª afinidad'],['1','2.ª afinidad'],['2','3.ª afinidad']].map(([key,label])=>`<button type="button" data-af="stats-rank" data-key="${key}" aria-pressed="${(rank===null?'primary':String(rank))===key}">${label}</button>`).join('')}
+    </div>
+    ${data?`<p>${e(number(data.top3?.total))} de ${e(number(data.total))} participaciones incluyen el top 3. Las anteriores o enviadas desde una versión antigua no permiten recuperar esos puestos.</p>`:''}
   `;
   const explanation = `
     <p>
       Una diferencia de 5 puntos o menos entre las dos mejores afinidades
       se clasifica como «Sin diferencia clara». Menos de 12 respuestas
-      o una cobertura insuficiente se clasifica como «Sin base suficiente».
+      o una cobertura insuficiente se clasifica como «Sin base suficiente». En las vistas 1.ª, 2.ª y 3.ª se muestran los puestos registrados, incluso si están muy próximos; no implican un ganador claro. ${rank===null?'En esta vista los porcentajes usan todas las participaciones del histórico.':'En esta vista los porcentajes usan solo participaciones con top 3.'}
     </p>
   `;
   const pendingSelection = selection ? `
@@ -201,13 +207,13 @@ function statistics() {
     `;
   }
 
-  const total = number(data.total);
-  const sourceRows = data.dimensions?.[dimension];
+  const total = number(rank===null?data.total:data.top3?.total);
+  const sourceRows = rank===null?data.dimensions?.[dimension]:data.top3?.dimensions?.[dimension];
   const rows = (Array.isArray(sourceRows) ? sourceRows : []).map(row => ({
     label: String(row.label ?? ''),
     total: number(row.total),
     counts: Object.fromEntries(ids.map(id => [
-      id, number(row.counts?.[id])
+      id, number((rank===null?row.counts:row.ranks?.[rank]?.counts)?.[id])
     ]))
   }));
   const maxN = Math.max(0, ...rows.flatMap(row =>
@@ -235,7 +241,7 @@ function statistics() {
   let content;
 
   if (total === 0) {
-    content = '<p>Todavía no hay participaciones registradas.</p>';
+    content = rank===null?'<p>Todavía no hay participaciones registradas.</p>':'<p>Todavía no hay participaciones con el top 3 registrado. Los registros anteriores siguen disponibles en «Principal · histórico».</p>';
   } else if (rows.length === 0) {
     content = `
       <p>No hay grupos disponibles para ${e(labels[dimension])} en los datos recibidos.</p>
@@ -294,11 +300,11 @@ function statistics() {
         class="af-spectrum-scroll"
         tabindex="0"
         role="region"
-        aria-label="${e(`Tabla de afinidad principal por ${labels[dimension]}`)}"
+        aria-label="${e(`Tabla de ${viewLabel} por ${labels[dimension]}`)}"
       >
         <p class="af-scroll-hint">Desliza la tabla para ver todos los partidos →</p>
         <table class="af-real-table">
-          <caption>${e(`Afinidad principal por ${labels[dimension]}`)}</caption>
+          <caption>${e(`${viewLabel} por ${labels[dimension]}`)}</caption>
           <thead>
             <tr>
               <th scope="col">${e(labels[dimension])}</th>
@@ -475,6 +481,7 @@ document.addEventListener('click',e=>{
     case'demo-go':void submitContribution();return;
     case'skip-demo':if(remote.sending)return;state.demographics={};remote.pending=null;remote.consent=false;remote.error='';state.phase='results';startStatistics();break;
     case'restart':resetQuestionnaire();break;
+    case'stats-rank':if(!['primary','0','1','2'].includes(b.dataset.key))return;state.statsRank=b.dataset.key;state.spectrumSelection=null;paintStatistics();return;
     case'dimension':if(!Object.hasOwn(sets,b.dataset.key))return;state.dimension=b.dataset.key;state.spectrumSelection=null;paintStatistics();return;
     case'cluster':state.spectrumSelection={group:b.dataset.group,id:b.dataset.id};paintStatistics();return;
     case'refresh-stats':void loadStatistics();return;
