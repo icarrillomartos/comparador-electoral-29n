@@ -43,5 +43,5 @@ Cada sí o no empuja hacia un lado; la posición se divide entre el número de p
 
 - 25 preguntas no recogen un programa entero.
 - Las posturas de 0 a 4 son una lectura razonada de las fuentes, no una medición; cada una enseña su cita para poder discutirla.
-- No se guarda ni se envía ningún dato: las respuestas solo existen en el navegador mientras la página está abierta. Por eso no hay estadísticas de otras personas.
+- Las respuestas individuales se eliminan al calcular el resultado y no se envían. Opcionalmente, con consentimiento, se comparten sexo, edad, renta y afinidad principal para estadísticas agregadas. Véase [almacenamiento, privacidad y límites](estadisticas.md).
 - Las ilustraciones de los candidatos están generadas con inteligencia artificial; no son fotografías.
