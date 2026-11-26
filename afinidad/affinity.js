@@ -41,8 +41,13 @@ function finishQuestionnaire(){
   const all=ranked(state.answers),n=answered(state.answers).length;
   const eligible=all.filter(p=>p.eligible);
   const primary=n<12||!eligible.length?'none':eligible.length>1&&eligible[0].raw-eligible[1].raw<=5?'tie':eligible[0].id;
-  state.finalResult={rows:all.map(({items,...summary})=>summary),near:leaders(state.answers),answered:n,coords:coords(state.answers),primary};
-  state.answers={}; // Discard every individual answer immediately after computing the result.
+  const reference=primary==='none'?null:eligible[0];
+  const extract=items=>items.slice(0,3).map(({q,credit})=>({text:q.text,topic:q.topic,answer:state.answers[q.id]===1?'Sí':'No',credit}));
+  const highlights={partyId:reference?.id||'',partyName:reference?.corto||'',
+    close:extract(reference?reference.items.filter(x=>x.cuenta&&x.credit>=3).sort((a,b)=>b.credit-a.credit):[]),
+    far:extract(reference?reference.items.filter(x=>x.cuenta&&x.credit<=1).sort((a,b)=>a.credit-b.credit):[])};
+  state.finalResult={rows:all.map(({items,...summary})=>summary),near:n<12?[]:leaders(state.answers),answered:n,coords:coords(state.answers),primary,highlights};
+  state.answers={}; // Discard the full answer set; keep only the requested six-question local summary.
   state.demographics={};remote.consent=false;remote.pending=null;remote.error='';
   document.getElementById('af-info')?.remove();document.getElementById('af-ficha')?.remove();
   state.phase=remote.saved?'results':'demographic';
@@ -53,7 +58,7 @@ function demographic(){
   const busy=remote.sending?'disabled':'';
   const fieldsBusy=remote.sending||remote.pending?'disabled':'';
   return shell(`<section class="cab"><h1 tabindex="-1" id="af-focus">Tu resultado está listo</h1><p>¿Quieres contribuir a las estadísticas de quienes participan?</p></section>
-    <section class="af-comparar af-share"><p>Es opcional. Solo enviaremos tu <b>sexo, tramo de edad, tramo de renta y afinidad principal</b>. Las respuestas a las 25 preguntas ya se han borrado y no se envían.</p>
+    <section class="af-comparar af-share"><p>Es opcional. Solo enviaremos tu <b>sexo, tramo de edad, tramo de renta y afinidad principal</b>. Las respuestas completas ya se han borrado y no se envían. Solo queda en esta pestaña un resumen de hasta seis para tu tarjeta.</p>
     ${Object.keys(sets).map(k=>`<fieldset class="af-chipset"><legend>${labels[k]}</legend><div class="af-chips">${sets[k].map(v=>`<button type="button" class="pc af-chip" data-af="demo-pick" data-key="${k}" data-value="${escape(v)}" aria-pressed="${state.demographics[k]===v}" ${fieldsBusy}>${escape(v)}</button>`).join('')}</div></fieldset>`).join('')}
     <p class="af-micro">Renta personal neta mensual, no la del hogar. Puedes elegir «Prefiero no responder».</p>
     <label class="af-consent"><input id="af-share-consent" type="checkbox" ${remote.consent?'checked':''} ${busy}><span>Tengo 18 años o más y acepto compartir estos datos y mi afinidad principal para las estadísticas públicas agregadas.</span></label>
@@ -358,9 +363,9 @@ window.AffinityCore.leaders=leaders;
 function ranked(a){return score(a).sort((a,b)=>(b.raw??-1)-(a.raw??-1)||a.id.localeCompare(b.id));}
 function profile(a){const rows=ranked(a);return {version:data.version,answered:answered(a).length,undecided:qs.filter(q=>Object.hasOwn(a,q.id)&&a[q.id]===null).map(q=>q.id),affinities:rows.map(p=>({party:p.id,score:p.value,coverage:p.coverage,range:[p.lower,p.upper]})),near:leaders(a)};}
 window.AffinityCore.profile=profile;
-function resultRow(p,i){return `<button class="af-fila" data-af="party" data-id="${p.id}"><span class="af-place">${i}</span><span class="af-fila-nom">${partyTag(p)}<small>${p.n} de ${p.total} con evidencia${p.coverage<.6?' · base limitada':''}</small></span>${affinityRing(p.value,44,4)}<span class="af-ir" aria-hidden="true">→</span></button>`;}
+function resultRow(p,i){return `<button class="af-fila" data-af="party" data-id="${p.id}"><span class="af-place">${i}</span><span class="af-fila-nom">${partyTag(p)}<small>${p.n} de ${p.total} con evidencia${!p.eligible?' · puntuación provisional · base limitada':''}</small></span>${affinityRing(p.value,44,4)}<span class="af-ir" aria-hidden="true">→</span></button>`;}
 function face(p,big){const people=leaderImages[p.id];return `<div class="af-foto${big?' af-foto-xl':''}${people&&people.length>1?' af-foto-duo':''}" style="--c:${p.color}">${people?people.map(([key,name])=>`<img src="/recursos/comparador-electoral-29n/assets/characters/${key}.png" alt="Ilustración de ${escape(name)}">`).join(''):`<span>${escape(p.corto.slice(0,2))}</span>`}</div>`;}
-function podiumCard(p,i){const people=leaderImages[p.id];return `<button class="af-podio-card${i===1?' af-oro':''}" data-af="party" data-id="${p.id}" style="--c:${p.color}"><span class="af-pos">${i}º</span>${face(p,i===1)}${people?`<span class="af-quien">${people.map(x=>escape(x[1])).join(' y ')}</span>`:''}<div class="af-podio-tag">${partyTag(p)}</div><div class="af-podio-ring">${affinityRing(p.value,i===1?92:68,i===1?8:6)}</div><small>${p.n} de ${p.total} respuestas con evidencia${p.coverage<.6?' · base limitada':''}</small><span class="af-ver">Ver por qué →</span></button>`;}
+function podiumCard(p,i){const people=leaderImages[p.id];return `<button class="af-podio-card${i===1?' af-oro':''}" data-af="party" data-id="${p.id}" style="--c:${p.color}"><span class="af-pos">${i}º</span>${face(p,i===1)}${people?`<span class="af-quien">${people.map(x=>escape(x[1])).join(' y ')}</span>`:''}<div class="af-podio-tag">${partyTag(p)}</div><div class="af-podio-ring">${affinityRing(p.value,i===1?92:68,i===1?8:6)}</div><small>${p.n} de ${p.total} respuestas con evidencia${!p.eligible?' · puntuación provisional · base limitada':''}</small><span class="af-ver">Ver por qué →</span></button>`;}
 const leaderImages={salf:[['alvise','Alvise Pérez']],psoe:[['sanchez','Pedro Sánchez']],pp:[['feijoo','Alberto Núñez Feijóo']],vox:[['abascal','Santiago Abascal']],frenteamplio:[['colau','Ada Colau']],podemos:[['montero-rufian','Irene Montero y Gabriel Rufián']]};
 function leaderPortrait(id){const people=leaderImages[id];return people?`<figure class="af-leaders ${id==='podemos'?'af-leaders-duo':''}"><div>${people.map(([key,name])=>`<img src="/recursos/comparador-electoral-29n/assets/characters/${key}.png" alt="Ilustración IA de ${escape(name)}" width="330" height="330">`).join('')}</div><figcaption>${people.map(x=>escape(x[1])).join(' · ')}</figcaption></figure>`:'';}
 function results(){const snapshot=state.finalResult,r=snapshot?.rows||ranked(state.answers),ids=snapshot?.near||leaders(state.answers),validCount=snapshot?.answered??answered(state.answers).length,pending=qs.length-validCount,near=r.filter(p=>ids.includes(p.id)),first=near[0],tied=near.length>1&&near.every(p=>Math.abs(p.raw-near[0].raw)<1e-9);
@@ -368,13 +373,53 @@ const top=r.slice(0,3),rest=r.slice(3);
 const flojo=first&&first.value<80;const aviso=flojo?`<div class="af-nota af-flojo"><b>Ningún partido encaja claramente contigo.</b> El que más se acerca coincide contigo en ${first.coin} de cada 100 puntos posibles: en unas ideas estás con unos y en otras con otros. Mira tu sitio en el mapa, más abajo.</div>`:first?(near.length>1?`<p class="af-nota">${tied?'Empate':'Muy cerca'}: ${near.map(p=>partyTag(p)).join(' ')} ${tied?'tienen la misma puntuación.':'están a cinco puntos o menos; no hay una diferencia clara.'}</p>`:''):`<div class="af-nota"><b>${validCount<12?'Faltan respuestas para situarte.':'Falta evidencia para destacar un partido.'}</b> ${validCount<12?'Responde al menos 12 preguntas. Las dudas no te asignan una posición.':'Puedes consultar las puntuaciones provisionales y las fuentes de cada partido.'}</div>`;
 const podio=[top[1],top[0],top[2]].map((p,k)=>p?podiumCard(p,[2,1,3][k]):'').join('');
 return shell(`<section class="cab af-res-cab"><h1 tabindex="-1" id="af-focus">Tus ideas, más allá de las siglas</h1><div class="af-res-meta"><span><b>${validCount}</b> respuestas</span><span><b>${pending}</b> sin postura</span><span>Afinidad de 0 a 100, igualada entre partidos · no es intención de voto</span></div></section>
-${aviso}<div class="af-podio">${podio}</div>
+${aviso}<div class="af-export-bar">${button('export-card','Descargar mi afinidad','primary')}<span class="af-micro">Tarjeta vertical para redes · PNG · vista previa</span></div><div class="af-podio">${podio}</div>
 ${rest.length?`<details class="acord af-resto"><summary>Ver el resto de partidos (${rest.length})${CHEV}</summary><div class="in"><div class="af-filas">${rest.map((p,i)=>resultRow(p,i+4)).join('')}</div><p class="af-micro">Las preguntas sin evidencia no suman puntos ni se rellenan. Los empates no se deshacen: entre iguales, orden alfabético.</p></div></details>`:''}
 ${mapa()}
+${highlightPanel()}
 <div id="af-live-stats">${statistics()}</div>
 ${remote.saved?`<p class="af-micro" role="status">${remote.duplicate?'Esta pestaña ya había aportado datos; no se han contado dos veces.':'Tu aportación ya forma parte de las estadísticas.'}</p>`:''}
 
 <div class="af-bottom"><a class="txt" href="#/metodo">Cómo se calcula</a>${button('restart','Volver a empezar','text')}</div>`);}
+function highlightPanel(){
+  const h=state.finalResult?.highlights;if(!h?.partyId)return '';
+  const column=(title,items,kind)=>`<div class="af-highlight-column"><h3>${title}</h3>${items.length?items.map(q=>`<div class="af-highlight-item"><p><b>${escape(q.answer)}</b> · ${escape(q.text)}</p><div class="af-credit" role="img" aria-label="Coincidencia: ${q.credit} de 4"><i class="${kind}" style="width:${q.credit*25}%"></i></div><small>${q.credit}/4 de coincidencia</small></div>`).join(''):'<p class="af-micro">No hay preguntas con una coincidencia '+(kind==='close'?'alta':'baja')+' documentada.</p>'}${items.length>0&&items.length<3?'<p class="af-micro">No hay más casos claros en tus respuestas.</p>':''}</div>`;
+  return `<section class="af-comparar af-highlights"><h2>Tus puntos de encuentro y de distancia</h2><p class="af-micro">Comparación con <b>${escape(h.partyName)}</b>, la primera afinidad con base suficiente.${state.finalResult.primary==='tie'?' Hay partidos a cinco puntos o menos: no es un ganador único.':''}</p><div class="af-highlight-grid">${column('Esto os acerca',h.close,'close')}${column('Esto os separa',h.far,'far')}</div></section>`;
+}
+const shareCard={url:null,blob:null,busy:false,generation:0};
+function clearShareCard(){
+  shareCard.generation++;shareCard.busy=false;shareCard.blob=null;
+  if(shareCard.url)URL.revokeObjectURL(shareCard.url);shareCard.url=null;
+  document.getElementById('af-export')?.remove();
+}
+async function openShareCard(){
+  const snapshot=state.finalResult;if(!snapshot||shareCard.busy)return;
+  clearShareCard();const generation=shareCard.generation;shareCard.busy=true;
+  const dlg=document.createElement('dialog');dlg.id='af-export';dlg.setAttribute('aria-labelledby','af-export-title');
+  dlg.innerHTML=`<div class="dh"><h2 id="af-export-title">Tu afinidad para compartir</h2><button class="x" data-af="close-export" aria-label="Cerrar tarjeta">×</button></div><div class="db af-export-body"><p role="status">Preparando tu tarjeta…</p></div>`;
+  dlg.addEventListener('close',clearShareCard);document.body.append(dlg);dlg.showModal();
+  try{
+    const notice=snapshot.primary==='none'?(snapshot.answered<12?'Sin base suficiente: responde al menos 12 preguntas.':'Sin base suficiente: falta cobertura documentada.'):snapshot.primary==='tie'?'Sin diferencia clara entre las primeras afinidades.':'Afinidad de 0 a 100 · no es intención de voto';
+    const model={rows:snapshot.rows.map(({id,corto,color,value,eligible})=>({id,corto,color,value,eligible})),answered:snapshot.answered,primary:snapshot.primary,coords:snapshot.coords,highlights:snapshot.highlights,
+      partyCoords:parties.map(p=>{const c=coordsParty(p.id);return {id:p.id,name:p.corto,color:p.color,x:c.x.v,y:c.y.v};}),
+      portraits:Object.fromEntries(Object.entries(leaderImages).map(([id,people])=>[id,`/recursos/comparador-electoral-29n/assets/characters/${people[0][0]}.png`])),notice};
+    if(!window.AffinityShare?.render)throw new Error('renderer');
+    const {blob}=await window.AffinityShare.render(model);
+    if(generation!==shareCard.generation||snapshot!==state.finalResult||!dlg.isConnected)return;
+    shareCard.blob=blob;shareCard.url=URL.createObjectURL(blob);
+    const file=new File([blob],'mi-afinidad-29n.png',{type:'image/png'});
+    let canShare=false;try{canShare=typeof navigator.canShare==='function'&&navigator.canShare({files:[file]});}catch{/* Download remains available. */}
+    dlg.querySelector('.db').innerHTML=`<p class="af-micro">Se crea en tu dispositivo. Incluye hasta seis respuestas destacadas; revísala antes de compartir. No contiene sexo, edad ni renta.</p><div class="af-export-actions"><a class="btn" href="${shareCard.url}" download="mi-afinidad-29n.png">Descargar PNG</a>${canShare?button('share-card','Compartir imagen','secondary'):''}</div><p class="af-micro" id="af-export-status" role="status">1080 × 1920 · lista para historias y redes</p><img class="af-export-preview" src="${shareCard.url}" alt="Vista previa de tu tarjeta: las tres primeras afinidades, tu mapa y hasta tres coincidencias y diferencias">`;
+  }catch{
+    if(generation===shareCard.generation&&dlg.isConnected)dlg.querySelector('.db').innerHTML=`<p role="alert">No se ha podido preparar la imagen. Tu resultado sigue disponible.</p>${button('export-card','Volver a intentarlo','primary')}`;
+  }finally{if(generation===shareCard.generation)shareCard.busy=false;}
+}
+async function shareImage(){
+  if(!shareCard.blob)return;
+  try{await navigator.share({files:[new File([shareCard.blob],'mi-afinidad-29n.png',{type:'image/png'})],title:'Mi afinidad · Comparador 29N'});}
+  catch(error){if(error.name!=='AbortError'){const el=document.getElementById('af-export-status');if(el)el.textContent='No se ha podido abrir el menú de compartir. Puedes descargar el PNG.';}}
+}
+
 // Mapa: dos ejes calculados con las mismas preguntas para ti y para cada partido.
 // x: progresista (-) / conservador (+); y: más Estado en la economía (-) / más mercado (+).
 const EJES={x:{burka:1,regularizacion:-1,'sanidad-acceso':-1,'prision-revisable':1,eutanasia:-1,'matrimonio-igualitario':-1,'violencia-genero':-1},y:{'condiciones-laborales':-1,'ayudas-sociales':-1,autonomos:1,jornada:-1,alquiler:-1,patrimonio:-1,sucesiones:-1,conciertos:-1,'sanidad-colaboracion':1,turismo:-1,infantil:-1}};
@@ -407,15 +452,18 @@ function openParty(id){
   const p=(state.finalResult?.rows||score(state.answers)).find(p=>p.id===id);if(!p)return;
   let dlg=document.getElementById('af-ficha');if(!dlg){dlg=document.createElement('dialog');dlg.id='af-ficha';document.body.append(dlg);dlg.addEventListener('click',e=>{if(e.target===dlg)dlg.close();});}
   dlg.setAttribute('aria-labelledby','af-dialog-title');
-  dlg.innerHTML=`<div class="dh"><div class="sup">${partyTag(p)}<span>Afinidad</span></div><button class="x" data-af="close-party" aria-label="Cerrar">×</button></div><div class="db"><div class="dtop af-modal-top"><h2 id="af-dialog-title">Tu afinidad y las posturas de ${escape(p.corto)}</h2><div class="af-modal-score">${affinityRing(p.value,84,8)}<p>${p.value===null?'Sin respuestas suficientes para calcular la afinidad.':`Afinidad ${p.value} de 100. Coincidís en ${p.coin} de cada 100 puntos posibles, en ${p.n} preguntas con postura documentada.`}</p></div><p>Las respuestas individuales ya se han borrado. Aquí puedes consultar las posturas y fuentes del partido.</p></div><section class="pan"><ol class="pasos">${qs.map((q,i)=>{const pos=q.positions[id],known=Number.isFinite(pos?.support);return `<li><span class="nodo">${i+1}</span><h3>${escape(q.topic)} · ${known?'Postura documentada':'Sin evidencia suficiente'}</h3><div class="caja"><h4 class="af-step-question">${escape(q.text)}</h4><p>${escape(pos.reason)}</p>${known?`<p class="fte">Apoyo estimado al sí: ${pos.support}/4. ${consenso.has(q.id)?'Los partidos piensan parecido: esta pregunta no cuenta para el ranking.':''}</p>`:'<p class="fte">No atribuimos una postura ni rellenamos la ausencia de evidencia.</p>'}${pos.evidence.map(e=>`${e.quote?`<div class="cita" style="--c:${p.color}">«${escape(e.quote)}»</div>`:''}<div class="fte"><a href="${escape(e.url)}${e.page?'#page='+e.page:''}" target="_blank" rel="noopener">${escape(e.title)}${e.page?' · pág. '+e.page:''} ↗</a></div>`).join('')}</div></li>`;}).join('')}</ol></section></div>`;dlg.showModal();
+  dlg.innerHTML=`<div class="dh"><div class="sup">${partyTag(p)}<span>Afinidad</span></div><button class="x" data-af="close-party" aria-label="Cerrar">×</button></div><div class="db"><div class="dtop af-modal-top"><h2 id="af-dialog-title">Tu afinidad y las posturas de ${escape(p.corto)}</h2><div class="af-modal-score">${affinityRing(p.value,84,8)}<p>${p.value===null?'Sin respuestas suficientes para calcular la afinidad.':`Afinidad ${p.value} de 100. Coincidís en ${p.coin} de cada 100 puntos posibles, en ${p.n} preguntas con postura documentada.`}</p></div><p>El conjunto completo de respuestas ya se ha borrado; solo queda el resumen de la tarjeta en esta pestaña. Aquí puedes consultar las posturas y fuentes del partido.</p></div><section class="pan"><ol class="pasos">${qs.map((q,i)=>{const pos=q.positions[id],known=Number.isFinite(pos?.support);return `<li><span class="nodo">${i+1}</span><h3>${escape(q.topic)} · ${known?'Postura documentada':'Sin evidencia suficiente'}</h3><div class="caja"><h4 class="af-step-question">${escape(q.text)}</h4><p>${escape(pos.reason)}</p>${known?`<p class="fte">Apoyo estimado al sí: ${pos.support}/4. ${consenso.has(q.id)?'Los partidos piensan parecido: esta pregunta no cuenta para el ranking.':''}</p>`:'<p class="fte">No atribuimos una postura ni rellenamos la ausencia de evidencia.</p>'}${pos.evidence.map(e=>`${e.quote?`<div class="cita" style="--c:${p.color}">«${escape(e.quote)}»</div>`:''}<div class="fte"><a href="${escape(e.url)}${e.page?'#page='+e.page:''}" target="_blank" rel="noopener">${escape(e.title)}${e.page?' · pág. '+e.page:''} ↗</a></div>`).join('')}</div></li>`;}).join('')}</ol></section></div>`;dlg.showModal();
 }
 window.vAfinidad=()=>({intro,question,demographic,results}[state.phase]());
 function render(focus=true){if(!location.hash.startsWith('#/afinidad'))return;document.getElementById('app').innerHTML=window.vAfinidad();if(focus){window.scrollTo({top:0,behavior:'instant'});document.getElementById('af-focus')?.focus({preventScroll:true});}}
-function resetQuestionnaire(){if(remote.sending)return;state.phase='question';state.step=0;state.answers={};state.finalResult=null;state.demographics={};remote.pending=null;remote.consent=false;remote.error='';}
+function resetQuestionnaire(){if(remote.sending)return;clearShareCard();state.phase='question';state.step=0;state.answers={};state.finalResult=null;state.demographics={};remote.pending=null;remote.consent=false;remote.error='';}
 document.addEventListener('click',e=>{
   if(e.target.closest('.afinidad-puerta'))resetQuestionnaire();
   const b=e.target.closest('[data-af]');if(!b||b.disabled)return;
   switch(b.dataset.af){
+    case'export-card':void openShareCard();return;
+    case'close-export':document.getElementById('af-export')?.close();return;
+    case'share-card':void shareImage();return;
     case'info':openInfo();return;
     case'close-info':document.getElementById('af-info')?.close();return;
     case'party':openParty(b.dataset.id);return;
@@ -436,5 +484,5 @@ document.addEventListener('click',e=>{
 });
 document.addEventListener('change',e=>{if(e.target.id==='af-share-consent'){remote.consent=e.target.checked;render(false);}});
 window.addEventListener?.('pageshow',event=>{if(event.persisted){remote.sending=false;resetQuestionnaire();render();}});
-window.addEventListener?.('pagehide',()=>{state.answers={};state.finalResult=null;state.demographics={};remote.pending=null;remote.abort?.abort();if(remote.timer)clearInterval(remote.timer);remote.timer=null;});
+window.addEventListener?.('pagehide',()=>{clearShareCard();state.answers={};state.finalResult=null;state.demographics={};remote.pending=null;remote.abort?.abort();if(remote.timer)clearInterval(remote.timer);remote.timer=null;});
 })();

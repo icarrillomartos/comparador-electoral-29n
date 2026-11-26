@@ -1,6 +1,6 @@
 # Estadísticas de participación 29N
 
-Desde el 26 de noviembre de 2026, al terminar el cuestionario se calcula el resultado y se eliminan inmediatamente las 25 respuestas individuales. No se envían al servidor ni se guardan en el almacenamiento del navegador.
+Desde el 26 de noviembre de 2026, al terminar el cuestionario se calcula el resultado y se elimina inmediatamente el conjunto completo de las 25 respuestas. Para la tarjeta descargable solo se conserva en memoria de la pestaña un resumen de hasta seis respuestas (tres coincidencias y tres diferencias), que desaparece al reiniciar o salir. No se envían al servidor ni se guardan en el almacenamiento del navegador.
 
 Compartir es opcional. Con consentimiento explícito de una persona mayor de 18 años, se envían sexo, tramo de edad, tramo de renta personal neta mensual y afinidad principal. Cada categoría permite «Prefiero no responder». Se puede ver el resultado sin compartir.
 
@@ -21,3 +21,8 @@ Los recuentos exactos son públicos: comparar consultas sucesivas cuando entra u
 Es una muestra voluntaria de quienes comparten, no una encuesta representativa ni intención de voto. Más participaciones amplían la muestra, pero no eliminan el sesgo de selección. Se avisa si hay menos de 30 participaciones. El control básico de duplicados no demuestra que cada envío corresponda a una persona única; abrir otra sesión o manipular el cliente puede generar otro envío. El servidor valida categorías, pero no puede comprobar una afinidad sin recibir las respuestas, que deliberadamente no se transmiten.
 
 No hay datos simulados en producción. Las pruebas de concurrencia, reintentos, rollback y privacidad usan una base local aislada. La versión de agregados es `29n-2026-v1`.
+
+
+## Tarjeta para redes
+
+«Descargar mi afinidad» prepara localmente un PNG de 1080 × 1920 con las tres primeras afinidades, el mapa de dos ejes y hasta tres coincidencias y tres diferencias claras con el primer partido elegible. En caso de empate lo indica; si faltan casos claros no inventa otros. La vista previa permite revisar las respuestas seleccionadas antes de descargar o abrir el menú nativo de compartir. No incluye sexo, edad ni renta. No envía las preguntas ni la imagen a un servicio y no cambia el contenido de las estadísticas.
