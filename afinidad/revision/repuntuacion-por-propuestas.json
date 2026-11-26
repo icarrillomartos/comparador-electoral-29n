@@ -1,0 +1,348 @@
+{
+ "cambios": [
+  {
+   "pregunta": "jueces",
+   "partido": "pp",
+   "support_actual": 3,
+   "support_propuesto": 3,
+   "reason": "Nivel igual, pero cambia la base: el programa propone que los jueces elijan a los 12 vocales judiciales, concursos de méritos en el Supremo e informe vinculante del CGPJ sobre el fiscal general (sería un 4). No sube porque ya prometió lo mismo en 2011 y, con mayoría absoluta, su reforma de 2013 mantuvo la elección parlamentaria.",
+   "evidence": [
+    {
+     "title": "Programa PP 29N: los jueces elegirán a los jueces",
+     "quote": "Los jueces y magistrados de todas las categorías elegirán a los doce vocales judiciales",
+     "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+     "date": "2026-11",
+     "page": 32
+    },
+    {
+     "title": "Legal Today: el PP saca adelante la reforma del CGPJ con el único apoyo de UPN",
+     "quote": "La ley aprobada hoy se aleja del compromiso con el que Gallardón llegó al cargo",
+     "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-pp-saca-adelante-la-reforma-del-cgpj-en-el-congreso-con-el-unico-apoyo-de-upn-y-el-rechazo-de-la-oposicion-2013-06-27/",
+     "date": "2013-06-27"
+    },
+    {
+     "title": "Catalan News: chats filtrados del portavoz del PP en el Senado sobre el reparto del CGPJ (en inglés)",
+     "quote": "control from the behind the scenes",
+     "url": "https://www.catalannews.com/society-science/item/court-chamber-trying-pro-independence-leaders-controlled-by-pp-show-leaked-chats",
+     "date": "2018-11-19"
+    }
+   ]
+  },
+  {
+   "pregunta": "jueces",
+   "partido": "vox",
+   "support_actual": 3,
+   "support_propuesto": 4,
+   "reason": "Propone que los jueces elijan a los 12 vocales judiciales por voto directo y secreto y acabar con las cuotas de partido, y pide idoneidad e independencia para el fiscal general. No tiene historial de gobierno nacional que lo contradiga.",
+   "evidence": [
+    {
+     "title": "Programa Vox 29N, medida 100",
+     "quote": "sean elegidos mediante voto personal, directo y secreto por y entre los propios jueces y magistrados",
+     "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+     "date": "2026-11-12",
+     "page": 55
+    }
+   ]
+  },
+  {
+   "pregunta": "jueces",
+   "partido": "salf",
+   "support_actual": 3,
+   "support_propuesto": 4,
+   "reason": "Propone un CGPJ elegido por jueces, por antigüedad o por sorteo, sin políticos, y un fiscal general elegido entre fiscales con 25 años de carrera y con un mandato que no coincida con la legislatura. Es el programa que más se aleja de la elección partidista.",
+   "evidence": [
+    {
+     "title": "Contrato electoral SALF 29N, punto 9",
+     "quote": "composición determinada por criterios excluyentes de cualquier influencia política: elección por jueces y magistrados",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "date": "2026-11",
+     "page": 28
+    },
+    {
+     "title": "Contrato electoral SALF 29N, punto 6: fiscal general",
+     "quote": "Elegido por tres quintos del Congreso entre fiscales con 25 años de carrera",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "date": "2026-11",
+     "page": 27
+    }
+   ]
+  },
+  {
+   "pregunta": "jueces",
+   "partido": "psoe",
+   "support_actual": 3,
+   "support_propuesto": 1,
+   "reason": "El programa no cambia que las Cortes elijan a los vocales judiciales y presume de haber renovado el CGPJ por esa vía. En 2020 registró con Unidas Podemos una ley para elegirlos por mayoría absoluta. Las pruebas anónimas de acceso y el mandato de cinco años para el fiscal general evitan el 0.",
+   "evidence": [
+    {
+     "title": "Programa PSOE 29N, Justicia",
+     "quote": "hemos renovado el Consejo General del Poder Judicial tras años de bloqueo del PP",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "date": "2026-11-15",
+     "page": 100
+    },
+    {
+     "title": "PSOE y Unidas Podemos registran una reforma para elegir a los vocales judiciales del CGPJ por mayoría absoluta",
+     "quote": "elegirá los seis Vocales del turno judicial por mayoría absoluta",
+     "url": "https://www.elindependiente.com/espana/2020/10/13/psoe-y-podemos-quieren-rebajar-la-mayoria-parlamentaria-para-elegir-a-los-vocales-del-cgpj/amp/",
+     "date": "2020-10-13"
+    }
+   ]
+  },
+  {
+   "pregunta": "jueces",
+   "partido": "frenteamplio",
+   "support_actual": 3,
+   "support_propuesto": 1,
+   "reason": "Mantiene por escrito que el Parlamento elija a los vocales judiciales y añade una segunda votación por mayoría absoluta para facilitarlo. Lo que evita el 0 son la incompatibilidad total de los jueces y el acceso becado por la Escuela Judicial.",
+   "evidence": [
+    {
+     "title": "Programa Frente Amplio 29N, 18.7",
+     "quote": "Los vocales del turno judicial se seguirán eligiendo por mayoría de tres quintos, pero si en dos meses no hay acuerdo, las Cámaras podrán elegirlos en segunda votación por mayoría absoluta",
+     "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+     "date": "2026-11",
+     "page": 155
+    }
+   ]
+  },
+  {
+   "pregunta": "jueces",
+   "partido": "podemos",
+   "support_actual": 3,
+   "support_propuesto": 0,
+   "reason": "Propone que el Congreso elija a los vocales judiciales por mayoría absoluta, aspira a que la ciudadanía los elija directamente y quiere participación ciudadana o de sus representantes en la selección de jueces. Va en sentido contrario a seleccionarlos solo por criterios profesionales. En 2020 firmó con el PSOE la rebaja de la mayoría.",
+   "evidence": [
+    {
+     "title": "Programa Podemos 29N, medida 414",
+     "quote": "la elección de los doce vocales del turno judicial por el Congreso requiera mayoría absoluta",
+     "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+     "date": "2026-11",
+     "page": 129
+    },
+    {
+     "title": "Programa Podemos 29N, medida 415",
+     "quote": "Diseñaremos un sistema de participación directa de la ciudadanía o indirecta a través de sus representantes",
+     "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+     "date": "2026-11",
+     "page": 129
+    },
+    {
+     "title": "PSOE y Unidas Podemos registran una reforma para elegir a los vocales judiciales del CGPJ por mayoría absoluta",
+     "quote": "elegirá los seis Vocales del turno judicial por mayoría absoluta",
+     "url": "https://www.elindependiente.com/espana/2020/10/13/psoe-y-podemos-quieren-rebajar-la-mayoria-parlamentaria-para-elegir-a-los-vocales-del-cgpj/amp/",
+     "date": "2020-10-13"
+    }
+   ]
+  },
+  {
+   "pregunta": "igualdad-ley",
+   "partido": "vox",
+   "support_actual": 3,
+   "support_propuesto": 1,
+   "reason": "Su programa da a los españoles acceso preferente por nacionalidad a la vivienda pública, las guarderías, las ayudas y las prestaciones, y limita el Ingreso Mínimo Vital a los españoles: es un trato distinto según el origen. Su declaración de igualdad por sexo y orientación evita el 0.",
+   "evidence": [
+    {
+     "title": "Programa Vox 29N, medida 18: prioridad nacional",
+     "quote": "Acceso preferente de los españoles a vivienda pública, plazas de guardería, bonos de comedor o transporte, ayudas, prestaciones",
+     "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+     "date": "2026-11-12",
+     "page": 19
+    },
+    {
+     "title": "Programa Vox 29N, medida 22",
+     "quote": "El Ingreso Mínimo Vital atenderá únicamente las necesidades de los españoles con menos recursos",
+     "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+     "date": "2026-11-12",
+     "page": 19
+    }
+   ]
+  },
+  {
+   "pregunta": "igualdad-ley",
+   "partido": "pp",
+   "support_actual": 4,
+   "support_propuesto": 3,
+   "reason": "Promete combatir toda discriminación, pero quiere eliminar la autodeterminación registral del sexo, que es un requisito añadido solo para las personas trans. También da prioridad en las ayudas por arraigo; aquí pesa poco porque el texto excluye expresamente que dependa solo de la nacionalidad.",
+   "evidence": [
+    {
+     "title": "Programa PP 29N, medida 115",
+     "quote": "eliminaremos la libre autodeterminación registral del sexo",
+     "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+     "date": "2026-11",
+     "page": 44
+    },
+    {
+     "title": "Programa PP 29N, medida 98",
+     "quote": "no podrán basarse exclusivamente en la nacionalidad",
+     "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+     "date": "2026-11",
+     "page": 40
+    }
+   ]
+  },
+  {
+   "pregunta": "pensiones",
+   "partido": "psoe",
+   "support_actual": 3,
+   "support_propuesto": 4,
+   "reason": "Propone subir con el IPC por mandato constitucional. Su Gobierno ya lo fijó por ley en 2021 (Ley 21/2021) y lo ha aplicado cada año. Cumple el objetivo sin vincular la pensión a lo cotizado.",
+   "evidence": [
+    {
+     "title": "Programa PSOE 29N, compromiso 100",
+     "quote": "Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "date": "2026-11-15",
+     "page": 40
+    },
+    {
+     "title": "Moncloa: las Cortes aprueban la ley que garantiza el poder adquisitivo de las pensiones (Ley 21/2021, Gobierno PSOE-Unidas Podemos)",
+     "quote": "Las Cortes Generales aprueban la ley que garantiza el poder adquisitivo de las pensiones",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2021/221221-ley_pensiones.aspx",
+     "date": "2021-12-22"
+    }
+   ]
+  },
+  {
+   "pregunta": "pensiones",
+   "partido": "frenteamplio",
+   "support_actual": 3,
+   "support_propuesto": 4,
+   "reason": "Propone llevar a la Constitución la subida automática con el IPC y que ninguna pensión baje del salario mínimo. Esto último supone pagar expresamente más de lo cotizado.",
+   "evidence": [
+    {
+     "title": "Programa Frente Amplio 29N",
+     "quote": "su revalorización automática con arreglo al IPC, que ninguna sea inferior al SMI",
+     "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+     "date": "2026-11",
+     "page": 64
+    }
+   ]
+  },
+  {
+   "pregunta": "pensiones",
+   "partido": "podemos",
+   "support_actual": 3,
+   "support_propuesto": 4,
+   "reason": "Su medida 194 propone subir con el IPC por ley y llevarlo a la Constitución, y formó parte del Gobierno que aprobó la Ley 21/2021. En el programa del 29N propone además adelantar la jubilación a los 63 años pagada con los Presupuestos: más pensión que lo cotizado.",
+   "evidence": [
+    {
+     "title": "Podemos, medida 194",
+     "quote": "Estableceremos la actualización por ley de las pensiones al IPC de manera inmediata",
+     "url": "https://podemos.info/medida/garantia-de-revalorizacion-de-las-pensiones/",
+     "date": "s. f."
+    },
+    {
+     "title": "Programa Podemos 29N, medida 116",
+     "quote": "garantizando la sostenibilidad y suficiencia de las pensiones mediante su financiación a través de los Presupuestos Generales del Estado",
+     "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+     "date": "2026-11",
+     "page": 41
+    },
+    {
+     "title": "Moncloa: las Cortes aprueban la ley que garantiza el poder adquisitivo de las pensiones (Ley 21/2021, Gobierno PSOE-Unidas Podemos)",
+     "quote": "Las Cortes Generales aprueban la ley que garantiza el poder adquisitivo de las pensiones",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2021/221221-ley_pensiones.aspx",
+     "date": "2021-12-22"
+    }
+   ]
+  },
+  {
+   "pregunta": "pensiones",
+   "partido": "vox",
+   "support_actual": 2,
+   "support_propuesto": 1,
+   "reason": "Su programa no promete subir con el IPC, solo «garantizar la sostenibilidad». En febrero de 2026 fue el único grupo que votó en contra del decreto que subió las pensiones con el IPC. Su promesa de 2020 de subirlas por encima del IPC evita el 0.",
+   "evidence": [
+    {
+     "title": "Programa Vox 29N, medida 7",
+     "quote": "Garantizar la sostenibilidad del sistema de pensiones.",
+     "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+     "date": "2026-11-12",
+     "page": 10
+    },
+    {
+     "title": "ESdiario: Vox vota en contra de la subida de las pensiones y se queda solo en el Congreso",
+     "quote": "el debate no debe centrarse únicamente en la revalorización anual",
+     "url": "https://www.esdiario.com/nacional/260226/180913/vox-vota-subida-pensiones-queda-congreso.html",
+     "date": "2026-02-26"
+    }
+   ]
+  },
+  {
+   "pregunta": "crianza",
+   "partido": "frenteamplio",
+   "support_actual": 3,
+   "support_propuesto": 4,
+   "reason": "Propone una prestación de 200 euros al mes por cada menor, que no depende de los ingresos de los padres: es justo una ayuda universal, también con rentas altas.",
+   "evidence": [
+    {
+     "title": "Programa Frente Amplio 29N, Ley de Prestación Universal por Crianza",
+     "quote": "desvinculado de los ingresos o situación laboral de los progenitores",
+     "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+     "date": "2026-11",
+     "page": 21
+    }
+   ]
+  },
+  {
+   "pregunta": "crianza",
+   "partido": "podemos",
+   "support_actual": 3,
+   "support_propuesto": 4,
+   "reason": "Propone una prestación universal mensual por cada hijo hasta los 21 años (el 15 % del salario mínimo) y la justifica expresamente por la baja natalidad.",
+   "evidence": [
+    {
+     "title": "Programa Podemos 29N, medida 179",
+     "quote": "Establecer una prestación universal por crianza hasta los 21 años",
+     "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+     "date": "2026-11",
+     "page": 60
+    }
+   ]
+  }
+ ],
+ "otras_a_revisar": [
+  {
+   "pregunta": "patrimonio",
+   "partido": "pp",
+   "motivo": "Tiene 1 por una declaración de 2022. Sus gobiernos autonómicos bonifican el 100 % del impuesto de Patrimonio (Madrid) y recurrieron ante el Constitucional el impuesto de solidaridad de las grandes fortunas: es lo mismo que el 0 de Vox."
+  },
+  {
+   "pregunta": "regularizacion",
+   "partido": "pp",
+   "motivo": "El PP votó a favor de tramitar la ILP de regularización extraordinaria en abril de 2024. Habría que ver si eso, junto con el arraigo excepcional del programa, cambia el 2."
+  },
+  {
+   "pregunta": "sanidad-colaboracion",
+   "partido": "psoe",
+   "motivo": "Tiene 1 porque «prioriza la gestión pública», pero las comunidades gobernadas por el PSOE (Castilla-La Mancha, Asturias) derivan pacientes a la privada para reducir esperas. Sus actos se acercan a 2."
+  },
+  {
+   "pregunta": "aforamientos",
+   "partido": "frenteamplio",
+   "motivo": "Tiene 4 por una exigencia de Sumar al PSOE en 2025, pero el programa del 29N no menciona los aforamientos y Sumar no los suprimió en el Gobierno. El 4 se apoya en una declaración, no en una propuesta."
+  },
+  {
+   "pregunta": "nuclear",
+   "partido": "psoe",
+   "motivo": "Tiene 1 por el calendario de cierre de 2035 (página 66 del programa). Conviene comprobar si el Gobierno ha abierto o tramitado la prórroga de Almaraz en 2025-2026, porque eso respondería justo al supuesto de que no haya potencia suficiente."
+  },
+  {
+   "pregunta": "conciertos",
+   "partido": "psoe",
+   "motivo": "El nivel 1 se apoya en una declaración del PSOE de Cádiz de 2020. Habría que sustituirla por lo que dice el programa del 29N o por lo que hacen los gobiernos del PSOE con los conciertos."
+  },
+  {
+   "pregunta": "infantil",
+   "partido": "vox",
+   "motivo": "Su 0-3 gratuito es una sola frase sin instrumento ni coste, frente a las medidas detalladas de los demás. Tiene el mismo 4, pero la evidencia es débil."
+  }
+ ],
+ "criterios": [
+  "jueces: se puntúa quién debe elegir a los vocales judiciales del CGPJ y si se despolitizan los nombramientos (Supremo, fiscal general). 4 = que los elijan los jueces, sin historial en contra; 3 = lo propone, pero incumplió esa misma promesa al gobernar; 1 = mantiene o facilita que los elija el Parlamento, con alguna medida profesional; 0 = además propone más participación política o popular en la selección de jueces.",
+  "igualdad-ley: baja el nivel la propuesta que niega o condiciona un derecho o prestación a un grupo, frente a otros, por sexo, orientación, identidad de género u origen (por ejemplo, la prioridad por nacionalidad o los requisitos registrales solo para personas trans). Las medidas de protección añadida a un colectivo (ley de violencia de género, ley trans) y su derogación no cuentan ni a favor ni en contra. Si se aplicara la otra lectura (la pena agravada para el hombre del art. 153.1 CP como trato desigual por sexo), PSOE, Frente Amplio y Podemos bajarían a 3. Esa decisión queda para el editor. SALF sigue sin nivel: su programa no trata sexo, orientación ni identidad, y lo que dice sobre origen se refiere a la situación legal y a la inmigración.",
+  "pensiones: 4 = subida con el IPC garantizada por ley o por la Constitución, más medidas que pagan por encima de lo cotizado; 3 = promete el IPC pero con historial o diseño que lo matiza (PP: la Ley 23/2013 desvinculó la subida del IPC, con un mínimo del 0,25 %; SALF: blinda las pensiones actuales pero lleva a los menores de 45 a cuentas individuales); 1 = no promete el IPC y votó en contra de aplicarlo.",
+  "crianza: 4 = ayuda directa universal por hijo, sin depender de la renta; 3 = ayuda que llega a todos, pero progresiva o con forma de deducción fiscal que no favorece por igual a todas las rentas (PSOE, PP, Vox, SALF). El PP se queda en 3, no en 4, porque donde gobierna ha puesto límites de renta, como en la ayuda a la maternidad de Madrid (no verificado aquí con fuente abierta). Nadie llega a condicionarla del todo a la renta, así que la pregunta solo distingue entre 3 y 4.",
+  "infantil: no hay cambios. PP, Vox, PSOE, Frente Amplio y Podemos proponen 0-3 gratuito y pagado con dinero público para todas las familias que lo pidan (el PP también en centros concertados, que también se pagan con impuestos). La pregunta trata de la financiación, no de quién gestiona ni de quién accede. Bajar a Vox por la prioridad nacional sería castigarlo dos veces por lo mismo, que ya cuenta en igualdad-ley. SALF sigue sin nivel: no menciona el 0-3, solo un cheque escolar sin edad."
+ ]
+}

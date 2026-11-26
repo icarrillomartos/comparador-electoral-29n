@@ -1,0 +1,55 @@
+{
+  "cambios": [
+    {
+      "pregunta": "condiciones-laborales",
+      "partido": "pp",
+      "support_actual": 1,
+      "support_propuesto": 2,
+      "motivo": "Con 1 queda igual que Vox, que propone derogar la legislación laboral vigente. El PP no propone derogarla: Feijóo se comprometió a respetar el «tronco» de la reforma de 2021 y la calificó de «sustancialmente una buena reforma». En 2023 propuso además un calendario para subir el SMI hasta el 60 % del salario medio, el mismo umbral que plantea el PSOE, aunque condicionado al diálogo social. Votar contra la convalidación de 2022 no indica por sí solo rechazo a regular: Vox (52) también votó en contra, y lo mismo hicieron ERC, PNV y Bildu desde la izquierda. Siguen pesando en contra el veto a las 37,5 horas, el test de productividad y la eliminación de trabas, así que 2 (postura intermedia) encaja mejor que 1. Si se mantiene el 1, el motivo debería explicar por qué el PP vale lo mismo que Vox. Hay que retocar el texto del motivo: el voto de Casero solo hizo que «saliera adelante», y conviene añadir que Vox votó en contra.",
+      "evidencia": [
+        {"title": "Feijóo asegura que no derogará la reforma laboral si gana las elecciones (El Independiente)", "quote": "esa reforma laboral pactada, yo la voy a respetar", "url": "https://www.elindependiente.com/espana/2023/06/29/feijoo-asegura-que-no-derogara-la-reforma-laboral-si-gana-las-elecciones-es-sustancialmente-una-buena-reforma/amp/", "date": "2023-06-29"},
+        {"title": "Plan de gobierno de Feijóo en la investidura (Official Press)", "quote": "el salario mínimo interprofesional (SMI) hasta el 60% del salario medio", "url": "https://officialpress.es/plan-de-gobierno-de-feijoo/amp/", "date": "2023-09-26"},
+        {"title": "El Congreso aprueba la reforma laboral (The Objective)", "quote": "en contra han votado el PP (88 diputados), Vox (52), Foro Asturias (uno) y Junts (cuatro)", "url": "https://theobjective.com/espana/2022-02-03/congreso-aprueba-reforma-laboral/", "date": "2022-02-03"}
+      ]
+    },
+    {
+      "pregunta": "sanidad-colaboracion",
+      "partido": "psoe",
+      "support_actual": 1,
+      "support_propuesto": 2,
+      "motivo": "El programa habla de gestión directa «preferente», no exclusiva, y el motivo actual ya reconoce que no prohíbe derivar. Lo que hace el partido donde gobierna también usa la privada. El consejero de Sanidad del Gobierno socialista de Castilla-La Mancha defiende en 2026 los conciertos, también para descongestionar las listas de espera, y pide que la Ley de Gestión Pública sea «flexible». Con 2 se mantiene el orden con Frente Amplio (1, gestión indirecta solo «estrictamente excepcional») y Podemos (0, gestión pública obligatoria).",
+      "evidencia": [
+        {"title": "Programa PSOE 29N, gestión directa preferente", "quote": "Limitar la privatización de la sanidad estableciendo la gestión directa como modalidad preferente en la prestación sanitaria", "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf", "date": "2026-11-15"},
+        {"title": "Sanz, consejero de Sanidad de Castilla-La Mancha: «La Ley de Gestión Pública tiene que ser flexible, la privada es necesaria» (El Español)", "quote": "No sólo para descongestionar las listas de espera", "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20260403/sanz-consejero-sanidad-castilla-la-mancha-ley-gestion-publica-flexible-privada-necesaria/1003744190805_0.html", "date": "2026-04-03"}
+      ]
+    },
+    {
+      "pregunta": "patrimonio",
+      "partido": "pp",
+      "support_actual": 1,
+      "support_propuesto": 1,
+      "motivo": "Se mantiene el 1, pero conviene cambiar la evidencia: ahora solo hay una nota de Galicia de 2022. No baja a 0 porque el PP no propone en su programa suprimir Patrimonio en todo el país, a diferencia de Vox y SALF, que sí lo proponen de forma explícita, y mantiene un IRPF progresivo (baja el de las rentas medias y bajas). Sí debe reflejarse lo que hace: Madrid y Andalucía bonifican Patrimonio al 100 %, Madrid, Andalucía, Galicia y Murcia recurrieron el impuesto de grandes fortunas (el TC lo avaló en 2023) y el programa 29N deja a las comunidades «bajarlos cuanto quieran», que es lo contrario del impuesto estatal mínimo.",
+      "evidencia": [
+        {"title": "Programa PP 29N, medida 185", "quote": "Las Comunidades Autónomas seguirán decidiendo con libertad sobre sus impuestos propios y cedidos, dentro de sus competencias, y podrán bajarlos cuanto quieran.", "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf", "date": "2026-11-10"},
+        {"title": "El Constitucional rechaza el recurso de Ayuso y avala el impuesto a las grandes fortunas (Ara)", "quote": "tiene bonificado totalmente el impuesto de patrimonio", "url": "https://es.ara.cat/economia/macroeconomia/tribunal-constitucional-rechaza-recurso-ayuso-avala-impuesto-grandes-fortunas_1_4850236.html", "date": "2023-11-07"}
+      ]
+    }
+  ],
+  "citas_que_fallan": [],
+  "comprobadas_sin_cambio": [
+    "matrimonio-igualitario/pp", "matrimonio-igualitario/vox", "matrimonio-igualitario/psoe", "matrimonio-igualitario/frenteamplio", "matrimonio-igualitario/podemos", "matrimonio-igualitario/salf",
+    "violencia-genero/pp", "violencia-genero/vox", "violencia-genero/psoe", "violencia-genero/frenteamplio", "violencia-genero/podemos", "violencia-genero/salf",
+    "condiciones-laborales/vox", "condiciones-laborales/psoe", "condiciones-laborales/frenteamplio", "condiciones-laborales/podemos", "condiciones-laborales/salf",
+    "ayudas-sociales/pp", "ayudas-sociales/vox", "ayudas-sociales/psoe", "ayudas-sociales/frenteamplio", "ayudas-sociales/podemos", "ayudas-sociales/salf",
+    "regularizacion/pp"
+  ],
+  "dudas": [
+    "regularizacion/pp: el 9-4-2024 votó a favor de tramitar la ILP (310 votos, todos los grupos salvo Vox), aunque con «grandes reservas» y condicionándolo a sus enmiendas. Después se opuso al real decreto de 2026, y su programa deja el arraigo como excepción individual. El 2 se sostiene, pero el motivo debería mencionar ese voto para no omitirlo. Fuente abierta: https://rtvc.es/todo-el-congreso-menos-vox-apoya-tramitar-la-regularizacion-de-extranjeros/",
+    "matrimonio-igualitario/vox: la única fuente sobre la postura (uniones civiles sí, matrimonio no) es de 2019. La de Qué! (2026) dice que Abascal «ha pedido derogaciones», pero no lo fecha ni da la cita. No he encontrado ninguna declaración posterior en sentido contrario. El 1 es razonable (el 0 también sería defendible), pero conviene buscar algo más reciente.",
+    "matrimonio-igualitario/frenteamplio: el 4 es una interpretación, porque el programa no nombra el matrimonio. Es plausible por lo que defienden los partidos que lo forman, pero la cita «blindar y ampliar las libertades públicas» es genérica. Si existe, convendría una cita directa o un voto.",
+    "violencia-genero/pp: el 3 se sostiene (programa, Pacto renovado en 2025 con el único voto en contra de Vox). Según Qué!, Feijóo no exigió sus líneas rojas en los pactos autonómicos de 2026, así que el matiz de Valencia 2023 podría ampliarse a esos acuerdos si se documenta.",
+    "condiciones-laborales/salf: el 1 se sostiene (abarata el despido a 12 días al inicio, «una norma entra, dos salen»), aunque en la p. 31 también propone un salario del 50 % del convenio para los aprendices, que la Seguridad Social pague la baja desde el primer día, un fondo público para salarios impagados y perseguir a los falsos autónomos. Se podría mencionar en el motivo.",
+    "regularizacion/pp: la cita empieza en la p. 22 y termina en la p. 23 (desde «individual excepcional»). Es un detalle de página, no un fallo de la cita.",
+    "Las citas de los programas se comprobaron en los .txt locales; algunas solo coinciden tras unir palabras cortadas por guiones o saltos de línea. Las fuentes web abiertas contienen las citas indicadas. No pude abrir Noticias de Navarra (HTTP 406), por eso no la cito."
+  ]
+}

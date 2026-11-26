@@ -1,0 +1,266 @@
+{
+  "jornada": {
+    "pp": {
+      "evidence": [
+        {
+          "title": "BOCG Congreso 15-A-58-2 · Enmienda a la totalidad de devolución del GP Popular (núm. 3) al proyecto de reducción de jornada",
+          "quote": "Desde el Grupo Parlamentario Popular, nos oponemos a este Proyecto de Ley tanto en el fondo como en la forma",
+          "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-58-2.PDF",
+          "date": "2025-06-24"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL. La justificación añade: «La vía es el dialogo social y la negociación colectiva, no la imposición», lo que confirma el matiz del reason (rechazo a imponerlo por ley, no a toda reducción)."
+    },
+    "vox": {
+      "evidence": [
+        {
+          "title": "BOCG Congreso 15-A-58-2 · Enmienda a la totalidad de devolución del GP VOX (núm. 2) al proyecto de reducción de jornada",
+          "quote": "se postula la devolución al Gobierno del Proyecto de ley, con la finalidad de que elabore una propuesta normativa que no sea dañina para el bien común",
+          "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-58-2.PDF",
+          "date": "2025-06-24"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL. Firmada por José María Figaredo (18-06-2025)."
+    }
+  },
+  "patrimonio": {
+    "pp": {
+      "evidence": [
+        {
+          "title": "PP: Feijóo reivindica que el modelo de gestión del PP demuestra que es posible bajar impuestos",
+          "quote": "se consolidaron las rebajas anteriores sin subir la presión fiscal y se bajó el IRPF al 90% de los gallegos, rebajando también ITP y Patrimonio",
+          "url": "https://www.pp.es/actualidad/articulos/feijoo-reivindica-que-modelo-gestion-pp-demuestra-que-es-posible-bajar-impuestos/",
+          "date": "2022-04-01"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL. Texto en estilo indirecto de la nota del PP; evidencia débil (rebaja autonómica gallega de 2022), coherente con el nivel 1 matizado."
+    },
+    "vox": {
+      "evidence": [
+        {
+          "title": "VOX denuncia la 'fatiga tributaria' de los españoles y exige una bajada fiscal ambiciosa, permanente y justa",
+          "quote": "Supresión de impuestos como Sucesiones, Patrimonio, el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana y el Impuesto sobre Hidrocarburos",
+          "url": "https://www.voxespana.es/grupo_parlamentario/actividad-parlamentaria/vox-denuncia-la-fatiga-tributaria-de-los-espanoles-y-exige-una-bajada-fiscal-ambiciosa-permanente-y-justa-20260324",
+          "date": "2026-03-24"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL (bloquea descargas automáticas; leída en navegador). Enmienda defendida por el diputado Pablo Sáez."
+    }
+  },
+  "sucesiones": {
+    "pp": {
+      "evidence": [
+        {
+          "title": "PP: Feijóo reivindica que el modelo de gestión del PP demuestra que es posible bajar impuestos",
+          "quote": "se acometió la mayor bajada de la historia autonómica -ahora el 99% de las herencias no pagan el Impuesto de Sucesiones-",
+          "url": "https://www.pp.es/actualidad/articulos/feijoo-reivindica-que-modelo-gestion-pp-demuestra-que-es-posible-bajar-impuestos/",
+          "date": "2022-04-01"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL. Antecedente gallego de 2022."
+    },
+    "vox": {
+      "evidence": [
+        {
+          "title": "VOX denuncia la 'fatiga tributaria' de los españoles y exige una bajada fiscal ambiciosa, permanente y justa",
+          "quote": "Supresión de impuestos como Sucesiones, Patrimonio, el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana y el Impuesto sobre Hidrocarburos",
+          "url": "https://www.voxespana.es/grupo_parlamentario/actividad-parlamentaria/vox-denuncia-la-fatiga-tributaria-de-los-espanoles-y-exige-una-bajada-fiscal-ambiciosa-permanente-y-justa-20260324",
+          "date": "2026-03-24"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL y cita que patrimonio/vox."
+    },
+    "psoe": {
+      "evidence": [
+        {
+          "title": "PSOE · Compromisos del sí: Sí a combatir la desigualdad",
+          "quote": "Una reforma fiscal que [...] establezca un mínimo común en los Impuestos de Sucesiones y Patrimonio",
+          "url": "https://www.psoe.es/compromisos-del-si/si-a-combatir-la-desigualdad/",
+          "date": ""
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL (carga por JavaScript; leída en navegador). La página no muestra fecha; se deja vacía."
+    },
+    "podemos": {
+      "evidence": [
+        {
+          "title": "Podemos · Programa, medida 266: Hacer el impuesto sobre sucesiones y donaciones más justo",
+          "quote": "que sea más progresivo y que las personas herederas con menor patrimonio preexistente y mayor grado de consanguineidad tengan cuotas reducidas. [...] armonizaremos este impuesto a escala estatal a partir de un mínimo de tributación",
+          "url": "https://podemos.info/eu/medida/hacer-el-impuesto-sobre-sucesiones-y-donaciones-mas-justo/",
+          "date": ""
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL (leída en navegador). La página no indica fecha ni convocatoria del programa; se deja vacía."
+    }
+  },
+  "pensiones": {
+    "vox": {
+      "evidence": [
+        {
+          "title": "VOX: Pacto de Toledo: «VOX no será cómplice de este engaño a los españoles»",
+          "quote": "En VOX tenemos un compromiso con los pensionistas españoles. Queremos salvar sus pensiones. Es más, queremos subirlas. Incluso por encima del IPC",
+          "url": "https://www.voxespana.es/grupo_parlamentario/actividad-parlamentaria/comisiones/pensiones-vox-no-pacto-toledo-rompe-consenso-no-complices-mentira-20201027",
+          "date": "2020-10-27"
+        },
+        {
+          "title": "VOX: Pelayo exige que se tomen «medidas estructurales» que hagan viable el sistema público de pensiones",
+          "quote": "con el extinto Factor de Sostenibilidad, la vinculación de las pensiones con el IPC elevan 3,4 puntos del PIB la factura y el gasto podría superar incluso el 18% para mitad de siglo",
+          "url": "https://www.voxespana.es/noticias/pelayo-vox-exige-que-se-tomen-medidas-estructurales-que-hagan-viable-el-sistema-publico-de-pensiones-20241023",
+          "date": "2024-10-23"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Mismas URL. Primera cita: Iván Espinosa de los Monteros (literal). Segunda: estilo indirecto de la nota sobre el senador Ángel Pelayo. Sostienen la tensión que justifica el nivel 2."
+    },
+    "podemos": {
+      "evidence": [
+        {
+          "title": "Podemos · Programa, medida 194: Garantía de revalorización de las pensiones",
+          "quote": "Estableceremos la actualización por ley de las pensiones al IPC de manera inmediata y buscaremos blindar esta garantía constitucionalizándola de forma expresa",
+          "url": "https://podemos.info/medida/garantia-de-revalorizacion-de-las-pensiones/",
+          "date": ""
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "URL nueva: la ficha de la medida 194 (la URL actual, /materia/pensiones/, solo lista el título). Sin fecha en la página. Respalda el 3; nada sobre superar lo cotizado."
+    }
+  },
+  "sanidad-colaboracion": {
+    "pp": {
+      "evidence": [
+        {
+          "title": "PP: «La gestión público-privada sanitaria es legal y se realiza con transparencia» (José Ignacio Echániz, secretario nacional de Sanidad)",
+          "quote": "es un instrumento de gestión que está dentro de la ley, es legítimo, y se realiza con transparencia a través de un concurso público. Se trata por tanto, de una colaboración para poder ofrecer un mejor servicio público",
+          "url": "https://www.pp.es/actualidad/articulos/gestion-publico-privada-sanitaria-es-legal-se-realiza-transparencia_7401-html/",
+          "date": "2013-01-22"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL; sigue siendo de 2013. Con dos búsquedas no encontré una declaración estatal reciente del PP o de Feijóo que defienda pagar atención privada para reducir esperas (solo críticas de prensa a los conciertos de la Xunta y una frase de Feijóo de 2012 citada por Maldita). Sostiene el sentido del nivel 3, pero la fuente es antigua e indirecta respecto al supuesto: candidata a bajar a 'interpretation' o a buscar en el programa del 29N."
+    }
+  },
+  "conciertos": {
+    "psoe": {
+      "evidence": [
+        {
+          "title": "Qué! · Alegría defiende la colaboración entre educación pública y concertada (Pilar Alegría, ministra de Educación y FP)",
+          "quote": "Tengo todo mi respeto hacia la educación concertada porque juega un papel clave en nuestro sistema educativo",
+          "url": "https://www.que.es/2021/08/09/alegria-colaboracion-educacion-publica-concertada/",
+          "date": "2021-08-09"
+        },
+        {
+          "title": "PSOE de Cádiz: defensa del modelo de conciertos educativos",
+          "quote": "La ley no altera el modelo de conciertos creado en 1985 y que ha dado más de 40 años de estabilidad al sistema",
+          "url": "https://www.psoedecadiz.es/el-psoe-defiende-la-ley-de-educacion-pues-no-altera-el-modelo-de-conciertos-creado-en-1985-que-ha-dado-mas-de-40-anos-de-estabilidad-al-sistema/",
+          "date": ""
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Fuente estatal nueva: la ministra socialista de Educación (2021) se declara 'firme defensora' de la colaboración pública-concertada y recuerda que los conciertos nacen de una ley de Maravall. Se mantiene la de Cádiz como secundaria (sin fecha visible en la página). Prensa, no fuente primaria del partido."
+    }
+  },
+  "eutanasia": {
+    "pp": {
+      "evidence": [
+        {
+          "title": "PP · Nota de prensa: Ana Pastor en Jerez",
+          "quote": "Defiende la “universalización” de los cuidados paliativos y el “acompañamiento” de enfermos, frente a la ley de eutanasia ante la que el PP ha presentado un recurso al TC",
+          "url": "https://www.pp.es/storage/2021/06/21.06.25_titulares_ana_pastor_en_jerez.pdf",
+          "date": "2021-06-25"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL (página 2 del PDF)."
+    }
+  },
+  "aforamientos": {
+    "vox": {
+      "evidence": [
+        {
+          "title": "Cortes de Aragón · Diario de Sesiones nº 60, intervención de David Arranz (GP VOX)",
+          "quote": "El aforamiento en sí mismo como prerrogativa especial es contraria al principio de igualdad de todos ante la ley, que consagra nuestro artículo 14 de la Constitución",
+          "url": "https://bases.cortesaragon.es/bases/original.nsf/%28DSCA1%29/B10D58EB8447A94CC1258815003030EA/%24File/DSCA_60_Pleno_2022-03-10y11.pdf",
+          "date": "2022-03-10"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL (pág. 6262). Matiz importante: en el mismo discurso dice «serán exclusivamente aforados los diputados de las Cortes Generales», es decir, plantea suprimir los autonómicos y mantener los nacionales. El reason ya lo advierte; el 3 se sostiene solo como 'orienta al sí', no como supresión total."
+    }
+  },
+  "regularizacion": {
+    "psoe": {
+      "evidence": [
+        {
+          "title": "Pedro Sánchez, presidente del Gobierno: carta a la ciudadanía sobre la regularización extraordinaria",
+          "quote": "El Consejo de Ministros aprobará hoy el Real Decreto que da inicio al proceso de regularización extraordinaria de personas en situación irregular en nuestro país",
+          "url": "https://www.psoe.es/media-content/2026/04/DO-26-0031-Carta-ciudadania-regularizaci%C3%B3n.pdf",
+          "date": "2026-04-14"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL (leída en navegador; PDF de 2 páginas)."
+    }
+  },
+  "burka": {
+    "psoe": {
+      "evidence": [
+        {
+          "title": "PSOE · Patxi López: «No nos parece bien el uso del burka, pero no vamos a apoyar una propuesta de Vox…»",
+          "quote": "No nos parece bien el burka [...] Pero lo que no vamos a hacer nunca es apoyar una propuesta de Vox que lo único que pretende es avivar el odio contra el diferente en nuestro país",
+          "url": "https://www.psoe.es/congreso/noticias-congreso/patxi-lopez-no-nos-parece-bien-el-uso-del-burka-pero-no-vamos-a-apoyar-una-propuesta-de-vox-que-parte-de-las-premisas-mas-racistas-xenofobas-y-estigmatizadoras/",
+          "date": "2026-02-17"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL. Dato adicional: Diario de León (14-04-2026) afirma que «el PSOE ya ha adelantado su rechazo a prohibir prendas por motivos religiosos» ante la ley de Junts, lo que es compatible con el 1 (y podría apoyar un 0)."
+    },
+    "frenteamplio": {
+      "evidence": [
+        {
+          "title": "Diario de León (Europa Press) · Sumar votará finalmente en contra de la ley de Junts para prohibir el burka",
+          "quote": "Sumar votará finalmente en contra de tramitar en el Congreso la proposición de ley de Junts para prohibir el uso del burka [...] y ha descartado la abstención",
+          "url": "https://www.diariodeleon.es/nacional/260414/2081815/sumar-votara-finalmente-ley-junts-prohibir-burka.html",
+          "date": "2026-04-14"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Sustituye la cita de Aina Vidal. El mismo texto añade que Sumar «mantiene la postura que siguió el febrero, cuando se opuso a una iniciativa similar de Vox». Es un anuncio de voto previo al pleno (según fuentes del grupo), no el acta de la votación."
+    }
+  },
+  "redes": {
+    "vox": {
+      "evidence": [
+        {
+          "title": "VOX: Abascal carga contra el anuncio de persecución y la censura en redes",
+          "quote": "lo que pretende Pedro Sánchez es amordazar y censurar al mismo pueblo al que roba, al que traiciona y al que condena a la invasión y al colapso de todos los servicios públicos",
+          "url": "https://www.voxespana.es/abascal/abascal-carga-contra-el-anuncio-de-persecucion-y-la-censura-en-redes-pedro-sanchez-quiere-amordazar-al-pueblo-al-que-roba-y-traiciona-20260204",
+          "date": "2026-02-04"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL. La nota añade que Abascal considera «la supuesta protección de los menores» una «excusa del Psoe». Sostiene el 1 como interpretación; no hay pronunciamiento expreso sobre la edad de 16 años."
+    }
+  },
+  "igualdad-ley": {
+    "vox": {
+      "evidence": [
+        {
+          "title": "VOX: «Somos los únicos que defendemos la igualdad» (Carla Toscano, diputada del GP VOX, comparecencia de la secretaria de Estado de Igualdad)",
+          "quote": "Nosotros pensamos que todas las personas tengan la orientación sexual que tengan, se sienten como se sientan, sean hombres o mujeres… todos tenemos que tener los mismos derechos",
+          "url": "https://www.voxespana.es/grupo_parlamentario/actividad-parlamentaria/frente-la-demagogia-y-los-ramalazos-totalitarios-de-la-izquierda-la-verdad-de-vox-somos-los-unicos-que-defendemos-la-igualdad-20221005",
+          "date": "2022-10-05"
+        }
+      ],
+      "nivel_sostenido": true,
+      "nota": "Misma URL. No menciona el origen, que también forma parte de la pregunta."
+    }
+  }
+}

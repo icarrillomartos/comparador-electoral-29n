@@ -1,0 +1,71 @@
+{
+  "nuclear": {
+    "salf": {"support": null, "kind": "historical", "reason": "No se encontraron votaciones de sus eurodiputados ni declaraciones de Alvise sobre centrales nucleares. Sus propuestas públicas de 2025 no tratan la energía.", "evidence": [], "verificado": false}
+  },
+  "jornada": {
+    "salf": {"support": null, "kind": "historical", "reason": "No se encontraron declaraciones de Alvise ni de SALF sobre la reducción legal de jornada a 37,5 horas.", "evidence": [], "verificado": false}
+  },
+  "burka": {
+    "frenteamplio": {"support": 0, "kind": "historical", "reason": "Sumar votó en contra de tramitar la ley de VOX contra burka y niqab (febrero de 2026) y la de Junts (abril de 2026), y descartó abstenerse.", "evidence": [
+      {"title": "Sumar votará finalmente en contra de la ley de Junts para prohibir el burka", "quote": "Tenemos dudas, y lo hemos dicho desde un principio", "url": "https://www.diariodeleon.es/nacional/260414/2081815/sumar-votara-finalmente-ley-junts-prohibir-burka.html", "date": "2026-04-14", "type": "prensa"}
+    ], "verificado": true}
+  },
+  "alquiler": {
+    "salf": {"support": null, "kind": "historical", "reason": "Sus propuestas de vivienda conocidas son de oferta (suelo urbanizable, ventajas fiscales, licencias rápidas, mano dura con la okupación). No hay pronunciamiento sobre topes de alquiler; no se interpreta como rechazo.", "evidence": [], "verificado": false}
+  },
+  "infantil": {
+    "salf": {"support": null, "kind": "historical", "reason": "Su apoyo a la natalidad se documenta por la vía fiscal (rebajas de IRPF por hijo), no hay pronunciamiento sobre financiar plazas 0-3 con impuestos.", "evidence": [], "verificado": false}
+  },
+  "aforamientos": {
+    "frenteamplio": {"support": 4, "kind": "historical", "reason": "En junio de 2025 Sumar exigió al PSOE el fin de los aforamientos de todos los cargos públicos como condición de regeneración del pacto de coalición.", "evidence": [
+      {"title": "Díaz ve insuficiente las explicaciones de Sánchez y no baja la presión al PSOE", "quote": "Sumar exigirá \"el fin\" de los aforamientos de todos los cargos públicos", "url": "https://www.articulo14.es/politica/diaz-ve-insuficiente-las-explicaciones-de-sanchez-y-no-baja-la-presion-al-psoe-le-exige-garantias-de-regeneracion-20250616.html", "date": "2025-06-16", "type": "prensa"}
+    ], "verificado": true}
+  },
+  "turismo": {
+    "pp": {"support": 1, "kind": "historical", "reason": "Su programa no restringe pisos turísticos ni prevé expropiaciones, y Feijóo dijo que expropiar a arrendadores es impropio de una democracia occidental (sobre el decreto antidesahucios, no sobre pisos turísticos). Orienta al no por analogía.", "evidence": [
+      {"title": "Feijóo afirma que el Gobierno intenta expropiar el derecho de un arrendador a cobrar su renta", "quote": "expropiar el derecho de un arrendador a cobrar su renta", "url": "https://www.ultimahora.es/noticias/comunidades/2026/02/04/2563249/feijoo-afirma-gobierno-espana-intenta-expropiar-derecho-arrendador-cobrar-renta.html", "date": "2026-02-04", "type": "declaracion"},
+      {"title": "Spain's 2026 election housing promises (idealista)", "quote": "", "url": "https://www.idealista.com/en/news/node/924300", "date": "2026-11-19", "type": "prensa"}
+    ], "verificado": true},
+    "vox": {"support": 1, "kind": "historical", "reason": "Propone más regulación e inspección del alojamiento turístico ilegal, sin expropiación. Coincide en intervenir, no en transferir la propiedad al Estado.", "evidence": [
+      {"title": "Spain's 2026 election housing promises (idealista)", "quote": "greater regulation and inspection of illegal tourist accommodation", "url": "https://www.idealista.com/en/news/node/924300", "date": "2026-11-19", "type": "prensa"}
+    ], "verificado": true}
+  },
+  "redes": {
+    "frenteamplio": {"support": 3, "kind": "historical", "reason": "Sumar e IU dicen que la reforma de protección de la infancia que impulsan ya incluye limitar el acceso a menores de 16 y muestran afinidad con la idea, aunque piden poner el foco en la industria más que en los jóvenes.", "evidence": [
+      {"title": "Sumar reprocha a Sánchez su apuesta por la restricción del acceso de los menores a las redes cuando la ha bloqueado dos años", "quote": "Hay que elevar la exigencia a la industria y no poner tanto el foco en los jóvenes", "url": "https://www.elindependiente.com/espana/2026/02/03/sumar-reprocha-a-sanchez-su-apuesta-por-la-restriccion-del-acceso-de-los-menores-a-las-redes-cuando-la-ha-bloqueado-dos-anos/amp/", "date": "2026-02-03", "type": "prensa"}
+    ], "verificado": true},
+    "podemos": {"support": 2, "kind": "historical", "reason": "Belarra dijo que la prohibición a menores de 16 suena bien pero no servirá de nada sin educación, y propuso gravar a las redes. No la apoya ni la rechaza expresamente.", "evidence": [
+      {"title": "Podemos quiere gravar a las redes sociales para financiar educación sexual obligatoria", "quote": "suena muy bien […] no va a servir para nada", "url": "https://www.eldebate.com/educacion/20260211/podemos-quiere-crujir-impuestos-redes-sociales-usar-ese-dinero-educacion-sexual-obligatoria_384178.html", "date": "2026-02-11", "type": "declaracion"}
+    ], "verificado": true},
+    "salf": {"support": null, "kind": "historical", "reason": "No se encontró ninguna declaración de Alvise ni de SALF sobre prohibir redes a menores de 16 ni sobre la verificación de edad.", "evidence": [], "verificado": false}
+  },
+  "sanidad-acceso": {
+    "pp": {"support": 1, "kind": "historical", "reason": "Su Gobierno aprobó en 2012 un decreto que ligó la sanidad pública a la condición de asegurado y dejó a los extranjeros no autorizados solo urgencias, embarazo y menores. Es contrario a la pregunta, pero es una norma de hace 14 años y no hay posición más reciente verificada.", "evidence": [
+      {"title": "Real Decreto-ley 16/2012, de 20 de abril (BOE)", "quote": "De urgencia por enfermedad grave o accidente, cualquiera que sea su causa, hasta la situación de alta médica", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5403", "date": "2012-04-24", "type": "norma"}
+    ], "verificado": true},
+    "psoe": {"support": 3, "kind": "historical", "reason": "Sus gobiernos extendieron la sanidad pública a los extranjeros que residen en España sin importar su situación administrativa (2018 y 2026), pero exigen residencia habitual y excluyen a quien puede exportar cobertura o tiene visado de corta estancia. Se aproxima, sin llegar a cualquiera sea o no residente.", "evidence": [
+      {"title": "Real Decreto-ley 7/2018, de 27 de julio, sobre el acceso universal al SNS (BOE)", "quote": "No poder exportar el derecho de cobertura sanitaria desde su país de origen o procedencia", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10752", "date": "2018-07-30", "type": "norma"},
+      {"title": "Real Decreto 180/2026, de 11 de marzo (BOE)", "quote": "residencia habitual en territorio español", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5714", "date": "2026-03-12", "type": "norma"}
+    ], "verificado": true}
+  },
+  "prision-revisable": {
+    "psoe": {"support": 1, "kind": "historical", "reason": "Apoyó en 2017 tramitar su derogación y en marzo de 2026 rechazó ampliarla, aunque la prensa señala que ha moderado su posición sobre eliminarla y no la derogó gobernando. Orienta al no sin rechazo actual explícito.", "evidence": [
+      {"title": "El Congreso da el primer paso para derogar la prisión permanente revisable", "quote": "han anunciado durante el debate su apoyo a la iniciativa del PNV", "url": "https://www.publico.es/politica/congreso-da-primer-paso-derogar-prision-permanente-revisable.html", "date": "2017-10-10", "type": "prensa"},
+      {"title": "PSOE y PNV adelantan su rechazo a ampliar la prisión permanente revisable", "quote": "ha moderado su posición respecto a su eliminación", "url": "https://www.esdiario.com/nacional/260317/182691/psoe-pnv-adelantan-rechazo-ampliar-prision-permanente-revisable-debate-congreso.html", "date": "2026-03-17", "type": "prensa"}
+    ], "verificado": true},
+    "frenteamplio": {"support": 0, "kind": "historical", "reason": "Las primeras propuestas programáticas de Sumar (2023) incluían derogar la prisión permanente revisable.", "evidence": [
+      {"title": "Sumar quiere derogar la prisión permanente revisable y cerrar los centros de internamiento de inmigrantes", "quote": "derogar la prisión permanente revisable", "url": "https://theobjective.com/espana/politica/2023-05-02/sumar-derogar-prision-permanente-revisable-cerrar-centros-inmigrantes/", "date": "2023-05-02", "type": "prensa"}
+    ], "verificado": true},
+    "podemos": {"support": 0, "kind": "historical", "reason": "Unidos Podemos apoyó en el Congreso tramitar la ley del PNV para derogarla (2017). Es un antecedente antiguo, pero no consta cambio de posición.", "evidence": [
+      {"title": "El Congreso da el primer paso para derogar la prisión permanente revisable", "quote": "han anunciado durante el debate su apoyo a la iniciativa del PNV", "url": "https://www.publico.es/politica/congreso-da-primer-paso-derogar-prision-permanente-revisable.html", "date": "2017-10-10", "type": "votacion"}
+    ], "verificado": true}
+  },
+  "eutanasia": {
+    "salf": {"support": null, "kind": "historical", "reason": "No se encontraron declaraciones de Alvise ni votaciones de SALF sobre eutanasia.", "evidence": [], "verificado": false}
+  },
+  "igualdad-ley": {
+    "salf": {"support": null, "kind": "historical", "reason": "Lo único documentado es que Alvise pidió derogar la Ley de Violencia de Género (2020), sin pronunciarse sobre el principio general; eso no basta para situarlo en la pregunta.", "evidence": [
+      {"title": "¿Qué piensa Alvise sobre los derechos de las mujeres?", "quote": "", "url": "https://www.articulo14.es/politica/alvise-y-las-mujeres-desde-derogar-la-ley-de-violencia-de-genero-hasta-cazar-a-pedofilos-20240616.html", "date": "2024-06-16", "type": "prensa"}
+    ], "verificado": true}
+  }
+}

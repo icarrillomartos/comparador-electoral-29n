@@ -1,0 +1,499 @@
+{
+ "matrimonio-igualitario": {
+  "pp": {
+   "support": 3,
+   "kind": "historical",
+   "reason": "Votó contra la ley de 2005 y la recurrió ante el Constitucional, que la avaló en 2012; después el Gobierno de Rajoy no la tocó y en 2026 Feijóo incluye los derechos LGTBI entre sus líneas rojas. El programa no menciona el matrimonio, solo la lucha contra la LGTBIfobia.",
+   "evidence": [
+    {
+     "title": "El Constitucional avala el matrimonio homosexual (Legal Today/Reuters)",
+     "quote": "presentó al poco tiempo un recurso de inconstitucionalidad",
+     "url": "https://www.legaltoday.com/rincon-de-reuters/el-constitucional-espanol-avala-el-matrimonio-homosexual-2012-11-07/",
+     "date": "2012-11-07",
+     "type": "prensa"
+    },
+    {
+     "title": "El archivo del PP: por qué acaba adoptando las leyes del PSOE (Ara)",
+     "quote": "Mariano Rajoy's government, despite enjoying an absolute majority, decided not to touch it",
+     "url": "https://en.ara.cat/politics/the-pp-s-archive-why-does-it-end-up-adopting-the-psoe-s-laws_1_5697485.html",
+     "date": "2026-04-03",
+     "type": "prensa"
+    },
+    {
+     "title": "Feijóo se abre a coalición con Vox pero marca siete líneas rojas (Qué!)",
+     "quote": "la igualdad de género y los derechos LGTBI",
+     "url": "https://www.que.es/2026/06/18/feijoo-coalicion-vox-lineas-rojas/",
+     "date": "2026-06-18",
+     "type": "prensa"
+    },
+    {
+     "title": "Programa PP 29N",
+     "quote": "continuaremos luchando contra la LGTBIfobia",
+     "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+     "date": "2026-11-10",
+     "page": 43,
+     "type": "programa"
+    }
+   ]
+  },
+  "vox": {
+   "support": 1,
+   "kind": "historical",
+   "reason": "Su programa 29N no habla del matrimonio entre personas del mismo sexo. Abascal ha defendido uniones civiles pero no matrimonio, y según la prensa ha pedido derogar el matrimonio igualitario.",
+   "evidence": [
+    {
+     "title": "Far-right Vox challenges Spain's acceptance of LGBT rights (Euronews)",
+     "quote": "supports same-sex civil unions but not marriage",
+     "url": "https://www.euronews.com/2019/05/24/far-right-vox-challenges-spains-acceptance-of-lgbt-rights",
+     "date": "2019-05-24",
+     "type": "prensa"
+    },
+    {
+     "title": "Feijóo se abre a coalición con Vox pero marca siete líneas rojas (Qué!)",
+     "quote": "el matrimonio igualitario son terrenos en los que Abascal ha pedido derogaciones",
+     "url": "https://www.que.es/2026/06/18/feijoo-coalicion-vox-lineas-rojas/",
+     "date": "2026-06-18",
+     "type": "prensa"
+    }
+   ]
+  },
+  "psoe": {
+   "support": 4,
+   "kind": "direct",
+   "reason": "Aprobó la ley de 2005 y su programa 29N propone blindar jurídicamente el matrimonio igualitario.",
+   "evidence": [
+    {
+     "title": "Programa PSOE 29N, medida 368",
+     "quote": "garantizando la máxima protección jurídica del matrimonio igualitario",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "date": "2026-11-15",
+     "page": 89,
+     "type": "programa"
+    }
+   ]
+  },
+  "frenteamplio": {
+   "support": 4,
+   "kind": "interpretation",
+   "reason": "El programa no nombra el matrimonio, pero propone blindar y ampliar los derechos LGTBI+ y una Ley de Familias que reconozca la diversidad familiar.",
+   "evidence": [
+    {
+     "title": "Programa Frente Amplio 29N",
+     "quote": "apostamos por blindar y ampliar las libertades públicas",
+     "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+     "date": "2026-11-23",
+     "page": 37,
+     "type": "programa"
+    },
+    {
+     "title": "Programa Frente Amplio 29N",
+     "quote": "Aprobaremos la Ley de Familias (reconociendo la diversidad familiar)",
+     "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+     "date": "2026-11-23",
+     "page": 24,
+     "type": "programa"
+    }
+   ]
+  },
+  "podemos": {
+   "support": 4,
+   "kind": "direct",
+   "reason": "Su programa incluye medidas de apoyo a la adopción por familias LGTBIQA+ y el reconocimiento de la diversidad familiar.",
+   "evidence": [
+    {
+     "title": "Programa Podemos 29N, medida 150",
+     "quote": "medidas de apoyo a la adopción a familias LGTBIQA+",
+     "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+     "date": "2026-11",
+     "page": 52,
+     "type": "programa"
+    }
+   ]
+  },
+  "salf": {
+   "support": null,
+   "kind": "interpretation",
+   "reason": "El programa no lo menciona. Alvise ha dicho que no se ve legitimado para posicionarse sobre el matrimonio y que tiene dudas sobre la adopción, sin fijar postura del partido.",
+   "evidence": [
+    {
+     "title": "Las confesiones de Alvise sobre la homosexualidad (ESdiario)",
+     "quote": "no estoy legitimado para un posicionamiento firme sobre el matrimonio homosexual",
+     "url": "https://www.esdiario.com/nacional/240624/137577/alvise-perez-confesiones-homosexualidad.html",
+     "date": "2024-06-24",
+     "type": "prensa"
+    }
+   ]
+  }
+ },
+ "violencia-genero": {
+  "pp": {
+   "support": 3,
+   "kind": "direct",
+   "reason": "El programa 29N mantiene el Pacto de Estado y los juzgados especializados de violencia sobre la mujer, y votó a favor de renovar el Pacto en 2025. Pero en pactos autonómicos con Vox (Valencia 2023) firmó «violencia intrafamiliar» en lugar de violencia de género.",
+   "evidence": [
+    {
+     "title": "Programa PP 29N",
+     "quote": "Dotaremos de más medios y mayor especialización a las secciones de violencia sobre la mujer de los tribunales",
+     "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+     "date": "2026-11-10",
+     "page": 19,
+     "type": "programa"
+    },
+    {
+     "title": "El Congreso aprueba la renovación del Pacto contra la Violencia de Género (Artículo 14)",
+     "quote": "VOX es el único grupo parlamentario que vota en contra",
+     "url": "https://www.articulo14.es/politica/el-congreso-aprueba-la-renovacion-del-pacto-contra-la-violencia-de-genero-20250226.html",
+     "date": "2025-02-26",
+     "type": "prensa"
+    },
+    {
+     "title": "La polémica por la violencia de género estalla en Génova tras el pacto con Vox (Valencia Plaza)",
+     "quote": "luchar contra la \"violencia intrafamiliar\" en lugar de violencia de género",
+     "url": "https://valenciaplaza.com/la-polemica-por-la-violencia-de-genero-estalla-en-genova-tras-firmar-el-pacto-con-vox",
+     "date": "2023-06-16",
+     "type": "prensa"
+    }
+   ]
+  },
+  "vox": {
+   "support": 0,
+   "kind": "direct",
+   "reason": "Su programa 29N propone derogar las «leyes de género», y fue el único grupo que votó contra renovar el Pacto de Estado en 2025.",
+   "evidence": [
+    {
+     "title": "Programa Vox 29N, medida 47",
+     "quote": "Derogar las leyes que han criminalizado a los hombres y desprotegido a las mujeres",
+     "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+     "date": "2026-11-12",
+     "page": 30,
+     "type": "programa"
+    },
+    {
+     "title": "El Congreso aprueba la renovación del Pacto contra la Violencia de Género (Artículo 14)",
+     "quote": "VOX es el único grupo parlamentario que vota en contra",
+     "url": "https://www.articulo14.es/politica/el-congreso-aprueba-la-renovacion-del-pacto-contra-la-violencia-de-genero-20250226.html",
+     "date": "2025-02-26",
+     "type": "prensa"
+    }
+   ]
+  },
+  "psoe": {
+   "support": 4,
+   "kind": "direct",
+   "reason": "Aprobó la ley de 2004, impulsó el Pacto de Estado en 2018 y lo renovó en 2025; su programa 29N promete reforzarlo.",
+   "evidence": [
+    {
+     "title": "Programa PSOE 29N",
+     "quote": "lo renovamos en 2025, ampliándolo de 290 a 461 medidas",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "date": "2026-11-15",
+     "page": 77,
+     "type": "programa"
+    }
+   ]
+  },
+  "frenteamplio": {
+   "support": 4,
+   "kind": "direct",
+   "reason": "Propone subir cada año un 10 % la partida contra la violencia machista y blindar de forma plurianual el Pacto de Estado.",
+   "evidence": [
+    {
+     "title": "Programa Frente Amplio 29N",
+     "quote": "blindaremos con carácter plurianual las partidas estructurales del Pacto de Estado",
+     "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+     "date": "2026-11-23",
+     "page": 38,
+     "type": "programa"
+    }
+   ]
+  },
+  "podemos": {
+   "support": 4,
+   "kind": "direct",
+   "reason": "Propone un fondo de 1.000 millones contra la violencia machista y una prestación equivalente al SMI para las víctimas.",
+   "evidence": [
+    {
+     "title": "Programa Podemos 29N, medida 145",
+     "quote": "Creación de un fondo de contingencia de mil millones de euros",
+     "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+     "date": "2026-11",
+     "page": 51,
+     "type": "programa"
+    }
+   ]
+  },
+  "salf": {
+   "support": 0,
+   "kind": "historical",
+   "reason": "El programa 29N no lo menciona. Alvise Pérez ha defendido derogar la Ley Integral de Violencia de Género (antes de 2024 había hablado de reformarla).",
+   "evidence": [
+    {
+     "title": "Alvise y las mujeres: desde derogar la Ley de Violencia de Género (Artículo 14)",
+     "quote": "Aboga por derogar la Ley Integral de Violencia de Género",
+     "url": "https://www.articulo14.es/politica/alvise-y-las-mujeres-desde-derogar-la-ley-de-violencia-de-genero-hasta-cazar-a-pedofilos-20240616.html",
+     "date": "2024-06-16",
+     "type": "prensa"
+    }
+   ]
+  }
+ },
+ "condiciones-laborales": {
+  "pp": {
+   "support": 1,
+   "kind": "historical",
+   "reason": "Se opuso a la reforma laboral de 2021, que salió adelante solo por el voto erróneo de un diputado suyo que había votado «no», y vetó en 2025 la jornada de 37,5 horas. Su programa no propone límites laborales nuevos y someterá toda norma económica a un test de productividad.",
+   "evidence": [
+    {
+     "title": "Confusión en el Congreso: la reforma laboral se aprueba por un error con un diputado del PP (Ara)",
+     "quote": "en realidad, Casero había votado que no",
+     "url": "https://es.ara.cat/politica/confusion-congreso-reforma-laboral-aprueba-error-diputado-pp_1_4260466.html",
+     "date": "2022-02-03",
+     "type": "prensa"
+    },
+    {
+     "title": "El Congreso tumba la reducción de jornada al prosperar el veto de PP, Vox y Junts (Periódico de Ibiza)",
+     "quote": "el veto de los tres partidos ha prosperado con los 178 votos de las tres formaciones y UPN",
+     "url": "https://www.periodicodeibiza.es/noticias/nacional/2025/09/11/2467647/congreso-tumba-reduccion-jornada-laboral-prosperar-veto-vox-junts.html",
+     "date": "2025-09-11",
+     "type": "prensa"
+    },
+    {
+     "title": "Programa PP 29N, medida 186",
+     "quote": "eliminaremos las trabas que impidan a las empresas crecer",
+     "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+     "date": "2026-11-10",
+     "page": 62,
+     "type": "programa"
+    }
+   ]
+  },
+  "vox": {
+   "support": 1,
+   "kind": "direct",
+   "reason": "Su programa propone derogar la legislación laboral del Gobierno, y en 2025 vetó junto a PP y Junts la jornada de 37,5 horas. Pide «salarios dignos», pero sin ninguna medida legal concreta.",
+   "evidence": [
+    {
+     "title": "Programa Vox 29N",
+     "quote": "Derogar la legislación laboral de Sánchez",
+     "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+     "date": "2026-11-12",
+     "page": 13,
+     "type": "programa"
+    },
+    {
+     "title": "El Congreso tumba la reducción de jornada al prosperar el veto de PP, Vox y Junts (Periódico de Ibiza)",
+     "quote": "el veto de los tres partidos ha prosperado con los 178 votos de las tres formaciones y UPN",
+     "url": "https://www.periodicodeibiza.es/noticias/nacional/2025/09/11/2467647/congreso-tumba-reduccion-jornada-laboral-prosperar-veto-vox-junts.html",
+     "date": "2025-09-11",
+     "type": "prensa"
+    }
+   ]
+  },
+  "psoe": {
+   "support": 4,
+   "kind": "direct",
+   "reason": "Subió el SMI un 66 % desde 2018 y aprobó la reforma de 2021; propone blindar por ley el SMI y completar la jornada de 37,5 horas.",
+   "evidence": [
+    {
+     "title": "Programa PSOE 29N, medida 87",
+     "quote": "Blindar por ley el SMI por encima del 60% del salario medio",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "date": "2026-11-15",
+     "page": 37,
+     "type": "programa"
+    },
+    {
+     "title": "Programa PSOE 29N, medida 108",
+     "quote": "Completar la reducción de la jornada a 37,5 horas",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "date": "2026-11-15",
+     "page": 41,
+     "type": "programa"
+    }
+   ]
+  },
+  "frenteamplio": {
+   "support": 4,
+   "kind": "direct",
+   "reason": "Propone una jornada máxima de 32 horas sin bajar el sueldo y un SMI por ley igual al 60 % del salario medio neto.",
+   "evidence": [
+    {
+     "title": "Programa Frente Amplio 29N",
+     "quote": "Avanzaremos hacia la jornada laboral máxima de 32 horas semanales sin reducción salarial",
+     "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+     "date": "2026-11-23",
+     "page": 7,
+     "type": "programa"
+    }
+   ]
+  },
+  "podemos": {
+   "support": 4,
+   "kind": "direct",
+   "reason": "Propone un SMI de 1.800 euros, una jornada de 30 horas y endurecer el despido.",
+   "evidence": [
+    {
+     "title": "Programa Podemos 29N, medida 111",
+     "quote": "Aumentaremos el SMI hasta los 1.800 euros al mes",
+     "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+     "date": "2026-11",
+     "page": 41,
+     "type": "programa"
+    },
+    {
+     "title": "Programa Podemos 29N, medida 118",
+     "quote": "Protección frente al despido y recuperación de derechos",
+     "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+     "date": "2026-11",
+     "page": 42,
+     "type": "programa"
+    }
+   ]
+  },
+  "salf": {
+   "support": 1,
+   "kind": "interpretation",
+   "reason": "Apuesta por bajar cotizaciones y crear un contrato único con indemnización que empieza en 12 días y sube hasta 33, además de «una norma entra, dos salen». También propone algunas protecciones financiadas con dinero público, como que la Seguridad Social pague las bajas desde el primer día.",
+   "evidence": [
+    {
+     "title": "Programa SALF 29N",
+     "quote": "Un solo contrato indefinido con indemnización creciente de 12 a 33 días",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "date": "2026-11",
+     "page": 30,
+     "type": "programa"
+    },
+    {
+     "title": "Programa SALF 29N",
+     "quote": "Por cada regulación nueva que afecte a empresas, dos derogadas",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "date": "2026-11",
+     "page": 31,
+     "type": "programa"
+    }
+   ]
+  }
+ },
+ "ayudas-sociales": {
+  "pp": {
+   "support": 3,
+   "kind": "direct",
+   "reason": "Votó a favor del IMV en 2020 y su programa promete reforzar las ayudas a familias vulnerables y reconocer de oficio las prestaciones. Pone condiciones: evaluar las subvenciones y que el empadronamiento no baste para recibir ayudas.",
+   "evidence": [
+    {
+     "title": "El ingreso mínimo sale adelante con todos los grupos a favor salvo Vox (The Objective)",
+     "quote": "Todos los partidos políticos, excepto Vox —que se ha abstenido—, han dado el sí",
+     "url": "https://theobjective.com/espana/2020-06-10/ingreso-minimo-sale-adelante-congreso-todos-los-grupos-favor-salvo-vox/",
+     "date": "2020-06-10",
+     "type": "prensa"
+    },
+    {
+     "title": "Programa PP 29N, medida 166",
+     "quote": "Reduciremos drásticamente la pobreza infantil reforzando las ayudas a las familias vulnerables",
+     "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+     "date": "2026-11-10",
+     "page": 57,
+     "type": "programa"
+    },
+    {
+     "title": "Programa PP 29N",
+     "quote": "El empadronamiento, por sí solo, no bastará para acceder a ayudas económicas no urgentes",
+     "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+     "date": "2026-11-10",
+     "page": 23,
+     "type": "programa"
+    }
+   ]
+  },
+  "vox": {
+   "support": 2,
+   "kind": "direct",
+   "reason": "Postura mixta: propone muchas ayudas a familias españolas, pero quiere reservar el IMV a los españoles y se abstuvo cuando se aprobó en 2020, porque no exigía buscar empleo.",
+   "evidence": [
+    {
+     "title": "Programa Vox 29N, medida 22",
+     "quote": "El Ingreso Mínimo Vital atenderá únicamente las necesidades de los españoles con menos recursos",
+     "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+     "date": "2026-11-12",
+     "page": 19,
+     "type": "programa"
+    },
+    {
+     "title": "El ingreso mínimo sale adelante con todos los grupos a favor salvo Vox (The Objective)",
+     "quote": "Todos los partidos políticos, excepto Vox —que se ha abstenido—, han dado el sí",
+     "url": "https://theobjective.com/espana/2020-06-10/ingreso-minimo-sale-adelante-congreso-todos-los-grupos-favor-salvo-vox/",
+     "date": "2020-06-10",
+     "type": "prensa"
+    }
+   ]
+  },
+  "psoe": {
+   "support": 4,
+   "kind": "direct",
+   "reason": "Creó el IMV (más de 3,8 millones de beneficiarios con el CAPI, según su programa) y propone concederlo de forma más automática y subir las cuantías para hogares con hijos.",
+   "evidence": [
+    {
+     "title": "Programa PSOE 29N, medida 89",
+     "quote": "Potenciar el IMV. Crear pasarelas que automaticen y simplifiquen la concesión",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "date": "2026-11-15",
+     "page": 38,
+     "type": "programa"
+    }
+   ]
+  },
+  "frenteamplio": {
+   "support": 4,
+   "kind": "direct",
+   "reason": "Propone conceder el IMV de oficio, subirlo hacia el 60 % de la renta mediana y ampliarlo a jóvenes de 18 a 30 años.",
+   "evidence": [
+    {
+     "title": "Programa Frente Amplio 29N",
+     "quote": "Transformaremos de forma radical el Ingreso Mínimo Vital (IMV) para ser concedido de oficio",
+     "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+     "date": "2026-11-23",
+     "page": 22,
+     "type": "programa"
+    }
+   ]
+  },
+  "podemos": {
+   "support": 4,
+   "kind": "direct",
+   "reason": "Propone convertir el IMV en una renta universal sin condiciones.",
+   "evidence": [
+    {
+     "title": "Programa Podemos 29N, medida 135",
+     "quote": "convertirlo en una renta universal incondicionada",
+     "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+     "date": "2026-11",
+     "page": 45,
+     "type": "programa"
+    }
+   ]
+  },
+  "salf": {
+   "support": 2,
+   "kind": "direct",
+   "reason": "Postura mixta: mantiene el ingreso mínimo y lo hace compatible en parte con un sueldo, pero lo retira a quien rechace dos ofertas de empleo y exige cinco años de residencia legal y cotización para cobrar prestaciones no contributivas.",
+   "evidence": [
+    {
+     "title": "Programa SALF 29N",
+     "quote": "Rechazar dos ofertas adecuadas: fin de la prestación",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "date": "2026-11",
+     "page": 32,
+     "type": "programa"
+    },
+    {
+     "title": "Programa SALF 29N",
+     "quote": "Ninguna prestación no contributiva, ayuda al alquiler ni vivienda pública sin cinco años de residencia legal",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "date": "2026-11",
+     "page": 19,
+     "type": "programa"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,2973 @@
+{
+ "version": "gradual-2-2026-11-26",
+ "status": "Afinidad interpretativa; matriz revisable con evidencia y lagunas explícitas",
+ "questions": [
+  {
+   "id": "autonomos",
+   "topic": "Trabajo",
+   "text": "Si emprendes un pequeño negocio y aún no ganas el salario mínimo mensual, ¿deberías estar exento de pagar la cuota de autónomos y mantener la cobertura de la Seguridad Social?",
+   "detail": "La propuesta sería no pagar esa cuota mientras tus ingresos estén por debajo del mínimo, sin perder por esa exención la cobertura que te correspondería si la pagaras.",
+   "positions": {
+    "pp": {
+     "support": 3,
+     "kind": "interpretation",
+     "reason": "Propone cuota cero durante el primer año y el segundo bajo el SMI. Se aproxima a la exención, pero tiene límite temporal y la cita no detalla toda la cobertura.",
+     "evidence": [
+      {
+       "title": "Cuota cero para nuevos autónomos",
+       "quote": "Los nuevos autónomos no pagarán cuota a la Seguridad Social durante su primer año, ni durante el segundo si sus ingresos no llegan al salario mínimo.",
+       "page": 59,
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "id": "pp-empleo-1",
+       "type": "programa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "La medida de Vox coincide literalmente con la pregunta (cuota cero mientras no se llegue al SMI, sin límite de tiempo), y el PP tiene el mismo 3 con una exención limitada a uno o dos años. Si se mantiene la reserva sobre la cobertura, debería bajar el PP a 2 en vez de subir Vox: el listón tiene que separar a los dos. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Cuota cero bajo el SMI (programa Vox 29N)",
+       "quote": "Cuota de cero euros si los ingresos no llegan al Salario Mínimo Interprofesional y, superado dicho umbral, una cuota progresiva desde los 50 euros",
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "date": "2026-11-12",
+       "page": 9
+      }
+     ]
+    },
+    "psoe": {
+     "support": 1,
+     "kind": "interpretation",
+     "reason": "Ajusta cuotas a ingresos reales, sin prometer exención bajo el SMI. Hay cercanía en aliviar cargas, no en dejar de cotizar.",
+     "evidence": [
+      {
+       "title": "Nuevo Estatuto del Autónomo y cotización por ingresos reales",
+       "quote": "seguir mejorando la protección social de las personas autónomas, atendiendo también a la conciliación de los cuidados, avanzando en la cotización por ingresos reales; simplificar el acceso a la prestación por cese de actividad",
+       "page": 42,
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "id": "psoe-empleo-4",
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 1,
+     "kind": "interpretation",
+     "reason": "Mantiene una cuota reducida de 88 euros bajo el SMI: alivia el coste, pero no lo elimina.",
+     "evidence": [
+      {
+       "title": "Tarifa plana de autónomos mientras se gane menos del SMI",
+       "quote": "Vincularemos la tarifa plana de 88 euros a los ingresos y no al tiempo. Hoy se pierde a los dos años; la mantendremos mientras los ingresos reales de la persona trabajadora autónoma sean inferiores al SMI anual",
+       "page": 99,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "id": "frenteamplio-empleo-3",
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 2,
+     "kind": "interpretation",
+     "reason": "Propone cotizar un porcentaje del beneficio y llegar a cuota cero solo con pérdidas: quien gana algo, aunque menos del SMI, seguiría pagando una cuota reducida. Se parece más a la cuota reducida de Frente Amplio (1) que a la exención de Vox o del PP (3). Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Progresividad real en el RETA (programa Paz, Casa y Trabajo)",
+       "quote": "Estableceremos un sistema de cotización para los autónomos que consista en un porcentaje progresivo de su beneficio, huyendo de las cuantías fijas por tramos, llegando a la cotización 0 en caso de incurrir en pérdidas",
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "date": "2026-11",
+       "page": 23
+      }
+     ]
+    },
+    "salf": {
+     "support": 3,
+     "kind": "interpretation",
+     "reason": "Propone eliminar la cuota obligatoria. Coincide en no pagar, pero no equiparamos automáticamente cuota cero a idénticas prestaciones.",
+     "evidence": [
+      {
+       "title": "Cuota de autónomos a cero",
+       "quote": "Cuota cero, total y para siempre: ningún autónomo vuelve a pagar cuota.",
+       "page": 12,
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "id": "salf-empleo-1",
+       "type": "programa"
+      }
+     ]
+    }
+   },
+   "evidenceNote": "Las citas de cuota cero de VOX y SALF no especifican continuidad de cobertura; no se asigna Sí ni No a la formulación conjunta hasta verificarla.",
+   "info": {
+    "paragraphs": [
+     "La cuota de autónomos es una cotización a la Seguridad Social vinculada a los rendimientos netos y a la protección social. No es el equivalente al impuesto de sociedades, que grava la renta de las sociedades y otras entidades.",
+     "Cuando un negocio obtiene pocos ingresos, la cuota reduce el dinero disponible para sostenerlo. Eximir de pagar manteniendo la cobertura alivia esa carga, pero obliga a decidir cómo se financia esa protección. La pregunta plantea esa exención mientras los ingresos no alcancen el salario mínimo."
+    ],
+    "sources": [
+     {
+      "title": "Agencia Tributaria · cotización por rendimientos",
+      "url": "https://sede.agenciatributaria.gob.es/Sede/empresarios-individuales-profesionales/nuevo-sistema-cotizacion-autonomos/informacion-determinar-rendimiento-neto.html"
+     },
+     {
+      "title": "Agencia Tributaria · impuesto sobre sociedades",
+      "url": "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-sociedades-2025/capitulo-01-cuestiones-generales/que-impuesto-sobre-sociedades.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": "nuclear",
+   "topic": "Energía",
+   "text": "¿Deberíamos seguir utilizando energías no renovables, como las centrales nucleares, mientras las renovables no puedan aportar la potencia necesaria?",
+   "detail": "La pregunta plantea qué harías si las renovables no cubrieran la potencia necesaria: mantener la nuclear mientras dure esa situación.",
+   "positions": {
+    "pp": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Propone mantener las centrales y eliminar su calendario de cierre. Esa continuidad encaja con mantenerlas en el supuesto planteado.",
+     "evidence": [
+      {
+       "title": "Mantener abiertas las centrales nucleares",
+       "quote": "ELIMINAREMOS EL CALENDARIO DE CIERRE DE ALMARAZ, ASCÓ, VANDELLÓS, COFRENTES Y TRILLO.",
+       "page": 71,
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "id": "pp-energia-1",
+       "type": "programa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Propone mantener las centrales y eliminar su calendario de cierre. Esa continuidad encaja con mantenerlas en el supuesto planteado.",
+     "evidence": [
+      {
+       "title": "Mantener las nucleares y estudiar nuevas centrales",
+       "quote": "Se garantizará la supervivencia de las centrales nucleares actuales, derogando el calendario de cierre.",
+       "page": 12,
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "id": "vox-energia-1",
+       "type": "programa"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 2,
+     "kind": "interpretation",
+     "reason": "Defiende el calendario de cierre, pero su Gobierno prorrogó Almaraz hasta 2030 por falta de alternativas: posición mixta.",
+     "evidence": [
+      {
+       "title": "Orden TED/864/2026 (BOE)",
+       "quote": "hasta el 8 de junio de 2030, inclusive",
+       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-17756",
+       "date": "2026-08-14"
+      },
+      {
+       "title": "Mantener el cierre de las nucleares hasta 2035",
+       "quote": "Mantener el calendario de cierre de las centrales nucleares hasta 2035 y desarrollar proyectos de transición justa en las comarcas afectadas",
+       "page": 66,
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "id": "psoe-energia-2",
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 1,
+     "kind": "interpretation",
+     "reason": "Mantiene el cierre previsto de Almaraz y la transición renovable. No documenta una respuesta expresa al supuesto de insuficiencia.",
+     "evidence": [
+      {
+       "title": "Cerrar las nucleares en las fechas previstas",
+       "quote": "Almaraz I y II cerrarán en los plazos previstos (2027-2028), sin beneficios fiscales",
+       "page": 71,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "id": "frenteamplio-energia-2",
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 1,
+     "kind": "interpretation",
+     "reason": "Defiende el calendario de cierre. Es una orientación contraria a prolongarlo, pero no demuestra qué haría ante una insuficiencia de potencia concreta.",
+     "evidence": [
+      {
+       "title": "Cerrar las nucleares en el calendario previsto",
+       "quote": "Defenderemos el cumplimiento del calendario de cierre de las centrales nucleares, comenzando por Almaraz",
+       "page": 103,
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "id": "podemos-energia-3",
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": null,
+     "kind": "unknown",
+     "reason": "La revisión del material disponible no ofrece una base suficiente para situar a este partido en esta pregunta. No se interpreta el silencio como oposición.",
+     "evidence": []
+    }
+   },
+   "evidenceNote": "La pregunta es condicional a insuficiencia de potencia renovable. Las citas sobre calendario de cierre no acreditan por sí solas una respuesta a esta condición. Pendiente de verificar, no puntúa.",
+   "info": {
+    "paragraphs": [
+     "Un sistema eléctrico necesita producir suficiente electricidad y mantener estables la frecuencia y la tensión de la red. Son necesidades relacionadas, pero distintas.",
+     "Las centrales nucleares y las térmicas de gas o carbón utilizan grandes generadores que giran sincronizados con la red. Ese movimiento almacena energía y aporta inercia: ante un desequilibrio repentino entre producción y consumo, frena los cambios de frecuencia y da tiempo a que actúen los sistemas de control. Sus generadores también pueden ayudar a regular la tensión.",
+     "Por eso, mientras están conectadas, estas centrales aportan estabilidad además de electricidad. La pregunta plantea si deberíamos mantener las centrales nucleares mientras las renovables no puedan aportar la potencia necesaria, en el contexto de la transición energética y de los objetivos europeos de lucha contra el cambio climático."
+    ],
+    "sources": [
+     {
+      "title": "NESO · Qué es la inercia en la red eléctrica",
+      "url": "https://www.neso.energy/energy-101/electricity-explained/how-do-we-balance-grid/what-inertia"
+     },
+     {
+      "title": "Departamento de Energía de EE. UU. · Servicios esenciales para la fiabilidad eléctrica",
+      "url": "https://www.energy.gov/cmei/articles/keeping-lights-essential-reliability-services"
+     }
+    ]
+   }
+  },
+  {
+   "id": "jornada",
+   "topic": "Trabajo",
+   "text": "¿Te parece bien que el Estado obligue a las empresas a que trabajes menos horas y sigas cobrando lo mismo?",
+   "detail": "Se pregunta por reducir el máximo por debajo de 40 horas, no por prohibir todos los acuerdos sobre horarios.",
+   "positions": {
+    "pp": {
+     "support": 1,
+     "kind": "historical",
+     "reason": "Presentó enmienda de devolución al proyecto de reducción legal a 37,5 horas. Es oposición a esa norma concreta, no prueba de rechazo a toda reducción negociada.",
+     "evidence": [
+      {
+       "title": "BOCG Congreso 15-A-58-2 · Enmienda a la totalidad de devolución del GP Popular (núm. 3) al proyecto de reducción de jornada",
+       "quote": "Desde el Grupo Parlamentario Popular, nos oponemos a este Proyecto de Ley tanto en el fondo como en la forma",
+       "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-58-2.PDF",
+       "date": "2025-06-24"
+      }
+     ]
+    },
+    "vox": {
+     "support": 1,
+     "kind": "historical",
+     "reason": "Presentó enmienda de devolución al proyecto de reducción legal a 37,5 horas. Es oposición a esa norma concreta, no prueba de rechazo a toda reducción negociada.",
+     "evidence": [
+      {
+       "title": "BOCG Congreso 15-A-58-2 · Enmienda a la totalidad de devolución del GP VOX (núm. 2) al proyecto de reducción de jornada",
+       "quote": "se postula la devolución al Gobierno del Proyecto de ley, con la finalidad de que elabore una propuesta normativa que no sea dañina para el bien común",
+       "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-58-2.PDF",
+       "date": "2025-06-24"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone reducir por ley la jornada sin reducir el salario.",
+     "evidence": [
+      {
+       "title": "Reducción de jornada sin perder salario",
+       "quote": "Completar la reducción de la jornada a 37,5 horas e incentivar los avances en la negociación colectiva hacia las 35 horas. Trabajar menos horas debe permitir ganar tiempo para la familia, los cuidados, el descanso y la vida personal, sin perder salario.",
+       "page": 41,
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "id": "jornada-psoe",
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone reducir por ley la jornada sin reducir el salario.",
+     "evidence": [
+      {
+       "title": "Jornada de 32 horas sin reducción salarial",
+       "quote": "de 32 horas semanales sin reducción salarial",
+       "page": 7,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "id": "jornada-frenteamplio",
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone reducir por ley la jornada sin reducir el salario.",
+     "evidence": [
+      {
+       "title": "Reducción de jornada sin reducir salarios",
+       "quote": "Reducir la jornada laboral sin reducir los salarios. Reduciremos la jornada laboral a 30 horas semanales durante la legislatura, comenzando con una bajada a 35 horas",
+       "page": 41,
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "id": "jornada-podemos",
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": null,
+     "kind": "unknown",
+     "reason": "La revisión del material disponible no ofrece una base suficiente para situar a este partido en esta pregunta. No se interpreta el silencio como oposición.",
+     "evidence": []
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "Reducir la jornada manteniendo el sueldo proporciona más tiempo libre al trabajador y exige reorganizar el trabajo. Para la empresa, puede implicar cambios de turnos, contratación o costes. Estos ajustes pueden resultar especialmente difíciles en una pequeña empresa, donde quien la ha creado puede haber invertido sus ahorros y asumir personalmente el riesgo económico del negocio.",
+     "Aquí decides si la reducción debe fijarse por ley y conservar el salario."
+    ],
+    "sources": []
+   }
+  },
+  {
+   "id": "burka",
+   "topic": "Libertades",
+   "text": "¿Debería estar prohibido que las mujeres lleven prendas que cubren su rostro por motivos religiosos en los espacios públicos?",
+   "detail": "Como el burka o el niqab. No incluye el pañuelo que deja el rostro descubierto.",
+   "positions": {
+    "pp": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone prohibir burka y niqab en espacios públicos.",
+     "evidence": [
+      {
+       "title": "Compromiso de integración y veto al burka",
+       "quote": "Prohibiremos el uso del burka y el niqab en los espacios públicos.",
+       "page": 23,
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "id": "pp-inmigracion-4",
+       "type": "programa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone prohibir burka y niqab en espacios públicos.",
+     "evidence": [
+      {
+       "title": "Prohibir el burka y el niqab en espacios públicos",
+       "quote": "Prohibición del burka y el niqab en todos los espacios públicos y lugares donde se presten servicios públicos",
+       "page": 42,
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "id": "vox-igualdad-3",
+       "type": "programa"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 1,
+     "kind": "interpretation",
+     "reason": "Patxi López rechazó la iniciativa de prohibición de VOX, aunque expresó rechazo al uso del burka. Se interpreta proximidad al no a esa prohibición; rechazar una iniciativa concreta no demuestra oposición a cualquier regulación posible.",
+     "evidence": [
+      {
+       "title": "PSOE · Patxi López: «No nos parece bien el uso del burka, pero no vamos a apoyar una propuesta de Vox…»",
+       "quote": "No nos parece bien el burka [...] Pero lo que no vamos a hacer nunca es apoyar una propuesta de Vox que lo único que pretende es avivar el odio contra el diferente en nuestro país",
+       "url": "https://www.psoe.es/congreso/noticias-congreso/patxi-lopez-no-nos-parece-bien-el-uso-del-burka-pero-no-vamos-a-apoyar-una-propuesta-de-vox-que-parte-de-las-premisas-mas-racistas-xenofobas-y-estigmatizadoras/",
+       "date": "2026-02-17"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 0,
+     "kind": "historical",
+     "reason": "Sumar votó en contra de tramitar la ley de VOX contra burka y niqab (febrero de 2026) y la de Junts (abril de 2026), y descartó abstenerse.",
+     "evidence": [
+      {
+       "title": "Diario de León (Europa Press) · Sumar votará finalmente en contra de la ley de Junts para prohibir el burka",
+       "quote": "Sumar votará finalmente en contra de tramitar en el Congreso la proposición de ley de Junts para prohibir el uso del burka [...] y ha descartado la abstención",
+       "url": "https://www.diariodeleon.es/nacional/260414/2081815/sumar-votara-finalmente-ley-junts-prohibir-burka.html",
+       "date": "2026-04-14"
+      }
+     ],
+     "source_note": "Añadida por Claude el 26-11-2026: el programa no lo trata; se usa historial, votaciones o declaraciones."
+    },
+    "podemos": {
+     "support": 0,
+     "kind": "interpretation",
+     "reason": "Podemos votó en contra de la ley de Vox (febrero) y de la de Junts (abril de 2026), igual que Sumar, que tiene 0. Ahora está en 1 por una inferencia a partir de la ley contra la islamofobia. Con las mismas votaciones debería tener el mismo nivel. Al PSOE le corresponde 1, más alto, porque declaró que el burka no le parece bien y se abrió a negociar la ley de Junts. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Junts se queda solo y ningún partido respalda su ley contra el burka y el niqab (Vozpópuli)",
+       "quote": "ha terminado con todos los grupos en contra salvo Junts, que ha votado a favor, y ERC, que ha optado por la abstención",
+       "url": "https://www.vozpopuli.com/espana/politica/junts-se-queda-solo-y-ningun-partido-respalda-su-ley-contra-el-burka-y-el-niqab.html",
+       "date": "2026-04-14"
+      },
+      {
+       "title": "Ley específica contra islamofobia",
+       "quote": "Aprobación de una ley específica contra la islamofobia.",
+       "page": 70,
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "id": "x-podemos-n224",
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone prohibir burka y niqab en espacios públicos.",
+     "evidence": [
+      {
+       "title": "Prohibir el burka y el niqab en público",
+       "quote": "Burka y niqab fuera del espacio público, como en Francia,",
+       "page": 19,
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "id": "salf-igualdad-3",
+       "type": "programa"
+      }
+     ]
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "La discusión enfrenta la libertad de vestir y practicar una religión con las razones que puedan alegarse para exigir el rostro descubierto en espacios públicos.",
+     "La pregunta se refiere a prendas que ocultan el rostro, como el burka y el niqab. No incluye el pañuelo que deja la cara visible, ni permite suponer que todas las mujeres llevan estas prendas por las mismas razones."
+    ],
+    "sources": []
+   }
+  },
+  {
+   "id": "alquiler",
+   "topic": "Vivienda",
+   "text": "Si tuvieras una vivienda en una zona con mucha demanda y dificultades de acceso, ¿aceptarías que el Estado fijase el alquiler máximo que puedes cobrar?",
+   "detail": "Se pregunta por un límite obligatorio al precio, no por una recomendación.",
+   "positions": {
+    "pp": {
+     "support": 0,
+     "kind": "direct",
+     "reason": "Propone eliminar zonas tensionadas e índice de precios.",
+     "evidence": [
+      {
+       "title": "Derogar la Ley de Vivienda y los topes al alquiler",
+       "quote": "Eliminaremos las zonas tensionadas y el índice de precios",
+       "page": 53,
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "id": "pp-vivienda-2",
+       "type": "programa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 0,
+     "kind": "interpretation",
+     "reason": "Derogar la Ley de Vivienda elimina las mismas zonas tensionadas y el mismo índice que el PP dice que suprimirá, y el PP tiene 0. La reserva de que no descarta una regulación futura vale igual para los dos. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Derogación de la Ley de Vivienda (programa Vox 29N)",
+       "quote": "Recuperar la seguridad jurídica y una oferta de alquileres estable, abundante y asequible. Derogación de la Ley de Vivienda.",
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "date": "2026-11-12",
+       "page": 23
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone límites obligatorios al alquiler en mercados tensionados.",
+     "evidence": [
+      {
+       "title": "Congelar alquileres por encima del índice y alargar contratos",
+       "quote": "Congelar temporalmente las rentas que superen los índices de referencia, evitando incrementos abusivos en los mercados tensionados",
+       "page": 30,
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "id": "psoe-vivienda-4",
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone límites obligatorios al alquiler en mercados tensionados.",
+     "evidence": [
+      {
+       "title": "Tope al alquiler: 25 % de la renta del barrio",
+       "quote": "el techo máximo de la mensualidad será la cifra menor resultante de comparar el 25 % de la renta neta media por hogar de la sección censal y el tope fijado por el índice SERPAVI",
+       "page": 13,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "id": "frenteamplio-vivienda-2",
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone límites obligatorios al alquiler en mercados tensionados.",
+     "evidence": [
+      {
+       "title": "Bajar los alquileres un 40% por ley",
+       "quote": "Se establecerá un precio que sea un 40% menor que el precio anterior, siempre y cuando el precio resultante no quede por debajo del 60% del precio medio actual",
+       "page": 8,
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "id": "podemos-vivienda-1",
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": null,
+     "kind": "unknown",
+     "reason": "La revisión del material disponible no ofrece una base suficiente para situar a este partido en esta pregunta. No se interpreta el silencio como oposición.",
+     "evidence": []
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "Cuando muchas personas buscan vivienda en una misma zona, propietarios e inquilinos pueden tener intereses distintos sobre el precio y las condiciones del alquiler.",
+     "Un límite legal busca contener los precios, pero también plantea cómo afecta a la oferta, al mantenimiento y a la libertad del propietario. Sus efectos dependen del diseño y del contexto. Aquí valoras si debe existir ese límite."
+    ],
+    "sources": []
+   }
+  },
+  {
+   "id": "infantil",
+   "topic": "Educación",
+   "text": "¿Te parece bien financiar con los impuestos de todos las escuelas infantiles de 0 a 3 años, tengas hijos o no?",
+   "detail": "Plazas gratuitas para todas las familias que las necesiten.",
+   "positions": {
+    "pp": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone educación infantil de 0 a 3 años gratuita con financiación pública.",
+     "evidence": [
+      {
+       "title": "Escuela infantil de 0 a 3 años gratuita",
+       "quote": "la etapa será gratuita para todas las familias que la soliciten.",
+       "page": 57,
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "id": "pp-educacion-1",
+       "type": "programa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "La cita guardada habla de familias numerosas, pero en la misma página está la frase que importa: «la gratuidad real de la educación infantil de 0 a 3 años». Es lo mismo que el PP, que tiene 4. La prioridad nacional para las plazas afecta a quién accede, no a si se paga con impuestos, que es lo que pregunta. Hay que cambiar la cita en cualquier caso. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Gratuidad real de 0 a 3 años (programa Vox 29N)",
+       "quote": "y la gratuidad real de la educación infantil de 0 a 3 años.",
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "date": "2026-11-12",
+       "page": 51
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Además de universalizar la etapa 0-3, el programa promete expresamente «una educación pública y gratuita de los 0 a los 18 años». Queda al nivel de PP, Frente Amplio y Podemos (4). Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Educación pública y gratuita de 0 a 18 años (programa PSOE 29N)",
+       "quote": "una educación pública y gratuita de los 0 a los 18 años",
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "date": "2026-11-15",
+       "page": 46
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone plazas públicas gratuitas de 0 a 3 años para las familias que las soliciten.",
+     "evidence": [
+      {
+       "title": "Universalización de educación infantil 0–3",
+       "quote": "Universalización de la educación de 0 a 3 años: Integraremos plenamente el pri mer ciclo de educación infantil en el sistema educativo, ampliaremos plazas pú blicas gratuitas garantizadas para toda familia solicitante y comedor gratuito en la  red pública de Infantil y Primaria.",
+       "page": 25,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "id": "frenteamplio-educacion-3",
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone educación infantil de 0 a 3 años gratuita con financiación pública.",
+     "evidence": [
+      {
+       "title": "Escuela infantil 0-3 pública y gratuita para todos",
+       "quote": "construiremos en un plazo máximo de cuatro años todas las plazas públicas necesarias para garantizar una cobertura universal, gratuita y de gestión pública directa",
+       "page": 80,
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "id": "podemos-educacion-2",
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": null,
+     "kind": "unknown",
+     "reason": "La revisión del material disponible no ofrece una base suficiente para situar a este partido en esta pregunta. No se interpreta el silencio como oposición.",
+     "evidence": []
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "Financiar las escuelas infantiles con impuestos reparte su coste entre el conjunto de la sociedad, también entre quienes no tienen hijos. Cobrar a cada familia concentra el coste en quienes usan el servicio.",
+     "La decisión combina el acceso a la educación y la conciliación con la prioridad que debe tener este gasto dentro de los recursos públicos. Se plantea ofrecer plazas gratuitas a todas las familias que las necesiten."
+    ],
+    "sources": []
+   }
+  },
+  {
+   "id": "crianza",
+   "topic": "Cuidados",
+   "text": "Según la proyección del INE de 2026, en 2076 casi uno de cada tres habitantes de España tendría 65 años o más, lo que puede dificultar la financiación de las pensiones. ¿Crees que, para revertir la baja natalidad, habría que premiar con ayudas económicas a quienes decidan tener hijos, incluso aunque tengan rentas altas?",
+   "detail": "Se pregunta por quién puede recibirla, no por una cantidad concreta ni por dar por hecho que aumentará la natalidad.",
+   "positions": {
+    "pp": {
+     "support": 3,
+     "kind": "interpretation",
+     "reason": "Propone una ayuda fiscal por hijos abonada mensualmente, también a familias sin suficiente cuota de IRPF. Se aproxima al apoyo económico planteado.",
+     "evidence": [
+      {
+       "title": "Una ayuda fiscal única por hijos, cobrada cada mes",
+       "quote": "Refundiremos las deducciones familiares del IRPF en una sola, reembolsable, con un único trámite y abono mensual.",
+       "page": 56,
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "id": "pp-igualdad-2",
+       "type": "programa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 3,
+     "kind": "interpretation",
+     "reason": "Extiende beneficios familiares desde el primer hijo y defiende apoyar la natalidad. El instrumento combina ayudas y deducciones, no una única paga universal.",
+     "evidence": [
+      {
+       "title": "Ayudas de familia numerosa desde el primer hijo",
+       "quote": "Todos los beneficios que ahora existen para las familias numerosas se aumentarán y se extenderán a todas las familias de manera progresiva desde el primer hijo",
+       "page": 51,
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "id": "vox-igualdad-2",
+       "type": "programa"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 3,
+     "kind": "interpretation",
+     "reason": "Propone una prestación por crianza universal, también para rentas altas. Coincide el instrumento; no atribuimos a la ayuda un efecto natalista demostrado.",
+     "evidence": [
+      {
+       "title": "Prestación por crianza para todos los hogares con menores",
+       "quote": "Prestación estatal por crianza para todos los hogares con menores de edad, con un diseño fiscal redistributivo y una protección adicional para los hogares de renta baja integrada en el CAPI ya existente",
+       "page": 56,
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "id": "psoe-igualdad-4",
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Propone una prestación de 200 euros al mes por cada menor, que no depende de los ingresos de los padres: es justo una ayuda universal, también con rentas altas. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Programa Frente Amplio 29N, Ley de Prestación Universal por Crianza",
+       "quote": "desvinculado de los ingresos o situación laboral de los progenitores",
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "date": "2026-11",
+       "page": 21
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Propone una prestación universal mensual por cada hijo hasta los 21 años (el 15 % del salario mínimo) y la justifica expresamente por la baja natalidad. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Programa Podemos 29N, medida 179",
+       "quote": "Establecer una prestación universal por crianza hasta los 21 años",
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "date": "2026-11",
+       "page": 60
+      }
+     ]
+    },
+    "salf": {
+     "support": 3,
+     "kind": "interpretation",
+     "reason": "Aumenta el mínimo exento por hijo. Apoya económicamente tener hijos mediante impuestos, aunque no equivale a una ayuda directa universal.",
+     "evidence": [
+      {
+       "title": "5.000 euros más de mínimo exento por cada hijo",
+       "quote": "Una pareja con dos hijos no paga hasta 45.000 euros cada uno.",
+       "page": 12,
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "id": "salf-igualdad-1",
+       "type": "programa"
+      }
+     ]
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "La proyección del INE publicada el 17 de junio de 2026 sitúa la población de 65 años o más en el 30,9 % en 2076, frente al 21,1 % de 2026. Es un escenario condicionado a hipótesis demográficas, no una predicción segura.",
+     "El envejecimiento de la población plantea un reto serio para financiar las pensiones: hacen falta suficientes personas trabajando y cotizando para sostenerlas. Aumentar la natalidad puede ampliar esa base a largo plazo, cuando los hijos lleguen a trabajar; la inmigración también puede contribuir si quienes llegan se incorporan al empleo."
+    ],
+    "sources": [
+     {
+      "title": "INE · Proyecciones de población 2026–2076",
+      "url": "https://www.ine.es/dyngs/Prensa/PROP20262076.htm"
+     }
+    ]
+   },
+   "evidenceNote": "Pregunta sobre ayudas universales con finalidad de incentivar natalidad. Verificar ambas condiciones en fuentes; las ayudas por crianza sin finalidad acreditada no se puntúan automáticamente."
+  },
+  {
+   "id": "regularizacion",
+   "topic": "Inmigración",
+   "text": "Si una persona entró en España sin autorización, ¿debería poder obtener después la residencia legal cumpliendo ciertos requisitos?",
+   "detail": "Una vía estable prevista por la ley, no una concesión automática.",
+   "positions": {
+    "pp": {
+     "support": 2,
+     "kind": "interpretation",
+     "reason": "El programa conserva el arraigo solo como reconocimiento «individual excepcional, no una vía generalizada»: es un sí muy restringido, no una inclinación al sí. Con 3 queda por encima de lo que dice el texto y lejos de SALF (1), cuya cita es casi idéntica. Revisado por un verificador independiente el 26-11-2026. En abril de 2024 votó a favor de tramitar la iniciativa legislativa popular de regularización, con reservas.",
+     "evidence": [
+      {
+       "title": "Prohibir regularizaciones masivas; arraigo excepcional (programa PP 29N)",
+       "quote": "Reformaremos la Ley de Extranjería para prohibir las regularizaciones masivas e indiscriminadas y para que el arraigo sea un reconocimiento individual excepcional, no una vía generalizada de regularización.",
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "date": "2026-11-10",
+       "page": 22
+      }
+     ]
+    },
+    "vox": {
+     "support": 0,
+     "kind": "direct",
+     "reason": "Descarta que quien entró ilegalmente pueda regularizarse.",
+     "evidence": [
+      {
+       "title": "No admitir más inmigrantes y prohibir regularizaciones",
+       "quote": "Prohibición de las regularizaciones masivas. Quien entra de forma ilegal jamás podrá regularizar su situación.",
+       "page": 15,
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "id": "vox-inmigracion-1",
+       "type": "programa"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Sánchez anunció la regularización extraordinaria de personas en situación irregular. Coincide con permitir obtener residencia tras una entrada irregular, cumpliendo los requisitos del procedimiento; no supone residencia automática para cualquier persona.",
+     "evidence": [
+      {
+       "title": "Pedro Sánchez, presidente del Gobierno: carta a la ciudadanía sobre la regularización extraordinaria",
+       "quote": "El Consejo de Ministros aprobará hoy el Real Decreto que da inicio al proceso de regularización extraordinaria de personas en situación irregular en nuestro país",
+       "url": "https://www.psoe.es/media-content/2026/04/DO-26-0031-Carta-ciudadania-regularizaci%C3%B3n.pdf",
+       "date": "2026-04-14"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone una vía permanente y reglada de regularización.",
+     "evidence": [
+      {
+       "title": "Regularización permanente de inmigrantes por ley",
+       "quote": "Reformaremos de forma integral la Ley de Extranjería para instaurar un procedimiento estable, permanente y reglado de regularización administrativa",
+       "page": 133,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "id": "frenteamplio-inmigracion-1",
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone regularización permanente por arraigo social y familiar.",
+     "evidence": [
+      {
+       "title": "Regularización permanente por arraigo",
+       "quote": "sin hacer depender el derecho a residir legalmente en España exclusivamente de disponer de un contrato de trabajo",
+       "page": 67,
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "id": "podemos-inmigracion-3",
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": 0,
+     "kind": "interpretation",
+     "reason": "El epígrafe es «Fin de las regularizaciones», propone derogar la de 2026 y revisar una por una las ya concedidas, y dice que «cada regularización es una invitación». No es solo un rechazo a las masivas: equivale al 0 de Vox. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Fin de las regularizaciones (contrato electoral SALF)",
+       "quote": "Fin de las regularizaciones. Derogación de la regularización de 2026, revisión una por una de las concesiones y prohibición por ley orgánica de cualquier regularización masiva. Cada regularización es una invitación.",
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "date": "2026-11",
+       "page": 17
+      }
+     ]
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "Entrar sin autorización y obtener posteriormente un permiso son decisiones jurídicas distintas. La pregunta plantea si debería existir una vía legal posterior, con requisitos, para quien entró sin autorización.",
+     "El dilema combina el cumplimiento de las reglas de entrada con la integración de personas que ya viven en el país. Responder Sí no equivale a apoyar una regularización automática ni a eliminar los controles de entrada."
+    ],
+    "sources": []
+   }
+  },
+  {
+   "id": "jueces",
+   "topic": "Instituciones",
+   "text": "¿Crees que los jueces deberían ser elegidos por sus capacidades y competencias profesionales y éticas, en lugar de por su ideología política?",
+   "detail": "Se refiere a los vocales de origen judicial; la alternativa es que los elija el Parlamento.",
+   "positions": {
+    "pp": {
+     "support": 3,
+     "kind": "interpretation",
+     "reason": "Nivel igual, pero cambia la base: el programa propone que los jueces elijan a los 12 vocales judiciales, concursos de méritos en el Supremo e informe vinculante del CGPJ sobre el fiscal general (sería un 4). No sube porque ya prometió lo mismo en 2011 y, con mayoría absoluta, su reforma de 2013 mantuvo la elección parlamentaria. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Programa PP 29N: los jueces elegirán a los jueces",
+       "quote": "Los jueces y magistrados de todas las categorías elegirán a los doce vocales judiciales",
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "date": "2026-11",
+       "page": 32
+      },
+      {
+       "title": "Legal Today: el PP saca adelante la reforma del CGPJ con el único apoyo de UPN",
+       "quote": "La ley aprobada hoy se aleja del compromiso con el que Gallardón llegó al cargo",
+       "url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-pp-saca-adelante-la-reforma-del-cgpj-en-el-congreso-con-el-unico-apoyo-de-upn-y-el-rechazo-de-la-oposicion-2013-06-27/",
+       "date": "2013-06-27"
+      },
+      {
+       "title": "Catalan News: chats filtrados del portavoz del PP en el Senado sobre el reparto del CGPJ (en inglés)",
+       "quote": "control from the behind the scenes",
+       "url": "https://www.catalannews.com/society-science/item/court-chamber-trying-pro-independence-leaders-controlled-by-pp-show-leaked-chats",
+       "date": "2018-11-19"
+      }
+     ]
+    },
+    "vox": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Propone que los jueces elijan a los 12 vocales judiciales por voto directo y secreto y acabar con las cuotas de partido, y pide idoneidad e independencia para el fiscal general. No tiene historial de gobierno nacional que lo contradiga. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Programa Vox 29N, medida 100",
+       "quote": "sean elegidos mediante voto personal, directo y secreto por y entre los propios jueces y magistrados",
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "date": "2026-11-12",
+       "page": 55
+      }
+     ]
+    },
+    "psoe": {
+     "support": 1,
+     "kind": "interpretation",
+     "reason": "El programa no cambia que las Cortes elijan a los vocales judiciales y presume de haber renovado el CGPJ por esa vía. En 2020 registró con Unidas Podemos una ley para elegirlos por mayoría absoluta. Las pruebas anónimas de acceso y el mandato de cinco años para el fiscal general evitan el 0. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Programa PSOE 29N, Justicia",
+       "quote": "hemos renovado el Consejo General del Poder Judicial tras años de bloqueo del PP",
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "date": "2026-11-15",
+       "page": 100
+      },
+      {
+       "title": "PSOE y Unidas Podemos registran una reforma para elegir a los vocales judiciales del CGPJ por mayoría absoluta",
+       "quote": "elegirá los seis Vocales del turno judicial por mayoría absoluta",
+       "url": "https://www.elindependiente.com/espana/2020/10/13/psoe-y-podemos-quieren-rebajar-la-mayoria-parlamentaria-para-elegir-a-los-vocales-del-cgpj/amp/",
+       "date": "2020-10-13"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 1,
+     "kind": "interpretation",
+     "reason": "Mantiene por escrito que el Parlamento elija a los vocales judiciales y añade una segunda votación por mayoría absoluta para facilitarlo. Lo que evita el 0 son la incompatibilidad total de los jueces y el acceso becado por la Escuela Judicial. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Programa Frente Amplio 29N, 18.7",
+       "quote": "Los vocales del turno judicial se seguirán eligiendo por mayoría de tres quintos, pero si en dos meses no hay acuerdo, las Cámaras podrán elegirlos en segunda votación por mayoría absoluta",
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "date": "2026-11",
+       "page": 155
+      }
+     ]
+    },
+    "podemos": {
+     "support": 0,
+     "kind": "interpretation",
+     "reason": "Propone que el Congreso elija a los vocales judiciales por mayoría absoluta, aspira a que la ciudadanía los elija directamente y quiere participación ciudadana o de sus representantes en la selección de jueces. Va en sentido contrario a seleccionarlos solo por criterios profesionales. En 2020 firmó con el PSOE la rebaja de la mayoría. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Programa Podemos 29N, medida 414",
+       "quote": "la elección de los doce vocales del turno judicial por el Congreso requiera mayoría absoluta",
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "date": "2026-11",
+       "page": 129
+      },
+      {
+       "title": "Programa Podemos 29N, medida 415",
+       "quote": "Diseñaremos un sistema de participación directa de la ciudadanía o indirecta a través de sus representantes",
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "date": "2026-11",
+       "page": 129
+      },
+      {
+       "title": "PSOE y Unidas Podemos registran una reforma para elegir a los vocales judiciales del CGPJ por mayoría absoluta",
+       "quote": "elegirá los seis Vocales del turno judicial por mayoría absoluta",
+       "url": "https://www.elindependiente.com/espana/2020/10/13/psoe-y-podemos-quieren-rebajar-la-mayoria-parlamentaria-para-elegir-a-los-vocales-del-cgpj/amp/",
+       "date": "2020-10-13"
+      }
+     ]
+    },
+    "salf": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Propone un CGPJ elegido por jueces, por antigüedad o por sorteo, sin políticos, y un fiscal general elegido entre fiscales con 25 años de carrera y con un mandato que no coincida con la legislatura. Es el programa que más se aleja de la elección partidista. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Contrato electoral SALF 29N, punto 9",
+       "quote": "composición determinada por criterios excluyentes de cualquier influencia política: elección por jueces y magistrados",
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "date": "2026-11",
+       "page": 28
+      },
+      {
+       "title": "Contrato electoral SALF 29N, punto 6: fiscal general",
+       "quote": "Elegido por tres quintos del Congreso entre fiscales con 25 años de carrera",
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "date": "2026-11",
+       "page": 27
+      }
+     ]
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "La pregunta trata de los criterios que deberían utilizarse para seleccionar jueces: capacidades, competencias profesionales y ética frente a afinidad ideológica."
+    ],
+    "sources": []
+   },
+   "evidenceNote": "Formulación solicitada por el usuario. El alcance o las premisas difieren de la medida anterior; pendiente de correspondencia documental. No reutilizar automáticamente las posturas previas."
+  },
+  {
+   "id": "patrimonio",
+   "topic": "Impuestos",
+   "text": "¿Crees que las personas que han acumulado un mayor patrimonio —dinero o bienes— de manera legítima o a través de su desarrollo profesional, deberían someterse a una mayor presión fiscal que el resto de los ciudadanos?",
+   "detail": "Sobre el dinero y los bienes que tienes, además de lo que tributes por tus ingresos.",
+   "positions": {
+    "pp": {
+     "support": 1,
+     "kind": "historical",
+     "reason": "Se mantiene el 1, pero conviene cambiar la evidencia: ahora solo hay una nota de Galicia de 2022. No baja a 0 porque el PP no propone en su programa suprimir Patrimonio en todo el país, a diferencia de Vox y SALF, que sí lo proponen de forma explícita, y mantiene un IRPF progresivo (baja el de las rentas medias y bajas). Sí debe reflejarse lo que hace: Madrid y Andalucía bonifican Patrimonio al 100 %, Madrid, Andalucía, Galicia y Murcia recurrieron el impuesto de grandes fortunas (el TC lo avaló en 2023) y el programa 29N deja a las comunidades «bajarlos cuanto quieran», que es lo contrario del impuesto estatal mínimo. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Programa PP 29N, medida 185",
+       "quote": "Las Comunidades Autónomas seguirán decidiendo con libertad sobre sus impuestos propios y cedidos, dentro de sus competencias, y podrán bajarlos cuanto quieran.",
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "date": "2026-11-10"
+      },
+      {
+       "title": "El Constitucional rechaza el recurso de Ayuso y avala el impuesto a las grandes fortunas (Ara)",
+       "quote": "tiene bonificado totalmente el impuesto de patrimonio",
+       "url": "https://es.ara.cat/economia/macroeconomia/tribunal-constitucional-rechaza-recurso-ayuso-avala-impuesto-grandes-fortunas_1_4850236.html",
+       "date": "2023-11-07"
+      },
+      {
+       "title": "PP: Feijóo reivindica que el modelo de gestión del PP demuestra que es posible bajar impuestos",
+       "quote": "se consolidaron las rebajas anteriores sin subir la presión fiscal y se bajó el IRPF al 90% de los gallegos, rebajando también ITP y Patrimonio",
+       "url": "https://www.pp.es/actualidad/articulos/feijoo-reivindica-que-modelo-gestion-pp-demuestra-que-es-posible-bajar-impuestos/",
+       "date": "2022-04-01"
+      }
+     ]
+    },
+    "vox": {
+     "support": 0,
+     "kind": "historical",
+     "reason": "En su actividad parlamentaria de marzo de 2026 pide suprimir Sucesiones y Patrimonio. Es evidencia externa al programa del 29N.",
+     "evidence": [
+      {
+       "title": "VOX denuncia la 'fatiga tributaria' de los españoles y exige una bajada fiscal ambiciosa, permanente y justa",
+       "quote": "Supresión de impuestos como Sucesiones, Patrimonio, el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana y el Impuesto sobre Hidrocarburos",
+       "url": "https://www.voxespana.es/grupo_parlamentario/actividad-parlamentaria/vox-denuncia-la-fatiga-tributaria-de-los-espanoles-y-exige-una-bajada-fiscal-ambiciosa-permanente-y-justa-20260324",
+       "date": "2026-03-24"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone tributación complementaria de grandes patrimonios y más progresividad del capital.",
+     "evidence": [
+      {
+       "title": "Ingresos para crianza",
+       "quote": "La recaudación de la tributación complementaria de los grandes patrimonios y de la mayor progresividad de las rentas del capital contribuirá a financiar la prestación por crianza y la lucha contra la pobreza infantil.",
+       "page": 47,
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "id": "x-psoe-n127",
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone gravar más los grandes patrimonios. La medida no requiere que su origen sea ilícito.",
+     "evidence": [
+      {
+       "title": "Impuesto del 3 % a patrimonios superiores a 50 millones",
+       "quote": "Implantaremos la Tasa Zucman, consistente en un impuesto estatal, permanente y finalista del 3 % anual sobre el patrimonio neto individual que supere los 50 millones de euros",
+       "page": 52,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "id": "frenteamplio-impuestos-1",
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone gravar más los grandes patrimonios. La medida no requiere que su origen sea ilícito.",
+     "evidence": [
+      {
+       "title": "Impuesto permanente a las grandes fortunas",
+       "quote": "Ampliaremos el impuesto a las grandes fortunas a todos los obligados tributarios del Impuesto del Patrimonio, para evitar que las Comunidades Autónomas lo eliminen.",
+       "page": 17,
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "id": "podemos-impuestos-1",
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": 0,
+     "kind": "direct",
+     "reason": "Propone suprimir Patrimonio y grandes fortunas, en sentido contrario a aumentar esa carga.",
+     "evidence": [
+      {
+       "title": "Suprimir Sucesiones, Donaciones y Patrimonio",
+       "quote": "Sucesiones, Donaciones y Patrimonio: suprimidos.",
+       "page": 13,
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "id": "salf-impuestos-3",
+       "type": "programa"
+      }
+     ]
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "El patrimonio es la riqueza acumulada: dinero, bienes y otros activos. Es distinto de los ingresos que una persona recibe durante un año.",
+     "Gravar grandes patrimonios plantea cómo repartir la financiación pública y reducir diferencias de riqueza, pero también cómo valorar bienes, evitar una carga excesiva o afrontar casos con patrimonio y poca liquidez. La pregunta presupone que el patrimonio se ha acumulado de manera legítima."
+    ],
+    "sources": []
+   },
+   "evidenceNote": "Formulación solicitada por el usuario. El alcance o las premisas difieren de la medida anterior; pendiente de correspondencia documental. No reutilizar automáticamente las posturas previas."
+  },
+  {
+   "id": "sucesiones",
+   "topic": "Impuestos",
+   "text": "¿Crees que deberían cobrarte impuestos cuando recibes una herencia?",
+   "detail": "Sí significa eliminar ese impuesto; No permite mantenerlo, aunque haya exenciones.",
+   "positions": {
+    "pp": {
+     "support": 1,
+     "kind": "historical",
+     "reason": "Feijóo defendió que el 99 % de las herencias gallegas no pagaran Sucesiones. Favorece la exención amplia, aunque no acredita eliminar el impuesto para absolutamente todas las herencias. Antecedente de 2022.",
+     "evidence": [
+      {
+       "title": "PP: Feijóo reivindica que el modelo de gestión del PP demuestra que es posible bajar impuestos",
+       "quote": "se acometió la mayor bajada de la historia autonómica -ahora el 99% de las herencias no pagan el Impuesto de Sucesiones-",
+       "url": "https://www.pp.es/actualidad/articulos/feijoo-reivindica-que-modelo-gestion-pp-demuestra-que-es-posible-bajar-impuestos/",
+       "date": "2022-04-01"
+      }
+     ]
+    },
+    "vox": {
+     "support": 0,
+     "kind": "historical",
+     "reason": "En su actividad parlamentaria de marzo de 2026 pide suprimir Sucesiones y Patrimonio. Es evidencia externa al programa del 29N.",
+     "evidence": [
+      {
+       "title": "VOX denuncia la 'fatiga tributaria' de los españoles y exige una bajada fiscal ambiciosa, permanente y justa",
+       "quote": "Supresión de impuestos como Sucesiones, Patrimonio, el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana y el Impuesto sobre Hidrocarburos",
+       "url": "https://www.voxespana.es/grupo_parlamentario/actividad-parlamentaria/vox-denuncia-la-fatiga-tributaria-de-los-espanoles-y-exige-una-bajada-fiscal-ambiciosa-permanente-y-justa-20260324",
+       "date": "2026-03-24"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 3,
+     "kind": "historical",
+     "reason": "El documento Compromisos del sí defiende un mínimo común del impuesto de Sucesiones. Apoya mantener tributación, aunque no especifica que cualquier herencia deba pagar. Es un antecedente programático, no una nueva promesa del 29N.",
+     "evidence": [
+      {
+       "title": "PSOE · Compromisos del sí: Sí a combatir la desigualdad",
+       "quote": "Una reforma fiscal que [...] establezca un mínimo común en los Impuestos de Sucesiones y Patrimonio",
+       "url": "https://www.psoe.es/compromisos-del-si/si-a-combatir-la-desigualdad/"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 3,
+     "kind": "interpretation",
+     "reason": "Defiende gravar herencias grandes y mínimos comunes; no implica cobrar lo mismo por cualquier herencia.",
+     "evidence": [
+      {
+       "title": "Impuesto estatal a grandes herencias",
+       "quote": "Crearemos un impuesto estatal sobre las grandes herencias, de más de un millón de euros.",
+       "page": 52,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "id": "x-frente-amplio-t0318",
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 3,
+     "kind": "historical",
+     "reason": "La medida 266 propone un mínimo estatal en Sucesiones, con cuotas reducidas para herederos de menor patrimonio y familiares cercanos. Apoya el impuesto con matices, no un cobro idéntico en toda herencia. Antecedente programático.",
+     "evidence": [
+      {
+       "title": "Podemos · Programa, medida 266: Hacer el impuesto sobre sucesiones y donaciones más justo",
+       "quote": "que sea más progresivo y que las personas herederas con menor patrimonio preexistente y mayor grado de consanguineidad tengan cuotas reducidas. [...] armonizaremos este impuesto a escala estatal a partir de un mínimo de tributación",
+       "url": "https://podemos.info/eu/medida/hacer-el-impuesto-sobre-sucesiones-y-donaciones-mas-justo/"
+      }
+     ]
+    },
+    "salf": {
+     "support": 0,
+     "kind": "direct",
+     "reason": "Propone suprimir el impuesto de Sucesiones.",
+     "evidence": [
+      {
+       "title": "Suprimir Sucesiones, Donaciones y Patrimonio",
+       "quote": "Sucesiones, Donaciones y Patrimonio: suprimidos.",
+       "page": 13,
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "id": "salf-impuestos-3",
+       "type": "programa"
+      }
+     ]
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "Una herencia transmite bienes o dinero a otra persona. La pregunta plantea si esa transmisión debería estar sujeta a impuestos.",
+     "Responder Sí significa permitir ese impuesto, sin fijar un tipo ni excluir posibles exenciones. Responder No significa oponerse a cobrarlo."
+    ],
+    "sources": []
+   }
+  },
+  {
+   "id": "conciertos",
+   "topic": "Educación",
+   "text": "¿Crees que el dinero de tus impuestos debería destinarse exclusivamente a la educación y los centros públicos?",
+   "detail": "Esto supondría retirar la financiación pública a los centros privados concertados.",
+   "positions": {
+    "pp": {
+     "support": 0,
+     "kind": "direct",
+     "reason": "Defiende financiación de centros concertados.",
+     "evidence": [
+      {
+       "title": "Libre elección de colegio y conciertos de seis años",
+       "quote": "Los conciertos durarán al menos seis años en todas las etapas,",
+       "page": 67,
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "id": "pp-educacion-4",
+       "type": "programa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 1,
+     "kind": "interpretation",
+     "reason": "Defiende libre elección de modelo sin barreras económicas. Sugiere financiar alternativas, aunque la cita no concreta todos los conciertos.",
+     "evidence": [
+      {
+       "title": "Elección familiar de centro",
+       "quote": "Garantizar los derechos de las familias en la educación de sus hijos.",
+       "page": 41,
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "id": "x-vox-n067",
+       "type": "programa"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 1,
+     "kind": "historical",
+     "reason": "El PSOE de Cádiz defendió conservar el modelo de conciertos al presentar la ley educativa. Es contrario a destinar exclusivamente a centros públicos toda la financiación; la fuente es una declaración territorial de 2020.",
+     "evidence": [
+      {
+       "title": "Qué! · Alegría defiende la colaboración entre educación pública y concertada (Pilar Alegría, ministra de Educación y FP)",
+       "quote": "Tengo todo mi respeto hacia la educación concertada porque juega un papel clave en nuestro sistema educativo",
+       "url": "https://www.que.es/2021/08/09/alegria-colaboracion-educacion-publica-concertada/",
+       "date": "2021-08-09"
+      },
+      {
+       "title": "PSOE de Cádiz: defensa del modelo de conciertos educativos",
+       "quote": "La ley no altera el modelo de conciertos creado en 1985 y que ha dado más de 40 años de estabilidad al sistema",
+       "url": "https://www.psoedecadiz.es/el-psoe-defiende-la-ley-de-educacion-pues-no-altera-el-modelo-de-conciertos-creado-en-1985-que-ha-dado-mas-de-40-anos-de-estabilidad-al-sistema/"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Fija como objetivo destinar todos los fondos educativos a la escuela pública.",
+     "evidence": [
+      {
+       "title": "Todo el dinero público, a la escuela pública",
+       "quote": "El objetivo es que el 100 % de los fondos públicos vayan destinados a la educación pública",
+       "page": 31,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "id": "frenteamplio-educacion-4",
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 3,
+     "kind": "interpretation",
+     "reason": "Propone frenar nuevos conciertos e integrar voluntariamente la concertada en la pública: dirección próxima, con transición.",
+     "evidence": [
+      {
+       "title": "Ni un concierto educativo nuevo",
+       "quote": "Estableceremos una moratoria indefinida a la concesión de nuevos conciertos y a la apertura de nuevos centros privados en todas las etapas educativas",
+       "page": 79,
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "id": "podemos-educacion-4",
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": 0,
+     "kind": "direct",
+     "reason": "Propone cheque escolar válido en pública, concertada y privada.",
+     "evidence": [
+      {
+       "title": "Cheque escolar: el dinero sigue al alumno",
+       "quote": "Cheque escolar válido en pública, concertada y privada, con el mismo importe por alumno y resultados públicos de cada centro.",
+       "page": 34,
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "id": "salf-educacion-2",
+       "type": "programa"
+      }
+     ]
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "La titularidad de un centro y su financiación son cosas distintas. Un centro de titularidad privada puede recibir dinero público; la enseñanza concertada combina ambas características.",
+     "Destinar toda la financiación a centros públicos prioriza una red de titularidad pública. Financiar también otros centros permite otro modelo de provisión y elección, con el debate sobre las condiciones y controles exigibles."
+    ],
+    "sources": []
+   }
+  },
+  {
+   "id": "pensiones",
+   "topic": "Pensiones",
+   "text": "¿Crees que las pensiones deberían subir cada año al mismo ritmo que los precios para proteger el poder adquisitivo de los jubilados, aunque eso supusiese pagarles más de lo que aportaron en su día?",
+   "detail": "Para mantener el poder adquisitivo. Se pregunta por la actualización anual, no por cómo financiarla.",
+   "positions": {
+    "pp": {
+     "support": 3,
+     "kind": "interpretation",
+     "reason": "Defiende revalorizar con el IPC. Coincide el mecanismo, pero la fuente no se pronuncia expresamente sobre cobrar más que lo aportado.",
+     "evidence": [
+      {
+       "title": "Subir las pensiones cada año con el IPC",
+       "quote": "cada año con el IPC. Aseguraremos a los más jóvenes que sus futuras pensiones también mantendrán su poder adquisitivo.",
+       "page": 43,
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "id": "pp-pensiones-1",
+       "type": "programa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 1,
+     "kind": "historical",
+     "reason": "Su programa no promete subir con el IPC, solo «garantizar la sostenibilidad». En febrero de 2026 fue el único grupo que votó en contra del decreto que subió las pensiones con el IPC. Su promesa de 2020 de subirlas por encima del IPC evita el 0. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Programa Vox 29N, medida 7",
+       "quote": "Garantizar la sostenibilidad del sistema de pensiones.",
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "date": "2026-11-12",
+       "page": 10
+      },
+      {
+       "title": "ESdiario: Vox vota en contra de la subida de las pensiones y se queda solo en el Congreso",
+       "quote": "el debate no debe centrarse únicamente en la revalorización anual",
+       "url": "https://www.esdiario.com/nacional/260226/180913/vox-vota-subida-pensiones-queda-congreso.html",
+       "date": "2026-02-26"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Propone subir con el IPC por mandato constitucional. Su Gobierno ya lo fijó por ley en 2021 (Ley 21/2021) y lo ha aplicado cada año. Cumple el objetivo sin vincular la pensión a lo cotizado. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Programa PSOE 29N, compromiso 100",
+       "quote": "Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC",
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "date": "2026-11-15",
+       "page": 40
+      },
+      {
+       "title": "Moncloa: las Cortes aprueban la ley que garantiza el poder adquisitivo de las pensiones (Ley 21/2021, Gobierno PSOE-Unidas Podemos)",
+       "quote": "Las Cortes Generales aprueban la ley que garantiza el poder adquisitivo de las pensiones",
+       "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2021/221221-ley_pensiones.aspx",
+       "date": "2021-12-22"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Propone llevar a la Constitución la subida automática con el IPC y que ninguna pensión baje del salario mínimo. Esto último supone pagar expresamente más de lo cotizado. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Programa Frente Amplio 29N",
+       "quote": "su revalorización automática con arreglo al IPC, que ninguna sea inferior al SMI",
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "date": "2026-11",
+       "page": 64
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "historical",
+     "reason": "Su medida 194 propone subir con el IPC por ley y llevarlo a la Constitución, y formó parte del Gobierno que aprobó la Ley 21/2021. En el programa del 29N propone además adelantar la jubilación a los 63 años pagada con los Presupuestos: más pensión que lo cotizado. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Podemos, medida 194",
+       "quote": "Estableceremos la actualización por ley de las pensiones al IPC de manera inmediata",
+       "url": "https://podemos.info/medida/garantia-de-revalorizacion-de-las-pensiones/",
+       "date": "s. f."
+      },
+      {
+       "title": "Programa Podemos 29N, medida 116",
+       "quote": "garantizando la sostenibilidad y suficiencia de las pensiones mediante su financiación a través de los Presupuestos Generales del Estado",
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "date": "2026-11",
+       "page": 41
+      },
+      {
+       "title": "Moncloa: las Cortes aprueban la ley que garantiza el poder adquisitivo de las pensiones (Ley 21/2021, Gobierno PSOE-Unidas Podemos)",
+       "quote": "Las Cortes Generales aprueban la ley que garantiza el poder adquisitivo de las pensiones",
+       "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2021/221221-ley_pensiones.aspx",
+       "date": "2021-12-22"
+      }
+     ]
+    },
+    "salf": {
+     "support": 3,
+     "kind": "interpretation",
+     "reason": "Defiende revalorizar con el IPC. Coincide el mecanismo, pero la fuente no se pronuncia expresamente sobre cobrar más que lo aportado.",
+     "evidence": [
+      {
+       "title": "Pensiones actuales blindadas en la Constitución",
+       "quote": "Revalorización con el IPC y prohibición de recortes, con rango constitucional.",
+       "page": 20,
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "id": "salf-pensiones-1",
+       "type": "programa"
+      }
+     ]
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "Si los precios suben y una pensión no cambia, esa pensión permite comprar menos. Actualizarla con los precios busca mantener el poder adquisitivo.",
+     "Con la inflación, un euro de hoy compra menos que un euro de hace años. Por eso, un pensionista puede recibir, en euros, más de lo que aportó sin que esa diferencia signifique necesariamente un mayor poder adquisitivo. Subir las pensiones con el IPC aumenta el gasto que debe financiarse cada año: si los ingresos del sistema no crecen al mismo ritmo, resulta más difícil sostenerlo."
+    ],
+    "sources": []
+   },
+   "evidenceNote": "Formulación solicitada por el usuario. El alcance o las premisas difieren de la medida anterior; pendiente de correspondencia documental. No reutilizar automáticamente las posturas previas."
+  },
+  {
+   "id": "sanidad-colaboracion",
+   "topic": "Sanidad",
+   "text": "Si tienes que esperar para recibir un tratamiento, ¿te parecería bien que la sanidad pública pagase tu atención en un centro privado para reducir la espera?",
+   "detail": "Con control público de calidad y gasto. Se pregunta por permitir esa colaboración, no por sustituir toda la red pública.",
+   "positions": {
+    "pp": {
+     "support": 3,
+     "kind": "historical",
+     "reason": "El responsable nacional de Sanidad del PP defendió la colaboración público-privada para ofrecer servicios públicos. Es un antecedente favorable al mecanismo, aunque la declaración de 2013 no responde específicamente al supuesto de reducir listas de espera. Solo consta una declaración de 2013; el programa del 29N no menciona centros privados. Interpretación revisable.",
+     "evidence": [
+      {
+       "title": "PP: «La gestión público-privada sanitaria es legal y se realiza con transparencia» (José Ignacio Echániz, secretario nacional de Sanidad)",
+       "quote": "es un instrumento de gestión que está dentro de la ley, es legítimo, y se realiza con transparencia a través de un concurso público. Se trata por tanto, de una colaboración para poder ofrecer un mejor servicio público",
+       "url": "https://www.pp.es/actualidad/articulos/gestion-publico-privada-sanitaria-es-legal-se-realiza-transparencia_7401-html/",
+       "date": "2013-01-22"
+      }
+     ]
+    },
+    "vox": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Apoya colaboración público-privada cuando reduzca demoras.",
+     "evidence": [
+      {
+       "title": "Plan nacional contra las listas de espera",
+       "quote": "Fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras, con transparencia, evaluación de calidad y control del gasto.",
+       "page": 37,
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "id": "vox-sanidad-2",
+       "type": "programa"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 2,
+     "kind": "interpretation",
+     "reason": "El programa habla de gestión directa «preferente», no exclusiva, y el motivo actual ya reconoce que no prohíbe derivar. Lo que hace el partido donde gobierna también usa la privada. El consejero de Sanidad del Gobierno socialista de Castilla-La Mancha defiende en 2026 los conciertos, también para descongestionar las listas de espera, y pide que la Ley de Gestión Pública sea «flexible». Con 2 se mantiene el orden con Frente Amplio (1, gestión indirecta solo «estrictamente excepcional») y Podemos (0, gestión pública obligatoria). Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Programa PSOE 29N, gestión directa preferente",
+       "quote": "Limitar la privatización de la sanidad estableciendo la gestión directa como modalidad preferente en la prestación sanitaria",
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "date": "2026-11-15"
+      },
+      {
+       "title": "Sanz, consejero de Sanidad de Castilla-La Mancha: «La Ley de Gestión Pública tiene que ser flexible, la privada es necesaria» (El Español)",
+       "quote": "No sólo para descongestionar las listas de espera",
+       "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20260403/sanz-consejero-sanidad-castilla-la-mancha-ley-gestion-publica-flexible-privada-necesaria/1003744190805_0.html",
+       "date": "2026-04-03"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 1,
+     "kind": "interpretation",
+     "reason": "Frente Amplio es más restrictivo que el PSOE: deroga la Ley 15/1997 y deja la gestión indirecta como «estrictamente excepcional», con informe técnico previo. Tiene 2 y el PSOE, con una gestión directa solo «preferente», tiene 1. El orden está invertido. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Ley de Gestión Pública e Integridad del SNS (programa Frente Amplio)",
+       "quote": "Derogaremos expresamente la Ley 15/1997, sobre habilitación de nuevas formas de gestión del SNS, que había abierto la puerta a la colaboración con entidades privadas, y los modelos de gestión indirecta pasarán a ser estrictamente excepcionales.",
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "date": "2026-11-23",
+       "page": 26
+      }
+     ]
+    },
+    "podemos": {
+     "support": 0,
+     "kind": "direct",
+     "reason": "Defiende gestión pública obligatoria y frenar externalizaciones.",
+     "evidence": [
+      {
+       "title": "Fin de la gestión privada de la sanidad pública",
+       "quote": "blindaremos la titularidad y la gestión pública directa como modelo obligatorio del Sistema Nacional de Salud",
+       "page": 88,
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "id": "podemos-sanidad-2",
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Si se supera el plazo de espera, permite elegir centro público o privado pagado por el sistema.",
+     "evidence": [
+      {
+       "title": "Máximo de 60 días para operarse",
+       "quote": "60 días para cirugía, 30 para especialista, 7 para pruebas prioritarias.",
+       "page": 22,
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "id": "salf-sanidad-1",
+       "type": "programa"
+      }
+     ]
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "En una lista de espera, la atención puede depender de la capacidad disponible en personal, instalaciones y organización. Una opción es reforzar la red pública; otra es contratar atención en centros privados con financiación pública.",
+     "La colaboración puede ampliar la capacidad disponible, pero exige decidir precios, controles de calidad y cómo se coordina con la inversión en la red pública. La pregunta plantea permitirla si reduce la espera, no sustituir toda la sanidad pública."
+    ],
+    "sources": []
+   }
+  },
+  {
+   "id": "aforamientos",
+   "topic": "Instituciones",
+   "text": "¿Crees que un político debería ser juzgado en los mismos tribunales que cualquier otro ciudadano?",
+   "detail": "Sin un tribunal especial por razón del cargo.",
+   "positions": {
+    "pp": {
+     "support": 2,
+     "kind": "interpretation",
+     "reason": "Propone revisar los aforamientos y evitar impunidad, sin comprometerse a eliminarlos todos. Nivel 2: mantiene los aforamientos en parte (decisión editorial aplicada igual al PP y al PSOE tras la verificación).",
+     "evidence": [
+      {
+       "title": "Revisar aforamientos y suplicatorio",
+       "quote": "REFORMAREMOS EL SUPLICATORIO Y REVISAREMOS LOS AFORAMIENTOS. Evitaremos que el suplicatorio pueda convertirse en un instrumento de impunidad ante la Justicia.",
+       "page": 29,
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "id": "x-pp-n061",
+       "type": "programa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 2,
+     "kind": "historical",
+     "reason": "VOX defendió en las Cortes de Aragón suprimir los aforamientos autonómicos por considerarlos privilegios contrarios a la igualdad. Orienta hacia el sí; su alcance territorial no acredita por sí solo la supresión de todos los aforamientos estatales. Nivel 2: suprime los aforamientos autonómicos pero mantiene los de los diputados de las Cortes Generales; mismo criterio que PP y PSOE.",
+     "evidence": [
+      {
+       "title": "Cortes de Aragón · Diario de Sesiones nº 60, intervención de David Arranz (GP VOX)",
+       "quote": "El aforamiento en sí mismo como prerrogativa especial es contraria al principio de igualdad de todos ante la ley, que consagra nuestro artículo 14 de la Constitución",
+       "url": "https://bases.cortesaragon.es/bases/original.nsf/%28DSCA1%29/B10D58EB8447A94CC1258815003030EA/%24File/DSCA_60_Pleno_2022-03-10y11.pdf",
+       "date": "2022-03-10"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 2,
+     "kind": "interpretation",
+     "reason": "Los elimina para delitos ajenos al cargo. Coincidencia parcial: la pregunta no limita el tipo de delito. Nivel 2: mantiene los aforamientos en parte (decisión editorial aplicada igual al PP y al PSOE tras la verificación).",
+     "evidence": [
+      {
+       "title": "Quitar aforamientos por delitos ajenos al cargo",
+       "quote": "Suprimir los aforamientos de los cargos públicos para los delitos ajenos al ejercicio de su cargo",
+       "page": 90,
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "id": "psoe-instituciones-4",
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "historical",
+     "reason": "En junio de 2025 Sumar exigió al PSOE el fin de los aforamientos de todos los cargos públicos como condición de regeneración del pacto de coalición.",
+     "evidence": [
+      {
+       "title": "Díaz ve insuficiente las explicaciones de Sánchez y no baja la presión al PSOE",
+       "quote": "Sumar exigirá \"el fin\" de los aforamientos de todos los cargos públicos",
+       "url": "https://www.articulo14.es/politica/diaz-ve-insuficiente-las-explicaciones-de-sanchez-y-no-baja-la-presion-al-psoe-le-exige-garantias-de-regeneracion-20250616.html",
+       "date": "2025-06-16",
+       "type": "prensa"
+      }
+     ],
+     "source_note": "Añadida por Claude el 26-11-2026: el programa no lo trata; se usa historial, votaciones o declaraciones."
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone suprimir los aforamientos.",
+     "evidence": [
+      {
+       "title": "Suprimir los aforamientos",
+       "quote": "Supresión de los aforamientos y reducción del peso político del Tribunal Supremo.",
+       "page": 128,
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "id": "podemos-instituciones-2",
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone eliminar todos los aforamientos.",
+     "evidence": [
+      {
+       "title": "Fin de los aforamientos",
+       "quote": "Los 17.621 aforados, juzgados por el mismo juez que tú. Reforma constitucional presentada el primer día.",
+       "page": 28,
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "id": "salf-instituciones-2",
+       "type": "programa"
+      }
+     ]
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "La pregunta plantea eliminar la diferencia de tribunal por razón del cargo, sin limitarse a delitos ajenos a sus funciones."
+    ],
+    "sources": []
+   },
+   "evidenceNote": "Formulación solicitada por el usuario. El alcance o las premisas difieren de la medida anterior; pendiente de correspondencia documental. No reutilizar automáticamente las posturas previas."
+  },
+  {
+   "id": "turismo",
+   "topic": "Vivienda",
+   "text": "¿Crees que el Estado debería expropiar pisos turísticos para destinarlos a vivienda habitual y aumentar la oferta de vivienda?",
+   "detail": "La limitación afecta a ese uso de las viviendas, no a toda la actividad turística.",
+   "positions": {
+    "pp": {
+     "support": 1,
+     "kind": "historical",
+     "reason": "No cambia el nivel; cambia la evidencia. La frase de Feijóo trata del decreto antidesahucios y no menciona pisos turísticos, así que no conviene enseñarla como prueba. Mejor apoyarse en que el programa no restringe el uso turístico y en el cuadro de idealista, que marca al PP con «NO» en restricciones y en expropiación. La cita de Feijóo puede ir como contexto con la advertencia que ya lleva. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Spain's 2026 election housing promises (idealista)",
+       "quote": "Cuadro resumen: PP «NO» en «Restrictions on tourist accommodation» y en «Expropriation of corporate landlords»",
+       "url": "https://www.idealista.com/en/news/node/924300",
+       "date": "2026-11-19"
+      },
+      {
+       "title": "Feijóo afirma que el Gobierno intenta expropiar el derecho de un arrendador a cobrar su renta",
+       "quote": "expropiar el derecho de un arrendador a cobrar su renta",
+       "url": "https://www.ultimahora.es/noticias/comunidades/2026/02/04/2563249/feijoo-afirma-gobierno-espana-intenta-expropiar-derecho-arrendador-cobrar-renta.html",
+       "date": "2026-02-04",
+       "type": "declaracion"
+      }
+     ],
+     "source_note": "Añadida por Claude el 26-11-2026: el programa no lo trata; se usa historial, votaciones o declaraciones."
+    },
+    "vox": {
+     "support": 1,
+     "kind": "historical",
+     "reason": "No cambia el nivel. La medida está en su propio programa del 29N, así que se puede citar la fuente primaria en vez de la nota de idealista, que está en inglés. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Regulación de VUT e inspección de pisos turísticos ilegales (programa Vox 29N)",
+       "quote": "Regulación de la proliferación masiva de VUT y refuerzo del servicio de inspección de pisos turísticos ilegales.",
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "date": "2026-11-12",
+       "page": 24
+      },
+      {
+       "title": "Spain's 2026 election housing promises (idealista)",
+       "quote": "greater regulation and inspection of illegal tourist accommodation",
+       "url": "https://www.idealista.com/en/news/node/924300",
+       "date": "2026-11-19",
+       "type": "prensa"
+      }
+     ],
+     "source_note": "Añadida por Claude el 26-11-2026: el programa no lo trata; se usa historial, votaciones o declaraciones."
+    },
+    "psoe": {
+     "support": 1,
+     "kind": "interpretation",
+     "reason": "Propone impuestos a viviendas turísticas de grandes propietarios: intervención distinta y menos próxima que expropiar.",
+     "evidence": [
+      {
+       "title": "Impuesto a pisos de grandes propietarios sin alquiler asequible",
+       "quote": "Se gravará con un impuesto progresivo la posesión de todas aquellas viviendas de grandes propietarios y fondos buitre que no se destinen a alquiler residencial",
+       "page": 31,
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "id": "psoe-vivienda-3",
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 3,
+     "kind": "interpretation",
+     "reason": "Combina retirada de licencias turísticas con ampliar vivienda pública también mediante expropiación. Se aproxima al objetivo, sin prometer expropiar todos los pisos turísticos.",
+     "evidence": [
+      {
+       "title": "Ampliar vivienda pública también mediante expropiación",
+       "quote": "Ampliaremos el parque público y asequible de vivienda a través de la construcción  directa y delegada, la compra por tanteo y retracto, la movilización de vivienda  vacía o infrautilizada, la redensificación, la expropiación y el ejercicio del tanteo  público con el que se incorporarán 1,5 millones de viviendas públicas en 12 años",
+       "page": 10,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "id": "frenteamplio-vivienda-1",
+       "type": "programa"
+      },
+      {
+       "id": "frenteamplio-vivienda-3",
+       "title": "Fin de los pisos turísticos en zonas tensionadas",
+       "quote": "Tramitaremos la extinción progresiva y definitiva de todas las licencias de Viviendas de Uso Turístico (VUT) y alquileres de temporada fraudulentos en edificios residenciales en un plazo máximo de 3 años dentro de las zonas tensionadas",
+       "page": 12,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 2,
+     "kind": "interpretation",
+     "reason": "Quiere acabar con el uso turístico residencial, pero retirar ese uso no transfiere la propiedad al Estado. Coincide el destino, no queda documentado el mecanismo de expropiación.",
+     "evidence": [
+      {
+       "title": "Prohibir los pisos turísticos",
+       "quote": "Pondremos fin al uso turístico de viviendas residenciales, mientras se mantenga la emergencia",
+       "page": 9,
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "id": "podemos-vivienda-4",
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": 0,
+     "kind": "interpretation",
+     "reason": "No cambia el nivel. La cita guardada habla de vivienda industrializada; la frase que justifica el «reason» está en el mismo bloque y conviene usarla. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Registro único de alquiler turístico (contrato electoral SALF)",
+       "quote": "Registro único de alquiler turístico con cumplimiento fiscal, sin prohibiciones.",
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "date": "2026-11",
+       "page": 7
+      }
+     ]
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "Expropiar se refiere a transferir forzosamente la propiedad mediante el procedimiento correspondiente. Es una medida distinta de retirar una licencia turística, limitar esa actividad o incentivar que el propietario alquile su vivienda como residencia habitual.",
+     "La pregunta plantea utilizar esa medida para aumentar la oferta de vivienda habitual. El dato económico mostrado corresponde al conjunto del turismo: no mide la aportación de los pisos turísticos ni permite estimar por sí solo el efecto de expropiarlos."
+    ],
+    "sources": [
+     {
+      "title": "Fuente: INE, 2024",
+      "url": "https://www.ine.es/dyngs/Prensa/es/CSTE2024.htm"
+     }
+    ]
+   },
+   "evidenceNote": "Se pregunta expresamente por expropiación. Las propuestas anteriores de retirar licencias o prohibir uso turístico no acreditan expropiación; siguen sin puntuar.",
+   "annotation": "Dato: el conjunto del turismo representó el 12,6 % del PIB de España en 2024 —aproximadamente un 13 %—, equivalente a 200.699 millones de euros.",
+   "annotationSource": {
+    "title": "Fuente: INE, 2024",
+    "url": "https://www.ine.es/dyngs/Prensa/es/CSTE2024.htm"
+   }
+  },
+  {
+   "id": "redes",
+   "topic": "Menores",
+   "text": "¿Crees que el Estado debería prohibir por ley que los menores de 16 años puedan abrirse una cuenta en redes sociales, en lugar de dejar esa elección a sus padres?",
+   "detail": "Se pregunta por una prohibición legal, frente a permitirlo con autorización familiar.",
+   "positions": {
+    "pp": {
+     "support": 2,
+     "kind": "interpretation",
+     "reason": "El PP prohíbe por ley las cuentas antes de los 14 años y deja la decisión a los padres entre los 14 y los 16. Coincide con la pregunta en una parte y la contradice en otra: es una posición mixta. Tiene el mismo 1 que Vox, que rechaza la medida. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Redes sociales prohibidas a menores de 14 años (programa PP 29N)",
+       "quote": "NINGÚN MENOR DE 14 AÑOS PODRÁ TENER UNA CUENTA EN REDES SOCIALES, Y HASTA LOS 16 NECESITARÁ AUTORIZACIÓN DE SUS PADRES.",
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "date": "2026-11-10",
+       "page": 58
+      }
+     ]
+    },
+    "vox": {
+     "support": 1,
+     "kind": "interpretation",
+     "reason": "Abascal rechazó el anuncio del Gobierno sobre restricciones en redes tras plantearse prohibir el acceso a menores de 16 años. Se interpreta cercanía al no; su crítica se dirige también al control y la censura del conjunto del paquete, por lo que no se atribuye oposición absoluta a toda protección por edad.",
+     "evidence": [
+      {
+       "title": "VOX: Abascal carga contra el anuncio de persecución y la censura en redes",
+       "quote": "lo que pretende Pedro Sánchez es amordazar y censurar al mismo pueblo al que roba, al que traiciona y al que condena a la invasión y al colapso de todos los servicios públicos",
+       "url": "https://www.voxespana.es/abascal/abascal-carga-contra-el-anuncio-de-persecucion-y-la-censura-en-redes-pedro-sanchez-quiere-amordazar-al-pueblo-al-que-roba-y-traiciona-20260204",
+       "date": "2026-02-04"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone edad mínima de 16 años para usar redes sociales.",
+     "evidence": [
+      {
+       "title": "Redes sociales desde 16 años",
+       "quote": "Establecer a 16 años la edad mínima para usar redes sociales. Aprobar en el primer año de legislatura la Ley de protección de las personas menores de edad en los entornos digitales.",
+       "page": 95,
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "id": "x-psoe-n399",
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 3,
+     "kind": "historical",
+     "reason": "No cambia el nivel. La cita «Hay que elevar la exigencia a la industria…» la atribuye el artículo a fuentes del Ministerio de Juventud e Infancia, no a Sumar ni a IU con nombre; hay que corregirlo en el «reason». Conviene añadir el programa del 29N, que pide una regulación severa de las redes para menores de 16, no una prohibición. Eso respalda el 3 y no el 4. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Regulación severa de redes dirigidas a menores de 16 (programa Frente Amplio)",
+       "quote": "Regulación severa de plataformas y redes sociales dirigidas a menores de 16 años sin verificación de edad respetuosa con la privacidad y eliminación de funciones adictivas",
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "date": "2026-11-23",
+       "page": 41
+      },
+      {
+       "title": "Sumar reprocha a Sánchez su apuesta por la restricción del acceso de los menores a las redes… (El Independiente)",
+       "quote": "incluye ya esa limitación de acceso a redes",
+       "url": "https://www.elindependiente.com/espana/2026/02/03/sumar-reprocha-a-sanchez-su-apuesta-por-la-restriccion-del-acceso-de-los-menores-a-las-redes-cuando-la-ha-bloqueado-dos-anos/amp/",
+       "date": "2026-02-03"
+      }
+     ],
+     "source_note": "Añadida por Claude el 26-11-2026: el programa no lo trata; se usa historial, votaciones o declaraciones."
+    },
+    "podemos": {
+     "support": 2,
+     "kind": "historical",
+     "reason": "Belarra dijo que la prohibición a menores de 16 suena bien pero no servirá de nada sin educación, y propuso gravar a las redes. No la apoya ni la rechaza expresamente.",
+     "evidence": [
+      {
+       "title": "Podemos quiere gravar a las redes sociales para financiar educación sexual obligatoria",
+       "quote": "suena muy bien […] no va a servir para nada",
+       "url": "https://www.eldebate.com/educacion/20260211/podemos-quiere-crujir-impuestos-redes-sociales-usar-ese-dinero-educacion-sexual-obligatoria_384178.html",
+       "date": "2026-02-11",
+       "type": "declaracion"
+      }
+     ],
+     "source_note": "Añadida por Claude el 26-11-2026: el programa no lo trata; se usa historial, votaciones o declaraciones."
+    },
+    "salf": {
+     "support": null,
+     "kind": "unknown",
+     "reason": "La revisión del material disponible no ofrece una base suficiente para situar a este partido en esta pregunta. No se interpreta el silencio como oposición.",
+     "evidence": []
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "Fijar una edad mínima por ley establece una regla común para las plataformas y las familias. Dejar la decisión a los padres permite adaptarla a cada menor.",
+     "El debate combina protección, autonomía familiar, privacidad y posibilidades reales de verificar la edad. La pregunta se refiere a una prohibición antes de los 16 años incluso con autorización de los padres, no a prohibir todo uso de internet. También plantea quién debe asumir la responsabilidad de la educación de los hijos, si el Estado debe intervenir en la vida del ciudadano y dónde está el límite entre proteger a los menores y actuar de forma paternalista, sustituyendo la decisión de sus padres."
+    ],
+    "sources": []
+   }
+  },
+  {
+   "id": "sanidad-acceso",
+   "topic": "Sanidad",
+   "text": "¿Crees que cualquier persona que viva en España debería poder disponer de sanidad pública gratuita, haya contribuido o no con sus impuestos a financiar esos servicios?",
+   "detail": "Se pregunta por su situación de residencia, no por cuánto haya pagado en impuestos.",
+   "positions": {
+    "pp": {
+     "support": 1,
+     "kind": "historical",
+     "reason": "No cambia el nivel. El decreto de 2012 es antiguo, pero el programa del 29N lo respalda: da prioridad en el acceso a ayudas, prestaciones y recursos públicos según empadronamiento, cotización y contribución. Va en contra del «haya contribuido o no». No menciona la sanidad expresamente, así que debe ir como evidencia complementaria. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "El vínculo con España dará prioridad (programa PP 29N)",
+       "quote": "Estableceremos criterios de prioridad en el acceso a determinadas ayudas, prestaciones y recursos públicos para procurar la asignación prioritaria a quienes mantengan un arraigo real, duradero y verificable con España.",
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "date": "2026-11-10",
+       "page": 40
+      },
+      {
+       "title": "Real Decreto-ley 16/2012, de 20 de abril (BOE)",
+       "quote": "De urgencia por enfermedad grave o accidente, cualquiera que sea su causa, hasta la situación de alta médica",
+       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5403",
+       "date": "2012-04-24",
+       "type": "norma"
+      }
+     ],
+     "source_note": "Añadida por Claude el 26-11-2026: el programa no lo trata; se usa historial, votaciones o declaraciones."
+    },
+    "vox": {
+     "support": 0,
+     "kind": "interpretation",
+     "reason": "Restringe el acceso ordinario según situación legal o cobertura, aunque conserva urgencias. Se opone a la universalidad completa planteada.",
+     "evidence": [
+      {
+       "title": "Sanidad solo de urgencia grave para inmigrantes irregulares",
+       "quote": "excluyendo a los extranjeros en situación ilegal salvo casos de urgencia grave. Auditoría del coste de la inmigración masiva en la sanidad pública.",
+       "page": 19,
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "id": "vox-sanidad-3",
+       "type": "programa"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "historical",
+     "reason": "Sus gobiernos extendieron la sanidad pública a los extranjeros que residen en España sin importar su situación administrativa (2018 y 2026), pero exigen residencia habitual y excluyen a quien puede exportar cobertura o tiene visado de corta estancia. Se aproxima, sin llegar a cualquiera sea o no residente. Con la redacción del 26-11-2026 («que viva en España»), la exigencia de residencia habitual ya no separa su postura de la pregunta: nivel 4.",
+     "evidence": [
+      {
+       "title": "Real Decreto-ley 7/2018, de 27 de julio, sobre el acceso universal al SNS (BOE)",
+       "quote": "No poder exportar el derecho de cobertura sanitaria desde su país de origen o procedencia",
+       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10752",
+       "date": "2018-07-30",
+       "type": "norma"
+      },
+      {
+       "title": "Real Decreto 180/2026, de 11 de marzo (BOE)",
+       "quote": "residencia habitual en territorio español",
+       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-5714",
+       "date": "2026-03-12",
+       "type": "norma"
+      }
+     ],
+     "source_note": "Añadida por Claude el 26-11-2026: el programa no lo trata; se usa historial, votaciones o declaraciones."
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Defiende atención sin exclusión administrativa para quienes viven en España. Se aproxima a atender sin cotización, pero no acredita cobertura ilimitada para cualquier no residente. Con la redacción del 26-11-2026 («que viva en España»), la exigencia de residencia habitual ya no separa su postura de la pregunta: nivel 4.",
+     "evidence": [
+      {
+       "title": "Universalidad sanitaria para residentes",
+       "quote": "Blindaremos por ley la universalidad de la atención sanitaria para residentes en España, independientemente de su estatus administrativo.",
+       "page": 26,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "id": "sanidad-acceso-frenteamplio",
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Defiende atención sin exclusión administrativa para quienes viven en España. Se aproxima a atender sin cotización, pero no acredita cobertura ilimitada para cualquier no residente. Con la redacción del 26-11-2026 («que viva en España»), la exigencia de residencia habitual ya no separa su postura de la pregunta: nivel 4.",
+     "evidence": [
+      {
+       "title": "Universalidad de la sanidad y acceso de residentes en situación irregular",
+       "quote": "Universalidad de la sanidad y de los servicios sociales.",
+       "page": 68,
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "id": "sanidad-acceso-podemos",
+       "type": "programa",
+       "pageEnd": 69
+      }
+     ]
+    },
+    "salf": {
+     "support": 0,
+     "kind": "interpretation",
+     "reason": "Restringe el acceso ordinario según situación legal o cobertura, aunque conserva urgencias. Se opone a la universalidad completa planteada.",
+     "evidence": [
+      {
+       "title": "Tarjeta sanitaria solo para españoles y residentes legales",
+       "quote": "Tarjeta para españoles y residentes legales con cotización o cobertura. Urgencias para todos, siempre.",
+       "page": 23,
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "id": "salf-sanidad-4",
+       "type": "programa"
+      }
+     ]
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "La pregunta incluye también a personas que no residen en España, y plantea el acceso con independencia de su contribución fiscal.",
+     "Residencia y contribución fiscal son criterios diferentes. La pregunta plantea si el sistema público de salud debería atender a las personas que lo necesiten aunque no estén contribuyendo a financiarlo."
+    ],
+    "sources": []
+   },
+   "evidenceNote": "Formulación solicitada por el usuario. El alcance o las premisas difieren de la medida anterior; pendiente de correspondencia documental. No reutilizar automáticamente las posturas previas."
+  },
+  {
+   "id": "prision-revisable",
+   "topic": "Seguridad",
+   "text": "¿Crees que los delitos más graves deberían castigarse con prisión de por vida, pero con revisiones judiciales que permitan valorar la puesta en libertad?",
+   "positions": {
+    "pp": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone ampliar la prisión permanente revisable: apoya la existencia de esa pena.",
+     "evidence": [
+      {
+       "title": "Ampliar la prisión permanente revisable",
+       "quote": "AMPLIAREMOS LA PRISIÓN PERMANENTE REVISABLE A QUIEN HAGA DESAPARECER A SU VÍCTIMA Y A LOS DEPREDADORES SEXUALES.",
+       "page": 20,
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "id": "pp-seguridad-3",
+       "type": "programa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone ampliar la prisión permanente revisable: apoya la existencia de esa pena.",
+     "evidence": [
+      {
+       "title": "Ampliar la prisión permanente revisable",
+       "quote": "Ampliación de la prisión permanente revisable. Los que cometen los peores delitos deben tener las máximas condenas.",
+       "page": 45,
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "id": "vox-seguridad-3",
+       "type": "programa"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 1,
+     "kind": "historical",
+     "reason": "Apoyó en 2017 tramitar su derogación y en marzo de 2026 rechazó ampliarla, aunque la prensa señala que ha moderado su posición sobre eliminarla y no la derogó gobernando. Orienta al no sin rechazo actual explícito.",
+     "evidence": [
+      {
+       "title": "El Congreso da el primer paso para derogar la prisión permanente revisable",
+       "quote": "han anunciado durante el debate su apoyo a la iniciativa del PNV",
+       "url": "https://www.publico.es/politica/congreso-da-primer-paso-derogar-prision-permanente-revisable.html",
+       "date": "2017-10-10",
+       "type": "prensa"
+      },
+      {
+       "title": "PSOE y PNV adelantan su rechazo a ampliar la prisión permanente revisable",
+       "quote": "ha moderado su posición respecto a su eliminación",
+       "url": "https://www.esdiario.com/nacional/260317/182691/psoe-pnv-adelantan-rechazo-ampliar-prision-permanente-revisable-debate-congreso.html",
+       "date": "2026-03-17",
+       "type": "prensa"
+      }
+     ],
+     "source_note": "Añadida por Claude el 26-11-2026: el programa no lo trata; se usa historial, votaciones o declaraciones."
+    },
+    "frenteamplio": {
+     "support": 0,
+     "kind": "historical",
+     "reason": "No cambia el nivel. La fuente actual (The Objective) recoge solo las «primeras ideas» de Sumar, no un programa. El programa del 23J de 2023 incluía eliminar la prisión permanente revisable, y eso es una base más sólida. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Sumar prohibirá las pelotas de goma y convertirá en delito la devolución de migrantes en frontera (elDiario.es)",
+       "quote": "que incluye eliminar la prisión permanente revisable",
+       "url": "https://www.eldiario.es/politica/sumar-prohibira-pelotas-goma-convertir-delito-devolucion-migrantes-frontera_1_10356866.html",
+       "date": "2023-07-06"
+      },
+      {
+       "title": "Sumar quiere derogar la prisión permanente revisable y cerrar los centros de internamiento de inmigrantes",
+       "quote": "derogar la prisión permanente revisable",
+       "url": "https://theobjective.com/espana/politica/2023-05-02/sumar-derogar-prision-permanente-revisable-cerrar-centros-inmigrantes/",
+       "date": "2023-05-02",
+       "type": "prensa"
+      }
+     ],
+     "source_note": "Añadida por Claude el 26-11-2026: el programa no lo trata; se usa historial, votaciones o declaraciones."
+    },
+    "podemos": {
+     "support": 0,
+     "kind": "historical",
+     "reason": "Unidos Podemos apoyó en el Congreso tramitar la ley del PNV para derogarla (2017). Es un antecedente antiguo, pero no consta cambio de posición.",
+     "evidence": [
+      {
+       "title": "El Congreso da el primer paso para derogar la prisión permanente revisable",
+       "quote": "han anunciado durante el debate su apoyo a la iniciativa del PNV",
+       "url": "https://www.publico.es/politica/congreso-da-primer-paso-derogar-prision-permanente-revisable.html",
+       "date": "2017-10-10",
+       "type": "votacion"
+      }
+     ],
+     "source_note": "Añadida por Claude el 26-11-2026: el programa no lo trata; se usa historial, votaciones o declaraciones."
+    },
+    "salf": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone ampliar la prisión permanente revisable: apoya la existencia de esa pena.",
+     "evidence": [
+      {
+       "title": "Cumplimiento íntegro y más prisión permanente revisable",
+       "quote": "Prisión permanente revisable por violación a menores o con lesiones graves.",
+       "page": 8,
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "id": "salf-seguridad-2",
+       "type": "programa"
+      }
+     ]
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "La pregunta plantea una pena que puede durar toda la vida, pero que permite revisar judicialmente si procede la puesta en libertad. No significa liberar automáticamente a la persona cuando pase un número fijo de años.",
+     "El debate combina la protección de la sociedad y la respuesta a delitos muy graves con la posibilidad de reinserción. Se pregunta por aceptar ese tipo de pena, no por aplicarlo a todos los delitos."
+    ],
+    "sources": []
+   },
+   "evidenceNote": "Proponer ampliar la prisión permanente revisable respalda la existencia de esta pena. El silencio de otros programas no se codifica como rechazo."
+  },
+  {
+   "id": "eutanasia",
+   "topic": "Libertades",
+   "text": "¿Crees que una persona debería poder decidir recibir ayuda médica para poner fin a su vida, si cumple los requisitos legales?",
+   "detail": "Se pregunta por mantener el derecho a la eutanasia. Las ampliaciones de sus requisitos son otra cuestión.",
+   "positions": {
+    "pp": {
+     "support": 1,
+     "kind": "historical",
+     "reason": "Ana Pastor defendió los cuidados paliativos frente a la ley de eutanasia y respaldó el recurso del PP. Es un antecedente contrario a esa regulación de 2021; recurrir una ley no prueba rechazo a cualquier supuesto imaginable de ayuda para morir.",
+     "evidence": [
+      {
+       "title": "PP · Nota de prensa: Ana Pastor en Jerez",
+       "quote": "Defiende la “universalización” de los cuidados paliativos y el “acompañamiento” de enfermos, frente a la ley de eutanasia ante la que el PP ha presentado un recurso al TC",
+       "url": "https://www.pp.es/storage/2021/06/21.06.25_titulares_ana_pastor_en_jerez.pdf",
+       "date": "2021-06-25"
+      }
+     ]
+    },
+    "vox": {
+     "support": 0,
+     "kind": "interpretation",
+     "reason": "Defiende la vida hasta la muerte natural y cuidados paliativos. Se interpreta como contrario a la ayuda activa para morir; no se presenta como compromiso textual de derogación.",
+     "evidence": [
+      {
+       "title": "Defensa de la vida «desde la concepción»",
+       "quote": "Defensa del derecho a la vida desde su concepción hasta la muerte natural y fin de la cultura de la muerte.",
+       "page": 52,
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "id": "vox-igualdad-4",
+       "type": "programa"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Reconoce el derecho a la eutanasia o ayuda para morir con garantías.",
+     "evidence": [
+      {
+       "title": "Derecho efectivo a eutanasia",
+       "quote": "Garantizar la muerte digna y el ejercicio efectivo del derecho a la eutanasia, de acuerdo con la legislación vigente.",
+       "page": 50,
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "id": "x-psoe-balance-eutanasia",
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Reconoce el derecho a la eutanasia o ayuda para morir con garantías.",
+     "evidence": [
+      {
+       "title": "Ley de libertad de conciencia",
+       "quote": "Elaboraremos una Ley de Libertad de Conciencia que contemple las convicciones religiosas y de cualquier otro tipo, derogando la Ley de Libertad Religiosa. Derecho a la interrupción voluntaria del embarazo, a la eutanasia y al suicidio asistido.",
+       "page": 157,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "id": "x-frente-amplio-t0967",
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "historical",
+     "reason": "Su programa europeo reconoce la eutanasia con garantías. Es una postura documentada anterior, no una cita del programa del 29N.",
+     "evidence": [
+      {
+       "title": "Podemos · Programa europeo: Sanidad",
+       "url": "https://podemos.info/materia-europa/sanidad/",
+       "quote": "Quien padezca un sufrimiento irreversible debe tener reconocido el derecho y la libertad de acabar con ese sufrimiento mediante una eutanasia con garantías.",
+       "date": "2019",
+       "type": "declaración o actividad parlamentaria"
+      }
+     ]
+    },
+    "salf": {
+     "support": null,
+     "kind": "unknown",
+     "reason": "La revisión del material disponible no ofrece una base suficiente para situar a este partido en esta pregunta. No se interpreta el silencio como oposición.",
+     "evidence": []
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "La pregunta trata de si debe existir el derecho a solicitar ayuda médica para morir, con requisitos y controles legales. No plantea que cualquier solicitud se acepte automáticamente.",
+     "El debate combina la libertad de decidir sobre el final de la propia vida con la protección de las personas vulnerables. Los cuidados paliativos y el acompañamiento son cuestiones relacionadas, pero diferentes."
+    ],
+    "sources": [
+     {
+      "title": "Derecho efectivo a eutanasia",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf"
+     },
+     {
+      "title": "Ley de libertad de conciencia",
+      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "igualdad-ley",
+   "topic": "Igualdad",
+   "text": "¿Crees que todas las personas deberían tener los mismos derechos y recibir el mismo trato ante la ley, independientemente de su sexo, orientación sexual, identidad de género u origen?",
+   "positions": {
+    "pp": {
+     "support": 3,
+     "kind": "interpretation",
+     "reason": "Promete combatir toda discriminación, pero quiere eliminar la autodeterminación registral del sexo, que es un requisito añadido solo para las personas trans. También da prioridad en las ayudas por arraigo; aquí pesa poco porque el texto excluye expresamente que dependa solo de la nacionalidad. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Programa PP 29N, medida 115",
+       "quote": "eliminaremos la libre autodeterminación registral del sexo",
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "date": "2026-11",
+       "page": 44
+      },
+      {
+       "title": "Programa PP 29N, medida 98",
+       "quote": "no podrán basarse exclusivamente en la nacionalidad",
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "date": "2026-11",
+       "page": 40
+      }
+     ]
+    },
+    "vox": {
+     "support": 1,
+     "kind": "historical",
+     "reason": "Su programa da a los españoles acceso preferente por nacionalidad a la vivienda pública, las guarderías, las ayudas y las prestaciones, y limita el Ingreso Mínimo Vital a los españoles: es un trato distinto según el origen. Su declaración de igualdad por sexo y orientación evita el 0. Puntuado por lo que proponen y hacen, no por si dicen sí al enunciado.",
+     "evidence": [
+      {
+       "title": "Programa Vox 29N, medida 18: prioridad nacional",
+       "quote": "Acceso preferente de los españoles a vivienda pública, plazas de guardería, bonos de comedor o transporte, ayudas, prestaciones",
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "date": "2026-11-12",
+       "page": 19
+      },
+      {
+       "title": "Programa Vox 29N, medida 22",
+       "quote": "El Ingreso Mínimo Vital atenderá únicamente las necesidades de los españoles con menos recursos",
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "date": "2026-11-12",
+       "page": 19
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Propone una estrategia de igualdad de trato y no discriminación.",
+     "evidence": [
+      {
+       "title": "Estrategia de igualdad de trato",
+       "quote": "Impulsar la aprobación de la Estrategia Estatal para la Igualdad de Trato y la No Discriminación, reforzar la lucha contra los discursos de odio y la discriminación en el entorno digital, combatiendo los bulos y la desinformación.",
+       "page": 93,
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "id": "x-psoe-n393",
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Defiende derechos y reconocimiento de personas trans y no binarias. Se interpreta como apoyo al principio de igualdad, no como identidad de todas las políticas.",
+     "evidence": [
+      {
+       "title": "Aplicar la Ley Trans y reconocer a personas no binarias",
+       "quote": "Desplegaremos de forma efectiva la Ley Trans, reconoceremos a las personas no binarias y protegeremos frente a la violencia intragénero.",
+       "page": 130,
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "id": "frenteamplio-igualdad-4",
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "Defiende protección antidiscriminatoria y derechos LGTBIQA+. El principio general no determina el diseño de cada medida.",
+     "evidence": [
+      {
+       "title": "Ampliar derechos LGTBIQA+",
+       "quote": "Paquete integral de avances en derechos LGTBIQA+ y protección contra la LGTBIfobia.",
+       "page": 52,
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "id": "x-podemos-n150",
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": null,
+     "kind": "unknown",
+     "reason": "La revisión del material disponible no ofrece una base suficiente para situar a este partido en esta pregunta. No se interpreta el silencio como oposición.",
+     "evidence": []
+    }
+   },
+   "info": {
+    "paragraphs": [
+     "La pregunta plantea la igualdad de derechos y de trato ante la ley, sin discriminación por características personales.",
+     "Esta pregunta plantea si defiendes la postura, aunque luego haya distintas maneras de abordarla."
+    ],
+    "sources": []
+   }
+  },
+  {
+   "id": "matrimonio-igualitario",
+   "topic": "Derechos",
+   "text": "Si tu hijo/a, tu hermano/a o un ser querido fuese homosexual, ¿debería tener el mismo derecho a casarse o a adoptar hijos que si fuese heterosexual?",
+   "info": {
+    "paragraphs": [
+     "En España las parejas del mismo sexo pueden casarse y adoptar desde 2005. El Tribunal Constitucional avaló la ley en 2012.",
+     "La pregunta plantea si deben tener exactamente los mismos derechos que las parejas heterosexuales en el matrimonio y la adopción."
+    ],
+    "sources": [
+     {
+      "title": "Ley 13/2005, de modificación del Código Civil en materia de derecho a contraer matrimonio (BOE)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-11364"
+     }
+    ]
+   },
+   "positions": {
+    "pp": {
+     "support": 3,
+     "kind": "historical",
+     "reason": "Votó contra la ley de 2005 y la recurrió ante el Constitucional, que la avaló en 2012; después el Gobierno de Rajoy no la tocó y en 2026 Feijóo incluye los derechos LGTBI entre sus líneas rojas. El programa no menciona el matrimonio, solo la lucha contra la LGTBIfobia.",
+     "evidence": [
+      {
+       "title": "El Constitucional avala el matrimonio homosexual (Legal Today/Reuters)",
+       "quote": "presentó al poco tiempo un recurso de inconstitucionalidad",
+       "url": "https://www.legaltoday.com/rincon-de-reuters/el-constitucional-espanol-avala-el-matrimonio-homosexual-2012-11-07/",
+       "date": "2012-11-07",
+       "type": "prensa"
+      },
+      {
+       "title": "El archivo del PP: por qué acaba adoptando las leyes del PSOE (Ara)",
+       "quote": "Mariano Rajoy's government, despite enjoying an absolute majority, decided not to touch it",
+       "url": "https://en.ara.cat/politics/the-pp-s-archive-why-does-it-end-up-adopting-the-psoe-s-laws_1_5697485.html",
+       "date": "2026-04-03",
+       "type": "prensa"
+      },
+      {
+       "title": "Feijóo se abre a coalición con Vox pero marca siete líneas rojas (Qué!)",
+       "quote": "la igualdad de género y los derechos LGTBI",
+       "url": "https://www.que.es/2026/06/18/feijoo-coalicion-vox-lineas-rojas/",
+       "date": "2026-06-18",
+       "type": "prensa"
+      },
+      {
+       "title": "Programa PP 29N",
+       "quote": "continuaremos luchando contra la LGTBIfobia",
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "date": "2026-11-10",
+       "page": 43,
+       "type": "programa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 1,
+     "kind": "historical",
+     "reason": "Su programa 29N no habla del matrimonio entre personas del mismo sexo. Abascal ha defendido uniones civiles pero no matrimonio, y según la prensa ha pedido derogar el matrimonio igualitario.",
+     "evidence": [
+      {
+       "title": "Far-right Vox challenges Spain's acceptance of LGBT rights (Euronews)",
+       "quote": "supports same-sex civil unions but not marriage",
+       "url": "https://www.euronews.com/2019/05/24/far-right-vox-challenges-spains-acceptance-of-lgbt-rights",
+       "date": "2019-05-24",
+       "type": "prensa"
+      },
+      {
+       "title": "Feijóo se abre a coalición con Vox pero marca siete líneas rojas (Qué!)",
+       "quote": "el matrimonio igualitario son terrenos en los que Abascal ha pedido derogaciones",
+       "url": "https://www.que.es/2026/06/18/feijoo-coalicion-vox-lineas-rojas/",
+       "date": "2026-06-18",
+       "type": "prensa"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Aprobó la ley de 2005 y su programa 29N propone blindar jurídicamente el matrimonio igualitario.",
+     "evidence": [
+      {
+       "title": "Programa PSOE 29N, medida 368",
+       "quote": "garantizando la máxima protección jurídica del matrimonio igualitario",
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "date": "2026-11-15",
+       "page": 89,
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "interpretation",
+     "reason": "El programa no nombra el matrimonio, pero propone blindar y ampliar los derechos LGTBI+ y una Ley de Familias que reconozca la diversidad familiar.",
+     "evidence": [
+      {
+       "title": "Programa Frente Amplio 29N",
+       "quote": "apostamos por blindar y ampliar las libertades públicas",
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "date": "2026-11-23",
+       "page": 37,
+       "type": "programa"
+      },
+      {
+       "title": "Programa Frente Amplio 29N",
+       "quote": "Aprobaremos la Ley de Familias (reconociendo la diversidad familiar)",
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "date": "2026-11-23",
+       "page": 24,
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Su programa incluye medidas de apoyo a la adopción por familias LGTBIQA+ y el reconocimiento de la diversidad familiar.",
+     "evidence": [
+      {
+       "title": "Programa Podemos 29N, medida 150",
+       "quote": "medidas de apoyo a la adopción a familias LGTBIQA+",
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "date": "2026-11",
+       "page": 52,
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": null,
+     "kind": "unknown",
+     "reason": "El programa no lo menciona. Alvise ha dicho que no se ve legitimado para posicionarse sobre el matrimonio y que tiene dudas sobre la adopción, sin fijar postura del partido.",
+     "evidence": [
+      {
+       "title": "Las confesiones de Alvise sobre la homosexualidad (ESdiario)",
+       "quote": "no estoy legitimado para un posicionamiento firme sobre el matrimonio homosexual",
+       "url": "https://www.esdiario.com/nacional/240624/137577/alvise-perez-confesiones-homosexualidad.html",
+       "date": "2024-06-24",
+       "type": "prensa"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "violencia-genero",
+   "topic": "Igualdad",
+   "text": "Si tu hija fuese agredida por su pareja, que es un hombre, ¿crees que debería tener protección, ayudas o juzgados específicos que no tendría tu hijo si le agrediera su pareja, que es una mujer?",
+   "info": {
+    "paragraphs": [
+     "La Ley Integral de Violencia de Género de 2004 da protección, ayudas y juzgados específicos a las mujeres agredidas por su pareja o expareja hombre. Otras violencias en la pareja se juzgan por la vía ordinaria.",
+     "La pregunta plantea si esa protección específica está justificada."
+    ],
+    "sources": [
+     {
+      "title": "Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género (BOE)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760"
+     }
+    ]
+   },
+   "positions": {
+    "pp": {
+     "support": 3,
+     "kind": "direct",
+     "reason": "El programa 29N mantiene el Pacto de Estado y los juzgados especializados de violencia sobre la mujer, y votó a favor de renovar el Pacto en 2025. Pero en pactos autonómicos con Vox (Valencia 2023) firmó «violencia intrafamiliar» en lugar de violencia de género.",
+     "evidence": [
+      {
+       "title": "Programa PP 29N",
+       "quote": "Dotaremos de más medios y mayor especialización a las secciones de violencia sobre la mujer de los tribunales",
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "date": "2026-11-10",
+       "page": 19,
+       "type": "programa"
+      },
+      {
+       "title": "El Congreso aprueba la renovación del Pacto contra la Violencia de Género (Artículo 14)",
+       "quote": "VOX es el único grupo parlamentario que vota en contra",
+       "url": "https://www.articulo14.es/politica/el-congreso-aprueba-la-renovacion-del-pacto-contra-la-violencia-de-genero-20250226.html",
+       "date": "2025-02-26",
+       "type": "prensa"
+      },
+      {
+       "title": "La polémica por la violencia de género estalla en Génova tras el pacto con Vox (Valencia Plaza)",
+       "quote": "luchar contra la \"violencia intrafamiliar\" en lugar de violencia de género",
+       "url": "https://valenciaplaza.com/la-polemica-por-la-violencia-de-genero-estalla-en-genova-tras-firmar-el-pacto-con-vox",
+       "date": "2023-06-16",
+       "type": "prensa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 0,
+     "kind": "direct",
+     "reason": "Su programa 29N propone derogar las «leyes de género», y fue el único grupo que votó contra renovar el Pacto de Estado en 2025.",
+     "evidence": [
+      {
+       "title": "Programa Vox 29N, medida 47",
+       "quote": "Derogar las leyes que han criminalizado a los hombres y desprotegido a las mujeres",
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "date": "2026-11-12",
+       "page": 30,
+       "type": "programa"
+      },
+      {
+       "title": "El Congreso aprueba la renovación del Pacto contra la Violencia de Género (Artículo 14)",
+       "quote": "VOX es el único grupo parlamentario que vota en contra",
+       "url": "https://www.articulo14.es/politica/el-congreso-aprueba-la-renovacion-del-pacto-contra-la-violencia-de-genero-20250226.html",
+       "date": "2025-02-26",
+       "type": "prensa"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Aprobó la ley de 2004, impulsó el Pacto de Estado en 2018 y lo renovó en 2025; su programa 29N promete reforzarlo.",
+     "evidence": [
+      {
+       "title": "Programa PSOE 29N",
+       "quote": "lo renovamos en 2025, ampliándolo de 290 a 461 medidas",
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "date": "2026-11-15",
+       "page": 77,
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone subir cada año un 10 % la partida contra la violencia machista y blindar de forma plurianual el Pacto de Estado.",
+     "evidence": [
+      {
+       "title": "Programa Frente Amplio 29N",
+       "quote": "blindaremos con carácter plurianual las partidas estructurales del Pacto de Estado",
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "date": "2026-11-23",
+       "page": 38,
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone un fondo de 1.000 millones contra la violencia machista y una prestación equivalente al SMI para las víctimas.",
+     "evidence": [
+      {
+       "title": "Programa Podemos 29N, medida 145",
+       "quote": "Creación de un fondo de contingencia de mil millones de euros",
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "date": "2026-11",
+       "page": 51,
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": 0,
+     "kind": "historical",
+     "reason": "El programa 29N no lo menciona. Alvise Pérez ha defendido derogar la Ley Integral de Violencia de Género (antes de 2024 había hablado de reformarla).",
+     "evidence": [
+      {
+       "title": "Alvise y las mujeres: desde derogar la Ley de Violencia de Género (Artículo 14)",
+       "quote": "Aboga por derogar la Ley Integral de Violencia de Género",
+       "url": "https://www.articulo14.es/politica/alvise-y-las-mujeres-desde-derogar-la-ley-de-violencia-de-genero-hasta-cazar-a-pedofilos-20240616.html",
+       "date": "2024-06-16",
+       "type": "prensa"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "condiciones-laborales",
+   "topic": "Trabajo",
+   "text": "Si estás en un trabajo que no te paga lo que consideras que mereces o tiene malas condiciones, ¿crees que es responsabilidad del Estado regular por ley mejores condiciones laborales?",
+   "info": {
+    "paragraphs": [
+     "El Estado ya fija por ley el salario mínimo, la jornada máxima, los tipos de contrato y la indemnización por despido. Los partidos discrepan sobre cuánto debe regular y cuánto dejar a la negociación entre empresa y trabajador."
+    ],
+    "sources": [
+     {
+      "title": "Estatuto de los Trabajadores (BOE)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430"
+     }
+    ]
+   },
+   "positions": {
+    "pp": {
+     "support": 2,
+     "kind": "historical",
+     "reason": "Con 1 queda igual que Vox, que propone derogar la legislación laboral vigente. El PP no propone derogarla: Feijóo se comprometió a respetar el «tronco» de la reforma de 2021 y la calificó de «sustancialmente una buena reforma». En 2023 propuso además un calendario para subir el SMI hasta el 60 % del salario medio, el mismo umbral que plantea el PSOE, aunque condicionado al diálogo social. Votar contra la convalidación de 2022 no indica por sí solo rechazo a regular: Vox (52) también votó en contra, y lo mismo hicieron ERC, PNV y Bildu desde la izquierda. Siguen pesando en contra el veto a las 37,5 horas, el test de productividad y la eliminación de trabas, así que 2 (postura intermedia) encaja mejor que 1. Si se mantiene el 1, el motivo debería explicar por qué el PP vale lo mismo que Vox. Hay que retocar el texto del motivo: el voto de Casero solo hizo que «saliera adelante», y conviene añadir que Vox votó en contra. Revisado por un verificador independiente el 26-11-2026.",
+     "evidence": [
+      {
+       "title": "Feijóo asegura que no derogará la reforma laboral si gana las elecciones (El Independiente)",
+       "quote": "esa reforma laboral pactada, yo la voy a respetar",
+       "url": "https://www.elindependiente.com/espana/2023/06/29/feijoo-asegura-que-no-derogara-la-reforma-laboral-si-gana-las-elecciones-es-sustancialmente-una-buena-reforma/amp/",
+       "date": "2023-06-29"
+      },
+      {
+       "title": "Plan de gobierno de Feijóo en la investidura (Official Press)",
+       "quote": "el salario mínimo interprofesional (SMI) hasta el 60% del salario medio",
+       "url": "https://officialpress.es/plan-de-gobierno-de-feijoo/amp/",
+       "date": "2023-09-26"
+      },
+      {
+       "title": "El Congreso aprueba la reforma laboral (The Objective)",
+       "quote": "en contra han votado el PP (88 diputados), Vox (52), Foro Asturias (uno) y Junts (cuatro)",
+       "url": "https://theobjective.com/espana/2022-02-03/congreso-aprueba-reforma-laboral/",
+       "date": "2022-02-03"
+      },
+      {
+       "title": "Confusión en el Congreso: la reforma laboral se aprueba por un error con un diputado del PP (Ara)",
+       "quote": "en realidad, Casero había votado que no",
+       "url": "https://es.ara.cat/politica/confusion-congreso-reforma-laboral-aprueba-error-diputado-pp_1_4260466.html",
+       "date": "2022-02-03",
+       "type": "prensa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 1,
+     "kind": "direct",
+     "reason": "Su programa propone derogar la legislación laboral del Gobierno, y en 2025 vetó junto a PP y Junts la jornada de 37,5 horas. Pide «salarios dignos», pero sin ninguna medida legal concreta.",
+     "evidence": [
+      {
+       "title": "Programa Vox 29N",
+       "quote": "Derogar la legislación laboral de Sánchez",
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "date": "2026-11-12",
+       "page": 13,
+       "type": "programa"
+      },
+      {
+       "title": "El Congreso tumba la reducción de jornada al prosperar el veto de PP, Vox y Junts (Periódico de Ibiza)",
+       "quote": "el veto de los tres partidos ha prosperado con los 178 votos de las tres formaciones y UPN",
+       "url": "https://www.periodicodeibiza.es/noticias/nacional/2025/09/11/2467647/congreso-tumba-reduccion-jornada-laboral-prosperar-veto-vox-junts.html",
+       "date": "2025-09-11",
+       "type": "prensa"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Subió el SMI un 66 % desde 2018 y aprobó la reforma de 2021; propone blindar por ley el SMI y completar la jornada de 37,5 horas.",
+     "evidence": [
+      {
+       "title": "Programa PSOE 29N, medida 87",
+       "quote": "Blindar por ley el SMI por encima del 60% del salario medio",
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "date": "2026-11-15",
+       "page": 37,
+       "type": "programa"
+      },
+      {
+       "title": "Programa PSOE 29N, medida 108",
+       "quote": "Completar la reducción de la jornada a 37,5 horas",
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "date": "2026-11-15",
+       "page": 41,
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone una jornada máxima de 32 horas sin bajar el sueldo y un SMI por ley igual al 60 % del salario medio neto.",
+     "evidence": [
+      {
+       "title": "Programa Frente Amplio 29N",
+       "quote": "Avanzaremos hacia la jornada laboral máxima de 32 horas semanales sin reducción salarial",
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "date": "2026-11-23",
+       "page": 7,
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone un SMI de 1.800 euros, una jornada de 30 horas y endurecer el despido.",
+     "evidence": [
+      {
+       "title": "Programa Podemos 29N, medida 111",
+       "quote": "Aumentaremos el SMI hasta los 1.800 euros al mes",
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "date": "2026-11",
+       "page": 41,
+       "type": "programa"
+      },
+      {
+       "title": "Programa Podemos 29N, medida 118",
+       "quote": "Protección frente al despido y recuperación de derechos",
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "date": "2026-11",
+       "page": 42,
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": 1,
+     "kind": "interpretation",
+     "reason": "Apuesta por bajar cotizaciones y crear un contrato único con indemnización que empieza en 12 días y sube hasta 33, además de «una norma entra, dos salen». También propone algunas protecciones financiadas con dinero público, como que la Seguridad Social pague las bajas desde el primer día.",
+     "evidence": [
+      {
+       "title": "Programa SALF 29N",
+       "quote": "Un solo contrato indefinido con indemnización creciente de 12 a 33 días",
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "date": "2026-11",
+       "page": 30,
+       "type": "programa"
+      },
+      {
+       "title": "Programa SALF 29N",
+       "quote": "Por cada regulación nueva que afecte a empresas, dos derogadas",
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "date": "2026-11",
+       "page": 31,
+       "type": "programa"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "ayudas-sociales",
+   "topic": "Ayudas",
+   "text": "Si tus condiciones de vida son desfavorables, ¿crees que es responsabilidad del Estado (a través de los impuestos del resto de ciudadanos) darte subvenciones y ayudas?",
+   "info": {
+    "paragraphs": [
+     "El Estado financia con impuestos ayudas como el ingreso mínimo vital, que llega a unos 900.000 hogares, además de rentas autonómicas y otras prestaciones.",
+     "La pregunta plantea si esas ayudas son una responsabilidad del Estado."
+    ],
+    "sources": [
+     {
+      "title": "Ley 19/2021, por la que se establece el ingreso mínimo vital (BOE)",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-21007"
+     }
+    ]
+   },
+   "positions": {
+    "pp": {
+     "support": 3,
+     "kind": "direct",
+     "reason": "Votó a favor del IMV en 2020 y su programa promete reforzar las ayudas a familias vulnerables y reconocer de oficio las prestaciones. Pone condiciones: evaluar las subvenciones y que el empadronamiento no baste para recibir ayudas.",
+     "evidence": [
+      {
+       "title": "El ingreso mínimo sale adelante con todos los grupos a favor salvo Vox (The Objective)",
+       "quote": "Todos los partidos políticos, excepto Vox —que se ha abstenido—, han dado el sí",
+       "url": "https://theobjective.com/espana/2020-06-10/ingreso-minimo-sale-adelante-congreso-todos-los-grupos-favor-salvo-vox/",
+       "date": "2020-06-10",
+       "type": "prensa"
+      },
+      {
+       "title": "Programa PP 29N, medida 166",
+       "quote": "Reduciremos drásticamente la pobreza infantil reforzando las ayudas a las familias vulnerables",
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "date": "2026-11-10",
+       "page": 57,
+       "type": "programa"
+      },
+      {
+       "title": "Programa PP 29N",
+       "quote": "El empadronamiento, por sí solo, no bastará para acceder a ayudas económicas no urgentes",
+       "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+       "date": "2026-11-10",
+       "page": 23,
+       "type": "programa"
+      }
+     ]
+    },
+    "vox": {
+     "support": 2,
+     "kind": "direct",
+     "reason": "Postura mixta: propone muchas ayudas a familias españolas, pero quiere reservar el IMV a los españoles y se abstuvo cuando se aprobó en 2020, porque no exigía buscar empleo.",
+     "evidence": [
+      {
+       "title": "Programa Vox 29N, medida 22",
+       "quote": "El Ingreso Mínimo Vital atenderá únicamente las necesidades de los españoles con menos recursos",
+       "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+       "date": "2026-11-12",
+       "page": 19,
+       "type": "programa"
+      },
+      {
+       "title": "El ingreso mínimo sale adelante con todos los grupos a favor salvo Vox (The Objective)",
+       "quote": "Todos los partidos políticos, excepto Vox —que se ha abstenido—, han dado el sí",
+       "url": "https://theobjective.com/espana/2020-06-10/ingreso-minimo-sale-adelante-congreso-todos-los-grupos-favor-salvo-vox/",
+       "date": "2020-06-10",
+       "type": "prensa"
+      }
+     ]
+    },
+    "psoe": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Creó el IMV (más de 3,8 millones de beneficiarios con el CAPI, según su programa) y propone concederlo de forma más automática y subir las cuantías para hogares con hijos.",
+     "evidence": [
+      {
+       "title": "Programa PSOE 29N, medida 89",
+       "quote": "Potenciar el IMV. Crear pasarelas que automaticen y simplifiquen la concesión",
+       "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+       "date": "2026-11-15",
+       "page": 38,
+       "type": "programa"
+      }
+     ]
+    },
+    "frenteamplio": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone conceder el IMV de oficio, subirlo hacia el 60 % de la renta mediana y ampliarlo a jóvenes de 18 a 30 años.",
+     "evidence": [
+      {
+       "title": "Programa Frente Amplio 29N",
+       "quote": "Transformaremos de forma radical el Ingreso Mínimo Vital (IMV) para ser concedido de oficio",
+       "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+       "date": "2026-11-23",
+       "page": 22,
+       "type": "programa"
+      }
+     ]
+    },
+    "podemos": {
+     "support": 4,
+     "kind": "direct",
+     "reason": "Propone convertir el IMV en una renta universal sin condiciones.",
+     "evidence": [
+      {
+       "title": "Programa Podemos 29N, medida 135",
+       "quote": "convertirlo en una renta universal incondicionada",
+       "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+       "date": "2026-11",
+       "page": 45,
+       "type": "programa"
+      }
+     ]
+    },
+    "salf": {
+     "support": 2,
+     "kind": "direct",
+     "reason": "Postura mixta: mantiene el ingreso mínimo y lo hace compatible en parte con un sueldo, pero lo retira a quien rechace dos ofertas de empleo y exige cinco años de residencia legal y cotización para cobrar prestaciones no contributivas.",
+     "evidence": [
+      {
+       "title": "Programa SALF 29N",
+       "quote": "Rechazar dos ofertas adecuadas: fin de la prestación",
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "date": "2026-11",
+       "page": 32,
+       "type": "programa"
+      },
+      {
+       "title": "Programa SALF 29N",
+       "quote": "Ninguna prestación no contributiva, ayuda al alquiler ni vivienda pública sin cinco años de residencia legal",
+       "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+       "date": "2026-11",
+       "page": 19,
+       "type": "programa"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "parties": [
+  {
+   "id": "pp",
+   "nombre": "Partido Popular",
+   "corto": "PP",
+   "color": "#1d84ce",
+   "ambito": "nacional",
+   "programa": {
+    "titulo": "Reconstrucción nacional. El programa del cambio necesario para España",
+    "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+    "paginas": 82,
+    "fecha": "2026-11-10",
+    "sha256": "cea8f2a052278e51ad682d19444eb0e9089997adbde8df76babf7f236bb5ffbe"
+   }
+  },
+  {
+   "id": "vox",
+   "nombre": "Vox",
+   "corto": "Vox",
+   "color": "#5aab1e",
+   "ambito": "nacional",
+   "programa": {
+    "titulo": "Es sentido común. Programa electoral, 29 de noviembre de 2026",
+    "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+    "paginas": 66,
+    "fecha": "2026-11-12",
+    "sha256": "065abf6720be2f7b19b8e911920c2ee2ce5c2059d0ae8bf09770bc790ed11b65"
+   }
+  },
+  {
+   "id": "psoe",
+   "nombre": "PSOE",
+   "corto": "PSOE",
+   "color": "#e30613",
+   "ambito": "nacional",
+   "programa": {
+    "titulo": "La fuerza de seguir avanzando",
+    "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+    "paginas": 114,
+    "fecha": "2026-11-15",
+    "sha256": "e9c8341339538b550641b6ddb1c3fdfeef7fda6a8a1a4be9e8d6a44cbc229bf5"
+   }
+  },
+  {
+   "id": "frenteamplio",
+   "nombre": "Frente Amplio",
+   "corto": "Frente Amplio",
+   "color": "#d6336c",
+   "ambito": "nacional",
+   "programa": {
+    "titulo": "Programa electoral Frente Amplio",
+    "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+    "paginas": 158,
+    "fecha": "2026-11-23",
+    "sha256": "d7e2c8152a25d0b3e8ca9f13f15e11c2616389f1e0e2309e573d665fcfff33b9"
+   }
+  },
+  {
+   "id": "podemos",
+   "nombre": "Podemos",
+   "corto": "Podemos",
+   "color": "#6b2c8a",
+   "ambito": "nacional",
+   "programa": {
+    "titulo": "Paz, casa y trabajo",
+    "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+    "paginas": 141,
+    "fecha": "2026-11-17",
+    "sha256": "086211fb272f0eeceddfa630796e58e5f4910e81efb0385a43b563a2e3f097fb"
+   }
+  },
+  {
+   "id": "salf",
+   "nombre": "Se Acabó La Fiesta",
+   "corto": "SALF",
+   "color": "#8a6d1a",
+   "ambito": "nacional",
+   "programa": {
+    "titulo": "Contrato electoral. Generales 2026 (simplificado)",
+    "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+    "paginas": 40,
+    "fecha": "2026-11 (el documento no lleva fecha de publicación; alude al 29-11-2026)",
+    "sha256": "073425b9522da77608a0399923c2e0d3b9153776e8a0436ac8f0aea794b7893b"
+   }
+  }
+ ],
+ "method": {
+  "scale": [
+   0,
+   25,
+   50,
+   75,
+   100
+  ],
+  "meaning": "Grado de apoyo interpretado al sí. Para no: 100 menos apoyo. No es probabilidad de voto.",
+  "missing": "Sin evidencia: aportación neutra de 50 al índice, no postura atribuida. Se muestra cobertura y rango posible.",
+  "weights": "Todas las preguntas respondidas pesan lo mismo. No lo tengo claro se excluye.",
+  "ties": "Hasta 5 puntos del primero: afinidades cercanas. Igualdad exacta del índice: empate.",
+  "minimumAnswers": 12,
+  "minimumCoverage": 0.6,
+  "limitations": "Las preguntas amplias pueden discriminar poco; no se retocan las posiciones para fabricar diferencias. Las interpretaciones no sustituyen una declaración del partido."
+ },
+ "sourceHash": "3e4806fa76511c8c635c81b95d292fdf4a1ab187e4d2579945c98f03d84607e1"
+}

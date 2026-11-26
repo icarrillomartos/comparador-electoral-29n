@@ -1,0 +1,342 @@
+{
+ "cambios": [
+  {
+   "pregunta": "regularizacion",
+   "partido": "pp",
+   "support_actual": 3,
+   "support_propuesto": 2,
+   "motivo": "El programa conserva el arraigo solo como reconocimiento «individual excepcional, no una vía generalizada»: es un sí muy restringido, no una inclinación al sí. Con 3 queda por encima de lo que dice el texto y lejos de SALF (1), cuya cita es casi idéntica.",
+   "evidencia": [
+    {
+     "title": "Prohibir regularizaciones masivas; arraigo excepcional (programa PP 29N)",
+     "quote": "Reformaremos la Ley de Extranjería para prohibir las regularizaciones masivas e indiscriminadas y para que el arraigo sea un reconocimiento individual excepcional, no una vía generalizada de regularización.",
+     "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+     "date": "2026-11-10",
+     "page": 22
+    }
+   ],
+   "confianza": "media"
+  },
+  {
+   "pregunta": "regularizacion",
+   "partido": "salf",
+   "support_actual": 1,
+   "support_propuesto": 0,
+   "motivo": "El epígrafe es «Fin de las regularizaciones», propone derogar la de 2026 y revisar una por una las ya concedidas, y dice que «cada regularización es una invitación». No es solo un rechazo a las masivas: equivale al 0 de Vox.",
+   "evidencia": [
+    {
+     "title": "Fin de las regularizaciones (contrato electoral SALF)",
+     "quote": "Fin de las regularizaciones. Derogación de la regularización de 2026, revisión una por una de las concesiones y prohibición por ley orgánica de cualquier regularización masiva. Cada regularización es una invitación.",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "date": "2026-11",
+     "page": 17
+    }
+   ],
+   "confianza": "media"
+  },
+  {
+   "pregunta": "autonomos",
+   "partido": "podemos",
+   "support_actual": 3,
+   "support_propuesto": 2,
+   "motivo": "Propone cotizar un porcentaje del beneficio y llegar a cuota cero solo con pérdidas: quien gana algo, aunque menos del SMI, seguiría pagando una cuota reducida. Se parece más a la cuota reducida de Frente Amplio (1) que a la exención de Vox o del PP (3).",
+   "evidencia": [
+    {
+     "title": "Progresividad real en el RETA (programa Paz, Casa y Trabajo)",
+     "quote": "Estableceremos un sistema de cotización para los autónomos que consista en un porcentaje progresivo de su beneficio, huyendo de las cuantías fijas por tramos, llegando a la cotización 0 en caso de incurrir en pérdidas",
+     "url": "https://pazcasaytrabajo.es/programa-electoral/programa-electoral-paz-casa-y-trabajo.pdf",
+     "date": "2026-11",
+     "page": 23
+    }
+   ],
+   "confianza": "media"
+  },
+  {
+   "pregunta": "autonomos",
+   "partido": "vox",
+   "support_actual": 3,
+   "support_propuesto": 4,
+   "motivo": "La medida de Vox coincide literalmente con la pregunta (cuota cero mientras no se llegue al SMI, sin límite de tiempo), y el PP tiene el mismo 3 con una exención limitada a uno o dos años. Si se mantiene la reserva sobre la cobertura, debería bajar el PP a 2 en vez de subir Vox: el listón tiene que separar a los dos.",
+   "evidencia": [
+    {
+     "title": "Cuota cero bajo el SMI (programa Vox 29N)",
+     "quote": "Cuota de cero euros si los ingresos no llegan al Salario Mínimo Interprofesional y, superado dicho umbral, una cuota progresiva desde los 50 euros",
+     "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+     "date": "2026-11-12",
+     "page": 9
+    }
+   ],
+   "confianza": "media"
+  },
+  {
+   "pregunta": "sanidad-colaboracion",
+   "partido": "frenteamplio",
+   "support_actual": 2,
+   "support_propuesto": 1,
+   "motivo": "Frente Amplio es más restrictivo que el PSOE: deroga la Ley 15/1997 y deja la gestión indirecta como «estrictamente excepcional», con informe técnico previo. Tiene 2 y el PSOE, con una gestión directa solo «preferente», tiene 1. El orden está invertido.",
+   "evidencia": [
+    {
+     "title": "Ley de Gestión Pública e Integridad del SNS (programa Frente Amplio)",
+     "quote": "Derogaremos expresamente la Ley 15/1997, sobre habilitación de nuevas formas de gestión del SNS, que había abierto la puerta a la colaboración con entidades privadas, y los modelos de gestión indirecta pasarán a ser estrictamente excepcionales.",
+     "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+     "date": "2026-11-23",
+     "page": 26
+    }
+   ],
+   "confianza": "alta"
+  },
+  {
+   "pregunta": "alquiler",
+   "partido": "vox",
+   "support_actual": 1,
+   "support_propuesto": 0,
+   "motivo": "Derogar la Ley de Vivienda elimina las mismas zonas tensionadas y el mismo índice que el PP dice que suprimirá, y el PP tiene 0. La reserva de que no descarta una regulación futura vale igual para los dos.",
+   "evidencia": [
+    {
+     "title": "Derogación de la Ley de Vivienda (programa Vox 29N)",
+     "quote": "Recuperar la seguridad jurídica y una oferta de alquileres estable, abundante y asequible. Derogación de la Ley de Vivienda.",
+     "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+     "date": "2026-11-12",
+     "page": 23
+    }
+   ],
+   "confianza": "media"
+  },
+  {
+   "pregunta": "infantil",
+   "partido": "psoe",
+   "support_actual": 3,
+   "support_propuesto": 4,
+   "motivo": "Además de universalizar la etapa 0-3, el programa promete expresamente «una educación pública y gratuita de los 0 a los 18 años». Queda al nivel de PP, Frente Amplio y Podemos (4).",
+   "evidencia": [
+    {
+     "title": "Educación pública y gratuita de 0 a 18 años (programa PSOE 29N)",
+     "quote": "una educación pública y gratuita de los 0 a los 18 años",
+     "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf",
+     "date": "2026-11-15",
+     "page": 46
+    }
+   ],
+   "confianza": "media"
+  },
+  {
+   "pregunta": "infantil",
+   "partido": "vox",
+   "support_actual": 3,
+   "support_propuesto": 4,
+   "motivo": "La cita guardada habla de familias numerosas, pero en la misma página está la frase que importa: «la gratuidad real de la educación infantil de 0 a 3 años». Es lo mismo que el PP, que tiene 4. La prioridad nacional para las plazas afecta a quién accede, no a si se paga con impuestos, que es lo que pregunta. Hay que cambiar la cita en cualquier caso.",
+   "evidencia": [
+    {
+     "title": "Gratuidad real de 0 a 3 años (programa Vox 29N)",
+     "quote": "y la gratuidad real de la educación infantil de 0 a 3 años.",
+     "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+     "date": "2026-11-12",
+     "page": 51
+    }
+   ],
+   "confianza": "media"
+  },
+  {
+   "pregunta": "burka",
+   "partido": "podemos",
+   "support_actual": 1,
+   "support_propuesto": 0,
+   "motivo": "Podemos votó en contra de la ley de Vox (febrero) y de la de Junts (abril de 2026), igual que Sumar, que tiene 0. Ahora está en 1 por una inferencia a partir de la ley contra la islamofobia. Con las mismas votaciones debería tener el mismo nivel. Al PSOE le corresponde 1, más alto, porque declaró que el burka no le parece bien y se abrió a negociar la ley de Junts.",
+   "evidencia": [
+    {
+     "title": "Junts se queda solo y ningún partido respalda su ley contra el burka y el niqab (Vozpópuli)",
+     "quote": "ha terminado con todos los grupos en contra salvo Junts, que ha votado a favor, y ERC, que ha optado por la abstención",
+     "url": "https://www.vozpopuli.com/espana/politica/junts-se-queda-solo-y-ningun-partido-respalda-su-ley-contra-el-burka-y-el-niqab.html",
+     "date": "2026-04-14"
+    }
+   ],
+   "confianza": "media"
+  },
+  {
+   "pregunta": "redes",
+   "partido": "pp",
+   "support_actual": 1,
+   "support_propuesto": 2,
+   "motivo": "El PP prohíbe por ley las cuentas antes de los 14 años y deja la decisión a los padres entre los 14 y los 16. Coincide con la pregunta en una parte y la contradice en otra: es una posición mixta. Tiene el mismo 1 que Vox, que rechaza la medida.",
+   "evidencia": [
+    {
+     "title": "Redes sociales prohibidas a menores de 14 años (programa PP 29N)",
+     "quote": "NINGÚN MENOR DE 14 AÑOS PODRÁ TENER UNA CUENTA EN REDES SOCIALES, Y HASTA LOS 16 NECESITARÁ AUTORIZACIÓN DE SUS PADRES.",
+     "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+     "date": "2026-11-10",
+     "page": 58
+    }
+   ],
+   "confianza": "media"
+  },
+  {
+   "pregunta": "turismo",
+   "partido": "pp",
+   "support_actual": 1,
+   "support_propuesto": 1,
+   "motivo": "No cambia el nivel; cambia la evidencia. La frase de Feijóo trata del decreto antidesahucios y no menciona pisos turísticos, así que no conviene enseñarla como prueba. Mejor apoyarse en que el programa no restringe el uso turístico y en el cuadro de idealista, que marca al PP con «NO» en restricciones y en expropiación. La cita de Feijóo puede ir como contexto con la advertencia que ya lleva.",
+   "evidencia": [
+    {
+     "title": "Spain's 2026 election housing promises (idealista)",
+     "quote": "Cuadro resumen: PP «NO» en «Restrictions on tourist accommodation» y en «Expropriation of corporate landlords»",
+     "url": "https://www.idealista.com/en/news/node/924300",
+     "date": "2026-11-19"
+    }
+   ],
+   "confianza": "media"
+  },
+  {
+   "pregunta": "turismo",
+   "partido": "vox",
+   "support_actual": 1,
+   "support_propuesto": 1,
+   "motivo": "No cambia el nivel. La medida está en su propio programa del 29N, así que se puede citar la fuente primaria en vez de la nota de idealista, que está en inglés.",
+   "evidencia": [
+    {
+     "title": "Regulación de VUT e inspección de pisos turísticos ilegales (programa Vox 29N)",
+     "quote": "Regulación de la proliferación masiva de VUT y refuerzo del servicio de inspección de pisos turísticos ilegales.",
+     "url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+     "date": "2026-11-12",
+     "page": 24
+    }
+   ],
+   "confianza": "alta"
+  },
+  {
+   "pregunta": "turismo",
+   "partido": "salf",
+   "support_actual": 0,
+   "support_propuesto": 0,
+   "motivo": "No cambia el nivel. La cita guardada habla de vivienda industrializada; la frase que justifica el «reason» está en el mismo bloque y conviene usarla.",
+   "evidencia": [
+    {
+     "title": "Registro único de alquiler turístico (contrato electoral SALF)",
+     "quote": "Registro único de alquiler turístico con cumplimiento fiscal, sin prohibiciones.",
+     "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+     "date": "2026-11",
+     "page": 7
+    }
+   ],
+   "confianza": "alta"
+  },
+  {
+   "pregunta": "redes",
+   "partido": "frenteamplio",
+   "support_actual": 3,
+   "support_propuesto": 3,
+   "motivo": "No cambia el nivel. La cita «Hay que elevar la exigencia a la industria…» la atribuye el artículo a fuentes del Ministerio de Juventud e Infancia, no a Sumar ni a IU con nombre; hay que corregirlo en el «reason». Conviene añadir el programa del 29N, que pide una regulación severa de las redes para menores de 16, no una prohibición. Eso respalda el 3 y no el 4.",
+   "evidencia": [
+    {
+     "title": "Regulación severa de redes dirigidas a menores de 16 (programa Frente Amplio)",
+     "quote": "Regulación severa de plataformas y redes sociales dirigidas a menores de 16 años sin verificación de edad respetuosa con la privacidad y eliminación de funciones adictivas",
+     "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+     "date": "2026-11-23",
+     "page": 41
+    },
+    {
+     "title": "Sumar reprocha a Sánchez su apuesta por la restricción del acceso de los menores a las redes… (El Independiente)",
+     "quote": "incluye ya esa limitación de acceso a redes",
+     "url": "https://www.elindependiente.com/espana/2026/02/03/sumar-reprocha-a-sanchez-su-apuesta-por-la-restriccion-del-acceso-de-los-menores-a-las-redes-cuando-la-ha-bloqueado-dos-anos/amp/",
+     "date": "2026-02-03"
+    }
+   ],
+   "confianza": "alta"
+  },
+  {
+   "pregunta": "prision-revisable",
+   "partido": "frenteamplio",
+   "support_actual": 0,
+   "support_propuesto": 0,
+   "motivo": "No cambia el nivel. La fuente actual (The Objective) recoge solo las «primeras ideas» de Sumar, no un programa. El programa del 23J de 2023 incluía eliminar la prisión permanente revisable, y eso es una base más sólida.",
+   "evidencia": [
+    {
+     "title": "Sumar prohibirá las pelotas de goma y convertirá en delito la devolución de migrantes en frontera (elDiario.es)",
+     "quote": "que incluye eliminar la prisión permanente revisable",
+     "url": "https://www.eldiario.es/politica/sumar-prohibira-pelotas-goma-convertir-delito-devolucion-migrantes-frontera_1_10356866.html",
+     "date": "2023-07-06"
+    }
+   ],
+   "confianza": "alta"
+  },
+  {
+   "pregunta": "sanidad-acceso",
+   "partido": "pp",
+   "support_actual": 1,
+   "support_propuesto": 1,
+   "motivo": "No cambia el nivel. El decreto de 2012 es antiguo, pero el programa del 29N lo respalda: da prioridad en el acceso a ayudas, prestaciones y recursos públicos según empadronamiento, cotización y contribución. Va en contra del «haya contribuido o no». No menciona la sanidad expresamente, así que debe ir como evidencia complementaria.",
+   "evidencia": [
+    {
+     "title": "El vínculo con España dará prioridad (programa PP 29N)",
+     "quote": "Estableceremos criterios de prioridad en el acceso a determinadas ayudas, prestaciones y recursos públicos para procurar la asignación prioritaria a quienes mantengan un arraigo real, duradero y verificable con España.",
+     "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+     "date": "2026-11-10",
+     "page": 40
+    }
+   ],
+   "confianza": "media"
+  }
+ ],
+ "citas_no_localizadas": [],
+ "sin_cambios_comprobadas": [
+  "burka/frenteamplio",
+  "aforamientos/frenteamplio",
+  "redes/podemos",
+  "sanidad-acceso/psoe",
+  "prision-revisable/psoe",
+  "prision-revisable/podemos",
+  "autonomos/pp",
+  "autonomos/psoe",
+  "autonomos/frenteamplio",
+  "autonomos/salf",
+  "redes/psoe",
+  "redes/vox",
+  "sanidad-acceso/vox",
+  "sanidad-acceso/salf",
+  "sanidad-acceso/frenteamplio",
+  "sanidad-acceso/podemos",
+  "patrimonio/pp",
+  "patrimonio/vox",
+  "patrimonio/psoe",
+  "patrimonio/salf",
+  "sucesiones/pp",
+  "sucesiones/vox",
+  "sucesiones/psoe",
+  "sucesiones/frenteamplio",
+  "sucesiones/podemos",
+  "sucesiones/salf",
+  "alquiler/pp",
+  "sanidad-colaboracion/psoe",
+  "sanidad-colaboracion/salf",
+  "sanidad-colaboracion/podemos",
+  "burka/psoe",
+  "infantil/pp",
+  "infantil/frenteamplio",
+  "conciertos/frenteamplio",
+  "conciertos/podemos",
+  "regularizacion/vox",
+  "regularizacion/psoe",
+  "aforamientos/salf",
+  "aforamientos/podemos",
+  "turismo/frenteamplio",
+  "turismo/podemos",
+  "eutanasia/frenteamplio",
+  "nuclear/salf",
+  "jornada/salf",
+  "alquiler/salf",
+  "infantil/salf",
+  "redes/salf",
+  "eutanasia/salf",
+  "igualdad-ley/salf"
+ ],
+ "dudas_para_el_editor": [
+  "Cuando está vacía (null), la casilla de SALF sigue igual en las 7 preguntas (nuclear, jornada, alquiler, infantil, redes, eutanasia, igualdad-ley). Su contrato electoral no trata esos temas: la lista de ministerios incluye «Igualdad», pero eso no basta para la pregunta. Las búsquedas tampoco dieron declaraciones de Alvise ni de SALF.",
+  "aforamientos: el PP (3) dice que corregirá la «extensión excesiva» para dejarlos en una «concepción limitada y justificada», o sea, los mantiene. El PSOE (3) los suprime solo para los delitos ajenos al cargo. Los dos los conservan en parte: valorar 2 para ambos. Lo que importa es que tengan el mismo nivel.",
+  "conciertos: Vox (1) quiere libre elección de centro «sin que su situación económica o social sea un impedimento» (p. 41), lo que supone financiar opciones no públicas. Está a un punto del PP y de SALF (0). La casilla del PSOE (1) se apoya en una declaración del PSOE de Cádiz de 2020, sin cita: conviene buscar una fuente estatal.",
+  "sanidad-colaboracion: el 3 del PP viene de una declaración de 2013 sin cita. El programa del 29N solo habla de un plan de listas de espera con las comunidades autónomas (p. 69) y no menciona centros privados.",
+  "burka: el 0 de Frente Amplio se apoya en una cita de Aina Vidal (Comuns), «Tenemos dudas…», que muestra dudas y no el voto en contra. Mejor citar la frase del voto. Que Frente Amplio y Podemos tengan 0 y el PSOE 1 se justifica por la declaración de Patxi López, no por las votaciones, que fueron iguales.",
+  "autonomos: si no se acepta subir a Vox a 4, el PP (exención limitada a 1-2 años) debería bajar a 2 para que no tenga el mismo nivel que Vox (exención permanente bajo el SMI).",
+  "igualdad-ley: el PP tiene 4 sin mencionar la identidad de género, y Vox 3 con una declaración de 2022 que sí la menciona («con independencia de cómo se sientan»). Revisar si el desfase de un punto se sostiene.",
+  "Varias casillas historical no tienen cita literal (quote vacía): jornada pp/vox, patrimonio pp/vox, sucesiones pp/vox/psoe/podemos, pensiones vox/podemos, sanidad-colaboracion pp, conciertos psoe, eutanasia pp, aforamientos vox, regularizacion psoe, burka psoe, redes vox, igualdad-ley vox. Para el gran público conviene poner una frase verificable en cada una.",
+  "Las citas de programa se comprobaron contra los .txt locales (marcas de página), no reabriendo los PDF en línea. Todas aparecen en la página indicada; la de regularizacion/pp empieza en la 21 y sigue en la 22."
+ ]
+}
