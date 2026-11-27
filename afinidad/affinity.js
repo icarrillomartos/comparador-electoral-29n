@@ -61,8 +61,8 @@ function demographic(){
     <section class="af-comparar af-share"><p>Es opcional. Solo enviaremos tu <b>sexo, tramo de edad, tramo de renta y los tres primeros partidos con sus puntuaciones de afinidad</b>. Las respuestas completas ya se han borrado y no se envían. Solo queda en esta pestaña un resumen de hasta seis para tu tarjeta.</p>
     ${Object.keys(sets).map(k=>`<fieldset class="af-chipset"><legend>${labels[k]}</legend><div class="af-chips">${sets[k].map(v=>`<button type="button" class="pc af-chip" data-af="demo-pick" data-key="${k}" data-value="${escape(v)}" aria-pressed="${state.demographics[k]===v}" ${fieldsBusy}>${escape(v)}</button>`).join('')}</div></fieldset>`).join('')}
     <p class="af-micro">Renta personal neta mensual, no la del hogar. Puedes elegir «Prefiero no responder».</p>
-    <label class="af-consent"><input id="af-share-consent" type="checkbox" ${remote.consent?'checked':''} ${busy}><span>Tengo 18 años o más y acepto compartir estos datos y mis tres primeras afinidades con sus puntuaciones para las estadísticas públicas agregadas.</span></label>
-    <p class="af-micro">No pedimos nombre ni correo. Guardamos recuentos separados por sexo, edad o renta. <a href="#/metodo">Cómo se usan los datos</a>.</p>
+    <label class="af-consent"><input id="af-share-consent" type="checkbox" ${remote.consent?'checked':''} ${busy}><span>Tengo 18 años o más y acepto guardar juntos mi sexo, tramo de edad, tramo de renta y mis tres primeras afinidades con sus puntuaciones para las estadísticas públicas agregadas.</span></label>
+    <p class="af-micro">No pedimos nombre ni correo. Guardamos esos datos juntos en un registro por participación para cruzarlos en las estadísticas. No guardamos las respuestas del cuestionario. <a href="#/metodo">Cómo se usan los datos</a>.</p>
     ${remote.error?`<p class="af-save-error" role="alert">${escape(remote.error)}</p>`:''}
     <div class="af-bottom">${button('demo-go',remote.sending?'Guardando…':remote.pending?'Reintentar guardado':'Compartir y ver mi resultado','primary',done&&remote.consent&&!remote.sending?'':'disabled')}${button('skip-demo','Ver mi resultado sin compartir','text',busy)}</div></section>`);
 }
@@ -90,7 +90,7 @@ function startStatistics(){
 async function submitContribution(){
   if(remote.sending||remote.saved||!remote.consent||!state.finalResult||!Object.keys(sets).every(k=>sets[k].includes(state.demographics[k])))return;
   // Freeze the exact minimal payload for idempotent retries. Never include questionnaire answers; only the requested top-three scores.
-  remote.pending??={version:STATS_VERSION,submissionId:contributionId(),sex:state.demographics.sex,age:state.demographics.age,income:state.demographics.income,affinity:state.finalResult.primary,top3:state.finalResult.rows.slice(0,3).map(p=>({party:p.id,score:state.finalResult.primary==='none'?null:p.value})),consent:true};
+  remote.pending??={version:STATS_VERSION,submissionId:contributionId(),sex:state.demographics.sex,age:state.demographics.age,income:state.demographics.income,affinity:state.finalResult.primary,top3:state.finalResult.rows.slice(0,3).map(p=>({party:p.id,score:state.finalResult.primary==='none'?null:p.value})),consent:true,jointConsent:true};
   remote.sending=true;remote.error='';render(false);
   const controller=new AbortController();remote.abort=controller;const timeout=setTimeout(()=>controller.abort(),12000);
   try{

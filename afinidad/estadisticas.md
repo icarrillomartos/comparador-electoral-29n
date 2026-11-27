@@ -8,11 +8,13 @@ La afinidad principal es el partido mejor situado entre los que tienen cobertura
 
 ## Almacenamiento y publicación
 
-MySQL conserva contadores separados por dimensión, categoría y afinidad. Una transacción registra el recibo y actualiza los tres contadores principales y los tres contadores del top 3, o no actualiza ninguno. La tabla nueva conserva cada combinación ordenada de tres partidos y puntuaciones por cada dimensión por separado, con su frecuencia. No se vincula al recibo. No se crea una fila por persona ni un perfil combinado. Los agregados no caducan y no permiten localizar y retirar una aportación individual.
+Desde la corrección del 27 de noviembre, MySQL conserva una fila por participación en `affinity_29n_participations`: identificador aleatorio independiente, versión, sexo, tramo de edad, tramo de renta, clasificación principal y top 3 con puntuaciones. No almacena las respuestas, IP, nombre, correo ni identificadores del navegador en esa fila. El recibo, la fila conjunta y los contadores se confirman en una única transacción, o se revierten todos. Los registros y agregados se conservan.
+
+El consentimiento actualizado explica el almacenamiento conjunto. El nuevo cliente envía `jointConsent: true`; los clientes antiguos sin ese campo siguen alimentando únicamente los contadores que aceptaron. No se reimportan reintentos de recibos existentes.
 
 El navegador conserva en sessionStorage solo un identificador aleatorio y una marca de envío. El servidor conserva el hash de ese identificador durante 30 días, más el tiempo hasta la siguiente limpieza, para evitar duplicar reintentos durante ese plazo. No está vinculado a los contadores. No guardamos IP, nombre, correo ni respuestas en estas tablas. El alojamiento puede mantener sus propios registros técnicos.
 
-GET /api/afinidad/estadisticas devuelve los agregados, sin caché. El frontal los consulta al mostrar resultados y cada 30 segundos mientras esa pantalla está visible. POST admite las cuatro categorías, versión, identificador aleatorio, consentimiento y top3 (tres pares party/score únicos, ordenados, con puntuaciones válidas). Se aceptan clientes antiguos sin top3 sin convertirlos en registros completos; rechaza campos extra, incluidas respuestas. El control de frecuencia es temporal y en memoria.
+GET /api/afinidad/estadisticas devuelve los agregados, sin caché. El frontal los consulta al mostrar resultados y cada 30 segundos mientras esa pantalla está visible. POST admite las cuatro categorías, versión, identificador aleatorio, consentimiento, jointConsent opcional y top3 (tres pares party/score únicos, ordenados, con puntuaciones válidas). Se aceptan clientes antiguos sin top3 sin convertirlos en registros completos; rechaza campos extra, incluidas respuestas. El control de frecuencia es temporal y en memoria.
 
 Los recuentos exactos son públicos: comparar consultas sucesivas cuando entra una sola aportación puede permitir inferir las categorías que se han sumado. Separar los contadores no garantiza anonimato frente a esa comparación temporal. Dentro del servidor, una combinación de tres puntuaciones poco frecuente también puede correlacionar tramos entre dimensiones; no se presenta esta separación como anonimato garantizado. La API pública no expone esa combinación completa.
 
@@ -34,3 +36,12 @@ La API pública expone para cada puesto los recuentos por partido y la suma/núm
 No se cambia la versión del identificador de aportación, evitando recontar la misma sesión al actualizar. Un recibo ya aceptado no se amplía retroactivamente con un top 3 de otra respuesta. Una visita con una versión antigua todavía abierta puede seguir enviando el formato anterior.
 
 El sistema anterior nunca envió puntuaciones en el POST. Sus contadores y recibos no permiten recuperarlas. El código solo persistía un identificador aleatorio y una marca de envío en sessionStorage; cookies, localStorage e IndexedDB no guardaban afinidades. Una pestaña todavía abierta o una imagen descargada puede conservar un resultado individual, pero no demuestra a qué registro agregado corresponde y no se reimporta automáticamente. No se accede a navegadores de otros visitantes.
+
+
+## Cruce edad–renta y recuperación cierta
+
+La respuesta pública incluye `cross`: recuentos por edad, renta, primer partido y procedencia (`direct` o `recovered`), además de cobertura. No devuelve sexo y top 3 de cada fila privada. El primer puesto no significa necesariamente un ganador claro.
+
+Para los históricos que sí guardaron top 3, el servidor agrupa por firma exacta de tres partidos y puntuaciones. Resta primero todas las filas conjuntas de los contadores, dentro de una instantánea consistente, para no contarlas dos veces. Para cada firma, una celda edad–renta tiene al menos `max(0, n_edad + n_renta − n_total)` aportaciones en cualquier tabla conjunta compatible. Solo publica ese mínimo garantizado. No empareja arbitrariamente los casos restantes ni atribuye un sexo individual a los cruces recuperados. Los totales de las tres dimensiones deben coincidir; datos corruptos impiden la recuperación. Se excluyen del mapa los tramos no declarados y puntuaciones nulas.
+
+Las pruebas locales cubren 625 tablas históricas, 625 casos mixtos, casos ambiguos, reintentos concurrentes, rollback y conservación conjunta efectiva. No se crean registros de prueba en producción.
